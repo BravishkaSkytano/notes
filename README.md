@@ -64,7 +64,7 @@ Do not duplicate category logic with subfolders.
 
 ## Decision Rule
 
-When creating a new note (`hugo new --kind TYPE notes/TYPE/note`):
+When creating a new note:
 1. Choose the folder by asking “What kind of thing is this?”
 2. Assign one category that best fits
 3. Add tags only if they help future discovery

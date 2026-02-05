@@ -33,3 +33,6 @@ Thumbs.db
 .obsidian/plugins/*/cache.json
 .obsidian/plugins/*/debug.log
 
+# Content files
+_trash/
+

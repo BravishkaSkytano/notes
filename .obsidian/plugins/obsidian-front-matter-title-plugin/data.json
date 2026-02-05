@@ -10,7 +10,7 @@
     "paths": {
       "mode": "black",
       "values": [
-        "_templates/"
+        "z-templates/"
       ]
     },
     "delimiter": {
@@ -49,7 +49,7 @@
       }
     },
     "header": {
-      "enabled": true,
+      "enabled": false,
       "templates": {
         "main": "",
         "fallback": ""

@@ -34,7 +34,7 @@
       }
     },
     "explorer": {
-      "enabled": true,
+      "enabled": false,
       "sort": false,
       "templates": {
         "main": "",

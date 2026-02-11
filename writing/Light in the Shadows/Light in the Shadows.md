@@ -9,4 +9,4 @@ tags:
 ---
 
 ***
-(down::[[PRIVATE-lits-outline]])
+(down::[[PRIVATE-lits-outline|Outline for LiTS]])

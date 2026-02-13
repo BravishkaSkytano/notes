@@ -11,11 +11,6 @@ pages: 270
 isbn10: 983262500
 isbn13: 9780983262503
 status: reading
-tags:
-  - source/book
-  - genre/Beauty
-  - genre/Personal
-  - _jd/40-49/49
 aliases:
   - The Knotty Truth (Book)
 feature: "[[http://books.google.com/books/content?id=h3uSXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api]]"

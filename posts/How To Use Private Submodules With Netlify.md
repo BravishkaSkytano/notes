@@ -123,90 +123,88 @@ jobs:
           event-type: update-submodule
 ```
 
+### (Optional) Use Schedule Instead Of Pushes
 
-> [!tip]- (Optional) Use Schedule Instead Of Pushes
-> 
-> Personally, I don't like to update my site every time I make a push to my submodule. I prefer to run updates on a schedule, like once day or three days a week, using cron jobs. To do that, change the part on your workflow that starts with `on`:
-> 
-> ```yml
-> on:
->   # Allows you to run this workflow manually from the Actions tab or through HTTP API
->   workflow_dispatch:
->   schedule:
->     # Run at 5:50 AM UTC every day
->     - cron: '50 5 * * *'
-> ```
-> 
-> Of course, that will try to run the workflow file every morning, even if we haven't updated our content yet. This will cause an error, clog up our workflow history, and use unnecessary resources. To prevent that, we can add an extra job that checks if the content has any updates *before* trying to push to the site repo. And, if there are not any updates, skip the scheduled run.
-> 
-> ```
-> jobs:
->   check:
->     runs-on: 'ubuntu-latest'
->     steps:
->     - uses: octokit/request-action@v2.x
->       id: check_last_run
->       with:
->         route: GET /repos/${{github.repository}}/actions/workflows/repository-dispatch.yml/runs?per_page=1&status=completed
->       env:
->         GITHUB_TOKEN: ${{ secrets.PAT }}
-> 
->     - run: "echo Last daily build: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}"
-> 
->     outputs:
->       last_sha: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}
-> ```
-> 
-> Lastly, for our `dispath` job, we need to pass the output of the `check` job so dispatch knows if it should run or not.
-> 
-> ```
->   dispatch:
->     runs-on: 'ubuntu-latest'
->     needs: [check]
->     if: needs.check.outputs.last_sha != github.sha
->     steps:
->       ...
-> ```
-> 
-> Our entire `dispatch-updates.yml` file should now look like this:
-> 
-> ```
-> name: Dispatch Update Submodule
-> on:
->   # Allows you to run this workflow manually from the Actions tab or through HTTP API
->   workflow_dispatch:
->   schedule:
->     # Run at 5:50 AM UTC every day
->     - cron: '50 5 * * *'
-> jobs:
->   check:
->     runs-on: 'ubuntu-latest'
->     steps:
->     - uses: octokit/request-action@v2.x
->       id: check_last_run
->       with:
->         route: GET /repos/${{github.repository}}/actions/workflows/repository-dispatch.yml/runs?per_page=1&status=completed
->       env:
->         GITHUB_TOKEN: ${{ secrets.PAT }}
-> 
->     - run: "echo Last daily build: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}"
-> 
->     outputs:
->       last_sha: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}
-> 
->   dispatch:
->     runs-on: 'ubuntu-latest'
->     needs: [check]
->     if: needs.check.outputs.last_sha != github.sha
->     steps:
->       - name: Dispatch update to Git Blog Project
->         uses: peter-evans/repository-dispatch@v3
->         with:
->           token: ${{ secrets.PAT }}
->           repository: BravishkaSkytano/the-worldweavers-journal
->           event-type: update-submodule
-> ```
-> 
+Personally, I don't like to update my site every time I make a push to my submodule. I prefer to run updates on a schedule, like once day or three days a week, using cron jobs. To do that, change the part on your workflow that starts with `on`:
+
+```yml
+on:
+  # Allows you to run this workflow manually from the Actions tab or through HTTP API
+  workflow_dispatch:
+  schedule:
+    # Run at 5:50 AM UTC every day
+    - cron: '50 5 * * *'
+```
+
+Of course, that will try to run the workflow file every morning, even if we haven't updated our content yet. This will cause an error, clog up our workflow history, and use unnecessary resources. To prevent that, we can add an extra job that checks if the content has any updates *before* trying to push to the site repo. And, if there are not any updates, skip the scheduled run.
+
+```yml
+jobs:
+  check:
+    runs-on: 'ubuntu-latest'
+    steps:
+    - uses: octokit/request-action@v2.x
+      id: check_last_run
+      with:
+        route: GET /repos/${{github.repository}}/actions/workflows/repository-dispatch.yml/runs?per_page=1&status=completed
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+
+    - run: "echo Last daily build: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}"
+
+    outputs:
+      last_sha: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}
+```
+
+Lastly, for our `dispath` job, we need to pass the output of the `check` job so dispatch knows if it should run or not.
+
+```yml
+  dispatch:
+    runs-on: 'ubuntu-latest'
+    needs: [check]
+    if: needs.check.outputs.last_sha != github.sha
+    steps:
+      ...
+```
+
+Our entire `dispatch-updates.yml` file should now look like this:
+
+```yml
+name: Dispatch Update Submodule
+on:
+  # Allows you to run this workflow manually from the Actions tab or through HTTP API
+  workflow_dispatch:
+  schedule:
+    # Run at 5:50 AM UTC every day
+    - cron: '50 5 * * *'
+jobs:
+  check:
+    runs-on: 'ubuntu-latest'
+    steps:
+    - uses: octokit/request-action@v2.x
+      id: check_last_run
+      with:
+        route: GET /repos/${{github.repository}}/actions/workflows/repository-dispatch.yml/runs?per_page=1&status=completed
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAT }}
+
+    - run: "echo Last daily build: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}"
+
+    outputs:
+      last_sha: ${{ fromJson(steps.check_last_run.outputs.data).workflow_runs[0].head_sha }}
+
+  dispatch:
+    runs-on: 'ubuntu-latest'
+    needs: [check]
+    if: needs.check.outputs.last_sha != github.sha
+    steps:
+      - name: Dispatch update to Git Blog Project
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT }}
+          repository: BravishkaSkytano/the-worldweavers-journal
+          event-type: update-submodule
+```
 
 ### Public Repository Setup
 
@@ -260,53 +258,52 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
 ```
 
-> [!tip]- (Optional) Use Pull Requests
-> 
-> If you want to create pull requests for new updates instead of committing straight to the master branch, replace the `jobs` section with the following:
-> 
-> ```yml
-> jobs:
->   update-submodule:
->     runs-on: ubuntu-latest
->     permissions:
->       contents: write
->     steps:
->       - name: Checkout repository
->         uses: actions/checkout@v4
->         with:
->           token: ${{ secrets.PAT }}
->           submodules: recursive
-> 
->       - name: Authorize Git
->         run: |
->           git config --global user.email "bot@noreply.github.com"
->           git config --global user.name "Git Bot"
->           
->       - name: Generate Unique variable based on timestamp
->         run: echo BRANCH=$(date +%s) >> $GITHUB_ENV
-> 
->       - name: Update submodules
->         run: |
->           git submodule update --init --recursive --remote
-> 
->       - name: Commit changes
->         run: |
->           git add .
->           git commit -m "Update submodules"
-> 
->       - name: Create and push new branch
->         run: |
->           git checkout -b ${{ env.BRANCH }}
->           git push origin ${{ env.BRANCH }}
-> 
->       - name: Create pull request
->         env:
->           GITHUB_TOKEN: ${{ secrets.PAT }}
->         run: |
->           gh pr create -B develop -H ${{ env.BRANCH }} --title "PR: Submodule update to develop" --body "Created by Github action"
-> 
-> ```
-> 
+### (Optional) Use Pull Requests
+
+If you want to create pull requests for new updates instead of committing straight to the master branch, replace the `jobs` section with the following:
+
+```yml
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          submodules: recursive
+
+      - name: Authorize Git
+        run: |
+          git config --global user.email "bot@noreply.github.com"
+          git config --global user.name "Git Bot"
+          
+      - name: Generate Unique variable based on timestamp
+        run: echo BRANCH=$(date +%s) >> $GITHUB_ENV
+
+      - name: Update submodules
+        run: |
+          git submodule update --init --recursive --remote
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Update submodules"
+
+      - name: Create and push new branch
+        run: |
+          git checkout -b ${{ env.BRANCH }}
+          git push origin ${{ env.BRANCH }}
+
+      - name: Create pull request
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          gh pr create -B develop -H ${{ env.BRANCH }} --title "PR: Submodule update to develop" --body "Created by Github action"
+
+```
 
 ## Conclusion
 

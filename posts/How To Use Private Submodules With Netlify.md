@@ -1,5 +1,6 @@
 ---
 date: 2025-07-31
+created: 2026-07-31T15:04:00
 modified: 2025-10-05 22:03
 tags:
   - git
@@ -32,7 +33,7 @@ Of course, I'm not that popular, so I doubt anyone would *want* to steal my cont
 
 Run the following commands to add a submodule using SSH:
 
-![[How To Add A Submodule To A Repository#^76869d]]
+![[20250731151458#^76869d]]
 
 ## Setting Up Netlify
 

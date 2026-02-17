@@ -3,5 +3,7 @@
   "note_uid_generator",
   "obsidian-front-matter-title-plugin",
   "obsidian-git",
-  "virtual-linker"
+  "virtual-linker",
+  "pretty-properties",
+  "image-converter"
 ]

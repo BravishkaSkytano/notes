@@ -31,7 +31,7 @@ aliases:
 > - [[Adoration of the Trinity]]
 > - [[Albrecht Dürer]]
 > - [[Apse]]
-> - [[Archaic]]
+> - [[20251005234329]]
 > - [[Arrangement in Gray and Black No 1]]
 > - [[Art Deco]]
 > - [[Art Nouveau]]

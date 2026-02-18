@@ -7,5 +7,7 @@
   "pretty-properties",
   "image-converter",
   "frontmatter-modified-date",
-  "file-explorer-note-count"
+  "file-explorer-note-count",
+  "notebook-navigator",
+  "insert-unsplash-image"
 ]

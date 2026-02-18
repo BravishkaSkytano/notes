@@ -51,7 +51,7 @@ aliases:
 > - [[Domus Church]]
 > - [[Donatello]]
 > - [[Doric capital]]
-> - [[Édouard Manet]]
+> - [[20251116214912]]
 > - [[Etching or Engraving]]
 > - [[Expressionism]]
 > - [[Fauvism]]

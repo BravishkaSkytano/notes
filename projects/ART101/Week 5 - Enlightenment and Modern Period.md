@@ -36,7 +36,7 @@ tags:
 
 ## People to Know
 
-![[Édouard Manet#^tldr]]
+![[20251116214912#^tldr]]
 
 ![[Claude Monet#^tldr]]
 

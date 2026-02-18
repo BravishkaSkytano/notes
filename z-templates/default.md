@@ -1,7 +1,9 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created: “{{date}} {{time}}”
 modified:
 tags:
-up:
-<%"---"%>
+---

@@ -1,4 +1,5 @@
 {
   "format": "YYYYMMDDHHmmss",
-  "template": "z-templates/default"
+  "template": "z-templates/default",
+  "folder": "/"
 }

@@ -2,6 +2,7 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 permalink: /
+eleventyExcludeFromCollections: true
 ---
 This is not a library of conclusions.
 It’s an index of things I’m still working out.

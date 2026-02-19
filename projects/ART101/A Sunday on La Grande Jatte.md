@@ -7,8 +7,7 @@ tags:
 description: Seurat’s pointillist park scene with figures in profile.
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
-image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/A Sunday on La Grande Jatte-960x639.webp
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/69c7dfd523f8825f0a785d60907df0fe_86cf658e.webp
+banner: projects/ART101/A Sunday on La Grande Jatte-960x639.webp
 ---
 
 > [!summary] A Sunday on La Grande Jatte

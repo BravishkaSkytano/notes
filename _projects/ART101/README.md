@@ -28,7 +28,7 @@ aliases:
 > - **[[Week 3 – Renaissance Worksheet & Study Guide]]**
 > - **[[Week 4 Worksheet]]**
 > - **[[Week 5 - Enlightenment and Modern Period]]**
-> - [[Adoration of the Trinity]]
+> - [[20251105100405]]
 > - [[Albrecht Dürer]]
 > - [[Apse]]
 > - [[20251005234329|Archaic]]

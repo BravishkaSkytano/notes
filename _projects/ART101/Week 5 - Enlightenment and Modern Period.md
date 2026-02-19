@@ -70,6 +70,6 @@ tags:
 
 ![[The Third of May, 1808#^tldr]]
 
-![[A Sunday on La Grande Jatte#^tldr]]
+![[20251117153532#^tldr]]
 
 ![[American Gothic#^tldr]]

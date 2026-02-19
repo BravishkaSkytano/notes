@@ -1,6 +1,7 @@
 {
   "pinned": [
     "obsidian-git:push",
-    "obsidian-git:fetch"
+    "insert-unsplash-image:insert",
+    "switcher:open"
   ]
 }

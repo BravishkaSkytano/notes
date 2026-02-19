@@ -19,3 +19,19 @@ views:
       and:
         - banner.isEmpty()
         - file.ext == "md"
+  - type: cards
+    name: Images
+    filters:
+      and:
+        - '!file.ext.containsAny("md", "html", "base")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.size
+      - file.ext
+    sort:
+      - property: file.ext
+        direction: ASC
+    image: file.file

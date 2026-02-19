@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!summary] Frieze
-> A decorative band or panel that runs horizontally along the upper part of a wall or the underside of a ceiling in [[Classical|classical]] architecture. It often contains sculptures, carvings, or painted scenes and is commonly found in temples, public buildings, and other structures with classical design elements.
+> A decorative band or panel that runs horizontally along the upper part of a wall or the underside of a ceiling in [[20251005234700|classical]] architecture. It often contains sculptures, carvings, or painted scenes and is commonly found in temples, public buildings, and other structures with classical design elements.
 
 ^c3b3aa
 

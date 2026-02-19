@@ -12,7 +12,7 @@ description:
 ## Terms to Define
 
 1.  ![[20251005234329#^12ad6e]]
-2. ![[Classical#^c1c548]]
+2. ![[20251005234700#^c1c548]]
 3. ![[Hellenistic#^79d00d]]
 4. ![[Doric capital#^843fe9]]
 5. ![[Ionic capital#^286375]]

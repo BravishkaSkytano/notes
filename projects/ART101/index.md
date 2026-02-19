@@ -1,7 +1,7 @@
 ---
 title: "ART101: Visual and Performing Arts"
 key: ART101
-modified: 2026-02-18T20:56:17-05:00
+modified: 2026-02-18T21:09:08-05:00
 created: 2026-02-18T11:35:06-05:00
 ---
 ## Sources
@@ -26,6 +26,9 @@ created: 2026-02-18T11:35:06-05:00
 12. Kouros
 13. Hieroglyphs
 14. Obelisk
+15. Phidias
+16. Polykleitos
+17. Praxiteles
 
 ### Week 2
 

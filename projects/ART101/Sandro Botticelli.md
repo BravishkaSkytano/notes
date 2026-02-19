@@ -10,6 +10,7 @@ aliases:
   - Botticelli
 image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/Botticelli-500x546.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/b46975efbf123e88178ece1ad4050d80_86cf658e.webp
+banner: projects/ART101/Botticelli-500x546.webp
 ---
 
 > [!tldr] Botticelli
@@ -18,4 +19,4 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/b46975efbf123e
 
 ^78b90c
 
-Sandro Botticelli (1445–1510) was an Italian painter of the Early [[Renaissance]], best known for his mythological works *The Birth of Venus* and *Primavera*, both housed in the Uffizi Gallery in [[Florence]]. Despite his prominence during his lifetime, his reputation declined after his death until the 19th century, when the Pre-Raphaelites revived interest in his art. Botticelli's style is characterized by linear grace, elegant figures, and a blend of [[Classical|classical]] and [[Gothic art|Gothic]] influences, and he produced a wide range of religious and secular works, including numerous depictions of the Madonna and Child. His career spanned key periods in [[Florence|Florentine]] art, including work on the Sistine Chapel [[Fresco|frescoes]], and he was influenced by and associated with the Medici family. His later years saw a shift toward more personal and mannered styles, and he was reportedly influenced by the Dominican friar Girolamo Savonarola.
+Sandro Botticelli (1445–1510) was an Italian painter of the Early [[Renaissance]], best known for his mythological works *The Birth of Venus* and *Primavera*, both housed in the Uffizi Gallery in [[Florence]]. Despite his prominence during his lifetime, his reputation declined after his death until the 19th century, when the Pre-Raphaelites revived interest in his art. Botticelli's style is characterized by linear grace, elegant figures, and a blend of [[20251005234700|classical]] and [[Gothic art|Gothic]] influences, and he produced a wide range of religious and secular works, including numerous depictions of the Madonna and Child. His career spanned key periods in [[Florence|Florentine]] art, including work on the Sistine Chapel [[Fresco|frescoes]], and he was influenced by and associated with the Medici family. His later years saw a shift toward more personal and mannered styles, and he was reportedly influenced by the Dominican friar Girolamo Savonarola.

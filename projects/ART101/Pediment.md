@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!summary] Pediment
-> A triangular decorative element found above the entrance of a building, namely in [[Classical|classical]] architecture. Typically located above the architrave and [[Frieze|frieze]] and is often filled with sculptural reliefs or decorative motifs.
+> A triangular decorative element found above the entrance of a building, namely in [[20251005234700|classical]] architecture. Typically located above the architrave and [[Frieze|frieze]] and is often filled with sculptural reliefs or decorative motifs.
 
 ^4183a4
 

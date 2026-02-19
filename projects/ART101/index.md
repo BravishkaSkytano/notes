@@ -1,7 +1,7 @@
 ---
 title: "ART101: Visual and Performing Arts"
 key: ART101
-modified: 2026-02-18T18:01:44-05:00
+modified: 2026-02-18T20:56:17-05:00
 created: 2026-02-18T11:35:06-05:00
 ---
 ## Sources
@@ -12,7 +12,20 @@ created: 2026-02-18T11:35:06-05:00
 
 ### Week 1
 
-- Archaic
+1. Archaic
+2. Classical
+3. Hellenistic
+4. Doric capital
+5. Ionic capital
+6. Corinthian capital
+7. Frieze
+8. Roman triumphal arch
+9. Pediment
+10. Pyramid
+11. Ziggurat
+12. Kouros
+13. Hieroglyphs
+14. Obelisk
 
 ### Week 2
 

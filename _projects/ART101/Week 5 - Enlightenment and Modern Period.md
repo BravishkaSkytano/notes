@@ -72,4 +72,4 @@ tags:
 
 ![[20251117153532#^tldr]]
 
-![[American Gothic#^tldr]]
+![[20251117171621#^tldr]]

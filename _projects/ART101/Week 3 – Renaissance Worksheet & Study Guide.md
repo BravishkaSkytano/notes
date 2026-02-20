@@ -30,7 +30,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]
 16. ![[Leonardo da Vinci#^a8d302]]
-17. ![[Albrecht Dürer#^7e7a4b]]
+17. ![[20251103004336#^7e7a4b]]
 
 ## 🖼️ Specific Artworks to Identify by Sight
 

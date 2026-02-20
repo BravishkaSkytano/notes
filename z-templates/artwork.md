@@ -20,9 +20,6 @@ modified:
 > **Period:**  
 
 ## Description
-> {intro}
-> **~ *Wikipedia***
 
 ## Resources
 
-- [{title} - Wikipedia](url)

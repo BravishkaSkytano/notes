@@ -1,14 +1,21 @@
 ---
 title:
 description:
-parent:
+parent: 
 date: “{{date}}"
 created:
 modified:
 ---
+> [!summary]
+> **Location Type:**  
+> **Region / Country:**  
+> **Historical Significance:**  
+> **Cultural Notes:**  
 
-## 🧠 Overview
+## Overview
 
+## Historical Context
 
-## 🏛️ Importance / Role
--  
+## Modern Relevance
+
+## Related Events / Periods

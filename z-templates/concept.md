@@ -1,31 +1,24 @@
 ---
 title:
 description:
-parent:
+parent: 
 date: “{{date}}"
 created:
 modified:
 ---
-
 > [!summary]
-> **Category:**  
-> **Field:**  
-> **Origin:**  
-> **Key Figures:**  
-> **Timeframe:**  
-> **Core Ideas:**  
+> **Definition:**  
+> **Domain:**  
 > **Related Concepts:**  
+> **Key Sources:**  
+> **Opposing/Contrasting Ideas:**  
 
 ## Overview
 
-## Historical Context
+## Development of Thought
+(How my understanding has evolved)
 
-## Key Characteristics
+## Applications
+(Where this idea shows up in life, education, fiction, etc.)
 
-## Influence
-
-## Examples
-
-## Related
-
-## Sources
+## Connections

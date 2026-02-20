@@ -7,6 +7,7 @@ tags:
 description: Van Gogh’s swirling night sky over a quiet town.
 image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Starry Night-960x760.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/06de4c3437fb95e6931c6828416daff3_86cf658e.webp
+banner: _projects/ART101/The Starry Night-960x760.webp
 ---
 
 > [!summary] The Starry Night
@@ -15,7 +16,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/06de4c3437fb95
 > **Medium:** [[Oil on canvas]]
 > **Genre:** [[Landscape]], [[night scene]]
 > **Themes:** [[night]], [[nature]], [[Emotion]]
-> **Artist:** [[Vincent van Gogh]]
+> **Artist:** [[20251116220421|Vincent van Gogh]]
 > **Movement:** [[Post-Impressionism]]
 > **Region:** [[Netherlands]]
 > **Period:** [[19th Century]]

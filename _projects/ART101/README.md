@@ -29,7 +29,7 @@ aliases:
 > - **[[Week 4 Worksheet]]**
 > - **[[Week 5 - Enlightenment and Modern Period]]**
 > - [[20251105100405|Adoration of the Trinity]]
-> - [[20251103004336]]
+> - [[20251103004336|Albrecht Dürer]]
 > - [[Apse]]
 > - [[20251005234329|Archaic]]
 > - [[Arrangement in Gray and Black No 1]]
@@ -115,7 +115,7 @@ aliases:
 > - [[Tracery]]
 > - [[Transfiguration of Christ]]
 > - [[Vault]]
-> - [[Vincent van Gogh]]
+> - [[20251116220421|Vincent van Gogh]]
 > - [[20251006005235|Ziggurat]]
 > 
 > ^indexof-course-art-

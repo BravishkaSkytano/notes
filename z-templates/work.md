@@ -1,18 +1,18 @@
----
-title:
-description:
-parent:
-date: “{{date}}"
-created:
-modified:
----
 
-## 🧠 Summary
+> [!summary]
+> **Creator(s):**  
+> **Year:**  
+> **Medium:**  
+> **Genre:**  
+> **Themes:**  
+> **Context:**  
 
+## Summary
 
-## ⚙️ Details
-- Medium / Method / Format  
-- Main purpose or argument  
-- Key themes or findings  
+## Key Ideas / Elements
 
-## 💬 Interpretation / Impact
+## Personal Reflection
+
+## Memorable Quotes / Moments
+
+## Related Concepts

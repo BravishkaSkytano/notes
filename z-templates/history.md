@@ -1,33 +1,23 @@
 ---
 title:
 description:
-parent:
+parent: 
 date: “{{date}}"
 created:
 modified:
 ---
-
 > [!summary]
-> **Start:**  
-> **End:**  
-> **Region:**  
+> **Time Frame:**  
+> **Geographic Scope:**  
 > **Preceded By:**  
 > **Followed By:**  
-> **Major Events:**  
-> **Key Figures:**  
 
 ## Overview
 
-## Political Landscape
+## Major Events
 
-## Cultural Developments
+## Key Figures
 
-## Intellectual Trends
+## Cultural / Intellectual Developments
 
-## Art & Literature
-
-## Legacy
-
-## Related
-
-## Sources
+## Related Concepts

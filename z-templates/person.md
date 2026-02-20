@@ -1,17 +1,24 @@
 ---
 title:
 description:
-parent:
+parent: 
 date: “{{date}}"
 created:
 modified:
 ---
+> [!summary]
+> **Born–Died:**  
+> **Role / Profession:**  
+> **Nationality:**  
+> **Associated Movements:**  
+> **Key Works:**  
 
-## 🧠 Summary
+## Overview
 
+## Major Contributions
 
-## 💡 Major Contributions
--  
+## Influence on My Thinking
 
-## 🌍 Context & Influence
--  
+## Related Concepts
+
+## Related Works

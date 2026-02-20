@@ -16,6 +16,7 @@ tags:
   - period/19th-century
 image: 20–29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Sower (Millet)-500x616.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/2034d7b9d23406ca640d1356cfea4c4c_86cf658e.webp
+banner: _projects/ART101/The Sower (Millet)-500x616.webp
 ---
 
 > [!tldr] The Sower
@@ -38,4 +39,4 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/2034d7b9d23406
 - **Context:** Millet was part of the **School of Barbizon**, known for **realistic landscapes** and **social realism**. He painted the sower theme multiple times, including a version in the **National Museum of Wales** (1847–48) and others in **Kofu**, **Pittsburgh**, and **Williamstown**.
 - **Description:** The painting shows a **peasant sowing crops** in winter, with a **low viewpoint** emphasizing the sower's **monumental presence**. **Crows** and a **man harrowing the ground** are also depicted.
 - **Reception:** Praised by **Clement de Ris** as "energetic," but criticized by **Théophile Gautier**. The painting was seen as **radical** and **controversial** in Paris at the time.
-- **Influence:** Inspired **[[Vincent van Gogh]]**, who used brighter colors in his own versions of the painting.
+- **Influence:** Inspired **[[20251116220421|Vincent van Gogh]]**, who used brighter colors in his own versions of the painting.

@@ -15,6 +15,7 @@ banner_y: 0.216
 feature: "[[arion-thorne.jpg]]"
 image: 30–39 Writing/30 Management for Writing/30.01 Inbox/20-29 Prose/Fiction/Ilmaria story/Characters/images/arion-thorne.jpg
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/71a8e8612a2d940ccc3459c4918d8b79_86cf658e.webp
+draft: true
 ---
 
 ![[arion-thorne.jpg]]

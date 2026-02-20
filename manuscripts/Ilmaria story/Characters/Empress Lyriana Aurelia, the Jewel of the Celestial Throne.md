@@ -9,6 +9,7 @@ categories:
 tags:
 image: 30–39 Writing/30 Management for Writing/30.01 Inbox/20-29 Prose/Fiction/Ilmaria story/Characters/images/lyriana-aurelia.jpg
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/7a19f8587b82c1ba444c0be4de651a05_86cf658e.webp
+draft: true
 ---
 
 ![[lyriana-aurelia.jpg]]

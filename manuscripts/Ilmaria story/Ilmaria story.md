@@ -1,10 +1,11 @@
 ---
 title: Ilmaria story
-description: 
+description:
 date: 2024-11-22T16:38:33
 lastmod: 2024-11-22T16:38:43
-banner: 
+banner:
 tags:
 categories:
   - seedling
+draft: true
 ---

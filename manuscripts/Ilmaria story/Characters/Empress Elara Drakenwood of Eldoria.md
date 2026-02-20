@@ -13,6 +13,8 @@ aliases:
   - Dragon Empress
 image: 30–39 Writing/30 Management for Writing/30.01 Inbox/20-29 Prose/Fiction/Ilmaria story/Characters/images/elara-drakenwood.jpg
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/e837bdd890432a2446a86a11cd1c290b_86cf658e.webp
+draft: true
+banner: manuscripts/Ilmaria story/Characters/images/elara-drakenwood.jpg
 ---
 
 ![[elara-drakenwood.jpg]]

@@ -1,16 +1,7 @@
 ---
-title: ART101 - Visual and Performing Arts
 date: 2025-10-06
 created: 2025-10-06 12:16
 modified: 2025-11-17 17:52
-tags:
-  - _jd/20-29/21/11
-  - course/ART101/idx
-  - project/university
-  - pinned
-  - subject/art
-aliases:
-  - "ART101: Visual and Performing Arts"
 ---
 
 - Art Field Trip Report

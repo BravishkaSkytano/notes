@@ -7,12 +7,25 @@ created:
 modified:
 ---
 
+> [!summary]
+> **Category:**  
+> **Field:**  
+> **Origin:**  
+> **Key Figures:**  
+> **Timeframe:**  
+> **Core Ideas:**  
+> **Related Concepts:**  
 
-## 🧩 Definition
+## Overview
 
+## Historical Context
 
-## 📚 Key Ideas
--  
+## Key Characteristics
 
-## 🧠 Examples or Applications
--  
+## Influence
+
+## Examples
+
+## Related
+
+## Sources

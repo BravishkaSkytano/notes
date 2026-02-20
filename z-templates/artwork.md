@@ -7,10 +7,9 @@ created:
 modified:
 ---
 
-
 > [!summary]
-> **Type:** 
-> **Medium:** 
+> **Type:**  
+> **Medium:**  
 > **Genre:**  
 > **Themes:**  
 > **Artist:**  
@@ -18,8 +17,16 @@ modified:
 > **Style:**  
 > **Region:**  
 > **Period:**  
+> **Date Created:**  
+> **Current Location:**  
 
 ## Description
+
+## Context
+
+## Analysis
+
+## Related
 
 ## Resources
 

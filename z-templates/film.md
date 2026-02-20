@@ -8,24 +8,24 @@ modified:
 ---
 
 > [!summary]
-> **Author:**  
+> **Director:**  
+> **Creator:**  
 > **Genre:**  
 > **Themes:**  
 > **Setting:**  
-> **Time Period:**  
-> **Published:**  
-> **Language:**  
-> **Series:**  
+> **Release Year:**  
+> **Studio:**  
+> **Country:**  
 
 ## Synopsis
 
-## Key Ideas
-
 ## Characters
 
-## Quotes
+## Notable Scenes
 
 ## Analysis
+
+## Personal Reflections
 
 ## Related
 

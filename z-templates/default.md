@@ -3,7 +3,6 @@ title:
 description:
 parent:
 date: “{{date}}"
-created: “{{date}} {{time}}”
+created:
 modified:
-tags:
 ---

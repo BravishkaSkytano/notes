@@ -1,21 +1,20 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - artist
-  - people
-<%"---"%>
+---
 
-> [!summary] {{title}}
+> [!summary]
 > **Region:**  
 > **Period:**  
 > **Movements:**  
 > **Styles:**  
 
-^tldr
 ## Biography
-Short overview.
+
 
 ## Artistic Characteristics
 - Key themes  
@@ -23,9 +22,9 @@ Short overview.
 - Techniques  
 
 ## Major Works
-List or embed artwork notes via links.
+
 
 ## Influence
-How they impacted movements or later artists.
+
 
 ## Resources

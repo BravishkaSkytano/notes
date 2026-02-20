@@ -1,18 +1,14 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - place
-feature: 
-<%"---"%>
-
-## 🧠 Overview
-> What it is and why it’s significant in context.
-
 ---
 
+## 🧠 Overview
+
+
 ## 🏛️ Importance / Role
--  
--  
 -  

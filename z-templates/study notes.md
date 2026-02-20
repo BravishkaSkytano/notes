@@ -7,12 +7,10 @@ created:
 modified:
 ---
 
+## 🧠 Summary
 
-## 🧩 Definition
 
-
-## 📚 Key Ideas
+## 📝 Key Points
 -  
 
-## 🧠 Examples or Applications
--  
+## 💭 Reflections or Questions

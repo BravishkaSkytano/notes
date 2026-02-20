@@ -1,17 +1,17 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - theme
-<%"---"%>
+---
 
-> [!summary] {{title}}  
+> [!summary]
 > **Common Genres:**  
 
-^tldr
 ## Meaning
-What this theme expresses.
+
 
 ## How It Appears in Art
 - Typical emotions
@@ -19,6 +19,6 @@ What this theme expresses.
 - Visual cues
 
 ## Examples
-Backlinks will populate here.
+
 
 ## Resources

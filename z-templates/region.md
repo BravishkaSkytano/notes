@@ -1,24 +1,20 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - region
-<%"---"%>
+---
 
-> [!summary] {{title}}  
+> [!summary]
 > **Key Artists:**  
 > **Periods:**  
 
-^tldr
-## About This Region’s Art
-Brief overview of artistic tendencies or history.
-
-## Notable Artists
-List links.
+## Notable People
 
 ## Notable Movements
 
-## Representative Artworks
+## Notable Events
 
 ## Resources

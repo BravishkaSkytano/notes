@@ -1,19 +1,18 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - medium
-<%"---"%>
+---
 
-> [!summary] {{title}}  
+> [!summary]
 > **Common Uses:**  
 > **Typical Genres:**  
 
-^tldr
-
 ## Overview
-Explanation of the medium.
+
 
 ## Characteristics
 - Texture  

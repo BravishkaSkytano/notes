@@ -1,14 +1,14 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - artwork
-description: "{description}"
-<%"---"%>
+---
 
-> [!summary] {title}
-> {thumbnail}
+
+> [!summary]
 > **Type:** 
 > **Medium:** 
 > **Genre:**  
@@ -18,8 +18,6 @@ description: "{description}"
 > **Style:**  
 > **Region:**  
 > **Period:**  
-
-^tldr
 
 ## Description
 > {intro}

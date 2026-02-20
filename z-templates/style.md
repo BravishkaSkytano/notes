@@ -1,21 +1,19 @@
-<%"---"%>
-date: <% tp.date.now("YYYY-MM-DD") %>
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+title:
+description:
+parent:
+date: “{{date}}"
+created:
 modified:
-tags:
-  - history
-  - style
-<%"---"%>
+---
 
-> [!summary] {{title}}  
+> [!summary]  
 > **Associated Movements:**  
 > **Period:**  
 > **Region:**  
 
-^tldr
-
 ## Overview
-Short definition of the style.
+
 
 ## Visual Characteristics
 - Brushwork  

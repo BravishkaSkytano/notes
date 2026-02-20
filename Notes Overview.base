@@ -35,3 +35,17 @@ views:
       - property: file.ext
         direction: ASC
     image: file.file
+  - type: list
+    name: Hierarchies
+    filters:
+      and:
+        - file.ext == "md"
+        - '!file.path.startsWith("_")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - parent
+      - draft
+    indentProperties: false

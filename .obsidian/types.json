@@ -28,6 +28,7 @@
     "BC-dataview-note-field": "text",
     "BC-ignore-in-edges": "checkbox",
     "BC-ignore-out-edges": "checkbox",
-    "parent": "text"
+    "parent": "text",
+    "child": "multitext"
   }
 }

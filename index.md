@@ -3,6 +3,10 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 permalink: /
 eleventyExcludeFromCollections: true
+child:
+  - "[[20260218225730|Concepts]]"
+  - "[[20260219113648]]"
+  - "[[20260220140938|History]]"
 ---
 This is not a library of conclusions.
 It’s an index of things I’m still working out.

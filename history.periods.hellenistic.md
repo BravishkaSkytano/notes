@@ -1,19 +1,58 @@
 ---
-title: Hellenistic
+title: Hellenistic Period
 date: 2025-10-05
 created: 2025-10-05 23:56
-modified: 2026-02-19T18:26:26-05:00
+modified: 2026-02-23T13:59:10-05:00
 ---
+> [!summary]
+> **Time Frame:** 323 BCE – 31 BCE
+> **Geographic Scope:** Eastern Mediterranean, North Africa, Near East, parts of Central and South Asia
+> **Preceded By:** Classical Greek Period
+> **Followed By:** Roman Imperial Period
 
-> [!summary] Hellenistic
-> *Adjective*.
-> 
-> 1. Relating to Greek history, culture, or art after Alexander the Great.
-> 2. Relating to the Hellenists.
-Hellenistic definition
+## Overview
 
-Hellenistic refers to the period in history and culture that followed the conquests of Alexander the Great in the 4th century BCE, lasting until the Roman conquest of the Mediterranean, generally ending with the death of Cleopatra VII in 30 BC. It's characterized by a fusion of Greek traditions with those of the conquered regions, including Persia, Egypt, and parts of Asia. This cultural period also marks the spread of the Greek language, known as Koine Greek, which became the lingua franca of the ancient world.
+The Hellenistic period began after the death of Alexander the Great in 323 BCE. His massive empire fractured into competing kingdoms ruled by his generals, but Greek language and culture spread farther than ever before.
 
-Hellenistic culture encompassed advancements in art, science, [[Definition of Philosophy|philosophy]], and technology, with notable developments in fields such as mathematics, physics, and literature. Blending Greek and Eastern influences led to new forms of art, religion, and philosophy, such as the syncretic worship of gods like Serapis and the emergence of philosophical schools like Stoicism and Epicureanism.
+This era fused Greek ideas with Egyptian, Persian, Mesopotamian, and Indian traditions, creating a cosmopolitan world stitched together by trade routes, military conquest, and shared intellectual life. Greek became the common language of diplomacy and scholarship across the eastern Mediterranean.
 
-The term "Hellenistic" is derived from the Greek word Hellene, meaning "Greek," and the word itself was coined in the 19th century by historian Johann Gustav Droysen to describe the period of Greek cultural expansion beyond Greece. It's distinct from "Hellenic," which refers to Greece itself and its [[concepts.classical|Classical]] period, whereas "Hellenistic" refers to the broader cultural influence of Greek civilization across the ancient world.
+The period effectively ended when Cleopatra VII was defeated by Augustus in 31 BCE at the Battle of Actium, marking Rome’s dominance over the Hellenistic kingdoms.
+
+## Major Events
+
+- Death of Alexander the Great (323 BCE)
+- Wars of the Diadochi (successor wars among Alexander’s generals)
+- Formation of major successor kingdoms:  
+	- Ptolemaic Kingdom
+	- Seleucid Empire
+	- Antigonid dynasty
+- Roman intervention in Greek affairs
+- Battle of Actium (31 BCE)
+
+## Key Figures
+
+- Alexander the Great
+- Ptolemy I Soter
+- Seleucus I Nicator
+- Antigonus I Monophthalmus
+- Euclid
+- Archimedes
+- Zeno of Citium
+
+## Cultural / Intellectual Developments
+
+- Rise of philosophical schools: Stoicism, Epicureanism, Skepticism
+- Advances in mathematics and science, especially in Alexandria
+- Growth of large urban centers such as Alexandria
+- Development of the Septuagint (Greek translation of the Hebrew Scriptures)
+- Increased cultural blending between Greek and Eastern traditions
+- More emotional, dramatic styles in sculpture and art
+
+## Related Concepts
+
+- Hellenization
+- Diadochi
+- Polis vs. Cosmopolis
+- Mystery religions
+- Roman Republic expansion
+- Second Temple Judaism

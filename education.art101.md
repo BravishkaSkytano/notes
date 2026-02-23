@@ -2,7 +2,6 @@
 title: "ART101: Visual and Performing Arts"
 created: 2026-02-18T11:35:06-05:00
 modified: 2026-02-21T22:38:00
-parent: "[[20260219113648|Education]]"
 ---
 ## Sources
 

@@ -1,6 +1,5 @@
 ---
 title: Invisible Scars
-parent: "[[20260218113359]]"
 date: 2024-10-15
 created: 2024-10-15T21:05:00
 modified: 2025-08-07 22:31

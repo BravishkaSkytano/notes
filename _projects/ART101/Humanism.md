@@ -9,7 +9,7 @@ tags:
 ---
 
 > [!tldr] Humanism
-> An intellectual movement that focused on human potential and achievements, emphasizing reason and [[20251005234700|classical]] learning.
+> An intellectual movement that focused on human potential and achievements, emphasizing reason and [[concepts.classical|classical]] learning.
 
 ^dca863
 

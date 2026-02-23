@@ -10,7 +10,7 @@ tags:
 > [!summary] Corinthian capital
 > *Noun*.
 > 
-> 1. The most ornate and decorative of the three [[20251005234700|classical]] column capitals ([[Doric capital|Doric]], [[Ionic capital|Ionic]], and Corinthian).
+> 1. The most ornate and decorative of the three [[concepts.classical|classical]] column capitals ([[Doric capital|Doric]], [[Ionic capital|Ionic]], and Corinthian).
 > 2. Characterized by acanthus leaves and scrolls, and often surrounded by a fillet (a narrow band) and a beading (a series of small rounded projections).
 
 ^ba9f18

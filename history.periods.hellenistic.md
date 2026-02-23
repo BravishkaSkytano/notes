@@ -3,7 +3,6 @@ title: Hellenistic
 date: 2025-10-05
 created: 2025-10-05 23:56
 modified: 2026-02-19T18:26:26-05:00
-parent: "[[20260220141047|Periods]]"
 ---
 
 > [!summary] Hellenistic
@@ -17,4 +16,4 @@ Hellenistic refers to the period in history and culture that followed the conque
 
 Hellenistic culture encompassed advancements in art, science, [[Definition of Philosophy|philosophy]], and technology, with notable developments in fields such as mathematics, physics, and literature. Blending Greek and Eastern influences led to new forms of art, religion, and philosophy, such as the syncretic worship of gods like Serapis and the emergence of philosophical schools like Stoicism and Epicureanism.
 
-The term "Hellenistic" is derived from the Greek word Hellene, meaning "Greek," and the word itself was coined in the 19th century by historian Johann Gustav Droysen to describe the period of Greek cultural expansion beyond Greece. It's distinct from "Hellenic," which refers to Greece itself and its [[20251005234700|Classical]] period, whereas "Hellenistic" refers to the broader cultural influence of Greek civilization across the ancient world.
+The term "Hellenistic" is derived from the Greek word Hellene, meaning "Greek," and the word itself was coined in the 19th century by historian Johann Gustav Droysen to describe the period of Greek cultural expansion beyond Greece. It's distinct from "Hellenic," which refers to Greece itself and its [[concepts.classical|Classical]] period, whereas "Hellenistic" refers to the broader cultural influence of Greek civilization across the ancient world.

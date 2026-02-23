@@ -1,6 +1,5 @@
 ---
 title: Prayer is a Weapon
-parent: "[[20260218113328]]"
 date: 2020-05-03
 created: 2020-05-03 10:35
 modified: 2025-08-07 22:19

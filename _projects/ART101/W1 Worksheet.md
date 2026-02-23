@@ -11,9 +11,9 @@ description:
 
 ## Terms to Define
 
-1.  ![[20251005234329#^12ad6e]]
-2. ![[20251005234700#^c1c548]]
-3. ![[20251005235629#^79d00d]]
+1.  ![[concepts.archaic#^12ad6e]]
+2. ![[concepts.classical#^c1c548]]
+3. ![[history.periods.hellenistic#^79d00d]]
 4. ![[Doric capital#^843fe9]]
 5. ![[Ionic capital#^286375]]
 6. ![[Corinthian capital#^ba9f18]]

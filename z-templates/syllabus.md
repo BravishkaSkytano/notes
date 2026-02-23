@@ -1,7 +1,6 @@
 ---
 title:
 description:
-parent: Education
 date: “{{date}}"
 created:
 modified:

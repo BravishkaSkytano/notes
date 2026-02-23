@@ -1,0 +1,51 @@
+views:
+  - type: list
+    name: Drafts
+    filters:
+      and:
+        - needsUpdate == true
+  - type: cards
+    name: Banners
+    filters:
+      and:
+        - "!banner.isEmpty()"
+    order:
+      - title
+      - description
+    image: note.banner
+  - type: list
+    name: No banner
+    filters:
+      and:
+        - banner.isEmpty()
+        - file.ext == "md"
+  - type: cards
+    name: Images
+    filters:
+      and:
+        - '!file.ext.containsAny("md", "html", "base")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.size
+      - file.ext
+    sort:
+      - property: file.ext
+        direction: ASC
+    image: file.file
+  - type: list
+    name: Hierarchies
+    filters:
+      and:
+        - file.ext == "md"
+        - '!file.path.startsWith("_")'
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - parent
+      - draft
+    indentProperties: false

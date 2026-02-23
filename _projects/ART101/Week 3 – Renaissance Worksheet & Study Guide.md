@@ -30,7 +30,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]
 16. ![[Leonardo da Vinci#^a8d302]]
-17. ![[20251103004336#^7e7a4b]]
+17. ![[people.artists.painters.albrecht-durer#^7e7a4b]]
 
 ## 🖼️ Specific Artworks to Identify by Sight
 
@@ -41,7 +41,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 - ![[David (Donatello and Michelangelo)#^7a2cc0]]
 - ![[Battle of Alexander and Darius on the Issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
-- ![[20251105100405#^64655d]]
+- ![[works.artwork.adoration-of-the-trinity#^64655d]]
 - ![[Transfiguration of Christ#^77f14d]]
 - ![[St. Peter’s Cathedral#^7ff03e]]
 - [[Sistine Chapel ceiling]]

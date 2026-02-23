@@ -19,8 +19,8 @@ modified: 2025-11-17 17:52
 > - **[[Week 3 – Renaissance Worksheet & Study Guide]]**
 > - **[[Week 4 Worksheet]]**
 > - **[[Week 5 - Enlightenment and Modern Period]]**
-> - [[20251105100405|Adoration of the Trinity]]
-> - [[20251103004336|Albrecht Dürer]]
+> - [[works.artwork.adoration-of-the-trinity|Adoration of the Trinity]]
+> - [[people.artists.painters.albrecht-durer|Albrecht Dürer]]
 > - [[Apse]]
 > - [[concepts.archaic|Archaic]]
 > - [[Arrangement in Gray and Black No 1]]
@@ -42,7 +42,7 @@ modified: 2025-11-17 17:52
 > - [[Domus Church]]
 > - [[Donatello]]
 > - [[Doric capital]]
-> - [[20251116214912|Édouard Manet]]
+> - [[people.artists.painters.edouard-manet|Édouard Manet]]
 > - [[Etching or Engraving]]
 > - [[Expressionism]]
 > - [[Fauvism]]
@@ -106,7 +106,7 @@ modified: 2025-11-17 17:52
 > - [[Tracery]]
 > - [[Transfiguration of Christ]]
 > - [[Vault]]
-> - [[20251116220421|Vincent van Gogh]]
+> - [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
 > - [[20251006005235|Ziggurat]]
 > 
 > ^indexof-course-art-

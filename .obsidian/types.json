@@ -29,6 +29,7 @@
     "BC-ignore-in-edges": "checkbox",
     "BC-ignore-out-edges": "checkbox",
     "parent": "text",
-    "child": "multitext"
+    "child": "multitext",
+    "needsUpdate": "checkbox"
   }
 }

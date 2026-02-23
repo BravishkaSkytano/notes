@@ -16,7 +16,7 @@ banner: _projects/ART101/The Starry Night-960x760.webp
 > **Medium:** [[Oil on canvas]]
 > **Genre:** [[Landscape]], [[night scene]]
 > **Themes:** [[night]], [[nature]], [[Emotion]]
-> **Artist:** [[20251116220421|Vincent van Gogh]]
+> **Artist:** [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
 > **Movement:** [[Post-Impressionism]]
 > **Region:** [[Netherlands]]
 > **Period:** [[19th Century]]

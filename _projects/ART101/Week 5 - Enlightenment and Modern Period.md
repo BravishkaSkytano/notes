@@ -36,13 +36,13 @@ tags:
 
 ## People to Know
 
-![[20251116214912#^tldr]]
+![[people.artists.painters.edouard-manet#^tldr]]
 
 ![[Claude Monet#^tldr]]
 
 ![[Pierre-Auguste Renoir#^tldr]]
 
-![[20251116220421#^tldr]]
+![[people.artists.painters.vincent-van-gogh#^tldr]]
 
 ![[Pablo Picasso#^tldr]]
 
@@ -70,6 +70,6 @@ tags:
 
 ![[The Third of May, 1808#^tldr]]
 
-![[20251117153532#^tldr]]
+![[works.artwork.paintings.sunday-la-grande-jette#^tldr]]
 
-![[20251117171621#^tldr]]
+![[works.artwork.paintings.american-gothic#^tldr]]

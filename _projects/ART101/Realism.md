@@ -12,7 +12,7 @@ description: An art style that depicts everyday life and ordinary people as they
 > **Overview:** depicted ordinary people and everyday life truthfully, without idealization.
 > **Period:** [[19th Century]]
 > **Region:** [[France]]  
-> **Key Artists:** [[Gustave Courbet]], [[Jean-François Millet]], [[20251116214912]]
+> **Key Artists:** [[Gustave Courbet]], [[Jean-François Millet]], [[people.artists.painters.edouard-manet]]
 
 ^tldr
 

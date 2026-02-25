@@ -2,8 +2,9 @@ views:
   - type: list
     name: Inbox
     filters:
-      and:
+      or:
         - file.basename.startsWith("inbox.")
+        - needsUpdate == true
     order:
       - file.name
       - title
@@ -79,8 +80,6 @@ views:
   - type: list
     name: Lacks description
     filters:
-      or:
+      and:
         - description.isEmpty()
-        - needsUpdate == "md"
-        - and:
-            - file.ext == "md"
+        - file.ext == "md"

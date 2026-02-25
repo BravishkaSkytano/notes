@@ -107,6 +107,6 @@ modified: 2025-11-17 17:52
 > - [[Transfiguration of Christ]]
 > - [[Vault]]
 > - [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
-> - [[20251006005235|Ziggurat]]
+> - [[concepts.architecture.ancient.ziggurat|Ziggurat]]
 > 
 > ^indexof-course-art-

@@ -10,15 +10,15 @@ description: The act of inserting your own meaning into a text instead of drawin
 > [!summary]
 > **Definition:** Interpreting a text by reading one’s own ideas, assumptions, or biases into it rather than drawing meaning from it.
 > **Domain:** Biblical studies, literary theory, hermeneutics, theology
-> **Related Concepts:** Hermeneutics, [[Exegesis]], reader-response criticism, presuppositions, biases
+> **Related Concepts:** Hermeneutics, [[concepts.hermeneutics.exegesis|Exegesis]], reader-response criticism, presuppositions, biases
 > **Key Sources:** 
-> **Opposing / Contrasting Ideas:** [[Exegesis]] (drawing meaning out of the text), historical-grammatical method
+> **Opposing / Contrasting Ideas:** [[concepts.hermeneutics.exegesis|Exegesis]] (drawing meaning out of the text), historical-grammatical method
 
 ## Overview
 
 Eisegesis is what happens when the interpreter becomes the loudest voice in the room. Instead of asking, “What is this text saying?” the reader asks, “How can this text support what I already think?”
 
-If interpretation were gardening, [[exegesis|Exegesis]] would be patiently cultivating what is already planted. Eisegesis would be sneaking in seeds from your own pocket and then claiming the garden grew them naturally.
+If interpretation were gardening, [[concepts.hermeneutics.exegesis|Exegesis]] would be patiently cultivating what is already planted. Eisegesis would be sneaking in seeds from your own pocket and then claiming the garden grew them naturally.
 
 In biblical studies, eisegesis often occurs when:
 
@@ -52,7 +52,7 @@ For someone pursuing Christ-centered, biblically grounded leadership, this conce
 
 ## Connections
 
-- [[Exegesis]] — the methodological counterbalance
+- [[concepts.hermeneutics.exegesis|Exegesis]] — the methodological counterbalance
 - The historical-grammatical method
 - Cognitive bias and confirmation bias
 - Reader-response theory

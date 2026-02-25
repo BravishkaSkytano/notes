@@ -9,9 +9,9 @@ description: Interpreting the meaning of a text according to what the author int
 > [!summary]
 > **Definition:** The careful, context-sensitive interpretation of a text that seeks to draw out the author’s intended meaning rather than importing one’s own assumptions.
 > **Domain:** Biblical studies, theology, literary studies, hermeneutics
-> **Related Concepts:** Hermeneutics, Eisegesis, historical-grammatical method, authorial intent
+> **Related Concepts:** Hermeneutics, [[concepts.hermeneutics.eisegesis|Eisegesis]], historical-grammatical method, authorial intent
 > **Key Sources:** 
-> **Opposing / Contrasting Ideas:** Eisegesis, proof-texting, unchecked reader-response
+> **Opposing / Contrasting Ideas:** [[concepts.hermeneutics.eisegesis|Eisegesis]], proof-texting, unchecked reader-response
 
 ## Overview
 

@@ -2,9 +2,10 @@
 title: Quiet
 date: 2024-08-24
 created: 2024-08-24 21:05
-modified: 2025-08-07 22:19
+modified: 2026-02-25T01:44:07-05:00
 tags:
   - depression
+automatic-linker-exclude: true
 ---
 
 Hey,

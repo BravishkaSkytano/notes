@@ -70,3 +70,17 @@ views:
       - property: file.name
         direction: ASC
     image: note.cover
+  - type: list
+    name: Lacks title
+    filters:
+      and:
+        - title.isEmpty()
+        - file.ext == "md"
+  - type: list
+    name: Lacks description
+    filters:
+      or:
+        - description.isEmpty()
+        - needsUpdate == "md"
+        - and:
+            - file.ext == "md"

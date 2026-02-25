@@ -1,4 +1,6 @@
 ---
+title: Hermeneutics
+description:
 date: 2023-10-03
 created: 2026-02-11T18:42:45-05:00
 modified: 2026-02-25T01:14:37-05:00

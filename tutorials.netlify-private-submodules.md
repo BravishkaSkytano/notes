@@ -34,7 +34,7 @@ Of course, I'm not that popular, so I doubt anyone would *want* to steal my cont
 
 Run the following commands to add a submodule using SSH:
 
-![[20250731151458#^76869d]]
+![[tutorials.add-submodule#^76869d]]
 
 ## Setting Up Netlify
 

@@ -5,7 +5,7 @@ modified: 2024-02-14
 tags:
   - 📥/🌱
 ---
-Medo-Persian took over Palestine, Asia Minor, and Egypt.
+Medo-Persian took over Palestine, [[places.regions.asia-minor|Asia Minor]], and Egypt.
 
 Related:
 

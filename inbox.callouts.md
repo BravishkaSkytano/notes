@@ -1,7 +1,9 @@
 ---
-date: 2023-12-12
 title: Callouts
-draft: true
+date: 2023-12-12
+created: 2023-12-12T18:42:00
+modified: 2026-02-23T14:30:01-05:00
+description: A quick look at the callouts available.
 ---
 
 > [!note]- Note
@@ -41,18 +43,4 @@ draft: true
 > Contents
 
 > [!quote]- Quote / Cite
-> Contents
-
-## Custom Callouts for LYT Theme
-
-> [!pro]- Pro
-> Contents
-
-> [!con]- Con
-> Contents
-
-> [!idea]- Idea
-> Contents
-
-> [!related]- Related
 > Contents

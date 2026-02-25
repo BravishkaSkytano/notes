@@ -42,7 +42,7 @@ Culturally, it preserves layers of history: Roman ruins stand near Ottoman mosqu
 ## Related Events / Periods
 
 - Bronze Age
-- Hellenistic Period
+- [[history.periods.hellenistic|Hellenistic Period]]
 - Roman–Persian Wars
 - Byzantine–Seljuk Wars
 - Fall of Constantinople

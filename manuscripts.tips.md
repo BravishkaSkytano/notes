@@ -1,8 +1,8 @@
 ---
 title: Tips and Advice
 description: A collection of writing tips and tutorials.
-parent: Notes
 date: 2024-10-13
+created: 2024-10-23T14:12:00
 modified: 2024-11-04 15:41
 tags:
 ---

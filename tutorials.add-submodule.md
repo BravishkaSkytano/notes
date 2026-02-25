@@ -3,7 +3,7 @@ title: How To Add A Submodule To A Repository
 parent: Cheatsheets
 description: A short cheatsheet to remind me how to add a submodule.
 date: 2025-07-31
-created: 2026-07-31T15:14:00
+created: 2025-07-31T15:14:00
 modified: 2025-10-05 22:04
 tags:
   - git

@@ -1,7 +1,6 @@
 ---
 title: Be Transformed Essay
 description: The graduation essay I wrote for my Be Transformed class in 2025.
-parent: Essays
 date: 2025-11-09
 created: 2025-11-09 17:29
 modified: 2025-11-11 00:50

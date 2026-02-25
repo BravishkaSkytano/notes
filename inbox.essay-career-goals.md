@@ -1,8 +1,8 @@
 ---
-up: []
-same: []
+title: Career Goals Essay
 date: 2024-01-16
-tags: 
+tags:
+created: 2024-01-16T14:31:00
 modified: 2024-01-22
 ---
 

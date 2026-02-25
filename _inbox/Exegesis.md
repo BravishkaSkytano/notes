@@ -3,7 +3,7 @@ title: Exegesis
 date: 2023-10-03
 tags:
 created: 2023-10-03T18:42:00
-modified: 2026-02-25T01:04:01-05:00
+modified: 2026-02-25T01:08:35-05:00
 description: Interpreting the meaning of a text according to what the author intended rather than one’s own personal interpretation.
 ---
 > [!summary]
@@ -51,57 +51,20 @@ For someone committed to Christ-centered, Spirit-led growth, exegesis becomes an
 
 (Where this idea shows up in life, education, fiction, etc.)
 
-1. Bible Study
+1. **Bible Study:** Grounding interpretation in historical and literary context before drawing theological conclusions.
+2. **Teaching:** Modeling responsible engagement with primary sources rather than relying on summaries or slogans.
+3. **Leadership:** Making decisions based on careful understanding rather than reaction or assumption.
+4. **Literature & Worldbuilding:** Understanding a story’s internal logic before imposing modern frameworks onto it.
+5. **Conflict Resolution:** Listening carefully to what someone actually says before responding.
 
-Grounding interpretation in historical and literary context before drawing theological conclusions.
-
-  
-
-2. Teaching
-
-Modeling responsible engagement with primary sources rather than relying on summaries or slogans.
-
-  
-
-3. Leadership
-
-Making decisions based on careful understanding rather than reaction or assumption.
-
-  
-
-4. Literature & Worldbuilding
-
-Understanding a story’s internal logic before imposing modern frameworks onto it.
-
-  
-
-5. Conflict Resolution
-
-Listening carefully to what someone actually says before responding.
-
-  
-
-  
-
-  
-
-  
-
-Connections
-
-  
-
-  
+## Connections
 
 - Hermeneutics — the broader theory of interpretation
 - The historical-grammatical method
 - Genre analysis
 - Canonical theology
 - Intellectual humility
-- Your larger framework of biblically informed servant leadership
+- Biblically informed servant leadership
 
-  
 
-  
-
-Exegesis is slow work. It resists shortcuts. It invites the interpreter to kneel before meaning rather than rearrange it. When practiced well, it does not shrink Scripture into something manageable. It allows Scripture to remain gloriously, sometimes uncomfortably, itself. ✨
+Exegesis is slow work. It resists shortcuts. It invites the interpreter to kneel before meaning rather than rearrange it. When practiced well, it does not shrink Scripture into something manageable. It allows Scripture to remain gloriously, sometimes uncomfortably, itself.

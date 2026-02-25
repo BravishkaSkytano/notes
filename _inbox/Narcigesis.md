@@ -15,7 +15,7 @@ modified: 2024-02-14
 > 
 > The Lord Jesus, in a dispute with the Jewish leaders of His day, pointed out their lack of faith in Him as inexcusable: “If you believed Moses, you would believe me, for he wrote about me” ([[Sources/The WEB Bible/John/John 5#46]], emphasis added). Note of whom Moses wrote: it was not me, it was not you, and it was not the pastor on TV. Moses wrote about Jesus Christ (cf. [[Sources/The WEB Bible/Luke/Luke 24#27]], [[Sources/The WEB Bible/Luke/Luke 24#44|Luke 24,44-45]][[Sources/The WEB Bible/Luke/Luke 24#45|]]). Given this truth, narcigesis can be seen for what it is: a backhanded way to replace Jesus with oneself.
 > 
-> Of course, proper exegesis does not allow for the insertion of oneself into the text. Proper exegesis looks for the plain meaning of the passage and explains what the text is actually about. When we allow Scripture to speak for itself, with no narcissistic distortions, we see that the Bible’s main character is Christ. He is the hero of the story.
+> Of course, proper [[exegesis|Exegesis]] does not allow for the insertion of oneself into the text. Proper exegesis looks for the plain meaning of the passage and explains what the text is actually about. When we allow Scripture to speak for itself, with no narcissistic distortions, we see that the Bible’s main character is Christ. He is the hero of the story.
 > 
 > [GotQuestions](https://www.gotquestions.org/narcigesis.html)
 

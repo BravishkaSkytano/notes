@@ -21,7 +21,7 @@ modified: 2026-02-21T22:38:00
 8. Roman triumphal arch
 9. Pediment
 10. Pyramid
-11. Ziggurat
+11. [[concepts.architecture.ancient.ziggurat|Ziggurat]]
 12. Kouros
 13. Hieroglyphs
 14. Obelisk

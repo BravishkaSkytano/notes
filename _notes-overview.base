@@ -31,6 +31,9 @@ views:
     order:
       - title
       - description
+    sort:
+      - property: file.path
+        direction: ASC
     image: note.banner
   - type: list
     name: No banner
@@ -55,3 +58,15 @@ views:
       - property: file.ext
         direction: ASC
     image: file.file
+  - type: cards
+    name: Covers
+    filters:
+      and:
+        - "!cover.isEmpty()"
+    order:
+      - title
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.cover

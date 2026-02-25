@@ -5,6 +5,7 @@ permalink: /
 eleventyExcludeFromCollections: true
 tags:
   - linker-exclude
+automatic-linker-exclude: true
 ---
 This is not a library of conclusions.
 It’s an index of things I’m still working out.

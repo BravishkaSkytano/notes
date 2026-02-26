@@ -12,7 +12,7 @@ modified: 2026-02-21T22:38:00
 ### Week 1
 
 1. Archaic
-2. Classical
+2. [[concepts.classical|Classical]]
 3. Hellenistic
 4. Doric capital
 5. Ionic capital

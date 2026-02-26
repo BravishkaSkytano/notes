@@ -4,7 +4,7 @@ description: A square-shaped Mesopotamian pyramid temple.
 date: 2025-10-06
 created: 2025-10-06 00:52
 modified: 2026-02-25T20:26:03-05:00
-banner: https://images.unsplash.com/photo-1709659583214-a6ba183e5779
+banner: "https://images.unsplash.com/photo-1709659524300-38edccca2e5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxaaWdndXJhdHxlbnwwfDB8fHwxNzcyMDY4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080"
 ---
 
 > [!summary]
@@ -65,3 +65,5 @@ The form developed in the 3rd millennium BCE and continued into the Neo-Babyloni
 - Temple economy
 - City-state architecture
 - Ancient Near Eastern religion
+
+*Photo by [حسن](https://unsplash.com/@hasanmajed__?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*

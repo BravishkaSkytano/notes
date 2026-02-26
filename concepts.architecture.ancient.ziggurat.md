@@ -3,9 +3,10 @@ title: Ziggurat
 description: A square-shaped Mesopotamian pyramid temple.
 date: 2025-10-06
 created: 2025-10-06 00:52
-modified: 2026-02-25T15:45:13-05:00
+modified: 2026-02-25T20:17:05-05:00
+banner: https://images.unsplash.com/photo-1709659583214-a6ba183e5779
 ---
-![The Ziggurat of Ur, located in the province of UR-Nasiriyah, Dhi Qar, Iraq. Built in the 21st century BC by King Ur-Nammu, the Ziggurat of Ur was used as a temple to worship the moon good "Nannar". This 4,000 year old piece of archaeological history dates back to the first civilization's in human history, beginning with the Sumerians.|1600|700x467](https://images.unsplash.com/photo-1709659583214-a6ba183e5779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxaaWdndXJhdHxlbnwwfDB8fHwxNzcyMDY4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080)
+![The Ziggurat of Ur, located in the province of UR-Nasiriyah, Dhi Qar, Iraq. Built in the 21st century BC by King Ur-Nammu, the Ziggurat of Ur was used as a temple to worship the moon good "Nannar". This 4,000 year old piece of archaeological history dates back to the first civilization's in human history, beginning with the Sumerians.|1600|700x467](?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxaaWdndXJhdHxlbnwwfDB8fHwxNzcyMDY4NDk1fDA&ixlib=rb-4.1.0&q=80&w=1080)
 *[Backlink](https://unsplash.com/photos/a-very-tall-brick-structure-with-steps-leading-up-to-it-Jue_HAGmVfU) | Photo by [حسن](https://unsplash.com/@hasanmajed__?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 > [!summary]

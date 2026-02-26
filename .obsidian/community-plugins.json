@@ -16,5 +16,6 @@
   "obsidian-front-matter-title-plugin",
   "find-orphaned-images",
   "automatic-linker",
-  "quickadd"
+  "quickadd",
+  "obsidian-linter"
 ]

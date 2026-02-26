@@ -1,16 +1,16 @@
 ---
 title: Exegesis
 date: 2023-10-03
-tags:
 created: 2023-10-03T18:42:00
-modified: 2026-02-25T01:08:35-05:00
+modified: 2026-02-26T09:56:44-05:00
 description: Interpreting the meaning of a text according to what the author intended rather than one’s own personal interpretation.
 ---
+
 > [!summary]
 > **Definition:** The careful, context-sensitive interpretation of a text that seeks to draw out the author’s intended meaning rather than importing one’s own assumptions.
 > **Domain:** Biblical studies, theology, literary studies, [[concepts.hermeneutics|Hermeneutics]]
 > **Related Concepts:** [[concepts.hermeneutics|Hermeneutics]], [[concepts.hermeneutics.eisegesis|Eisegesis]], historical-grammatical method, authorial intent
-> **Key Sources:** 
+> **Key Sources:**
 > **Opposing / Contrasting Ideas:** [[concepts.hermeneutics.eisegesis|Eisegesis]], proof-texting, unchecked reader-response
 
 ## Overview
@@ -65,6 +65,5 @@ For someone committed to Christ-centered, Spirit-led growth, exegesis becomes an
 - Canonical theology
 - Intellectual humility
 - Biblically informed servant leadership
-
 
 Exegesis is slow work. It resists shortcuts. It invites the interpreter to kneel before meaning rather than rearrange it. When practiced well, it does not shrink Scripture into something manageable. It allows Scripture to remain gloriously, sometimes uncomfortably, itself.

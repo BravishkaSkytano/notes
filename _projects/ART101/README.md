@@ -100,7 +100,7 @@ modified: 2025-11-17 17:52
 > - [[The Hay Wain]]
 > - [[The Justinian and Theodora Panels]]
 > - [[The Last Judgment relief sculpture by Gislebertus]]
-> - [[The Last Supper]]
+> - [[works.artwork.paintings.the-last-supper]]
 > - [[The Rose Window of Chartres Cathedral]]
 > - [[The Sower (Millet)]]
 > - [[Tracery]]

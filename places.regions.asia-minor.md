@@ -7,6 +7,7 @@ description: A peninsula in West Asia that makes up the majority of Turkey.
 aliases:
   - Anatolia
 ---
+
 > [!summary]
 > **Location Type:** Peninsula / Historical Region
 > **Region / Country:** Primarily modern-day Turkey

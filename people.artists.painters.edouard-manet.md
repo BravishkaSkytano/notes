@@ -10,4 +10,4 @@ tags:
 > **Overview:** A French painter who bridged [[Realism]] and [[Impressionism]], and challenged traditional art.
 > **Period:** [[19th Century]]
 > **Region:** France
-> **Key Works:** 
+> **Key Works:**

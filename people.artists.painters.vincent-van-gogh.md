@@ -6,6 +6,7 @@ date: 2025-11-16
 created: 2025-11-16 22:04
 modified: 2026-02-23T12:56:01-05:00
 ---
+
 > [!summary]
 > **Born–Died:**  30 March 1853 – 29 July 1890
 > **Role / Profession:**  Painter
@@ -13,10 +14,7 @@ modified: 2026-02-23T12:56:01-05:00
 > **Associated Movements:**  Post-Impressionism
 > **Key Works:**  [[The Starry Night]]
 
-
 ## Overview
-
-
 
 ## Major Contributions
 
@@ -25,7 +23,6 @@ modified: 2026-02-23T12:56:01-05:00
 - The Starry Night (1889)
 - Wheatfield with Crows (1890)
 - Sorrowing Old Man (1890)
-
 
 ## Influence on My Thinking
 

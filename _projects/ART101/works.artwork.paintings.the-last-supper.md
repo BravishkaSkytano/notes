@@ -1,13 +1,8 @@
 ---
+title: The Last Supper
 date: 2025-11-03
 created: 2025-11-03 00:53
 modified: 2025-11-03 01:19
-tags:
-  - course/ART101
-  - artwork/painting
-feature: Projects/University/ART101/The Last Supper-500x250.webp
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/ad9113553e4d4c37ed33091f4e03189d_86cf658e.webp
-image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/The Last Supper-500x250.webp
 ---
 
 > [!tldr] The Last Supper

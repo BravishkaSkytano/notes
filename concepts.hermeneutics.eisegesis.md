@@ -1,9 +1,8 @@
 ---
 title: Eisegesis
 date: 2023-10-03
-tags:
 created: 2023-10-03T22:03:00
-modified: 2026-02-25T00:55:58-05:00
+modified: 2026-02-26T09:56:49-05:00
 description: The act of inserting your own meaning into a text instead of drawing it from the text itself.
 ---
 
@@ -11,7 +10,7 @@ description: The act of inserting your own meaning into a text instead of drawin
 > **Definition:** Interpreting a text by reading one’s own ideas, assumptions, or biases into it rather than drawing meaning from it.
 > **Domain:** Biblical studies, literary theory, [[concepts.hermeneutics|Hermeneutics]], theology
 > **Related Concepts:** [[concepts.hermeneutics|Hermeneutics]], [[concepts.hermeneutics.exegesis|Exegesis]], reader-response criticism, presuppositions, biases
-> **Key Sources:** 
+> **Key Sources:**
 > **Opposing / Contrasting Ideas:** [[concepts.hermeneutics.exegesis|Exegesis]] (drawing meaning out of the text), historical-grammatical method
 
 ## Overview

@@ -1,8 +1,8 @@
 {
   "pinned": [
     "switcher:open",
-    "obsidian-git:push",
+    "insert-template",
     "insert-unsplash-image:insert",
-    "virtual-linker:convert-selected-virtual-links"
+    "obsidian-git:push"
   ]
 }

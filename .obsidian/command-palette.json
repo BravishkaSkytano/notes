@@ -3,6 +3,7 @@
     "switcher:open",
     "insert-template",
     "insert-unsplash-image:insert",
+    "insert-unsplash-image:insert-in-frontmatter",
     "obsidian-git:push"
   ]
 }

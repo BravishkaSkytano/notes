@@ -15,5 +15,6 @@
   "automatic-linker",
   "quickadd",
   "obsidian-linter",
-  "structured-tree"
+  "structured-tree",
+  "obsidian-auto-link-title"
 ]

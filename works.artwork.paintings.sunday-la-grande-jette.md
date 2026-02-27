@@ -2,11 +2,12 @@
 title: A Sunday on La Grande Jatte
 date: 2025-11-17
 created: 2025-11-17 15:35
-modified: 2026-02-20T10:18:15-05:00
+modified: 2026-02-27T13:55:10-05:00
 description: Seurat’s pointillist park scene with figures in profile.
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
-banner: works/artwork/paintings/A Sunday on La Grande Jatte-960x639.webp
+banner: img/banners/A Sunday on La Grande Jatte-960x639.webp
+needsUpdate: true
 ---
 
 > [!summary]
@@ -18,8 +19,6 @@ banner: works/artwork/paintings/A Sunday on La Grande Jatte-960x639.webp
 > **Styles:**  Post-Impressionism, Pointillism
 > **Context:** Parisians at a park on the banks of the River Seine.
 
-![[A Sunday on La Grande Jatte-960x639.webp]]
-
 ## Summary
 
 A Sunday Afternoon on the Island of La Grande Jatte is Georges Seurat’s most famous work. This particular painted is considered the founder of the neo-impressionist movement, and a leading example of the pointillist technique.
@@ -27,7 +26,6 @@ A Sunday Afternoon on the Island of La Grande Jatte is Georges Seurat’s most f
 ## Key Ideas / Elements
 
 ## Personal Reflection
-
 
 ## Related Concepts
 

@@ -17,6 +17,7 @@ tags:
 ^tldr
 
 ## Characteristics
+
 - Dramatic lighting  
 - Emotional intensity  
 - Sublime landscapes  

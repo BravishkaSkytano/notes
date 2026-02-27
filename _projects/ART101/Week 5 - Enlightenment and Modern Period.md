@@ -50,7 +50,7 @@ tags:
 
 ## Specific Artworks to Identify by Sight
 
-![[Arrangement in Gray and Black No 1#^tldr]]
+![[works.artwork.paintings.arrangement-gray-black-1#^tldr]]
 
 ![[Oath of the Horatii#^tldr]]
 

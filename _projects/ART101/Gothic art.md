@@ -16,7 +16,7 @@ banner: img/The Rose Window of Chartres Cathedral-South Transept.webp
 
 > [!tldr] Gothic art
 > An art and architectural style that developed in **Europe from the 12th to the 16th centuries**, following the Romanesque period. It’s known for **pointed arches**, **tall spires**, **flying buttresses**, and **large stained glass windows** that fill churches with colorful light. Gothic art focused on **religious stories**, **graceful figures**, and a sense of **height and lightness**.
-> 
+>
 > ![[The Rose Window of Chartres Cathedral-South Transept.webp]]
 
 ^def890

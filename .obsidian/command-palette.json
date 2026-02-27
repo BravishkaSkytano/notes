@@ -1,10 +1,11 @@
 {
   "pinned": [
     "switcher:open",
+    "structured-tree:structured-lookup",
     "insert-template",
     "insert-unsplash-image:insert-in-frontmatter",
     "pretty-properties:select-banner-image",
     "pretty-properties:select-cover-image",
-    "obsidian-git:push"
+    "structured-tree:rename-structured-note"
   ]
 }

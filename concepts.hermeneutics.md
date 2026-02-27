@@ -4,14 +4,15 @@ description: The theory of interpretation.
 date: 2023-10-03
 created: 2026-02-11T18:42:45-05:00
 modified: 2026-02-25T01:48:09-05:00
+completed: true
 ---
+
 > [!summary]
 > **Definition:** The theory and methodology of interpretation, especially of texts, concerned with how meaning is understood, communicated, and applied.
 > **Domain:** Philosophy, theology, biblical studies, literary theory
 > **Related Concepts:** Exegesis, Eisegesis, historical-grammatical method, reader-response theory
-> **Key Sources:** 
+> **Key Sources:**
 > **Opposing / Contrasting Ideas:** Interpretive relativism, naïve literalism, postmodern skepticism
-
 
 ## Overview
 

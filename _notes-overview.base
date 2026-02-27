@@ -15,8 +15,8 @@ views:
     name: Drafts
     filters:
       or:
-        - needsUpdate == true
-        - file.folder == "_drafts"
+        - draft == true
+        - "!file.folder.isEmpty()"
     groupBy:
       property: file.folder
       direction: ASC
@@ -24,6 +24,16 @@ views:
       - file.name
       - title
       - tags
+  - type: list
+    name: Finished
+    filters:
+      and:
+        - completed == true
+    order:
+      - file.name
+      - title
+      - date
+      - description
   - type: cards
     name: Banners
     filters:

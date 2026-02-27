@@ -29,7 +29,7 @@ Thumbs.db
 
 # 🧩 Optional: ignore plugin caches or transient data
 # Some plugins store device-specific cache or usage data in `data.json`.
-.obsidian/plugins/*/data.json
+#.obsidian/plugins/*/data.json
 .obsidian/plugins/*/cache.json
 .obsidian/plugins/*/debug.log
 

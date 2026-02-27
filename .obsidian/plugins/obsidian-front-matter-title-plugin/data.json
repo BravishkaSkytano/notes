@@ -26,8 +26,8 @@
   "features": {
     "alias": {
       "enabled": true,
-      "strategy": "ensure",
-      "validator": "fr",
+      "strategy": "adjust",
+      "validator": "fa",
       "templates": {
         "main": "",
         "fallback": ""
@@ -35,7 +35,7 @@
     },
     "explorer": {
       "enabled": false,
-      "sort": false,
+      "sort": true,
       "templates": {
         "main": "",
         "fallback": ""

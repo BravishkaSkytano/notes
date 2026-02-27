@@ -17,6 +17,9 @@ views:
       or:
         - draft == true
         - "!file.folder.isEmpty()"
+        - and:
+            - file.folder != "z-templates"
+            - file.folder != "I’m"
     groupBy:
       property: file.folder
       direction: ASC
@@ -34,6 +37,7 @@ views:
       - title
       - date
       - description
+      - file.tags
   - type: cards
     name: Banners
     filters:

@@ -16,5 +16,7 @@
   "quickadd",
   "obsidian-linter",
   "structured-tree",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "obsidian-pending-notes",
+  "obisidian-note-linker"
 ]

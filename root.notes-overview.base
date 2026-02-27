@@ -19,7 +19,7 @@ views:
         - "!file.folder.isEmpty()"
         - and:
             - file.folder != "z-templates"
-            - file.folder != "I’m"
+            - file.folder != "img"
     groupBy:
       property: file.folder
       direction: ASC

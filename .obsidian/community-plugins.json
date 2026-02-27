@@ -17,5 +17,6 @@
   "find-orphaned-images",
   "automatic-linker",
   "quickadd",
-  "obsidian-linter"
+  "obsidian-linter",
+  "structured-tree"
 ]

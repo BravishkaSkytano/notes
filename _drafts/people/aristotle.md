@@ -1,6 +1,9 @@
 ---
-modified: 2026-02-23T12:56:43-05:00
+title: Aristotle
+description:
+date:
 created: 2026-02-13T15:08:24-05:00
+modified: 2026-02-23T12:56:43-05:00
 ---
 # Aristotle
 

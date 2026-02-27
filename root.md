@@ -6,7 +6,10 @@ eleventyExcludeFromCollections: true
 tags:
   - linker-exclude
 automatic-linker-exclude: true
+modified: 2026-02-27T15:14:47-05:00
+created: 2026-02-13T15:08:23-05:00
 ---
+
 This is not a library of conclusions.
 It’s an index of things I’m still working out.
 
@@ -21,4 +24,16 @@ Nothing here is final. Everything is alive.
 
 In progress, on purpose.
 
-## 
+## Top-Level Sections
+
+1. [[concepts|Concepts]]
+2. [[education|Education]]
+3. [[history|History]]
+4. [[inbox|Inbox Notes]]
+5. [[manuscripts|Manuscripts]]
+6. [[organizations|Organizations]]
+7. [[people|People]]
+8. [[places|Places]]
+9. [[tutorials|Tutorials]]
+10. [[works|Works]]
+11. [[worldbuilding|Worldbuilding]]

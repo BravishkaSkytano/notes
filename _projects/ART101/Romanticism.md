@@ -1,11 +1,11 @@
 ---
 date: 2025-11-16
+description: A movement that emphasized emotion, imagination, drama, and the power of nature.
 created: 2025-11-16 19:40
 modified: 2025-11-17 14:01
 tags:
   - course/ART101
   - history/movement
-description: A movement that emphasized emotion, imagination, drama, and the power of nature.
 ---
 
 > [!summary] Romanticism

@@ -3,6 +3,8 @@
     "switcher:open",
     "insert-template",
     "insert-unsplash-image:insert-in-frontmatter",
+    "pretty-properties:select-banner-image",
+    "pretty-properties:select-cover-image",
     "obsidian-git:push"
   ]
 }

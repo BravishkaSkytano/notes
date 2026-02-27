@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 tags:
   - linker-exclude
 automatic-linker-exclude: true
-modified: 2026-02-27T15:14:47-05:00
+modified: 2026-02-27T18:17:33-05:00
 created: 2026-02-13T15:08:23-05:00
 ---
 
@@ -30,10 +30,11 @@ In progress, on purpose.
 2. [[education|Education]]
 3. [[history|History]]
 4. [[inbox|Inbox Notes]]
-5. [[manuscripts|Manuscripts]]
-6. [[organizations|Organizations]]
-7. [[people|People]]
-8. [[places|Places]]
-9. [[tutorials|Tutorials]]
-10. [[works|Works]]
-11. [[worldbuilding|Worldbuilding]]
+5. [[journal|Journal]]
+6. [[manuscripts|Manuscripts]]
+7. [[organizations|Organizations]]
+8. [[people|People]]
+9. [[places|Places]]
+10. [[tutorials|Tutorials]]
+11. [[works|Works]]
+12. [[worldbuilding|Worldbuilding]]

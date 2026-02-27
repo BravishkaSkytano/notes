@@ -11,4 +11,4 @@ aliases:
 ## Journal
 
 - **[13:30]**  I am pretty tired, and I'm not sure why. My sleep wasn't that bad, but the alarm had to wake me up several times.
-- **[18:46]**  I want to add the Bible to my vault at some point. That whole project is making me think about switching back to Obsidian, SMH.
+- **[18:46]** I want to add the Bible to my vault at some point. That whole project is making me think about switching back to Obsidian, SMH.

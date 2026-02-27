@@ -1,7 +1,9 @@
 ---
-tags:
-  - 📥/🌱
-modified: 2024-01-22
+title: Sunday, March 26th, 2023
+modified: 2026-02-27T16:58:16-05:00
+aliases:
+  - 2023-03-26
+  - Mar 26, 2023
 ---
 
 > [!bible] [Matthew 16:26 - WEB](https://bible-api.com/Matthew+16:26?translation=web)

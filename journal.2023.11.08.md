@@ -1,7 +1,9 @@
 ---
-modified: 2023-11-16
-tags:
-  - 📥/🌱
+title: Wednesday, November 8th, 2023
+modified: 2026-02-27T16:58:37-05:00
+aliases:
+  - 2023-11-08
+  - Nov 8, 2023
 ---
 
 > [!bible] [Acts 2:1-4 - WEB](https://bible-api.com/Acts+2:1-4?translation=web)

@@ -1,37 +1,21 @@
 ---
 title: Wednesday, November 06, 2024
-tags:
-  - daily
-lastmod: 2024-11-06T19:50:13
-journal: personal
-journal-start-date: 2024-11-06
-journal-end-date: 2024-11-06
-journal-section: day
 ---
 
-```calendar-nav
-```
-
-> [!quote] Love doesn't make the world go round, love is what makes the ride worthwhile.
-> — Elizabeth Browning
+> [!quote] Elizabeth Browning
+> Love doesn't make the world go round, love is what makes the ride worthwhile.
 
 ## Goals
 
 > [!info] Goals for this Week
 > ![[2024-W45#^goals-link]]
 
-## Tasks
-
-```todoist
-filter: "Nov 06 2024"  
-```
-
 ## Journal
 
 Mood::
 
 Today, I am grateful for:
-1. [[Joshua Alejandro|Joshi]] for his goofiness and his gift of listening.
+1. [[Joshua Alejandro|Joshi]] and his goofiness and his gift of listening.
 
 ### Memos
 

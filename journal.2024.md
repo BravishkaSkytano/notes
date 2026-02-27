@@ -1,14 +1,6 @@
 ---
 title: "2024"
-journal: personal
-journal-start-date: 2024-01-01
-journal-end-date: 2024-12-31
-journal-section: year
-lastmod: 2024-11-03T17:12:04
 ---
-
-```calendar-timeline
-```
 
 ## Projects
 

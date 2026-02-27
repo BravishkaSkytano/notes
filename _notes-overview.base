@@ -1,5 +1,18 @@
 views:
   - type: list
+    name: Drafts
+    filters:
+      or:
+        - draft == true
+        - file.folder.startsWith("_")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - tags
+  - type: list
     name: Inbox
     filters:
       or:
@@ -9,24 +22,9 @@ views:
       - file.name
       - title
       - tags
+      - description
     sort: []
     indentProperties: false
-  - type: list
-    name: Drafts
-    filters:
-      or:
-        - draft == true
-        - "!file.folder.isEmpty()"
-        - and:
-            - file.folder != "z-templates"
-            - file.folder != "img"
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - file.name
-      - title
-      - tags
   - type: list
     name: Finished
     filters:

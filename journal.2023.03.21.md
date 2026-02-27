@@ -1,7 +1,10 @@
 ---
-modified: 2024-01-22
-tags:
-  - 📥/🌱
+title: Tuesday, March 21, 2023
+created: 2023-03-21T16:49:00
+modified: 2026-02-27T16:57:54-05:00
+aliases:
+  - 2023-03-21
+  - Mar 21, 2023
 ---
 
 ## Guest Speaker Frank Lorenzo

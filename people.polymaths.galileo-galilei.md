@@ -7,7 +7,9 @@ modified: 2026-02-27T16:01:06-05:00
 aliases:
   - Galileo
   - Galileo di Vincenzo Bonaiuti de' Galilei
+needsUpdate: true
 ---
+
 > [!summary]
 > **Born–Died:**  15 February 1564 – 8 January 1642
 > **Role / Profession:**  astronomer, physicist, engineer; the father of observational astronomy, modern-era classical physics, the scientific method, and modern science.
@@ -23,7 +25,6 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galileo%20Galilei)
 
-
 ## Major Contributions
 
 ## Influence on My Thinking
@@ -31,5 +32,3 @@ aliases:
 ## Related Concepts
 
 ## Related Works
-
-

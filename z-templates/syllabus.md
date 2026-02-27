@@ -5,11 +5,11 @@ date: {{date}}
 created:
 modified:
 ---
-> [!summary]
-> **Course Title:**  
+> [!summary]  
 > **Instructor:**  
 > **Institution:**  
 > **Semester:**  
+> **Dates:**
 > **Credits:**  
 
 ## Course Description

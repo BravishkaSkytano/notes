@@ -3,8 +3,6 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 permalink: /
 eleventyExcludeFromCollections: true
-tags:
-  - linker-exclude
 automatic-linker-exclude: true
 modified: 2026-02-27T18:17:33-05:00
 created: 2026-02-13T15:08:23-05:00

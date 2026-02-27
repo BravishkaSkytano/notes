@@ -2,7 +2,7 @@
   "vaultList": [
     {
       "path": "/",
-      "name": "root",
+      "name": "index",
       "isSecret": false
     }
   ],

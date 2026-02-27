@@ -5,7 +5,7 @@ aliases:
   - Jan 30, 2024
 ---
 
-## [[journal.2024.01.29|⬅]] Tuesday 🔹 January 30th 🔹 2024 [[2024-01-31|➡]]
+## [[journal.2024.01.29|⬅]] Tuesday 🔹 January 30th 🔹 2024 [[journal.2024.01.31|➡]]
 
 > [!quote] Baltasar Gracián
 > Friendship multiplies the good of life and divides the evil.

@@ -23,5 +23,5 @@
   "removeAliasInDirs": [],
   "runLinterAfterFormatting": true,
   "runPrettierAfterFormatting": false,
-  "formatDelayMs": 1
+  "formatDelayMs": 10
 }

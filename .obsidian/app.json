@@ -24,6 +24,7 @@
     "editor:unindent-list",
     "editor:configure-toolbar"
   ],
-  "attachmentFolderPath": "./",
-  "newFileLocation": "current"
+  "attachmentFolderPath": "img",
+  "newFileLocation": "root",
+  "openBehavior": ""
 }

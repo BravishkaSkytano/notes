@@ -10,13 +10,13 @@
   "iconProperty": "icon",
   "coverProperty": "cover",
   "extraCoverProperties": [],
-  "bannerHeight": 350,
-  "bannerHeightMobile": 300,
-  "bannerHeightPopover": 250,
+  "bannerHeight": 150,
+  "bannerHeightMobile": 100,
+  "bannerHeightPopover": 100,
   "bannerMargin": -20,
   "bannerMarginMobile": 0,
   "bannerFading": true,
-  "coverDefaultWidth1": 350,
+  "coverDefaultWidth1": 200,
   "coverDefaultWidth2": 250,
   "coverDefaultWidth3": 300,
   "coverMaxHeight": 500,
@@ -36,8 +36,8 @@
   "uncompletedTasksStatuses": [
     " "
   ],
-  "bannersFolder": "img/banners",
-  "coversFolder": "img/covers",
+  "bannersFolder": "",
+  "coversFolder": "",
   "showColorSettings": false,
   "showTextColorSettings": false,
   "showHiddenSettings": false,
@@ -64,7 +64,7 @@
   "enableCustomDateFormat": false,
   "enableCustomDateFormatInBases": false,
   "enableRelativeDateColors": false,
-  "settingsTab": "OTHER",
+  "settingsTab": "BANNERS",
   "enableTaskNotesCount": false,
   "allTNTasksCount": "tn_tasks",
   "completedTNTasksCount": "tn_tasks_completed",
@@ -94,32 +94,32 @@
   "dataVersion": 0,
   "dateColors": {
     "past": {
-      "pillColor": "red",
+      "pillColor": "default",
       "textColor": "default"
     },
     "present": {
-      "pillColor": "green",
+      "pillColor": "default",
       "textColor": "default"
     },
     "future": {
-      "pillColor": "blue",
+      "pillColor": "default",
       "textColor": "default"
     }
   },
   "coverPosition": "left",
-  "enableBannersInPopover": true,
+  "enableBannersInPopover": false,
   "enableIconsInPopover": false,
-  "enableCoversInPopover": true,
+  "enableCoversInPopover": false,
   "hideAllEmptyProperties": false,
-  "hiddenWhenEmptyProperties": [
-    "tags"
-  ],
+  "hiddenWhenEmptyProperties": [],
   "iconInTitle": false,
   "titleIconSize": 30,
   "titleTextIconMatchTitleSize": true,
-  "imageLinkFormat": "raw",
+  "imageLinkFormat": "link",
   "hideMetadataContainerIfAllPropertiesHiddenEditing": false,
   "hideMetadataContainerIfAllPropertiesHiddenReading": false,
   "autoHidePropertiesWithBanner": false,
-  "hideCoverCollapsed": false
+  "hideCoverCollapsed": false,
+  "hidePropTitle": false,
+  "hideAddPropertyButton": false
 }

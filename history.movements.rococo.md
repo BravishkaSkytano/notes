@@ -1,17 +1,13 @@
 ---
 title: Rococo
 description: An 18th-century artistic movement and style known for its light colors, playful themes, decorative elegance, and ornate detail.
-parent: Notes
 date: 2025-11-17
 created: 2025-11-17 17:00
 modified: 2025-11-17 17:12
-tags:
-  - history
-  - movement
-  - art
 aliases:
   - Late Baroque
   - Roccoco
+needsUpdate: true
 ---
 
 > [!summary] Rococo

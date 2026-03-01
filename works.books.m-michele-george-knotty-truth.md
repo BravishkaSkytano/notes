@@ -16,6 +16,7 @@ status: reading
 aliases:
   - The Knotty Truth (Book)
 feature: "[[http://books.google.com/books/content?id=h3uSXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api]]"
+draft: true
 ---
 
 

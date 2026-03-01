@@ -16,7 +16,7 @@ description:
 3. ![[history.periods.hellenistic#^79d00d]]
 4. ![[Doric capital#^843fe9]]
 5. ![[Ionic capital#^286375]]
-6. ![[Corinthian capital#^ba9f18]]
+6. ![[concepts.architecture.corinthian-capital#^ba9f18]]
 7. ![[Frieze#^c3b3aa]]
 8. ![[Roman triumphal arch#^189fc4]]
 9. ![[Pediment#^4183a4]]

@@ -16,7 +16,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 3. ![[Iconoclasm#^9957df]]
 4. ![[Humanism#^dca863]]
 5. ![[concepts.classical#^c1c548]]
-6. ![[Cruciform#^453e0d]]
+6. ![[concepts.architecture.cruciform#^453e0d]]
 7. ![[Etching or Engraving#^622f7a]]
 8. ![[Tempera#^3aa4f0]]
 9. ![[Florence#^76a45a]]
@@ -25,7 +25,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🎨 People to Know
 
 11. ![[Masaccio#^4496a9]]
-12. ![[Donatello#^1af21a]]
+12. ![[people.artists.sculptors.donatello#^1af21a]]
 13. ![[Sandro Botticelli#^78b90c]]
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]
@@ -34,11 +34,11 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 
 ## 🖼️ Specific Artworks to Identify by Sight
 
-- ![[Cathedral of Florence#^0993c3]]
+- ![[places.cathedrals.cathedral-florence#^0993c3]]
 - ![[works.artwork.paintings.the-last-supper#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
-- ![[David (Donatello and Michelangelo)#^7a2cc0]]
+- ![[works.artwork.sculptures.david#^7a2cc0]]
 - ![[works.artwork.paintings.battle-alexander-darius-issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
 - ![[works.artwork.adoration-of-the-trinity#^64655d]]

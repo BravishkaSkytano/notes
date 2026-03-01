@@ -10,66 +10,66 @@ tags:
 
 ## Terms to Define
 
-![[Rococo#^tldr]]
+1. [[history.movements.rococo|Rococo]]
 
-![[Neoclassicism#^tldr]]
+2. [[Neoclassicism]]
 
-![[Romanticism#^tldr]]
+3. [[Romanticism]]
 
-![[Realism#^tldr]]
+4. [[Realism]]
 
-![[Art Nouveau#^tldr]]
+5. [[Art Nouveau]]
 
-![[Impressionism#^tldr]]
+6. [[Impressionism]]
 
-![[Post-Impressionism#^tldr]]
+7. [[Post-Impressionism]]
 
-![[Expressionism#^tldr]]
+- [[Expressionism]]
 
-![[Symbolism (movement)#^tldr]]
+- [[Symbolism (movement)]]
 
-![[Fauvism#^tldr]]
+- [[Fauvism]]
 
-![[Art Deco#^tldr]]
+- [[Art Deco]]
 
-![[Surrealism#^tldr]]
+- [[Surrealism]]
 
 ## People to Know
 
-![[people.artists.painters.edouard-manet#^tldr]]
+- [[people.artists.painters.edouard-manet|Édouard Manet]]
 
-![[Claude Monet#^tldr]]
+- [[people.artists.painters.claude-monet|Claude Monet]]
 
-![[Pierre-Auguste Renoir#^tldr]]
+- [[Pierre-Auguste Renoir]]
 
-![[people.artists.painters.vincent-van-gogh#^tldr]]
+- [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
 
-![[Pablo Picasso#^tldr]]
+- [[Pablo Picasso]]
 
-![[Jacques-Louis David#^tldr]]
+- [[Jacques-Louis David]]
 
 ## Specific Artworks to Identify by Sight
 
-![[works.artwork.paintings.arrangement-gray-black-1#^tldr]]
+- [[works.artwork.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
 
-![[Oath of the Horatii#^tldr]]
+- [[Oath of the Horatii]]
 
-![[The Hay Wain#^tldr]]
+- [[The Hay Wain]]
 
-![[The Sower (Millet)#^tldr]]
+- [[The Sower (Millet)]]
 
-![[Rouen Cathedral paintings#^tldr]]
+- [[Rouen Cathedral paintings]]
 
-![[The Raft of the Medusa#^tldr]]
+- [[The Raft of the Medusa]]
 
-![[Interior of My Studio#^tldr]]
+- [[Interior of My Studio]]
 
-![[Le Moulin de la Galette#^tldr]]
+- [[Le Moulin de la Galette]]
 
-![[The Starry Night#^tldr]]
+- [[The Starry Night]]
 
-![[The Third of May, 1808#^tldr]]
+- [[The Third of May, 1808]]
 
-![[works.artwork.paintings.sunday-la-grande-jette#^tldr]]
+- [[works.artwork.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
 
-![[works.artwork.paintings.american-gothic#^tldr]]
+- [[works.artwork.paintings.american-gothic|American Gothic]]

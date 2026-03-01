@@ -24,7 +24,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 11. ![[Nave#^c376ab]]
 12. ![[Flying Buttress#^0b390b]]
 13. ![[Ribbed Vault#^bd2569]]
-14. ![[Clerestory#^344860]]
+14. ![[concepts.architecture.clerestory#^344860]]
 15. ![[Rose Window#^06cc7c]]
 16. ![[Tracery#^920185]]
 17. ![[Tapestry#^cab0c4]]
@@ -36,7 +36,7 @@ Pisa buildings (bell
 tower, baptistery, 
 cathedral)
 [[Notre-Dame de Paris|Notre-Dame]]
-[[Cathedral Chartres]]
+[[places.cathedrals.cathedral-chartres|Cathedral Chartres]]
 Cathedral of Reims
 Sainte Chapelle
 God as Architect

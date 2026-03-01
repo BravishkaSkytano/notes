@@ -4,6 +4,7 @@ description:
 date: 2024-02-27
 created: 2024-02-27 15:27
 modified: 2025-08-10 21:06
+draft: true
 ---
 
 ## Quotes

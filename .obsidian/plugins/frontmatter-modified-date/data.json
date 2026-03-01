@@ -10,7 +10,7 @@
     "z-templates"
   ],
   "useKeyupEvents": true,
-  "onlyUpdateExisting": true,
+  "onlyUpdateExisting": false,
   "timeout": 10,
   "excludeField": "exclude_modified_update",
   "appendField": "append_modified_update",

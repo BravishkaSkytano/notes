@@ -5,6 +5,7 @@
   "pretty-properties",
   "image-converter",
   "frontmatter-modified-date",
+  "file-explorer-note-count",
   "insert-unsplash-image",
   "various-complements",
   "wikipedia-search",
@@ -15,8 +16,5 @@
   "automatic-linker",
   "quickadd",
   "obsidian-linter",
-  "structured-tree",
-  "obsidian-auto-link-title",
-  "obsidian-pending-notes",
-  "obisidian-note-linker"
+  "structured-tree"
 ]

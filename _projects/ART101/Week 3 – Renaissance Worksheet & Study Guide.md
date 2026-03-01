@@ -39,7 +39,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
 - ![[David (Donatello and Michelangelo)#^7a2cc0]]
-- ![[Battle of Alexander and Darius on the Issus#^37438c]]
+- ![[works.artwork.paintings.battle-alexander-darius-issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
 - ![[works.artwork.adoration-of-the-trinity#^64655d]]
 - ![[Transfiguration of Christ#^77f14d]]

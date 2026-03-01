@@ -17,4 +17,4 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/61501553041c3f
 
 ^cab0c4
 
-**Example:** [[Bayeux Tapestry]]
+**Example:** [[works.artwork.paintings.bayeux-tapestry]]

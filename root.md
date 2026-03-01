@@ -5,6 +5,7 @@ draft: true
 modified: 2026-02-28T22:37:00-05:00
 created: 2026-02-28T22:28:41-05:00
 ---
+
 1. [[concepts|Concepts]]
 	1. [[concepts.architecture|Architecture]]
 	2. [[concepts.hermeneutics|Hermeneutics]]

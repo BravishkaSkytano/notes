@@ -275,8 +275,8 @@
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "suppressMessageWhenNoChange": true,
-  "lintOnFileChange": false,
-  "displayLintOnFileChangeNotice": false,
+  "lintOnFileChange": true,
+  "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "z-templates"

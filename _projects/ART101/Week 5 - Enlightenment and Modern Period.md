@@ -1,7 +1,7 @@
 ---
 date: 2025-11-16
 created: 2025-11-16 19:25
-modified: 2025-11-18 13:51
+modified: 2026-02-28T23:14:02-05:00
 tags:
   - course/ART101
   - worksheet
@@ -24,52 +24,52 @@ tags:
 
 7. [[Post-Impressionism]]
 
-- [[Expressionism]]
+8. [[Expressionism]]
 
-- [[Symbolism (movement)]]
+9. [[Symbolism (movement)]]
 
-- [[Fauvism]]
+10. [[Fauvism]]
 
-- [[Art Deco]]
+11. [[Art Deco]]
 
-- [[Surrealism]]
+12. [[Surrealism]]
 
 ## People to Know
 
-- [[people.artists.painters.edouard-manet|Édouard Manet]]
+1. [[people.artists.painters.edouard-manet|Édouard Manet]]
 
-- [[people.artists.painters.claude-monet|Claude Monet]]
+2. [[people.artists.painters.claude-monet|Claude Monet]]
 
-- [[Pierre-Auguste Renoir]]
+3. [[Pierre-Auguste Renoir]]
 
-- [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
+4. [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
 
-- [[Pablo Picasso]]
+5. [[Pablo Picasso]]
 
-- [[Jacques-Louis David]]
+6. [[Jacques-Louis David]]
 
 ## Specific Artworks to Identify by Sight
 
-- [[works.artwork.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
+1. [[works.artwork.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
 
-- [[Oath of the Horatii]]
+2. [[Oath of the Horatii]]
 
-- [[The Hay Wain]]
+3. [[The Hay Wain]]
 
-- [[The Sower (Millet)]]
+4. [[The Sower (Millet)]]
 
-- [[Rouen Cathedral paintings]]
+5. [[Rouen Cathedral paintings]]
 
-- [[The Raft of the Medusa]]
+6. [[The Raft of the Medusa]]
 
-- [[Interior of My Studio]]
+7. [[Interior of My Studio]]
 
-- [[Le Moulin de la Galette]]
+8. [[Le Moulin de la Galette]]
 
-- [[The Starry Night]]
+9. [[The Starry Night]]
 
-- [[The Third of May, 1808]]
+10. [[The Third of May, 1808]]
 
-- [[works.artwork.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
+11. [[works.artwork.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
 
-- [[works.artwork.paintings.american-gothic|American Gothic]]
+12. [[works.artwork.paintings.american-gothic|American Gothic]]

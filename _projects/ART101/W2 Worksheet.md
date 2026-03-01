@@ -28,7 +28,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 15. ![[Rose Window#^06cc7c]]
 16. ![[Tracery#^920185]]
 17. ![[Tapestry#^cab0c4]]
-18. ![[Apse#^552857]]
+18. ![[concepts.architecture.apse#^552857]]
 ## Specific Arts to Identify by Sight
 
 [[Hagia Sophia]]

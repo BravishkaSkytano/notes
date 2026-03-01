@@ -1,10 +1,8 @@
 ---
+title: Apse
 date: 2025-10-12
 created: 2025-10-12 21:13
 modified: 2025-11-03 01:59
-tags:
-  - course/ART101
-  - architecture/recess
 ---
 
 > [!tldr] Apse

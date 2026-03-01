@@ -13,7 +13,7 @@
   "formatLinearURLs": false,
   "debug": false,
   "ignoreCase": true,
-  "matchSentenceCase": true,
+  "matchSentenceCase": false,
   "replaceUrlWithTitle": true,
   "replaceUrlWithTitleIgnoreDomains": [],
   "excludeDirsFromAutoLinking": [

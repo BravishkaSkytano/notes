@@ -27,7 +27,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 14. ![[concepts.architecture.clerestory#^344860]]
 15. ![[Rose Window#^06cc7c]]
 16. ![[Tracery#^920185]]
-17. ![[Tapestry#^cab0c4]]
+17. ![[concepts.artwork.styles.tapestry#^cab0c4]]
 18. ![[concepts.architecture.apse#^552857]]
 ## Specific Arts to Identify by Sight
 

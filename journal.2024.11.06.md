@@ -1,5 +1,7 @@
 ---
 title: Wednesday, November 06, 2024
+modified: 2026-03-02T01:02:27-05:00
+created: 2026-02-27T17:36:22-05:00
 ---
 
 > [!quote] Elizabeth Browning
@@ -15,11 +17,11 @@ title: Wednesday, November 06, 2024
 Mood::
 
 Today, I am grateful for:
-1. [[Joshua Alejandro|Joshi]] and his goofiness and his gift of listening.
+1. [[people.family.alejandro-joshua|Joshi]] and his goofiness and his gift of listening.
 
 ### Memos
 
-- I spoke to [[Joshua Alejandro|Joshua]] about how Mom kinda stole part of my cut of the Roth IRA that Grandma left me. He got pretty upset about it too, however, he was proud of me for being able to express my emotions about the whole thing.
+- I spoke to [[people.family.alejandro-joshua|Joshua]] about how Mom kinda stole part of my cut of the Roth IRA that Grandma left me. He got pretty upset about it too, however, he was proud of me for being able to express my emotions about the whole thing.
 - I don’t know how he sees it, but he says that I’m stronger than I think I am and I’m not a coward. For some reason, I didn’t cry. Maybe, it’s because I knew Ms. Karen would arrive soon, I don’t know.
 
 ^memo-link

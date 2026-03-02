@@ -23,7 +23,7 @@ Today, I am grateful for:
 
 - Today is [[Kieron]]’s birthday. I texted him, that’s pretty much it.
 - We went to Harvest Church and it was okay. The message was on slaying dragons with the Lord’s help.
-- Ended up FaceTiming Kieron, and it was… okay, I guess. I don’t know, the spark isn’t there anymore. It hasn’t been for a while, but I’m really paying attention to it now. He just seems like an annoying older brother, and I really mean *annoying*. I enjoy talking to [[Joshua Alejandro|Joshi]] more.
+- Ended up FaceTiming Kieron, and it was… okay, I guess. I don’t know, the spark isn’t there anymore. It hasn’t been for a while, but I’m really paying attention to it now. He just seems like an annoying older brother, and I really mean *annoying*. I enjoy talking to [[people.family.alejandro-joshua|Joshi]] more.
 
 ^memo-link
 

@@ -24,7 +24,7 @@ description:
 11. ![[concepts.architecture.ancient.ziggurat#^6d2b09]]
 12. ![[Kouros#^0c1f70]]
 13. ![[Hieroglyphs#^762293]]
-14. ![[Obelisk#^fa0457]]
+14. ![[concepts.architecture.obelisk#^fa0457]]
 
 ## People to Know
  

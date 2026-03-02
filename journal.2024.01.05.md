@@ -8,7 +8,7 @@ aliases:
 > [!quote] The Buddha
 > When watching after yourself, you watch after others. When watching after others, you watch after yourself.
 
-### Journal
+## Journal
 
 - **[00:08]**  I need to start reading [[The Screwtape Letters]]
 - **[17:40]**  I think I need to learn Datalog, it seems interesting

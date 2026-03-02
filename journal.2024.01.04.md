@@ -15,9 +15,9 @@ aliases:
 I just finished the discussion board for today and it was a bit confusing. Why do people try to confuse me so much? Anyway, this is what I wrote and the video we were discussing.
 
 > This is one of those times when I knew something before going into the lesson, and was completely confused afterward. I am not a math wiz, nor do I aspire to be a mathematician, but I don't hate the subject either. I have heard about the correlations between God and math before, and I probably would have made connections on my own; but now I'm just confused. This video definitely went over my head.
-> 
+>
 > What I did manage to get from the lesson is that God ordered the universe in such a mathematical and logical way that is, in some ways, discoverable and admirable by mathematicians today. I wasn't aware of the numbers Googol or Googolplex beforehand, but I'm baffled by the idea that mathematicians are able to calculate them and just make up numbers. Personally, I don't see the appeal, why make up numbers that will never be used and can't even be written?
-> 
+>
 > Lastly, the concept of infinity was simple enough before you started trying to explain it. There are some things I just don't want to hear a drawn out and expounded definition for, and this is one of them. An infinity is infinite and unmeasurable, leave it at that, please. I don't understand why the mystery of infinity is so awe-inspiring that you would want to discover more. I use enough brain cells trying to come up with logical solutions to the unsolved crimes of the world than to even contemplate something whose very meaning is meant to be a mystery. No, thank you.
 
 [God, Infinity and Mathematics - YouTube](https://youtu.be/u2RQiqosO8Y)

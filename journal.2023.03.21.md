@@ -12,7 +12,7 @@ aliases:
 > Always be ready to write down what the Spirit prompts you to.
 
 > [!quote]+ [[Matthew 10#1|Matthew 10:1]]
-> <sup>**1** </sup>And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness. 
+> <sup>**1** </sup>And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.
 
 Think of this, Judas Iscariot was given this power too. He had the ability to cast out spirits and heal others, yet he didn’t heal himself. Isn’t it amazing that we can be so close to Christ, yet spiritually dead. How is this possible? How can we have this power to heal others but fail to use it in our own lives.
 

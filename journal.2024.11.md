@@ -1,5 +1,5 @@
 ---
-title: November 2024
+title: November
 aliases:
   - Nov 2024
 ---

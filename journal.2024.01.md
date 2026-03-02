@@ -1,4 +1,4 @@
 ---
-title: January 2024
+title: January
 description: ""
 ---

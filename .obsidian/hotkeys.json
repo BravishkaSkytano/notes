@@ -63,5 +63,13 @@
       ],
       "key": "6"
     }
+  ],
+  "quickadd:choice:2c53beb0-ad39-4609-9895-8b170f83a449": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }

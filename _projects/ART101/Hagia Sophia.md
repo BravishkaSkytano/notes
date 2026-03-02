@@ -1,7 +1,7 @@
 ---
 date: 2025-10-12
 created: 2025-10-12 21:18
-modified: 2025-11-03 01:26
+modified: 2026-03-02T15:03:02-05:00
 tags:
   - course/ART101
   - artwork/mosaic
@@ -15,11 +15,11 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/0639f7aebf8311
 
 ![[Hagia Sophia-1761596077883.webp]]
 
-Hagia Sophia in Istanbul features a rich and layered collection of [[00-09 System Management/06 Tag Notes/Artwork]] reflecting its complex history as a Christian cathedral, an Islamic mosque, and a secular museum. The building's interior is adorned with elaborate [[Mosaic|mosaic]]s created by [[Byzantine art]]ists during its cathedral period, depicting biblical and historical scenes, portraits of emperors and empresses, and religious figures such as Jesus Christ, the Virgin Mary, and saints. Notable mosaics include the Deesis mosaic, which portrays Christ flanked by the Virgin Mary and John the Baptist, and the Empress Zoe mosaic, showing Empress Zoe with her husband, Constantine IX Monomachos. The Virgin and Child mosaic, located in the [[concepts.architecture.apse|apse]], is another prominent example, believed to reconstruct an earlier work destroyed during the Iconoclastic period.
+Hagia Sophia in Istanbul features a rich and layered collection of artwork reflecting its complex history as a Christian cathedral, an Islamic mosque, and a secular museum. The building's interior is adorned with elaborate [[Mosaic|mosaic]]s created by [[Byzantine art]]ists during its cathedral period, depicting biblical and historical scenes, portraits of emperors and empresses, and religious figures such as Jesus Christ, the Virgin Mary, and saints. Notable mosaics include the Deesis mosaic, which portrays Christ flanked by the Virgin Mary and John the Baptist, and the Empress Zoe mosaic, showing Empress Zoe with her husband, Constantine IX Monomachos. The Virgin and Child mosaic, located in the [[concepts.architecture.apse|apse]], is another prominent example, believed to reconstruct an earlier work destroyed during the Iconoclastic period.
 
 ![[Hagia Sophia-1760318744531.webp|700x467]]
 
-The mosaics are crafted from thousands of small glass and stone pieces (tesserae) set into a gold background, creating a luminous effect that enhances their spiritual significance. The artists carefully considered lighting, with the gold tesserae arranged in patterns that reflect light, and the placement of mosaics often aligns with actual light sources from [[concepts.architecture.clerestory|clerestory]] windows, creating a naturalistic interplay between the [[00-09 System Management/06 Tag Notes/Artwork]] and its environment. Some mosaics, particularly those in the dome's pendentives, were plastered over during the Ottoman period and later uncovered during 19th-century restorations.
+The mosaics are crafted from thousands of small glass and stone pieces (tesserae) set into a gold background, creating a luminous effect that enhances their spiritual significance. The artists carefully considered lighting, with the gold tesserae arranged in patterns that reflect light, and the placement of mosaics often aligns with actual light sources from [[concepts.architecture.clerestory|clerestory]] windows, creating a naturalistic interplay between the artwork and its environment. Some mosaics, particularly those in the dome's pendentives, were plastered over during the Ottoman period and later uncovered during 19th-century restorations.
 
 ![[Hagia Sophia-1760318842257.webp|700x438]]
 

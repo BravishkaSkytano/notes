@@ -5,7 +5,6 @@
   "pretty-properties",
   "image-converter",
   "frontmatter-modified-date",
-  "file-explorer-note-count",
   "insert-unsplash-image",
   "various-complements",
   "wikipedia-search",
@@ -13,8 +12,10 @@
   "obsidian-plugin-update-tracker",
   "obsidian-front-matter-title-plugin",
   "find-orphaned-images",
-  "automatic-linker",
   "quickadd",
   "obsidian-linter",
-  "structured-tree"
+  "structured-tree",
+  "obsidian-auto-link-title",
+  "obsidian-pending-notes",
+  "obisidian-note-linker"
 ]

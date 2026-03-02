@@ -1,11 +1,12 @@
 {
   "pinned": [
     "switcher:open",
+    "quickadd:choice:2c53beb0-ad39-4609-9895-8b170f83a449",
     "structured-tree:structured-lookup",
     "insert-template",
     "insert-unsplash-image:insert-in-frontmatter",
     "pretty-properties:select-banner-image",
     "pretty-properties:select-cover-image",
-    "structured-tree:rename-structured-note"
+    "quickadd:runQuickAdd"
   ]
 }

@@ -26,7 +26,7 @@ Anatolia has been inhabited since prehistoric times, with early civilizations su
 
 Later, the region came under Persian control through the Achaemenid Empire, before being swept into the Hellenistic world following the campaigns of Alexander the Great.
 
-Under the Roman Empire, Asia Minor flourished with cities such as Ephesus and Pergamon becoming major centers of trade, learning, and early Christianity.
+Under the Roman Empire, Asia Minor flourished with cities such as [[theology.church-history.ephesus|Ephesus]] and Pergamon becoming major centers of trade, learning, and early Christianity.
 
 After the division of Rome, Anatolia became the heartland of the [[history.periods.byzantine-empire|Byzantine Empire]], with Constantinople serving as its capital.
 

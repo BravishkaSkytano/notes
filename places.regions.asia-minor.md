@@ -28,7 +28,7 @@ Later, the region came under Persian control through the Achaemenid Empire, befo
 
 Under the Roman Empire, Asia Minor flourished with cities such as Ephesus and Pergamon becoming major centers of trade, learning, and early Christianity.
 
-After the division of Rome, Anatolia became the heartland of the Byzantine Empire, with Constantinople serving as its capital.
+After the division of Rome, Anatolia became the heartland of the [[history.periods.byzantine-empire|Byzantine Empire]], with Constantinople serving as its capital.
 
 In the medieval period, Turkish migrations reshaped the region, eventually leading to the rise of the Ottoman Empire, which would rule much of southeastern Europe and the Middle East for centuries.
 

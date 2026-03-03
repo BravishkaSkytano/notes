@@ -1,0 +1,28 @@
+---
+title: Maccabean Revolt
+description:
+date: 2026-03-02
+created: 2026-03-02T20:46:00
+modified:
+draft: true
+---
+
+> [!summary]
+> **Time Frame:**  
+> **Geographic Scope:**  
+> **Preceded By:**  
+> **Followed By:**  
+
+## Overview
+
+## Major Events
+
+## Key Figures
+
+## Cultural / Intellectual Developments
+
+## Related Concepts
+
+> **the Maccabees** were Jewish rebel warriors who fought against Ancient Greco-Roman Hellenization in the 2nd Century BC.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Maccabees%20(disambiguation))

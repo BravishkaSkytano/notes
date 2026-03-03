@@ -7,7 +7,7 @@ needsUpdate: true
 ---
 
 > [!tldr] Byzantine art
-> Refers to the art and architecture of the Byzantine Empire (about 330–1453 CE). It’s known for its **religious themes**, **gold backgrounds**, **flat, stylized figures**, and **mosaics** that emphasize **spirituality over realism**.
+> Refers to the art and architecture of the [[history.periods.byzantine-empire|Byzantine Empire]] (about 330–1453 CE). It’s known for its **religious themes**, **gold backgrounds**, **flat, stylized figures**, and **mosaics** that emphasize **spirituality over realism**.
 
 Byzantine artwork is still maintained in Eastern Orthodox countries, specifically Greece, Cyprus, Serbia, Bulgaria, Romania, and Russia.
 

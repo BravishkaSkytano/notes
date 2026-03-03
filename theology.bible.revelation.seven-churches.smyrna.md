@@ -1,12 +1,9 @@
 ---
+title: Smyrna
+date:
 created: 2023-10-19 15:56
 modified: 2025-08-10 20:47
-tags:
-  - church-history
-aliases:
-  - Smyrna
-  - suffering church
-view-count: 1
+needsUpdate: true
 ---
 
 Smyrna was a thriving Roman seaport that Homer called home and the temple of Athena stood. The city also had an influential minority of prosperous Jewish merchants that were hostile to the Christian community there. Polycarp was their bishop in 155 A.D. before he was martyred by the Romans.

@@ -1,9 +1,9 @@
 ---
+title: The little horn
 date: 2023-10-03
-draft: true
+created:
 modified: 2024-02-16
-tags:
-  - 📥/🌱
+draft: true
 ---
 
 ![[Daniel 8#9]] ![[Daniel 8#10]]

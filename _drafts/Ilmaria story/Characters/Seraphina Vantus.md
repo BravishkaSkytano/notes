@@ -13,7 +13,7 @@ draft: true
 banner: manuscripts/Ilmaria story/Characters/images/seraphina-vantus.jpg
 ---
 
-![[seraphina-vantus.jpg]]
+![[seraphina-vantus.webp]]
 
 ## Traits
 

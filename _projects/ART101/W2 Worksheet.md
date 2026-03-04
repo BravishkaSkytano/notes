@@ -36,7 +36,7 @@ Pisa buildings (bell
 tower, baptistery, 
 cathedral)
 [[Notre-Dame de Paris|Notre-Dame]]
-[[places.cathedrals.cathedral-chartres|Cathedral Chartres]]
+[[art.architecture.cathedrals.cathedral-chartres|Cathedral Chartres]]
 Cathedral of Reims
 Sainte Chapelle
 God as Architect

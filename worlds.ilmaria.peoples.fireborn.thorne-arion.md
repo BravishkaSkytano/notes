@@ -8,6 +8,7 @@ modified: 2026-03-04T14:34:54-05:00
 aliases:
   - Warlord of the Ashen Wastes
 needsUpdate: true
+cover: img/covers/arion-thorne.webp
 ---
 
 ## Backstory

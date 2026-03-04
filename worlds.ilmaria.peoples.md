@@ -1,5 +1,5 @@
 ---
-title: Creatures Found Within Ilmaria
+title: Peoples
 description: Ilmaria is home to a myriad of magical creatures, including dragons, fey, sea serpents, griffins, and elementals.
 date: 2024-10-16T22:08:00
 created: 2024-10-16T20:52:00

@@ -1,15 +1,15 @@
 ---
-title: Aric Shadowbane, the Veiled Rider of the Blackwood
-description: Aric Shadowbane is the youngest and only surviving member of House Shadowbane.
+title: Aric Shadowbane
+description: The youngest and only surviving member of House Shadowbane.
 date: 2024-08-15T15:21:00
 tags:
 created: 2024-08-15T18:42:00
 modified: 2026-03-04T14:22:37-05:00
 aliases:
-  - Aric Shadowbane
   - Veiled Rider
   - Veiled Rider of the Blackwood
 draft: true
+cover: img/covers/aric-shadowbane.webp
 ---
 
 Aric Shadowbane was once a noble knight from the Kingdom of Eldoria, a realm known for its lush forests and ancient magic. As the youngest son of the noble House Shadowbane, Aric grew up in the shadow of his elder siblings, never expected to inherit lands or titles. Instead, he found solace in the deep, mysterious woods surrounding his family's estate, where he honed his skills in stealth and swordsmanship.

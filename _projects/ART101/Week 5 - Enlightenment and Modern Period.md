@@ -50,7 +50,7 @@ tags:
 
 ## Specific Artworks to Identify by Sight
 
-1. [[works.artwork.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
+1. [[art.works.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
 
 2. [[Oath of the Horatii]]
 
@@ -70,6 +70,6 @@ tags:
 
 10. [[The Third of May, 1808]]
 
-11. [[works.artwork.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
+11. [[art.works.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
 
-12. [[works.artwork.paintings.american-gothic|American Gothic]]
+12. [[art.works.paintings.american-gothic|American Gothic]]

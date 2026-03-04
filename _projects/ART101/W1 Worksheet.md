@@ -16,15 +16,15 @@ description:
 3. ![[history.periods.hellenistic#^79d00d]]
 4. ![[Doric capital#^843fe9]]
 5. ![[Ionic capital#^286375]]
-6. ![[concepts.architecture.corinthian-capital#^ba9f18]]
+6. ![[art.architecture.corinthian-capital#^ba9f18]]
 7. ![[Frieze#^c3b3aa]]
 8. ![[Roman triumphal arch#^189fc4]]
 9. ![[Pediment#^4183a4]]
 10. ![[Pyramid#^54d79c]]
-11. ![[concepts.architecture.ancient.ziggurat#^6d2b09]]
+11. ![[art.architecture.ancient.ziggurat#^6d2b09]]
 12. ![[Kouros#^0c1f70]]
 13. ![[Hieroglyphs#^762293]]
-14. ![[concepts.architecture.obelisk#^fa0457]]
+14. ![[art.architecture.obelisk#^fa0457]]
 
 ## People to Know
  

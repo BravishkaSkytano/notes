@@ -7,7 +7,7 @@ created: 2026-02-28T22:28:41-05:00
 ---
 
 1. [[concepts|Concepts]]
-	1. [[concepts.architecture|Architecture]]
+	1. [[art.architecture|Architecture]]
 	2. [[concepts.hermeneutics|Hermeneutics]]
 2. [[education|Education]]
 3. [[history|History]]
@@ -28,7 +28,7 @@ created: 2026-02-28T22:28:41-05:00
 9. [[tutorials|Tutorials]]
 	1. [[tutorials.git|Git]]
 10. [[works|Works]]
-	1. [[works.artwork|Artwork]]
-		1. [[works.artwork.paintings|Paintings]]
+	1. [[art.works|Artwork]]
+		1. [[art.works.paintings|Paintings]]
 	2. [[works.books|Books]]
-11. [[worldbuilding|Worldbuilding]]
+11. [[worlds|Worldbuilding]]

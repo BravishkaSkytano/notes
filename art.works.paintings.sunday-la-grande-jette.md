@@ -36,6 +36,6 @@ A Sunday Afternoon on the Island of La Grande Jatte is Georges Seurat’s most f
 
 ## Resources
 
-- [[education.art101|ART101: Visual and Performing Arts]]
+- [[education.ART101|ART101: Visual and Performing Arts]]
 - The Annotated Mona Lisa
 - [A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia](https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte)

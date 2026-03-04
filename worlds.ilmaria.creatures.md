@@ -4,9 +4,8 @@ description: Ilmaria is home to a myriad of magical creatures, including dragons
 date: 2024-10-16T22:08:00
 created: 2024-10-16T20:52:00
 modified: 2024-10-20T23:03:00
-tags:
-  - creature
 ---
+
 - **Dragons**: Majestic and powerful, dragons are revered and feared. Each region has its own subspecies, adapted to their environment.
 - **Fey**: Mischievous and magical beings that inhabit the forests and glades.
 - **Sea Serpents**: Massive, serpentine creatures that dwell in the deepest parts of the ocean.

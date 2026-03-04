@@ -1,0 +1,11 @@
+---
+title: Thursday, January 11th, 2024
+modified: 2026-03-04T15:16:57-05:00
+created: 2026-02-11T18:42:46-05:00
+---
+
+> [!quote] H. Jackson Brown Jr.
+> Our character is what we do when we think no one is looking.
+
+- **[11:30]**  I just told [[Kieron Demontae Grandicks Cruz|Kieron]] about my addiction, and he can relate so much. I'm comfortable enough with him to share.
+- I need to get better at writing journal entries

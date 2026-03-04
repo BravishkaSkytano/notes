@@ -26,7 +26,11 @@
   "coverSquareWidth": 250,
   "coverCircleWidth": 250,
   "coverMaxWidthPopover": 150,
-  "progressProperties": {},
+  "progressProperties": {
+    "year": {
+      "maxNumber": 100
+    }
+  },
   "allTasksCount": "tasks",
   "completedTasksCount": "tasks_completed",
   "uncompletedTasksCount": "tasks_uncompleted",
@@ -121,5 +125,7 @@
   "hideMetadataContainerIfAllPropertiesHiddenEditing": false,
   "hideMetadataContainerIfAllPropertiesHiddenReading": false,
   "autoHidePropertiesWithBanner": false,
-  "hideCoverCollapsed": false
+  "hideCoverCollapsed": false,
+  "hidePropTitle": false,
+  "hideAddPropertyButton": false
 }

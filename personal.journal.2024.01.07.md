@@ -1,11 +1,11 @@
 ---
+title: Sunday, January 7th, 2024
 created: 2026-02-11T18:42:46-05:00
 modified: 2026-03-04T14:53:50-05:00
 ---
 
 > [!quote] Mother Teresa
 > Peace begins with a smile.
-
 
 - **[17:23]**  A lot has happened today and at the same time, not much.
 	- We didn't go to church, but we attended online. [[Pastor Brian Pettrey]] spoke about contentment and how to raise God and lower ourselves. His sermon wasn't bad, guess he's growing on me.

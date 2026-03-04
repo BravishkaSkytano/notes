@@ -20,7 +20,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/816409ff59f466
 ---
 
 > [!tldr] Leonardo da Vinci
-> True “[[Renaissance man]]”—artist, inventor, and scientist; painted _[[Mona Lisa]]_ and _[[art.works.paintings.the-last-supper|The Last Supper]]_.
+> True “[[Renaissance man]]”—artist, inventor, and scientist; painted _[[Mona Lisa]]_ and _[[art.literature.works.paintings.the-last-supper|The Last Supper]]_.
 > ![[Leonardo da Vinci-500x716.webp|250x358]]
 
 ^a8d302

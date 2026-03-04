@@ -34,7 +34,7 @@ Of course, I'm not that popular, so I doubt anyone would *want* to steal my cont
 
 Run the following commands to add a submodule using SSH:
 
-![[tutorials.git.add-submodule#^76869d]]
+![[technology.git.add-submodule#^76869d]]
 
 ## Setting Up Netlify
 

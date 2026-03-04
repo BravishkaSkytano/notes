@@ -29,7 +29,7 @@ banner: _projects/ART101/The Third of May, 1808-960x741.webp
 >
 > The painting's content, presentation, and emotional force secure its status as a ground-breaking, archetypal image of the horrors of war. Although it draws on many sources from both high and popular art, The Third of May marks a clear break from convention. By diverging from the traditions of Christian art and traditional depictions of war, it has no distinct precedent, and is acknowledged as one of the first paintings of the modern era. According to the art historian Kenneth Clark, it is "the first great picture which can be called revolutionary in every sense of the word, in style, in subject, and in intention".
 >
-> The Third of May 1808 inspired Gerald Holtom's peace sign and a number of later major paintings, including a series by [[people.artists.painters.edouard-manet|Édouard Manet]], and [[Pablo Picasso]]'s Massacre in Korea and Guernica.
+> The Third of May 1808 inspired Gerald Holtom's peace sign and a number of later major paintings, including a series by [[art.people.painters.edouard-manet|Édouard Manet]], and [[Pablo Picasso]]'s Massacre in Korea and Guernica.
 >
 > **~ *Wikipedia***
 

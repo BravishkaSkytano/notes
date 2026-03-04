@@ -15,7 +15,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6a4502fa0df9d7
 > **Medium:** [[Oil on canvas]]
 > **Genre(s):** [[Architecture]]
 > **Theme(s):** [[Nature]], [[Emotion]]
-> **Artist:** [[people.artists.painters.claude-monet]]
+> **Artist:** [[art.people.painters.claude-monet|Claude Monet]]
 > **Movement:** [[Impressionism]]
 > **Region:** [[France]]
 > **Period:** [[19th Century]]

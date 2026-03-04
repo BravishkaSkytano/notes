@@ -7,4 +7,4 @@ draft: true
 ---
 
 > [!tldr] Adoration of the Trinity
-> [[people.artists.painters.albrecht-durer|Albrecht Dürer]]; complex depiction of heaven and earth.
+> [[art.people.painters.albrecht-durer|Albrecht Dürer]]; complex depiction of heaven and earth.

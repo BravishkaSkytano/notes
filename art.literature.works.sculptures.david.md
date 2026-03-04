@@ -7,5 +7,5 @@ draft: true
 ---
 
 > [!tldr] David
-> both depict the biblical hero, [[people.artists.sculptors.donatello|Donatello]]’s in bronze, [[Michelangelo]]’s in marble.
+> both depict the biblical hero, [[art.people.sculptors.donatello|Donatello]]’s in bronze, [[Michelangelo]]’s in marble.
 

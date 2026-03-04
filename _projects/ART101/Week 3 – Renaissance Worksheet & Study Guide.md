@@ -25,23 +25,23 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🎨 People to Know
 
 11. ![[Masaccio#^4496a9]]
-12. ![[people.artists.sculptors.donatello#^1af21a]]
+12. ![[art.people.sculptors.donatello#^1af21a]]
 13. ![[Sandro Botticelli#^78b90c]]
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]
 16. ![[Leonardo da Vinci#^a8d302]]
-17. ![[people.artists.painters.albrecht-durer#^7e7a4b]]
+17. ![[art.people.painters.albrecht-durer#^7e7a4b]]
 
 ## 🖼️ Specific Artworks to Identify by Sight
 
 - ![[places.cathedrals.cathedral-florence#^0993c3]]
-- ![[art.works.paintings.the-last-supper#^7e0309]]
+- ![[art.literature.works.paintings.the-last-supper#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
-- ![[art.works.sculptures.david#^7a2cc0]]
-- ![[art.works.paintings.battle-alexander-darius-issus#^37438c]]
+- ![[art.literature.works.sculptures.david#^7a2cc0]]
+- ![[art.literature.works.paintings.battle-alexander-darius-issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
-- ![[art.works.adoration-of-the-trinity#^64655d]]
+- ![[art.literature.works.adoration-of-the-trinity#^64655d]]
 - ![[Transfiguration of Christ#^77f14d]]
 - ![[St. Peter’s Cathedral#^7ff03e]]
 - [[Sistine Chapel ceiling]]

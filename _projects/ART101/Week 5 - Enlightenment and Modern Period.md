@@ -36,13 +36,13 @@ tags:
 
 ## People to Know
 
-1. [[people.artists.painters.edouard-manet|Édouard Manet]]
+1. [[art.people.painters.edouard-manet|Édouard Manet]]
 
-2. [[people.artists.painters.claude-monet|Claude Monet]]
+2. [[art.people.painters.claude-monet|Claude Monet]]
 
 3. [[Pierre-Auguste Renoir]]
 
-4. [[people.artists.painters.vincent-van-gogh|Vincent van Gogh]]
+4. [[art.people.painters.vincent-van-gogh|Vincent van Gogh]]
 
 5. [[Pablo Picasso]]
 
@@ -50,7 +50,7 @@ tags:
 
 ## Specific Artworks to Identify by Sight
 
-1. [[art.works.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
+1. [[art.literature.works.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
 
 2. [[Oath of the Horatii]]
 
@@ -70,6 +70,6 @@ tags:
 
 10. [[The Third of May, 1808]]
 
-11. [[art.works.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
+11. [[art.literature.works.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
 
-12. [[art.works.paintings.american-gothic|American Gothic]]
+12. [[art.literature.works.paintings.american-gothic|American Gothic]]

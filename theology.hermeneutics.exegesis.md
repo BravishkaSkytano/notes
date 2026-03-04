@@ -8,10 +8,10 @@ description: Interpreting the meaning of a text according to what the author int
 
 > [!summary]
 > **Definition:** The careful, context-sensitive interpretation of a text that seeks to draw out the author’s intended meaning rather than importing one’s own assumptions.
-> **Domain:** Biblical studies, theology, literary studies, [[concepts.hermeneutics|Hermeneutics]]
-> **Related Concepts:** [[concepts.hermeneutics|Hermeneutics]], [[concepts.hermeneutics.eisegesis|Eisegesis]], historical-grammatical method, authorial intent
+> **Domain:** Biblical studies, theology, literary studies, [[theology.hermeneutics|Hermeneutics]]
+> **Related Concepts:** [[theology.hermeneutics|Hermeneutics]], [[theology.hermeneutics.eisegesis|Eisegesis]], historical-grammatical method, authorial intent
 > **Key Sources:**
-> **Opposing / Contrasting Ideas:** [[concepts.hermeneutics.eisegesis|Eisegesis]], proof-texting, unchecked reader-response
+> **Opposing / Contrasting Ideas:** [[theology.hermeneutics.eisegesis|Eisegesis]], proof-texting, unchecked reader-response
 
 ## Overview
 
@@ -59,7 +59,7 @@ For someone committed to Christ-centered, Spirit-led growth, exegesis becomes an
 
 ## Connections
 
-- [[concepts.hermeneutics|Hermeneutics]] — the broader theory of interpretation
+- [[theology.hermeneutics|Hermeneutics]] — the broader theory of interpretation
 - The historical-grammatical method
 - Genre analysis
 - Canonical theology

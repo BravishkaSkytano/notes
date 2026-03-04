@@ -17,11 +17,11 @@ created: 2026-02-27T17:36:22-05:00
 Mood::
 
 Today, I am grateful for:
-1. [[people.family.alejandro-joshua|Joshi]] and his goofiness and his gift of listening.
+1. [[personal.people.alejandro-joshua|Joshi]] and his goofiness and his gift of listening.
 
 ### Memos
 
-- I spoke to [[people.family.alejandro-joshua|Joshua]] about how Mom kinda stole part of my cut of the Roth IRA that Grandma left me. He got pretty upset about it too, however, he was proud of me for being able to express my emotions about the whole thing.
+- I spoke to [[personal.people.alejandro-joshua|Joshua]] about how Mom kinda stole part of my cut of the Roth IRA that Grandma left me. He got pretty upset about it too, however, he was proud of me for being able to express my emotions about the whole thing.
 - I don’t know how he sees it, but he says that I’m stronger than I think I am and I’m not a coward. For some reason, I didn’t cry. Maybe, it’s because I knew Ms. Karen would arrive soon, I don’t know.
 
 ^memo-link

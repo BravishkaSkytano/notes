@@ -1,35 +1,14 @@
 ---
-title: Arion Thorne, Warlord of the Ashen Wastes
-description: Lord Arion Thorne is a formidable force in Ilmaria, a warlord whose strength and strategic brilliance shape the fate of the Ashen Wastes and beyond. His leadership, forged in fire and tempered by conflict, ensures that he remains a key player in the intricate tapestry of Ilmaria's power dynamics.
+title: Arion Thorne
+description: A warlord whose strength and strategic brilliance shape the fate of the Ashen Wastes and beyond. His leadership, forged in fire and tempered by conflict, ensures that he remains a key player in the intricate tapestry of Ilmaria's power dynamics.
 date: 2024-06-21T15:07:00
-lastmod: 2024-11-22T16:34:35
 tags:
-categories:
-  - branch
-  - character
+created: 2024-06-21T14:32:00
+modified: 2026-03-04T14:34:54-05:00
 aliases:
-  - Arion Thorne
   - Warlord of the Ashen Wastes
-banner: "![[arion-thorne.jpg]]"
-banner_y: 0.216
-feature: "[[arion-thorne.webp]]"
-image: 30–39 Writing/30 Management for Writing/30.01 Inbox/20-29 Prose/Fiction/Ilmaria story/Characters/images/arion-thorne.jpg
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/71a8e8612a2d940ccc3459c4918d8b79_86cf658e.webp
-draft: true
+needsUpdate: true
 ---
-
-![[arion-thorne.webp]]
-
-| Traits      | Sub-traits       |
-| ----------- | ---------------- |
-| Archetype   | Warlord          |
-| Continent   | [[Ashen Wastes]] |
-| Species     | [[Fireborn]]     |
-| Kingdom     |                  |
-| Eye color   | Brown            |
-| Accessories |                  |
-| Hair color  |                  |
-| Skills      | Fire magic       |
 
 ## Backstory
 

@@ -1,31 +1,14 @@
 ---
-title: Seraphina Vantus, the Scorpion Queen
+title: Seraphina Vantus
 description: In the ancient city of Tarsis, now a crumbling relic of its former glory, legends speak of a warrior known as Seraphina Vantus, the Scorpion Queen. Born into a lineage of fierce protectors of the realm, Seraphina's life was destined for greatness and strife from the very beginning.
 date: 2024-06-21T16:35:00
-lastmod: 2024-11-22T16:37:25
+created: 2026-02-11T18:42:47-05:00
 tags:
-categories:
-  - character
-  - branch
-image: 30–39 Writing/30 Management for Writing/30.01 Inbox/20-29 Prose/Fiction/Ilmaria story/Characters/images/seraphina-vantus.jpg
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/cb5dc533b068cafe825cde78aadc64c7_86cf658e.webp
-draft: true
-banner: manuscripts/Ilmaria story/Characters/images/seraphina-vantus.jpg
+modified: 2026-03-04T14:30:47-05:00
+aliases:
+  - Scorpion Queen
+needsUpdate: true
 ---
-
-![[seraphina-vantus.webp]]
-
-## Traits
-
-| Traits      | Sub-traits                       |
-| ----------- | -------------------------------- |
-| Archetype   | Guardian, Queen                  |
-| Continent   | [[Sunaara Deserts]]              |
-| Species     | [[Humans]]                        |
-| Eyes        | Brown                            |
-| Accessories | Scorpion armor, war paint, crown |
-| Hair color  | Brown                            |
-| Skills      | Assassin                         |
 
 ## Origins
 

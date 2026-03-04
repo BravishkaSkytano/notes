@@ -1,12 +1,17 @@
 ---
 title: Empress Lyriana Aurelia, the Jewel of the Celestial Throne
-description: Empress Lyriana Aurelia, known as the Jewel of the Celestial Throne, rules over the vast and ancient empire of Althera, a realm where magic and technology intertwine to create wonders beyond imagination. Born into the royal bloodline of the Aurelia dynasty, Lyriana was destined from birth to ascend to the throne, yet her path was fraught with challenges and peril.
+description: The Jewel of the Celestial Throne rules over the vast and ancient empire of Althera, a realm where magic and technology intertwine to create wonders beyond imagination. Born into the royal bloodline of the Aurelia dynasty, Lyriana was destined from birth to ascend to the throne, yet her path was fraught with challenges and peril.
 date: 2024-08-15T16:41:00
 tags:
+created: 2026-02-11T18:42:47-05:00
+modified: 2026-03-04T14:26:41-05:00
 draft: true
+aliases:
+  - Lyriana Aurelia
+  - Jewel of the Celestial Throne
+needsUpdate: true
+cover: img/covers/lyriana-aurelia.webp
 ---
-
-![[lyriana-aurelia.webp]]
 
 As a child, Lyriana was recognized not only for her beauty but also for her unparalleled intellect and innate magical abilities. Her connection to the arcane was extraordinary, allowing her to manipulate both light and energy in ways that had not been seen for centuries. This talent, however, drew the attention of those who coveted the throne and feared her potential.
 

@@ -1,4 +1,4 @@
 ---
-title: People
+title: Scientific Laws
 description: ""
 ---

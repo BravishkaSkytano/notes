@@ -91,11 +91,11 @@ SC is very helpful, but all the excitement and planning required is overwhelming
 
 MC does a lot of research on motherhood and it's all so daunting.
 
-#### 17. TRIALS - MC Takes Action, but due to the Enormity of the Task, Stuff Go Wrong
+#### 17. TRIALS - MC Takes Action, but Due to the Enormity of the Task, Stuff Go Wrong
 
 AC reaches out to her again, touches her, threatens her, all that stuff.
 
-#### 18. DEDICATED - Despite Setbacks, MC Decides to Succeed no Matter what
+#### 18. DEDICATED - Despite Setbacks, MC Decides to Succeed No Matter what
 
 Despite her fear, MC hatches a plan to keep her pregnancy secret.
 

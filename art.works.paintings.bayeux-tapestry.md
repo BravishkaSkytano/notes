@@ -12,6 +12,3 @@ The **Bayeux [[concepts.artwork.styles.tapestry|Tapestry]]** is a nearly 70-mete
 It is widely believed to have been commissioned by **Bishop Odo of Bayeux**, half-brother of William the Conqueror, and likely crafted by **Anglo-Saxon artisans in Canterbury, England**. The work features **58 scenes** with Latin inscriptions (tituli), portraying key figures such as Harold Godwinson and William, Duke of Normandy, and includes vivid depictions of warfare, shipbuilding, feasting, and even Halley’s Comet as an omen.
 
 The tapestry has been housed in **Bayeux, Normandy, France**, for centuries and is displayed at the **Musée de la Tapisserie de Bayeux**. Notably, it will travel to the **British Museum in London** from **September 2026 to July 2027**—its first return to England in over 900 years.
-
-
-

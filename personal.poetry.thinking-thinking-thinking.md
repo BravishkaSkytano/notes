@@ -1,6 +1,6 @@
 ---
 title: Thinking, Thinking, Thinking...
-parent: "[[manuscripts.poetry]]"
+parent: "[[personal.poetry]]"
 date: 2022-05-06
 created: 2022-05-06T17:57:00
 modified: 2024-10-26T21:07:00

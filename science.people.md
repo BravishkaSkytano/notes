@@ -1,4 +1,4 @@
 ---
-title: Polymaths
+title: Scientists
 description: ""
 ---

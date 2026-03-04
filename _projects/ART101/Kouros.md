@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!summary] Kouros
-> A free-standing sculpture of a nude male youth, typically made of marble or bronze, produced in ancient Greece during the [[concepts.archaic|Archaic]] period. They're characterized by their rigid, stylized poses, with one foot slightly forward and arms held straight down.
+> A free-standing sculpture of a nude male youth, typically made of marble or bronze, produced in ancient Greece during the [[history.periods.archaic|Archaic]] period. They're characterized by their rigid, stylized poses, with one foot slightly forward and arms held straight down.
 
 ^0c1f70
 

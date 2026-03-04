@@ -1,4 +1,4 @@
 ---
-title: People
+title: Civilizations
 description: ""
 ---

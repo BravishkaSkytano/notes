@@ -11,8 +11,8 @@ description:
 
 ## Terms to Define
 
-1.  ![[concepts.archaic#^12ad6e]]
-2. ![[concepts.classical#^c1c548]]
+1.  ![[history.periods.archaic#^12ad6e]]
+2. ![[history.periods.classical#^c1c548]]
 3. ![[history.periods.hellenistic#^79d00d]]
 4. ![[Doric capital#^843fe9]]
 5. ![[Ionic capital#^286375]]

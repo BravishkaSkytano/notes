@@ -86,6 +86,7 @@ views:
       and:
         - title.isEmpty()
         - file.ext == "md"
+        - file.folder != "z-templates"
   - type: list
     name: Lacks description
     filters:

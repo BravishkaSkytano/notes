@@ -1,4 +1,4 @@
 ---
-title: Laws
+title: Daniel
 description: ""
 ---

@@ -1,4 +1,4 @@
 ---
-title: Laws
+title: Seven Churches
 description: ""
 ---

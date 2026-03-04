@@ -1,5 +1,5 @@
 ---
-title: Church History
+title: Ontology
 description: ""
 draft: true
 ---

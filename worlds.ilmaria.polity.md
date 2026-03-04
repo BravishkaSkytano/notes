@@ -1,5 +1,5 @@
 ---
-title: Church History
+title: Polity
 description: ""
 draft: true
 ---

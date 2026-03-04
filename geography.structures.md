@@ -1,5 +1,5 @@
 ---
-title: Church History
+title: Structures
 description: ""
 draft: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Church History
+title: Techniques
 description: ""
 draft: true
 ---

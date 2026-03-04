@@ -1,5 +1,5 @@
 ---
-title: Tips and Advice
+title: Literary Devices
 description: A collection of writing tips and tutorials.
 date: 2024-10-13
 created: 2024-10-23T14:12:00

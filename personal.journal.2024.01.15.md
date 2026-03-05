@@ -1,17 +1,8 @@
 ---
-cssclasses:
-  - daily
-tags:
-  - daily
-week: W03
-month: 01-January
-year: 2024
-title:
-modified: 2026-03-04T15:19:29-05:00
+title: Monday, January 15th, 2024
+modified: 2026-03-04T15:20:16-05:00
 created: 2026-02-11T18:42:46-05:00
 ---
-
-## [[2024-01-14|⬅]] 🔹 Monday 🔹 January 15th 🔹 2024 🔹 [[2024-01-16|➡]]
 
 > [!quote] Thomas Aquinas
 > Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.

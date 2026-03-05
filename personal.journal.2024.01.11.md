@@ -2,6 +2,9 @@
 title: Thursday, January 11th, 2024
 modified: 2026-03-04T15:16:57-05:00
 created: 2026-02-11T18:42:46-05:00
+aliases:
+  - 2024-01-11
+  - Jan 11, 2024
 ---
 
 > [!quote] H. Jackson Brown Jr.

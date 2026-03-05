@@ -2,6 +2,9 @@
 title: Wednesday, January 10th, 2024
 modified: 2026-03-04T15:07:35-05:00
 created: 2026-02-11T18:42:46-05:00
+aliases:
+  - 2024-01-10
+  - Jan 10, 2024
 ---
 
 > [!quote] Washington Irving

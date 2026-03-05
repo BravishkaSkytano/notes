@@ -1,6 +1,5 @@
 ---
 title: November
-aliases:
-  - Nov 2024
+description: ""
 needsUpdate: true
 ---

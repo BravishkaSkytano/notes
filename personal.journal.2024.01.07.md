@@ -2,6 +2,9 @@
 title: Sunday, January 7th, 2024
 created: 2026-02-11T18:42:46-05:00
 modified: 2026-03-04T14:53:50-05:00
+aliases:
+  - 2024-01-07
+  - Jan 7, 2024
 ---
 
 > [!quote] Mother Teresa

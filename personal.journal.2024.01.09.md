@@ -1,7 +1,10 @@
 ---
-modified: 2026-03-04T15:04:38-05:00
 title: Tuesday, January 9th, 2024
 created: 2026-02-11T18:42:46-05:00
+modified: 2026-03-04T15:04:38-05:00
+aliases:
+  - 2024-01-09
+  - Jan 9, 2024
 ---
 
 > [!quote] Winston Churchill

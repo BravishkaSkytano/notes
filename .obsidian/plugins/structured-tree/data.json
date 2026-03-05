@@ -9,7 +9,7 @@
   "autoReveal": true,
   "customResolver": false,
   "customGraph": false,
-  "enableCanvasSupport": true,
+  "enableCanvasSupport": false,
   "hierarchySeparator": ".",
   "autoGenerateFrontmatter": true,
   "generateTags": false,

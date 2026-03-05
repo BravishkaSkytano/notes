@@ -12,7 +12,7 @@ aliases:
 > [!quote] Pema Chödrön
 > Nothing ever goes away until it has taught us what we need to know.
 
-#### 18:32
+### 18:32
 
 We just dropped off Kenneth to the airport in NJ. I think he’s on his way to GA for… a church thing? Anyway, him and Mom talked the *entire* time and it was annoying. He was talking about the retreat we picked him up from, his job, GA, and his new girlfriend. Of course, Mom listened to all of it, laughing and commenting about everything. It hurts to see their relationship, especially when I feel like I’ll *never* have that. He isn’t related to her in any way and yet I’m jealous of him. She didn’t mind helping him get comfortable driving and he talks to her about practically everything, and he’s so excited about it all. I could *NEVER* and it hurts so damn bad.
 

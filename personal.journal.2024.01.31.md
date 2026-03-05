@@ -10,13 +10,11 @@ aliases:
 > [!quote] Abraham Lincoln
 > I destroy my enemies when I make them my friends.
 
-
-
-#### 09:18
+## 09:18
 
 [[The Trinity]] is not like an egg because the parts of an egg can be separated. A better analogy is a triangle.
 
-#### 09:19
+## 09:19
 
 Do these verses prove that Jesus is God the Father as [[Oneness Pentecostal]] believe?
 
@@ -28,7 +26,7 @@ Do these verses prove that Jesus is God the Father as [[Oneness Pentecostal]] be
 
 They argue that "and" (Greek: kai) in the phrase should be translated as even, making Jesus and the Father seem like one. It is true that *kai* can be translated as "even" but *kai* has a very limited semantic range.
 
-#### 09:28
+## 09:28
 
 Is water baptism a condition for salvation?
 
@@ -42,7 +40,7 @@ Paul says Christ didn't send him to baptize people, yet Christ commission his di
 
  Paul wasn't opposed to baptism ([[Acts 2#38]]), but he didn't believe it was a requirement for salvation. He believed it was a symbol of salvation.
 
-#### 09:36
+## 09:36
 
 > 1 Corinthians 3:15
 > ![[1 Cor 3#15]]
@@ -51,7 +49,7 @@ Paul declares that people are saved only through fire. [[Roman Catholic]] schola
 
 Here, Paul is speaking about *works,* not people. He is saying that we will have a "reward" in heaven.
 
-#### 09:40
+## 09:40
 
 Was Paul's condemnation of homosexuality merely his own idea? Was he against all homosexual acts, or only offensive ones?
 

@@ -26,11 +26,7 @@
   "coverSquareWidth": 250,
   "coverCircleWidth": 250,
   "coverMaxWidthPopover": 150,
-  "progressProperties": {
-    "year": {
-      "maxNumber": 100
-    }
-  },
+  "progressProperties": {},
   "allTasksCount": "tasks",
   "completedTasksCount": "tasks_completed",
   "uncompletedTasksCount": "tasks_uncompleted",

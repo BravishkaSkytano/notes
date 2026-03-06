@@ -3,7 +3,7 @@
   "terminal": "",
   "date_format": "[personal.journal.]YYYY.MM.DD",
   "template_path": "z-templates/journal",
-  "note_path": "",
+  "note_path": "/",
   "archive": false,
   "archive_path": "",
   "archive_date_format": "YYYY/MM-MMMM/YYYY-MM-DD",

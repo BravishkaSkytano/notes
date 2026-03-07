@@ -1,0 +1,19 @@
+---
+title: Wednesday, February 21st, 2024
+modified: 2026-03-05T14:10:29-05:00
+created: 2026-02-11T18:42:46-05:00
+aliases:
+  - 2024-02-21
+  - Feb 21, 2024
+---
+
+## [[2024.02.20|⬅]] Wednesday 🔹 February 21st 🔹 2024 [[2024.02.22|➡]]
+
+> [!quote] Pema Chödrön
+> Nothing ever goes away until it has taught us what we need to know.
+
+### 18:32
+
+We just dropped off Kenneth to the airport in NJ. I think he’s on his way to GA for… a church thing? Anyway, him and Mom talked the *entire* time and it was annoying. He was talking about the retreat we picked him up from, his job, GA, and his new girlfriend. Of course, Mom listened to all of it, laughing and commenting about everything. It hurts to see their relationship, especially when I feel like I’ll *never* have that. He isn’t related to her in any way and yet I’m jealous of him. She didn’t mind helping him get comfortable driving and he talks to her about practically everything, and he’s so excited about it all. I could *NEVER* and it hurts so damn bad.
+
+I should say something to her but I just don’t have the words. What do I tell her? “Mom, I’m jealous of you and Kenneth, why do you treat him like that and treat me like… this?” Something tells me I won’t like that conversation, I can’t even figure out how it *might* go. It’s so frustrating.

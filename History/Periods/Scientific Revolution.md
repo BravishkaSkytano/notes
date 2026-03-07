@@ -1,0 +1,24 @@
+---
+title: Scientific Revolution
+description:
+date: 2026-03-02
+created: 2026-02-11T18:42:45-05:00
+modified: 2026-03-02T20:44:55-05:00
+draft: true
+---
+
+> [!summary]
+> **Time Frame:**  
+> **Geographic Scope:**  
+> **Preceded By:**  
+> **Followed By:**  
+
+## Overview
+
+## Major Events
+
+## Key Figures
+
+## Cultural / Intellectual Developments
+
+## Related Concepts

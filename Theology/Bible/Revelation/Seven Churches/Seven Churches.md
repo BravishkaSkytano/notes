@@ -1,4 +1,0 @@
----
-title: Seven Churches
-description: ""
----

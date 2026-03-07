@@ -1,4 +1,0 @@
----
-title: Laws
-description: ""
----

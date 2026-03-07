@@ -1,5 +1,0 @@
----
-title: Paintings
-description:
-tags:
----

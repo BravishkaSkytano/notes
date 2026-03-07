@@ -1,4 +1,0 @@
----
-title: Bible
-description: ""
----

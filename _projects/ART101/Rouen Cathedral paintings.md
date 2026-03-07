@@ -13,7 +13,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6a4502fa0df9d7
 > ![[Rouen Cathedral paintings-500x782.webp|Rouen Cathedral, Full Sunlight|250x391]]
 > **Type:** [[Painting]]
 > **Medium:** [[Oil on canvas]]
-> **Genre(s):** [[Architecture]]
+> **Genre(s):** [[z-templates/architecture]]
 > **Theme(s):** [[Nature]], [[Emotion]]
 > **Artist:** [[art.people.painters.claude-monet|Claude Monet]]
 > **Movement:** [[Impressionism]]

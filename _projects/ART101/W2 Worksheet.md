@@ -16,9 +16,9 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 3. ![[Gothic art#^def890]]
 4. ![[Domus Church]]
 5. ![[Martyrium#^4f9b9a]]
-6. ![[art.architecture.catacombs#^042d68]]
+6. ![[Catacombs#^042d68]]
 7. ![[Fresco#^cde2db]]
-8. ![[art.architecture.basilica#^df243a]]
+8. ![[Basilica#^df243a]]
 9. ![[Mosaic#^6c0583]]
 10. ![[Vault#^9b51d1]]
 11. ![[Nave#^c376ab]]
@@ -28,7 +28,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 15. ![[Rose Window#^06cc7c]]
 16. ![[Tracery#^920185]]
 17. ![[concepts.artwork.styles.tapestry#^cab0c4]]
-18. ![[art.architecture.apse#^552857]]
+18. ![[Apse#^552857]]
 ## Specific Arts to Identify by Sight
 
 [[Hagia Sophia]]

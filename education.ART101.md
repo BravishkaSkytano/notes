@@ -1,7 +1,7 @@
 ---
 title: "ART101: Visual and Performing Arts"
 created: 2026-02-18T11:35:06-05:00
-modified: 2026-02-21T22:38:00
+modified: 2026-03-07T11:48:11-05:00
 ---
 
 ## Sources
@@ -22,7 +22,7 @@ modified: 2026-02-21T22:38:00
 8. Roman triumphal arch
 9. Pediment
 10. Pyramid
-11. [[art.architecture.ancient.ziggurat|Ziggurat]]
+11. [[Ziggurat]]
 12. Kouros
 13. Hieroglyphs
 14. Obelisk

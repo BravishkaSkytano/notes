@@ -21,7 +21,7 @@ description:
 8. ![[Roman triumphal arch#^189fc4]]
 9. ![[Pediment#^4183a4]]
 10. ![[Pyramid#^54d79c]]
-11. ![[art.architecture.ancient.ziggurat#^6d2b09]]
+11. ![[Ziggurat#^6d2b09]]
 12. ![[Kouros#^0c1f70]]
 13. ![[Hieroglyphs#^762293]]
 14. ![[art.architecture.obelisk#^fa0457]]

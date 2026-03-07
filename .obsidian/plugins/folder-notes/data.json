@@ -115,7 +115,7 @@
   "ignoreAttachmentFolder": true,
   "deleteFilesAction": "trash",
   "openSidebar": {
-    "mobile": true,
+    "mobile": false,
     "desktop": true
   },
   "highlightFolder": true,

@@ -25,7 +25,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🎨 People to Know
 
 11. ![[Masaccio#^4496a9]]
-12. ![[art.people.sculptors.donatello#^1af21a]]
+12. ![[Donatello#^1af21a]]
 13. ![[Sandro Botticelli#^78b90c]]
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]

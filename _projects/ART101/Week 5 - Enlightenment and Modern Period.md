@@ -1,7 +1,7 @@
 ---
 date: 2025-11-16
 created: 2025-11-16 19:25
-modified: 2026-02-28T23:14:02-05:00
+modified: 2026-03-07T19:25:50-05:00
 tags:
   - course/ART101
   - worksheet
@@ -10,7 +10,7 @@ tags:
 
 ## Terms to Define
 
-1. [[history.movements.rococo|Rococo]]
+1. [[history.movements.rococo]]
 
 2. [[Neoclassicism]]
 
@@ -36,13 +36,13 @@ tags:
 
 ## People to Know
 
-1. [[art.people.painters.edouard-manet|Édouard Manet]]
+1. [[Édouard Manet]]
 
-2. [[Claude Monet|Claude Monet]]
+2. [[Claude Monet]]
 
 3. [[Pierre-Auguste Renoir]]
 
-4. [[art.people.painters.vincent-van-gogh|Vincent van Gogh]]
+4. [[Vincent van Gogh]]
 
 5. [[Pablo Picasso]]
 
@@ -50,7 +50,7 @@ tags:
 
 ## Specific Artworks to Identify by Sight
 
-1. [[art.works.paintings.arrangement-gray-black-1|Arrangement in Gray and Black No 1]]
+1. [[art.works.paintings.arrangement-gray-black-1]]
 
 2. [[Oath of the Horatii]]
 
@@ -70,6 +70,6 @@ tags:
 
 10. [[The Third of May, 1808]]
 
-11. [[art.works.paintings.sunday-la-grande-jette|A Sunday on La Grande Jatte]]
+11. [[art.works.paintings.sunday-la-grande-jette]]
 
-12. [[art.works.paintings.american-gothic|American Gothic]]
+12. [[art.works.paintings.american-gothic]]

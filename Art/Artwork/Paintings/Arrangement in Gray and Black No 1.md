@@ -1,5 +1,4 @@
 ---
-title: Arrangement in Gray and Black No 1
 date: 2025-11-16
 created: 2025-11-16 22:18
 modified: 2026-02-27T13:55:32-05:00
@@ -7,6 +6,10 @@ aliases:
   - Whistler's Mother
   - Portrait of the Painter's Mother
 needsUpdate: true
+banner: img/banners/Arrangement in Gray and Black No 1-960x854.webp
+tags:
+  - artwork
+  - works
 ---
 
 > [!summary] Arrangement in Gray and Black No. 1

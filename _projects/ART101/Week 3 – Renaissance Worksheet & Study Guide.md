@@ -41,7 +41,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 - ![[art.works.sculptures.david#^7a2cc0]]
 - ![[art.works.paintings.battle-alexander-darius-issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
-- ![[art.works.adoration-of-the-trinity#^64655d]]
+- ![[Adoration of the Trinity#^64655d]]
 - ![[Transfiguration of Christ#^77f14d]]
 - ![[St. Peter’s Cathedral#^7ff03e]]
 - [[Sistine Chapel ceiling]]

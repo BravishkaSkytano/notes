@@ -1,5 +1,4 @@
 ---
-title: Paintings
 description:
 tags:
 ---

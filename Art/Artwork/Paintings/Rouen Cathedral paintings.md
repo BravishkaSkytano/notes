@@ -4,6 +4,7 @@ created: 2025-11-17 13:22
 modified: 2026-03-07T19:16:08-05:00
 tags:
   - artwork
+  - works
 description: Monet's paintings of the cathedral in different light.
 banner: img/banners/Rouen Cathedral paintings-500x782.webp
 needsUpdate: true

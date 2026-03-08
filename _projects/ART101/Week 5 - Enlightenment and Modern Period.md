@@ -50,7 +50,7 @@ tags:
 
 ## Specific Artworks to Identify by Sight
 
-1. [[art.works.paintings.arrangement-gray-black-1]]
+1. [[Arrangement in Gray and Black No 1]]
 
 2. [[Oath of the Horatii]]
 
@@ -72,4 +72,4 @@ tags:
 
 11. [[art.works.paintings.sunday-la-grande-jette]]
 
-12. [[art.works.paintings.american-gothic]]
+12. [[American Gothic]]

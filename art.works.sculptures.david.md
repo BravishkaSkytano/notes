@@ -3,7 +3,7 @@ title: David (Donatello and Michelangelo)
 date: 2025-11-05
 created: 2025-11-05 09:57
 modified: 2026-03-07T19:33:58-05:00
-draft: true
+needsUpdate: true
 ---
 
 > [!tldr] David

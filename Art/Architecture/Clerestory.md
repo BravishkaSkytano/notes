@@ -3,6 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 20:43
 modified: 2026-02-28T22:56:33-05:00
 needsUpdate: true
+parent: "[[Art/Architecture/Architecture|Architecture]]"
 ---
 
 > [!tldr] Clerestory

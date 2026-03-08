@@ -38,7 +38,7 @@ tags:
 
 1. [[art.people.painters.edouard-manet|Édouard Manet]]
 
-2. [[art.people.painters.claude-monet|Claude Monet]]
+2. [[Claude Monet|Claude Monet]]
 
 3. [[Pierre-Auguste Renoir]]
 

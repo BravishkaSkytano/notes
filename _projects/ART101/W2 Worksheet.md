@@ -24,7 +24,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 11. ![[Nave#^c376ab]]
 12. ![[Flying Buttress#^0b390b]]
 13. ![[Ribbed Vault#^bd2569]]
-14. ![[art.architecture.clerestory#^344860]]
+14. ![[Clerestory#^344860]]
 15. ![[Rose Window#^06cc7c]]
 16. ![[Tracery#^920185]]
 17. ![[concepts.artwork.styles.tapestry#^cab0c4]]

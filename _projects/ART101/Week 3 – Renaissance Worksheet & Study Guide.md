@@ -16,7 +16,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 3. ![[Iconoclasm#^9957df]]
 4. ![[Humanism#^dca863]]
 5. ![[history.periods.classical#^c1c548]]
-6. ![[art.architecture.cruciform#^453e0d]]
+6. ![[Cruciform#^453e0d]]
 7. ![[Etching or Engraving#^622f7a]]
 8. ![[Tempera#^3aa4f0]]
 9. ![[Florence#^76a45a]]
@@ -30,7 +30,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]
 16. ![[Leonardo da Vinci#^a8d302]]
-17. ![[art.people.painters.albrecht-durer#^7e7a4b]]
+17. ![[Albrecht Dürer#^7e7a4b]]
 
 ## 🖼️ Specific Artworks to Identify by Sight
 

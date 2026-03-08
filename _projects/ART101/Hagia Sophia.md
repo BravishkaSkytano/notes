@@ -19,7 +19,7 @@ Hagia Sophia in Istanbul features a rich and layered collection of artwork refle
 
 ![[Hagia Sophia-1760318744531.webp|700x467]]
 
-The mosaics are crafted from thousands of small glass and stone pieces (tesserae) set into a gold background, creating a luminous effect that enhances their spiritual significance. The artists carefully considered lighting, with the gold tesserae arranged in patterns that reflect light, and the placement of mosaics often aligns with actual light sources from [[art.architecture.clerestory|clerestory]] windows, creating a naturalistic interplay between the artwork and its environment. Some mosaics, particularly those in the dome's pendentives, were plastered over during the Ottoman period and later uncovered during 19th-century restorations.
+The mosaics are crafted from thousands of small glass and stone pieces (tesserae) set into a gold background, creating a luminous effect that enhances their spiritual significance. The artists carefully considered lighting, with the gold tesserae arranged in patterns that reflect light, and the placement of mosaics often aligns with actual light sources from [[Clerestory|clerestory]] windows, creating a naturalistic interplay between the artwork and its environment. Some mosaics, particularly those in the dome's pendentives, were plastered over during the Ottoman period and later uncovered during 19th-century restorations.
 
 ![[Hagia Sophia-1760318842257.webp|700x438]]
 

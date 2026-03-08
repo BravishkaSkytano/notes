@@ -1,13 +1,15 @@
 ---
-title: A Sunday on La Grande Jatte
 date: 2025-11-17
 created: 2025-11-17 15:35
-modified: 2026-02-27T13:55:10-05:00
+modified: 2026-03-08T19:32:19-04:00
 description: Seurat’s pointillist park scene with figures in profile.
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
 banner: img/banners/A Sunday on La Grande Jatte-960x639.webp
 needsUpdate: true
+tags:
+  - artwork
+  - painting
 ---
 
 > [!summary]
@@ -36,6 +38,6 @@ A Sunday Afternoon on the Island of La Grande Jatte is Georges Seurat’s most f
 
 ## Resources
 
-- [[education.ART101|ART101: Visual and Performing Arts]]
+- [[ART101 Visual and Performing Arts]]
 - The Annotated Mona Lisa
 - [A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia](https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte)

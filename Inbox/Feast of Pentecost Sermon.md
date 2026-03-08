@@ -1,16 +1,13 @@
 ---
-title: Wednesday, November 8th, 2023
-modified: 2026-02-27T16:58:37-05:00
-aliases:
-  - 2023-11-08
-  - Nov 8, 2023
+modified: 2026-03-08T19:33:21-04:00
+created: 2026-03-07T11:30:11-05:00
 ---
 
 > [!bible] [Acts 2:1-4 - WEB](https://bible-api.com/Acts+2:1-4?translation=web)
 >  <sup> **1** </sup>Now when the day of Pentecost had come, they were all with one accord in one place. <sup> **2** </sup>Suddenly there came from the sky a sound like the rushing of a mighty wind, and it filled all the house where they were sitting. <sup> **3** </sup>Tongues like fire appeared and were distributed to them, and one sat on each of them. <sup> **4** </sup>They were all filled with the Holy Spirit, and began to speak with other languages, as the Spirit gave them the ability to speak.
  %% #Acts %%
 
-## [[The Feast of Pentecost]]
+## The Feast of Pentecost
 
 - One of the three feasts God ordained for all able-bodied male Israelites (Lev 23)
 - Comes 50 days after the feast of First-Fruits

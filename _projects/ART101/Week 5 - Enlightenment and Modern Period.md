@@ -70,6 +70,6 @@ tags:
 
 10. [[The Third of May, 1808]]
 
-11. [[art.works.paintings.sunday-la-grande-jette]]
+11. [[A Sunday on La Grande Jatte]]
 
 12. [[American Gothic]]

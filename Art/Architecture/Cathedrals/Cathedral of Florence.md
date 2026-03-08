@@ -1,5 +1,4 @@
 ---
-title: Cathedral of Florence
 date: 2025-11-03
 created: 2025-11-03 00:48
 modified: 2026-02-28T22:54:11-05:00

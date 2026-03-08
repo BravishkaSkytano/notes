@@ -1,5 +1,4 @@
 ---
-title: Cathedral Chartres
 date: 2025-10-12
 created: 2025-10-12 23:01
 modified: 2025-10-12 23:02

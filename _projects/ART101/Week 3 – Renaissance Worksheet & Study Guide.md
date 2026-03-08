@@ -38,7 +38,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 - ![[art.works.paintings.the-last-supper#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
-- ![[art.works.sculptures.david#^7a2cc0]]
+- ![[David (Donatello and Michelangelo)#^7a2cc0]]
 - ![[art.works.paintings.battle-alexander-darius-issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
 - ![[Adoration of the Trinity#^64655d]]

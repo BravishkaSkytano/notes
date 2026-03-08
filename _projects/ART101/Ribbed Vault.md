@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 20:37
 modified: 2025-10-12 21:00
 tags:
-  - course/ART101
+  - ART101
 state: "[[Final]]"
 image: 00-09 System Management/05 Covers & Thumbnails/Ribbed Vault-1760316107980.webp
 feature: "[[Ribbed Vault-1760316107980.webp]]"

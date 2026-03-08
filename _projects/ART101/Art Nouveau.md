@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:21
 modified:
 tags:
-  - course/ART101
+  - ART101
   - history/movement/art-nouveau
   - history/style/art-nouveau
   - period/19th-century

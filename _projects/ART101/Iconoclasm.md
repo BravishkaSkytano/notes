@@ -4,7 +4,7 @@ created: 2025-11-02 23:55
 modified: 2025-11-02 23:57
 feature:
 tags:
-  - course/ART101
+  - ART101
 ---
 
 > [!tldr] Iconoclasm

@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:25
 modified: 2025-11-16 22:54
 tags:
-  - course/ART101
+  - ART101
   - history/movement/post-impressionism
   - history/style/post-impressionism
   - period/19th-century

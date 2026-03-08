@@ -4,7 +4,7 @@ created: 2025-11-03 00:27
 modified: 2025-11-03 00:34
 feature: Projects/University/ART101/Raphael-500x682.webp
 tags:
-  - course/ART101
+  - ART101
   - people/artist/painter
   - people/artist/architect
 image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/Raphael-500x682.webp

@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 20:05
 modified: 2025-10-12 20:15
 tags:
-  - course/ART101
+  - ART101
 state: "[[Drafting]]"
 image: 00-09 System Management/05 Covers & Thumbnails/The Justinian Panels.webp
 feature: "[[The Justinian Panels.webp]]"

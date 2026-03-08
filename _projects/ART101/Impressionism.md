@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:22
 modified: 2026-03-07T19:12:31-05:00
 tags:
-  - course/ART101
+  - ART101
   - history/movement
 aliases:
   - Impressionist

@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 22:41
 modified: 2025-11-17 14:34
 tags:
-  - course/ART101
+  - ART101
   - artwork/painting
   - medium/oil
   - genre/daily-life

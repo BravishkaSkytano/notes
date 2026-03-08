@@ -4,8 +4,8 @@ created: 2025-11-03 00:06
 modified: 2025-11-16 23:10
 feature:
 tags:
-  - course/ART101
-  - artwork/painting/technique
+  - ART101
+  - technique
   - medium/oil
 ---
 

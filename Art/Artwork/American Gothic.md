@@ -7,7 +7,7 @@ needsUpdate: true
 banner: https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
 tags:
   - artwork
-  - works
+  - artwork/painting
 ---
 
 > [!info]

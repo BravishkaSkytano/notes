@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 22:10
 modified: 2025-11-16 22:12
 tags:
-  - course/ART101
+  - ART101
   - history/movement/neoclassicism
   - region/france
   - period/18th-century

@@ -6,6 +6,9 @@ aliases:
   - Il Duomo
   - Duomo di Firenze
 needsUpdate: true
+tags:
+  - cathedrals
+  - gothic
 ---
 
 > [!tldr] Cathedral of Florence

@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:37
 modified:
 tags:
-  - course/ART101
+  - ART101
   - history/movement/art-deco
   - history/style/art-deco
   - period/20th-century

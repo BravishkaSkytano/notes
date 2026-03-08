@@ -3,7 +3,7 @@ date: 2025-11-05
 created: 2025-11-05 10:06
 modified: 2025-11-05 10:07
 tags:
-  - course/ART101
+  - ART101
   - artwork
 ---
 

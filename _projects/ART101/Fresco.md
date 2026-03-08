@@ -3,8 +3,8 @@ date: 2025-10-12
 created: 2025-10-12 19:36
 modified: 2026-03-02T15:02:51-05:00
 tags:
-  - course/ART101
-  - artwork/painting/technique
+  - ART101
+  - technique
 aliases:
   - frescoes
 image: 00-09 System Management/05 Covers & Thumbnails/The Creation of Adam.webp

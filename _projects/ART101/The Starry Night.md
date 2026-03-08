@@ -29,6 +29,6 @@ title:
 
 ## Resources
 
-- [[20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/README|ART101: Visual and Performing Arts]]
+- [[Untitled|ART101: Visual and Performing Arts]]
 - [[The Annotated Mona Lisa]]
 - [The Starry Night - Wikipedia](https://en.wikipedia.org/wiki/The_Starry_Night)

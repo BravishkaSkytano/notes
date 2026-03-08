@@ -1,26 +1,23 @@
 ---
 date: 2025-11-17
 created: 2025-11-17 13:22
-modified: 2025-11-17 14:41
+modified: 2026-03-07T19:16:08-05:00
 tags:
   - artwork
 description: Monet's paintings of the cathedral in different light.
-image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/Rouen Cathedral paintings-500x782.webp
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6a4502fa0df9d73b3c9ff9efd3ae5092_86cf658e.webp
+banner: img/banners/Rouen Cathedral paintings-500x782.webp
+needsUpdate: true
 ---
 
 > [!tldr] Rouen Cathedral paintings
-> ![[Rouen Cathedral paintings-500x782.webp|Rouen Cathedral, Full Sunlight|250x391]]
 > **Type:** [[Painting]]
 > **Medium:** [[Oil on canvas]]
 > **Genre(s):** [[z-templates/architecture]]
 > **Theme(s):** [[Nature]], [[Emotion]]
-> **Artist:** [[Claude Monet|Claude Monet]]
+> **Artist:** [[Claude Monet]]
 > **Movement:** [[Impressionism]]
 > **Region:** [[France]]
 > **Period:** [[19th Century]]
-
-^tldr
 
 ## Description
 
@@ -28,6 +25,6 @@ The **Rouen Cathedral** series, painted by **Claude Monet** in the **1890s**, co
 
 ## References
 
-- [[20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/README|ART101: Visual and Performing Arts]]
+- [[education.ART101]]
 - The Annotated Mona Lisa
 - [Rouen Cathedral (Monet series) - Wikipedia](https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series))

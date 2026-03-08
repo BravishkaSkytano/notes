@@ -27,6 +27,6 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6ebf262de0dcf2
 
 ## Resources
 
-- [[20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/README|ART101: Visual and Performing Arts]]
+- [[Untitled|ART101: Visual and Performing Arts]]
 - [[The Annotated Mona Lisa]]
 - [Le Moulin de la Galette (Van Gogh series) - Wikipedia](https://en.wikipedia.org/wiki/Le_Moulin_de_la_Galette_(Van_Gogh_series))

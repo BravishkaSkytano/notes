@@ -1,5 +1,4 @@
 ---
-title: Seraphina Vantus
 description: In the ancient city of Tarsis, now a crumbling relic of its former glory, legends speak of a warrior known as Seraphina Vantus, the Scorpion Queen. Born into a lineage of fierce protectors of the realm, Seraphina's life was destined for greatness and strife from the very beginning.
 date: 2024-06-21T16:35:00
 created: 2026-02-11T18:42:47-05:00

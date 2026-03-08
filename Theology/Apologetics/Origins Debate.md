@@ -1,10 +1,10 @@
 ---
-title: Theistic evolution vs progressive creation
 date: 2024-04-04
-tags:
-created:
-modified: 2024-04-04
+created: 2024-04-04T19:42:00
+modified: 2026-03-08T19:43:26-04:00
 needsUpdate: true
+tags:
+  - debate
 ---
 
 Theistic evolution and progressive creation are two different views that try to combine evolution and creation into something that pleases both sides of the evolution vs. creationism debate. Theistic evolution says that God, in a sense, created evolution by designing a few creatures and giving them the ability to evolve into better versions of themselves. Progressive creationism, on the other hand, teaches that God didn’t create all the required creatures at the same time, but instead created them over time to fill in gaps that the evolution of the other creatures left.

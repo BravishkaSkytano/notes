@@ -1,9 +1,11 @@
 ---
-title: Nicolas Copernicus
 description: A Prussian polyglot, mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist
 date: 2026-02-27
 created: 2026-02-27T16:32:00
 modified: 2026-02-27T16:38:47-05:00
+needsUpdate: true
+tags:
+  - people
 ---
 
 > [!summary]

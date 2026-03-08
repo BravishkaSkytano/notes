@@ -1,5 +1,4 @@
 ---
-title: How To Add A Submodule To A Repository
 description: A short tutorial to remind me how to add a submodule.
 date: 2025-07-31
 created: 2025-07-31T15:14:00

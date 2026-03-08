@@ -1,7 +1,5 @@
 ---
-title: How To Use Private Submodules With Netlify
 description: A full tutorial on how to configure Netlify to access private Git sub modules.
-parent: Tutorials
 date: 2025-07-31
 created: 2025-07-31T15:04:00
 modified: 2025-10-05 22:03
@@ -34,7 +32,7 @@ Of course, I'm not that popular, so I doubt anyone would *want* to steal my cont
 
 Run the following commands to add a submodule using SSH:
 
-![[technology.git.add-submodule#^76869d]]
+![[How To Add A Submodule To A Repository#^76869d]]
 
 ## Setting Up Netlify
 

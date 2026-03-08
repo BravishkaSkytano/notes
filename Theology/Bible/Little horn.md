@@ -1,9 +1,10 @@
 ---
-title: The little horn
 date: 2023-10-03
 created:
 modified: 2024-02-16
 draft: true
+tags:
+  - Daniel
 ---
 
 ![[Daniel 8#9]] ![[Daniel 8#10]]

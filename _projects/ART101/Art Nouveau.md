@@ -4,10 +4,10 @@ created: 2025-11-16 21:21
 modified:
 tags:
   - ART101
-  - history/movement/art-nouveau
-  - history/style/art-nouveau
+  - artNouveau
+  - art-nouveau
   - period/19th-century
-  - period/20th-century
+  - 20th-century
   - region/europe
 ---
 

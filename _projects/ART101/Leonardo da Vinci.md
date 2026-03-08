@@ -7,7 +7,7 @@ tags:
   - ART101
   - people/inventor
   - people/scientist
-  - people/artist/painter
+  - painter
   - people/artist/sculptor
   - people/artist/architect
   - people/engineer

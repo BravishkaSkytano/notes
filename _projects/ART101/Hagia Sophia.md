@@ -4,8 +4,8 @@ created: 2025-10-12 21:18
 modified: 2026-03-02T15:03:02-05:00
 tags:
   - ART101
-  - artwork/mosaic
-  - artwork/museum
+  - mosaic
+  - museum
   - religion/Islam
   - religion/Christianity
 feature: z - Attachments/Hagia Sophia-1761596077883.webp

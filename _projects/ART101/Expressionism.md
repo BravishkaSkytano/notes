@@ -4,9 +4,9 @@ created: 2025-11-16 21:30
 modified: 2025-11-16 21:32
 tags:
   - ART101
-  - history/movement/expressionism
+  - expressionism
   - history/style/expressionism
-  - period/20th-century
+  - 20th-century
   - region/germany
 ---
 

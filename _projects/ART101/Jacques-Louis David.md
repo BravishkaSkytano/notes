@@ -4,11 +4,11 @@ created: 2025-11-16 22:10
 modified: 2025-11-16 22:12
 tags:
   - ART101
-  - history/movement/neoclassicism
+  - neoclassicism
   - region/france
   - period/18th-century
   - period/19th-century
-  - people/artist/painter
+  - painter
 ---
 
 > [!tldr] Jacques-Louis David

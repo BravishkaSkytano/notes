@@ -4,7 +4,7 @@ created: 2025-11-16 22:41
 modified: 2025-11-17 14:34
 tags:
   - ART101
-  - artwork/painting
+  - painting
   - medium/oil
   - genre/daily-life
   - genre/landscape

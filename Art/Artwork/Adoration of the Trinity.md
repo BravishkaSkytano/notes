@@ -5,7 +5,7 @@ modified: 2026-02-20T10:20:35-05:00
 draft: true
 tags:
   - artwork
-  - artwork/painting
+  - painting
 ---
 
 > [!tldr] Adoration of the Trinity

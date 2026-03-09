@@ -1,8 +1,10 @@
 ---
-title: Fear and Envy, What A Pair
 date: 2024-10-08
 created: 2024-10-08T21:05:00
 modified: 2025-08-07 22:31
+tags:
+  - reflection
+  - mental-health
 ---
 
 “Mom is going out with a friend tonight, I think I’m gonna play Wakfu while she’s gone. Or, maybe I should start SWTOR instead. What do you think?”

@@ -1,5 +1,4 @@
 ---
-title: Happy Mother's Day, Mom
 description:
 date: 2020-05-05
 created: 2020-05-05T18:28:00

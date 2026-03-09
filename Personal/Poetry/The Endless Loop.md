@@ -1,5 +1,4 @@
 ---
-title: The Endless Loop
 description:
 date: 2023-01-01
 created: 2023-01-01T17:49:00
@@ -8,6 +7,7 @@ banner: https://images.unsplash.com/photo-1692611912406-143abc53d2eb?crop=entrop
 tags:
   - depression
 ---
+
 I winced as another rock hit my skin.
 I feel like it left a mark
 So I check, but find none.
@@ -72,6 +72,5 @@ Maybe that's why the rocks don't hurt me.
 It's hard to feel much
 When you're broke and alone.
 Then again, maybe that's the name of this show.
-
 
 *Photo by [Yassine Ait Tahit](https://unsplash.com/@unclearvision?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*

@@ -1,5 +1,4 @@
 ---
-title: I Hate Routines
 date: 2021-12-04
 created: 2021-12-04 22:12
 modified: 2025-08-07 22:12

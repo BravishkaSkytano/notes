@@ -39,6 +39,7 @@ If you have an investigative and artistic nature, this field may also be of inte
 ## Why Political Science Is A Good Choice For Me
 
 ### Personality
+
 According to my CareerDirect assessment, my personality can be summarized as unstructured, innovative, extroverted, cautious and compliant. Too many restrictions and rules would get in the way of my creativity and would eventually frustrate me and stunt my growth. I need the freedom to set my own priorities and focus on the big picture, but I do understand the need for some structure and will do my best to work within the rule book. I may need to be reminded about big projects because I struggle with focusing on one thing for long periods of time. Furthermore, I am a social bird who is good at networking, and tend to be more cooperative than domineering. Likewise, I like leading by example instead of rushing in to take over. Also, I lean more towards the cautious side, and I like to get the feel for a new environment before I start to spread my wings a bit and take on a more leadership role. I don't always care who is in charge, as long as they are not making it difficult to be in their team. I have strong verbal skills and can be diplomatic in resolving issues if needed. The ability to adapt and be flexible is a double-edged sword that I haven't always wielded in the right way because it can cause me to not speak out as quickly as I should. But, I do make up for that by having a high stress tolerance, so I can handle situations that aren't going my way.
 
 ### Skills

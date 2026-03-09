@@ -1,5 +1,4 @@
 ---
-title: Callouts
 date: 2023-12-12
 created: 2023-12-12T18:42:00
 modified: 2026-02-23T14:30:01-05:00

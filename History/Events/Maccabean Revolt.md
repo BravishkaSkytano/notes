@@ -1,5 +1,4 @@
 ---
-title: Maccabean Revolt
 description:
 date: 2026-03-02
 created: 2026-03-02T20:46:00

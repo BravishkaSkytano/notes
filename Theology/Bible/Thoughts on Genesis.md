@@ -1,12 +1,10 @@
 ---
-title: "Genesis: Organizing, Filing, Marking"
 description: My thoughts on the Book of Genesis after using the Journey Through the Bible curriculum.
 date: 2020-11-15
 created: 2020-11-15 00:00
 modified: 2025-08-07 22:07
 tags:
-  - Bible
-  - theology
+  - Genesis
 ---
 
 This school year, I have the privilege of taking a special Bible course from my school. It’s the Journey Through the Bible curriculum and I shall be doing book 1. Two years ago, I read through the second book in the series and I loved it. That book took me through the “wisdom and prophetic” books of the Bible, i.e. Psalms – Malachi. The Journey Through the Bible curriculum takes you through each book in the Bible and breaks down important chapters to show you things you probably didn’t know before. The curriculum is essentially a theology course for high school students.

@@ -1,5 +1,4 @@
 ---
-title: Nalini Singh - Archangel's Kiss
 description:
 date: 2024-02-27
 created: 2024-02-27 15:27

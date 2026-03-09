@@ -1,5 +1,4 @@
 ---
-title: The Knotty Truth by M. Michele George
 parent: Books
 subtitle: "Creating Beautiful Locks on a Dime!: A Comprehensive Guide to Creating Locks"
 created: 2025-08-10 21:59
@@ -18,7 +17,6 @@ aliases:
 feature: "[[http://books.google.com/books/content?id=h3uSXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api]]"
 draft: true
 ---
-
 
 ![cover|150|150x150](http://books.google.com/books/content?id=h3uSXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 

@@ -1,5 +1,4 @@
 ---
-title: Kathleen Glasgow - Girl in Pieces
 description:
 date: 2024-02-27
 created: 2024-02-27 15:00

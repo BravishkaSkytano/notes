@@ -1,5 +1,4 @@
 ---
-title: Inbox Notes
 description: A list of notes that don’t have a place yet.
 date: 2026-02-23
 created: 2026-02-23T14:14:58-05:00

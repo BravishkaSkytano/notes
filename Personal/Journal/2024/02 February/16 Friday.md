@@ -1,21 +1,18 @@
 ---
-title: Friday, February 16th, 2024
-modified: 2026-03-05T14:06:07-05:00
 created: 2026-02-11T18:42:46-05:00
+modified: 2026-03-08T21:13:04-04:00
 aliases:
   - 2024-02-16
   - Feb 16, 2024
 ---
 
-## [[2024.02.15|⬅]] Friday 🔹 February 16th 🔹 2024 [[2024.02.17|➡]]
-
 > [!quote] William Shakespeare
 > He that is giddy thinks the world turns round.
 
-### 17:40
+## 17:40
 
 I spoke to [[Joshua Philips|Philips]] for over an hour today, and it was almost a waste of time. We mostly just did our stuff and didn't speak. Yet, every time we did speak, he reminded me of why we were not going to work out. He has way too many friends who are girls, and he's got almost nothing to say, aka *boring*. But, I did find out he was adopted when he was two! His aunt(?) was the one who got him out of foster care, and I guess his mom eventually adopted him.
 
-### 17:54
+## 17:54
 
 A lot of good things have happened between [[Kieron Demontae Grandicks Cruz|Kieron]] and me, why haven't I written it all down yet? Well, how many times have I said I need to journal more?????

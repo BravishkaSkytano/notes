@@ -1,5 +1,4 @@
 ---
-title: Friday, January 19th, 2024
 modified: 2026-03-05T11:02:33-05:00
 created: 2026-02-11T18:42:46-05:00
 aliases:

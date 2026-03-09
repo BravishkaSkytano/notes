@@ -1,5 +1,4 @@
 ---
-title: Monday, January 8th, 2024
 modified: 2026-03-05T11:20:32-05:00
 created: 2026-02-11T18:42:46-05:00
 aliases:

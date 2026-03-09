@@ -1,5 +1,4 @@
 ---
-title: Tuesday, January 30th, 2024
 modified: 2026-03-05T11:25:26-05:00
 created: 2026-02-11T18:42:46-05:00
 aliases:

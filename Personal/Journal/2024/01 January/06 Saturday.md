@@ -1,5 +1,4 @@
 ---
-title: Saturday, January 6th, 2024
 aliases:
   - 2024-01-06
   - Jan 6, 2024

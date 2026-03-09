@@ -33,4 +33,4 @@ Rolling grasslands and fertile farmlands where the [[Humans]] kingdoms flourish.
 
 ## Sunaara Deserts
 
-The [[worlds.ilmaria.geography.sunaara-desert|Desert of Sunaara]], known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.
+The [[Sunaara Desert|Desert of Sunaara]], known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.

@@ -1,7 +1,5 @@
 ---
-title: Sunaara Desert
 description: The southern part of Ilmaria is home to the Desert of Sunaara
-parent: Ilmaria
 date: 2024-10-18T21:07:44
 created: 2024-10-18T13:16:00
 modified:

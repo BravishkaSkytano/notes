@@ -1,5 +1,4 @@
 ---
-title: Sunday, March 26th, 2023
 modified: 2026-02-27T16:58:16-05:00
 aliases:
   - 2023-03-26

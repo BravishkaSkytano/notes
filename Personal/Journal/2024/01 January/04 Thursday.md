@@ -1,5 +1,4 @@
 ---
-title: Monday, January 4th, 2024
 aliases:
   - 2024-01-04
   - Jan 4, 2024

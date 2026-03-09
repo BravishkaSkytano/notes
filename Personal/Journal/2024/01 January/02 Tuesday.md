@@ -1,5 +1,4 @@
 ---
-title: Tuesday, January 2nd, 2024
 aliases:
   - 2024-01-02
   - Jan 2, 2024

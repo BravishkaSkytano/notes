@@ -2,7 +2,7 @@
 title: Sarah Dessen - Just Listen
 date: 2025-11-18
 created: 2025-11-18 14:33
-modified: 2025-11-18 14:42
+modified: 2026-03-08T21:39:42-04:00
 book_title: Just Listen
 authors:
   - "[[Sarah Dessen]]"
@@ -19,8 +19,6 @@ aliases:
   - Just Listen
   - Just Listen by Sarah Dessen
 ---
-
-![cover|150](http://books.google.com/books/content?id=4a6kCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 *To find the truth you’ve got to be willing to hear it.*
 

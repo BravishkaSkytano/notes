@@ -1,5 +1,4 @@
 ---
-title: Sunday, November 11, 2023
 modified: 2026-02-27T16:58:52-05:00
 aliases:
   - 2023-11-11

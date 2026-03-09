@@ -1,5 +1,4 @@
 ---
-title: Tuesday, July 30th, 2024
 modified: 2026-03-05T14:25:13-05:00
 created: 2026-02-11T18:42:46-05:00
 aliases:

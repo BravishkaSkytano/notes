@@ -1,10 +1,9 @@
 ---
-title: Sunday, November 3rd, 2024
+modified: 2026-03-05T11:14:21-05:00
+created: 2026-02-27T17:36:22-05:00
 aliases:
   - 2024-11-03
   - Nov 3, 2024
-modified: 2026-03-05T11:14:21-05:00
-created: 2026-02-27T17:36:22-05:00
 ---
 
 ## Memos

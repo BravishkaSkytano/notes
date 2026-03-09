@@ -4,7 +4,7 @@ created: 2025-11-05 09:53
 modified: 2025-11-05 09:59
 tags:
   - ART101
-  - artwork/sculpture
+  - sculpture
 feature:
 ---
 

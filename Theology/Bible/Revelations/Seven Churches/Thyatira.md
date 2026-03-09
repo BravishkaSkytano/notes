@@ -1,5 +1,4 @@
 ---
-title: Thyatira
 date: 2023-10-19
 created: 2023-10-19T15:56:00
 modified: 2026-03-02T21:47:45-05:00

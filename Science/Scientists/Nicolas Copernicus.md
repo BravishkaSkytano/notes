@@ -13,7 +13,7 @@ tags:
 > **Role / Profession:** polyglot, mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist
 > **Nationality:** Royal Prussia
 > **Associated Movements:** [[Renaissance]], Copernican Revolution, Scientific Revolution
-> **Key Works:** [[science.models.heliocentrism|Heliocentrism]], De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)(book)
+> **Key Works:** [[Heliocentrism|Heliocentrism]], De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)(book)
 
 ## Overview
 

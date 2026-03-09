@@ -1,4 +1,0 @@
----
-title: Civilizations
-description: ""
----

@@ -111,9 +111,7 @@
   "enableIconsInPopover": false,
   "enableCoversInPopover": true,
   "hideAllEmptyProperties": false,
-  "hiddenWhenEmptyProperties": [
-    "tags"
-  ],
+  "hiddenWhenEmptyProperties": [],
   "iconInTitle": false,
   "titleIconSize": 30,
   "titleTextIconMatchTitleSize": true,

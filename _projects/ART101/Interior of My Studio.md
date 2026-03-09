@@ -38,6 +38,6 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/05b41ec6f92d34
 - **Themes**: Represents **society at its best, worst, and average**, reflecting Courbet’s **Realist** philosophy.
 ## Resources
 
-- [[Untitled|ART101: Visual and Performing Arts]]
+- [[Worlds/Ilmaria/Ontology/Untitled/Untitled|ART101: Visual and Performing Arts]]
 - [[The Annotated Mona Lisa]]
 - [The Painter's Studio - Wikipedia](https://en.wikipedia.org/wiki/The_Painter%27s_Studio)

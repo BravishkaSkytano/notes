@@ -144,7 +144,7 @@
   "propertySortSecondary": "title",
   "revealFileOnListChanges": true,
   "listPaneTitle": "header",
-  "noteGrouping": "date",
+  "noteGrouping": "folder",
   "filterPinnedByFolder": false,
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,

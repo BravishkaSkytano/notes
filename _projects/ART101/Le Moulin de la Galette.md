@@ -27,6 +27,6 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6ebf262de0dcf2
 
 ## Resources
 
-- [[Untitled|ART101: Visual and Performing Arts]]
+- [[Worlds/Ilmaria/Ontology/Untitled/Untitled|ART101: Visual and Performing Arts]]
 - [[The Annotated Mona Lisa]]
 - [Le Moulin de la Galette (Van Gogh series) - Wikipedia](https://en.wikipedia.org/wiki/Le_Moulin_de_la_Galette_(Van_Gogh_series))

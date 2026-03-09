@@ -29,6 +29,6 @@ title:
 
 ## Resources
 
-- [[Untitled|ART101: Visual and Performing Arts]]
+- [[Worlds/Ilmaria/Ontology/Untitled/Untitled|ART101: Visual and Performing Arts]]
 - [[The Annotated Mona Lisa]]
 - [The Starry Night - Wikipedia](https://en.wikipedia.org/wiki/The_Starry_Night)

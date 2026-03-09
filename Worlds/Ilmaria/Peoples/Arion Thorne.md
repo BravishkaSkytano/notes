@@ -1,14 +1,15 @@
 ---
-title: Arion Thorne
 description: A warlord whose strength and strategic brilliance shape the fate of the Ashen Wastes and beyond. His leadership, forged in fire and tempered by conflict, ensures that he remains a key player in the intricate tapestry of Ilmaria's power dynamics.
 date: 2024-06-21T15:07:00
-tags:
 created: 2024-06-21T14:32:00
-modified: 2026-03-04T14:34:54-05:00
+modified: 2026-03-09T12:54:41-04:00
 aliases:
   - Warlord of the Ashen Wastes
 needsUpdate: true
 cover: img/covers/arion-thorne.webp
+tags:
+  - character
+  - fireborn
 ---
 
 ## Backstory

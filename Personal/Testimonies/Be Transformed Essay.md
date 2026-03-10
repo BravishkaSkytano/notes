@@ -4,7 +4,7 @@ date: 2025-11-09
 created: 2025-11-09 17:29
 modified: 2025-11-11 00:50
 tags:
-  - testimonies
+  - testimony
 ---
 
 > **"What lesson changed or impacted you the most?"**

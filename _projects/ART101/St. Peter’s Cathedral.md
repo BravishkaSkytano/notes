@@ -7,7 +7,7 @@ tags:
   - place/cathedral
   - place/Vatican_City
   - architecture
-  - period/renaissance
+  - renaissance
 ---
 
 > [!tldr] St. Peter's Cathedral

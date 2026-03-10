@@ -5,7 +5,7 @@ created: 2025-11-16 19:40
 modified: 2025-11-17 14:01
 tags:
   - ART101
-  - history/movement
+  - movement
 ---
 
 > [!summary] Romanticism

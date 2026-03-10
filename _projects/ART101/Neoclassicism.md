@@ -6,9 +6,9 @@ feature:
 tags:
   - ART101
   - neoclassicism
-  - history/style/neoclassicism
-  - period/18th-century
-  - period/19th-century
+  - neoclassicism
+  - 18th-century
+  - 19th-century
   - region/europe
 aliases:
   - Neoclassical

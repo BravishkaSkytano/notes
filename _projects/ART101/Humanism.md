@@ -5,7 +5,7 @@ modified: 2025-11-03 00:34
 feature:
 tags:
   - ART101
-  - history/movement
+  - movement
 ---
 
 > [!tldr] Humanism

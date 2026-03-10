@@ -4,9 +4,9 @@ created: 2025-11-16 21:21
 modified:
 tags:
   - ART101
-  - artNouveau
   - art-nouveau
-  - period/19th-century
+  - art-nouveau
+  - 19th-century
   - 20th-century
   - region/europe
 ---

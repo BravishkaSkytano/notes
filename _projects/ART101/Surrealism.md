@@ -5,7 +5,7 @@ modified: 2025-11-16 21:45
 tags:
   - ART101
   - surrealism
-  - history/style/surrealism
+  - surrealism
   - 20th-century
   - region/europe
 ---

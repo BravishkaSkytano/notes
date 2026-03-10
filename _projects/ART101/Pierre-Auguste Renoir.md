@@ -7,7 +7,7 @@ tags:
   - painter
   - impressionism
   - region/france
-  - period/19th-century
+  - 19th-century
   - 20th-century
 ---
 

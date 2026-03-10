@@ -7,7 +7,7 @@ aliases:
   - Duomo di Firenze
 needsUpdate: true
 tags:
-  - cathedrals
+  - cathedral
   - gothic
 ---
 

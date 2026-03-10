@@ -4,7 +4,7 @@ created: 2025-11-16 21:18
 modified: 2026-03-07T19:23:00-05:00
 tags:
   - ART101
-  - history/movement
+  - movement
 description: An art style that depicts everyday life and ordinary people as they truly are, without idealizing.
 ---
 

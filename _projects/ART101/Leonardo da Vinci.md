@@ -5,13 +5,13 @@ modified: 2025-11-14 12:45
 feature: Projects/University/ART101/Leonardo da Vinci-500x716.webp
 tags:
   - ART101
-  - people/inventor
-  - people/scientist
+  - inventor
+  - scientist
   - painter
-  - people/artist/sculptor
-  - people/artist/architect
-  - people/engineer
-  - period/high-renaissance
+  - sculptor
+  - architect
+  - engineer
+  - high-renaissance
   - place/Italy
 aliases:
   - da Vinci

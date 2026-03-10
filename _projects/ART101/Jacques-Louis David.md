@@ -6,8 +6,8 @@ tags:
   - ART101
   - neoclassicism
   - region/france
-  - period/18th-century
-  - period/19th-century
+  - 18th-century
+  - 19th-century
   - painter
 ---
 

@@ -5,7 +5,7 @@ modified: 2025-11-16 21:35
 tags:
   - ART101
   - fauvism
-  - history/style/fauvism
+  - fauvism
   - 20th-century
   - region/france
 ---

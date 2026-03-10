@@ -11,9 +11,9 @@ tags:
   - theme/struggle
   - theme/daily-life
   - theme/nature
-  - history/movement/realism
+  - realism
   - region/france
-  - period/19th-century
+  - 19th-century
 image: 20–29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Sower (Millet)-500x616.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/2034d7b9d23406ca640d1356cfea4c4c_86cf658e.webp
 banner: _projects/ART101/The Sower (Millet)-500x616.webp

@@ -1,10 +1,12 @@
 ---
-title: Scientific Revolution
 description:
 date: 2026-03-02
 created: 2026-02-11T18:42:45-05:00
 modified: 2026-03-02T20:44:55-05:00
 draft: true
+tags:
+  - movement
+  - science
 ---
 
 > [!summary]

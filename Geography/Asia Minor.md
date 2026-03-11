@@ -1,7 +1,7 @@
 ---
 date: 2023-10-19
 created: 2025-08-07 15:17
-modified: 2026-03-11T09:39:17-04:00
+modified: 2026-03-11T09:44:50-04:00
 description: A peninsula in West Asia that makes up the majority of Turkey.
 aliases:
   - Anatolia
@@ -36,7 +36,7 @@ Anatolia has been inhabited since prehistoric times, with early civilizations su
 
 Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic Period|Hellenistic]] world following the campaigns of Alexander the Great.
 
-Under the Roman Empire, Asia Minor flourished with cities such as [[theology.bible.revelation.seven-churches.ephesus|Ephesus]] and Pergamon becoming major centers of trade, learning, and early Christianity.
+Under the Roman Empire, Asia Minor flourished with cities such as [[Ephesus]] and Pergamon becoming major centers of trade, learning, and early Christianity.
 
 After the division of Rome, Anatolia became the heartland of the [[Byzantine Empire]], with Constantinople serving as its capital.
 

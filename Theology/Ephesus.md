@@ -1,12 +1,14 @@
 ---
-title: Ephesus
 date: 2023-10-19
 created: 2023-10-19 15:56
-modified: 2026-03-11T09:26:12-04:00
+modified: 2026-03-11T09:44:33-04:00
 needsUpdate: true
+tags:
+  - church
+  - church-history
 ---
 
-Ephesus was a church founded by Apollos and empowered by Paul during his third missionary journey. Located in a harbor along the Aegean Sea, it was more culturally favored than [[theology.bible.revelation.seven-churches.smyrna|Smyrna]] and more politically powerful than [[theology.bible.revelation.seven-churches.pergamum|Pergamum]]. It became the most prominent church in [[Asia Minor]] as well as a commercial and cultural center. The Temple of Artemis, one of the seven wonders of the world, was also located here.
+Ephesus was a church founded by Apollos and empowered by Paul during his third missionary journey. Located in a harbor along the Aegean Sea, it was more culturally favored than [[theology.bible.revelation.seven-churches.smyrna]] and more politically powerful than [[Pergamum]]. It became the most prominent church in [[Asia Minor]] as well as a commercial and cultural center. The Temple of Artemis, one of the seven wonders of the world, was also located here.
 
 Jesus called it the church that had abandoned the love and passion they had for Him in the beginning. Even though they were hard-working and constantly testing and rebuking false prophets, like the Nicolaitans, they were no longer doing it for the right reasons. They had forgotten that truth and love go together. Jesus gave them three commands–remember the former passion, repent, and start over again.
 

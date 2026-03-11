@@ -1,9 +1,11 @@
 ---
-title: Laodicea
 date: 2023-10-21
 created: 2023-10-21 15:56
-modified: 2025-08-10 20:51
+modified: 2026-03-11T09:46:17-04:00
 needsUpdate: true
+tags:
+  - church
+  - church-history
 ---
 
 > [!quote] [[Revelation 3#14|Revelation 3:14-]][[Revelation 3#22|22]]
@@ -11,7 +13,7 @@ needsUpdate: true
 
 ## Historical Context
 
-Like [[Thyatira|Thyatira]], Laodicea was a prosperous industrial and commercial center. It was located in Phrygia’s Lycus Valley, six miles south of Hierapolis. They had a horrible water supply and used aqueducts to pipe water from the hotsprings of Hierapolis for Roman baths. The problem with this is that by the time it arrived, it was lukewarm and not very soothing. In Hierapolis, their water was hot and full of minerals, it was used for healing purposes. The church in Laodicea was established by Epaphras during Paul's three-year stay at [[theology.bible.revelation.seven-churches.ephesus|Ephesus]]. Sadly, all the grandeur that came from its economic prosperity led to the spiritual bankruptcy of the church, and the complacency during abundant times led to lukewarm hearts.
+Like [[Thyatira]], Laodicea was a prosperous industrial and commercial center. It was located in Phrygia’s Lycus Valley, six miles south of Hierapolis. They had a horrible water supply and used aqueducts to pipe water from the hotsprings of Hierapolis for Roman baths. The problem with this is that by the time it arrived, it was lukewarm and not very soothing. In Hierapolis, their water was hot and full of minerals, it was used for healing purposes. The church in Laodicea was established by Epaphras during Paul's three-year stay at [[Ephesus]]. Sadly, all the grandeur that came from its economic prosperity led to the spiritual bankruptcy of the church, and the complacency during abundant times led to lukewarm hearts.
 
 ## Author’s Intent
 

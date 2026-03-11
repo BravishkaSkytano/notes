@@ -223,8 +223,8 @@
   ],
   "showFeatureImage": true,
   "featureImageProperties": [
-    "cover",
-    "banner"
+    "banner",
+    "cover"
   ],
   "featureImageExcludeProperties": [],
   "featureImageSize": "64",

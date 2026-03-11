@@ -2,7 +2,7 @@
 description: A warlord whose strength and strategic brilliance shape the fate of the Ashen Wastes and beyond. His leadership, forged in fire and tempered by conflict, ensures that he remains a key player in the intricate tapestry of Ilmaria's power dynamics.
 date: 2024-06-21T15:07:00
 created: 2024-06-21T14:32:00
-modified: 2026-03-09T12:54:41-04:00
+modified: 2026-03-11T10:28:56-04:00
 aliases:
   - Warlord of the Ashen Wastes
 needsUpdate: true
@@ -40,7 +40,7 @@ Arion's leadership extends beyond mere conquest. He has established a network of
 
 ## Conflicts and Alliances
 
-Arion's primary conflict lies with the nomadic tribes of the [[Sunaara Desert|Desert of Sunaara]], whose expansion threatens the borders of the Ashen Wastes. A series of skirmishes and diplomatic standoffs have marked their relationship, with neither side willing to concede ground.
+Arion's primary conflict lies with the nomadic tribes of the [[Sunaara Desert]], whose expansion threatens the borders of the Ashen Wastes. A series of skirmishes and diplomatic standoffs have marked their relationship, with neither side willing to concede ground.
 
 In contrast, Arion has found allies in the Gemfolk of the Crystalline Peaks, with whom he shares a mutual respect and trade partnership. The exchange of minerals and fire-forged weaponry has strengthened both regions, creating a bond of cooperation and shared interest.
 

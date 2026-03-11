@@ -7,6 +7,7 @@ tags:
   - geography
 aliases:
   - Desert of Sunaara
+  - Golden Expanse
 ---
 
 ## Geography

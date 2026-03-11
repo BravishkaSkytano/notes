@@ -426,11 +426,6 @@
   },
   "customVaultName": "",
   "pinnedNotes": {
-    "Personal/Classes/ART101/ART101 - Visual and Performing Arts.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Home.md": {
       "folder": true,
       "tag": false,
@@ -442,6 +437,21 @@
       "property": false
     },
     "Art/Artists/Artists.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Worlds/Ilmaria/Geography/Ilmaria's Geography.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Personal/Classes/ART101 - Visual and Performing Arts.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Personal/Journal/2024/2024.md": {
       "folder": true,
       "tag": false,
       "property": false

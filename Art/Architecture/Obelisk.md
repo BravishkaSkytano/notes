@@ -5,7 +5,8 @@ modified: 2026-03-02T00:54:55-05:00
 banner: https://images.unsplash.com/photo-1561599966-da3b485f4701?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw0fHxPYmVsaXNrfGVufDB8MHx8fDE3NzI0MzA4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080
 needsUpdate: true
 tags:
-  - architecture
+  - monument
+  - Egyptian
 ---
 
 > [!summary] Obelisk

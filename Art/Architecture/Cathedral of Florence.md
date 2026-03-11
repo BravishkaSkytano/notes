@@ -9,6 +9,8 @@ needsUpdate: true
 tags:
   - cathedral
   - gothic
+  - Italian
+  - renaissance
 ---
 
 > [!tldr] Cathedral of Florence

@@ -4,7 +4,8 @@ created: 2025-10-06 00:38
 modified: 2026-02-28T22:58:15-05:00
 needsUpdate: true
 tags:
-  - architecture
+  - architecture/column
+  - Roman
 ---
 
 > [!summary] Corinthian capital

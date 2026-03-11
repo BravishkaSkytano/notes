@@ -5,5 +5,9 @@
   "retroma-obsidian-theme@@img-alignment": "img-center",
   "retroma-obsidian-theme@@heading-divider": "heading-divider-show",
   "retroma-obsidian-theme@@footnote-divider": "null",
-  "V1-Willemstad-UI@@workspace-tabs-style-select": "default"
+  "V1-Willemstad-UI@@workspace-tabs-style-select": "default",
+  "sanctum@@active-line-accent": "var(--background-hover)",
+  "sanctum@@no-sanctum-icons": false,
+  "sanctum@@nav-folder-indicators": false,
+  "sanctum@@colorful-active-nav": false
 }

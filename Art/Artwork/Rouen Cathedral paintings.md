@@ -26,6 +26,6 @@ The **Rouen Cathedral** series, painted by **Claude Monet** in the **1890s**, co
 
 ## References
 
-- [[Personal/Classes/index]]
+- [[ART101 - Visual and Performing Arts]]
 - The Annotated Mona Lisa
 - [Rouen Cathedral (Monet series) - Wikipedia](https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series))

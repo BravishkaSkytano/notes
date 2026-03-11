@@ -6,7 +6,7 @@ cover: img/covers/Donatello-500x529.webp
 description: Italian Renaissance sculptor famous for creating lifelike statues, including _David_, one of the first free-standing nude figures since ancient times.
 needsUpdate: true
 tags:
-  - people
+  - person
   - sculptor
 ---
 

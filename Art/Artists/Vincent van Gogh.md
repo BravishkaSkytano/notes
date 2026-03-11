@@ -5,7 +5,7 @@ date: 2025-11-16
 created: 2025-11-16 22:04
 modified: 2026-03-07T19:26:52-05:00
 tags:
-  - people
+  - person
   - painter
 ---
 

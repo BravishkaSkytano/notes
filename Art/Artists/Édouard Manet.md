@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:49
 modified: 2026-03-07T19:26:13-05:00
 tags:
-  - people
+  - person
   - painter
 ---
 

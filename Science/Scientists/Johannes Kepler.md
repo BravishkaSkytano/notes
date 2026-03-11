@@ -5,7 +5,7 @@ created: 2026-02-27T16:12:00
 modified: 2026-02-27T16:28:47-05:00
 needsUpdate: true
 tags:
-  - people
+  - person
 ---
 
 > [!summary]

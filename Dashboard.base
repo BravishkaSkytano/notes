@@ -13,8 +13,11 @@ views:
     name: Inbox
     filters:
       or:
-        - file.basename.startsWith("inbox.")
+        - file.folder == "Inbox"
         - needsUpdate == true
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
       - title
@@ -45,6 +48,22 @@ views:
       - property: file.path
         direction: ASC
     image: note.banner
+    imageAspectRatio: 0.7
+    cardSize: 300
+  - type: cards
+    name: Covers
+    filters:
+      and:
+        - "!cover.isEmpty()"
+    order:
+      - title
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.cover
+    imageAspectRatio: 1
+    cardSize: 260
   - type: list
     name: No banner
     filters:
@@ -68,25 +87,6 @@ views:
       - property: file.ext
         direction: ASC
     image: file.file
-  - type: cards
-    name: Covers
-    filters:
-      and:
-        - "!cover.isEmpty()"
-    order:
-      - title
-      - description
-    sort:
-      - property: file.name
-        direction: ASC
-    image: note.cover
-  - type: list
-    name: Lacks title
-    filters:
-      and:
-        - title.isEmpty()
-        - file.ext == "md"
-        - file.folder != "z-templates"
   - type: list
     name: Lacks description
     filters:

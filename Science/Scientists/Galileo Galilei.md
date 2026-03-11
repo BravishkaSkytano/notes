@@ -8,7 +8,7 @@ aliases:
   - Galileo di Vincenzo Bonaiuti de' Galilei
 needsUpdate: true
 tags:
-  - people
+  - person
 ---
 
 > [!summary]

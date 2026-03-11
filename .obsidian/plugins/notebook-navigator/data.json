@@ -154,7 +154,7 @@
   "showRootFolder": true,
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
-  "enableFolderNotes": true,
+  "enableFolderNotes": false,
   "folderNoteType": "markdown",
   "folderNoteName": "index",
   "folderNoteNamePattern": "",
@@ -176,14 +176,14 @@
   "propertySortOrder": "alpha-asc",
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "defaultFolderSort": "title-asc",
   "propertySortKey": "",
   "propertySortSecondary": "created",
   "revealFileOnListChanges": true,
   "listPaneTitle": "header",
   "noteGrouping": "folder",
-  "filterPinnedByFolder": false,
+  "filterPinnedByFolder": true,
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
@@ -425,7 +425,28 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "Personal/Classes/ART101/ART101 - Visual and Performing Arts.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Home.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/Artwork/Artwork.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/Artists/Artists.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    }
+  },
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},

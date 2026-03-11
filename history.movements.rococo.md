@@ -3,7 +3,7 @@ title: Rococo
 description: An 18th-century artistic movement and style known for its light colors, playful themes, decorative elegance, and ornate detail.
 date: 2025-11-17
 created: 2025-11-17 17:00
-modified: 2025-11-17 17:12
+modified: 2026-03-11T02:40:07-04:00
 aliases:
   - Late Baroque
   - Roccoco
@@ -36,5 +36,5 @@ needsUpdate: true
 ## Resources
 
 - [Rococo - Wikipedia](https://en.wikipedia.org/wiki/Rococo)
-- ART101: Visual and Performing Arts
+- [[ART101 - Visual and Performing Arts]]
 - The Annotated Mona Lisa

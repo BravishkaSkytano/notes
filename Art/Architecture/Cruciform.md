@@ -7,4 +7,4 @@ tags:
 ---
 
 > [!tldr] Cruciform
-> Shaped like a cross; common layout for Christian churches.
+> Shaped like a cross; common layout for [[Christianity|Christian]] churches.

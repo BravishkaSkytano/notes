@@ -8,8 +8,8 @@ description: The act of inserting your own meaning into a text instead of drawin
 
 > [!summary]
 > **Definition:** Interpreting a text by reading one’s own ideas, assumptions, or biases into it rather than drawing meaning from it.
-> **Domain:** Biblical studies, literary theory, [[theology.hermeneutics|Hermeneutics]], theology
-> **Related Concepts:** [[theology.hermeneutics|Hermeneutics]], [[theology.hermeneutics.exegesis|Exegesis]], reader-response criticism, presuppositions, biases
+> **Domain:** Biblical studies, literary theory, [[Hermeneutics|Hermeneutics]], theology
+> **Related Concepts:** [[Hermeneutics|Hermeneutics]], [[theology.hermeneutics.exegesis|Exegesis]], reader-response criticism, presuppositions, biases
 > **Key Sources:**
 > **Opposing / Contrasting Ideas:** [[theology.hermeneutics.exegesis|Exegesis]] (drawing meaning out of the text), historical-grammatical method
 

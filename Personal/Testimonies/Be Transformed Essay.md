@@ -13,7 +13,7 @@ It actually took me a few minutes to answer this question. At first, I thought i
 
 That lesson was tough. During that week, I had to finally be honest—with myself and with God—about how alone and abandoned I felt by Him. It wasn’t until I started doing the homework that I really stopped to think about how I _felt_ about God, not just what I _knew_ about Him.
 
-Growing up in a Christian household, I memorized verses, sang worship songs, went to Bible studies, and even took Bible classes. A lot of people who know me would probably say I have a deep understanding of Scripture. But that’s all it really was—knowledge and understanding. For months, I wasn’t struggling with what I _knew_; I was struggling with what I _felt._ I _knew_ God was real, but I didn’t _feel_ like He was there.
+Growing up in a [[Christianity|Christian]] household, I memorized verses, sang worship songs, went to Bible studies, and even took Bible classes. A lot of people who know me would probably say I have a deep understanding of Scripture. But that’s all it really was—knowledge and understanding. For months, I wasn’t struggling with what I _knew_; I was struggling with what I _felt._ I _knew_ God was real, but I didn’t _feel_ like He was there.
 
 In my family, feelings didn’t really matter unless they were causing problems. I learned pretty early on to keep them to myself, to stay quiet and keep the peace. So when lesson four started asking questions about my _emotional perception_ of God—how I _felt_ about Him—I froze. I just stared at the page thinking, _Why does this matter? My feelings are misleading. Why should I trust them?_ But “ignore them” wasn’t one of the answers on the worksheet.
 

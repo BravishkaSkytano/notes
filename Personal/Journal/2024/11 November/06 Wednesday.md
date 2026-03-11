@@ -20,4 +20,4 @@ Today, I am grateful for:
 ## Work Log
 
 - Didn’t get much done, procrastinated for *hours* instead of reading [[Daniel W Brown - A New Introduction to Islam|A New Introduction to Islam by Daniel W. Brown]].
-- Plot twist, I don’t even have to read the book this week! All that’s due is Lecture 2 and an article comparing Christianity and Islam.
+- Plot twist, I don’t even have to read the book this week! All that’s due is Lecture 2 and an article comparing [[Christianity]] and Islam.

@@ -21,7 +21,7 @@ tags:
 > [!summary]
 > **Location Type:** Peninsula / Historical Region
 > **Region / Country:** Primarily modern-day Turkey
-> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early Christianity
+> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[Christianity]]
 > **Cultural Notes:** Blend of Anatolian, Greek, Persian, Roman, Byzantine, Seljuk, and Ottoman influences
 
 ## Overview
@@ -36,7 +36,7 @@ Anatolia has been inhabited since prehistoric times, with early civilizations su
 
 Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic Period|Hellenistic]] world following the campaigns of Alexander the Great.
 
-Under the Roman Empire, Asia Minor flourished with cities such as [[Ephesus]] and Pergamon becoming major centers of trade, learning, and early Christianity.
+Under the Roman Empire, Asia Minor flourished with cities such as [[Ephesus]] and Pergamon becoming major centers of trade, learning, and early [[Christianity]].
 
 After the division of Rome, Anatolia became the heartland of the [[Byzantine Empire]], with Constantinople serving as its capital.
 

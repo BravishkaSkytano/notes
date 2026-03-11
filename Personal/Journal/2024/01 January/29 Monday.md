@@ -15,7 +15,7 @@ The Aramaic translation of the OT is called the Tartum.
 
 ## 10:20
 
-In the first century A.D., Christians were called Followers of the Way. "[[202401291553|Christian]]" was a derogatory term adopted in the second century.
+In the first century A.D., Christians were called Followers of the Way. "[[Christianity|Christian]]" was a derogatory term adopted in the second century.
 
 ## 20:43
 

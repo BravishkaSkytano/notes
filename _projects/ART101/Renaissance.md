@@ -9,7 +9,6 @@ tags:
 ---
 
 > [!tldr] Renaissance
-> A cultural “rebirth” in Europe (14th–17th centuries) that revived interest in [[history.periods.classical|classical]] art, literature, and learning from ancient Greece and Rome.
+> A cultural “rebirth” in Europe (14th–17th centuries) that revived interest in [[Classical|classical]] art, literature, and learning from ancient Greece and Rome.
 
 ^5b4a5f
-

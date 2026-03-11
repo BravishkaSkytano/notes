@@ -1,7 +1,7 @@
 ---
 date: 2025-10-06
 created: 2025-10-06 00:33
-modified: 2025-10-06 01:05
+modified: 2026-03-11T09:35:28-04:00
 tags:
   - ART101
   - definition
@@ -9,8 +9,8 @@ tags:
 
 > [!summary] Doric capital
 > *Noun*.
-> 
-> 1. The simplest and oldest [[history.periods.classical|classical]] column capital, originating from ancient Greek architecture.
+>
+> 1. The simplest and oldest [[Classical]] column capital, originating from ancient Greek architecture.
 > 2. A plain column with an unadorned design, typically featuring a circular abacus resting on a echinus (a convex, rounded molding) and a circular collar or necking.
 
 ^843fe9

@@ -1,14 +1,14 @@
 ---
 date: 2025-10-06
 created: 2025-10-06 00:40
-modified: 2025-10-06 01:06
+modified: 2026-03-11T09:35:51-04:00
 tags:
   - ART101
   - definition
 ---
 
 > [!summary] Frieze
-> A decorative band or panel that runs horizontally along the upper part of a wall or the underside of a ceiling in [[history.periods.classical|classical]] architecture. It often contains sculptures, carvings, or painted scenes and is commonly found in temples, public buildings, and other structures with classical design elements.
+> A decorative band or panel that runs horizontally along the upper part of a wall or the underside of a ceiling in [[Classical]] architecture. It often contains sculptures, carvings, or painted scenes and is commonly found in temples, public buildings, and other structures with [[classical]] design elements.
 
 ^c3b3aa
 

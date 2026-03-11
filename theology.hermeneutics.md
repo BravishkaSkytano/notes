@@ -27,7 +27,7 @@ It asks questions beneath the text:
 
 If exegesis is the craft of building a house, hermeneutics is the architecture blueprint behind it.
 
-Historically, hermeneutics began as a discipline focused on interpreting Scripture and classical texts. Over time, it expanded into philosophy, influencing thinkers like Hans-Georg Gadamer and reshaping conversations about language, history, and understanding itself.
+Historically, hermeneutics began as a discipline focused on interpreting Scripture and [[classical]] texts. Over time, it expanded into philosophy, influencing thinkers like Hans-Georg Gadamer and reshaping conversations about language, history, and understanding itself.
 
 In biblical studies, hermeneutics provides the guardrails. It shapes:
 

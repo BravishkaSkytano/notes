@@ -1,7 +1,7 @@
 ---
 date: 2023-10-19
 created: 2025-08-07 15:17
-modified: 2026-03-11T09:26:53-04:00
+modified: 2026-03-11T09:39:17-04:00
 description: A peninsula in West Asia that makes up the majority of Turkey.
 aliases:
   - Anatolia
@@ -34,11 +34,11 @@ Geographically, it acts like a continental hinge, fastening Europe and Asia toge
 
 Anatolia has been inhabited since prehistoric times, with early civilizations such as the Hittite Empire establishing powerful states in the second millennium BCE.
 
-Later, the region came under Persian control through the Achaemenid Empire, before being swept into the Hellenistic world following the campaigns of Alexander the Great.
+Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic Period|Hellenistic]] world following the campaigns of Alexander the Great.
 
 Under the Roman Empire, Asia Minor flourished with cities such as [[theology.bible.revelation.seven-churches.ephesus|Ephesus]] and Pergamon becoming major centers of trade, learning, and early Christianity.
 
-After the division of Rome, Anatolia became the heartland of the [[history.periods.byzantine-empire|Byzantine Empire]], with Constantinople serving as its capital.
+After the division of Rome, Anatolia became the heartland of the [[Byzantine Empire]], with Constantinople serving as its capital.
 
 In the medieval period, Turkish migrations reshaped the region, eventually leading to the rise of the Ottoman Empire, which would rule much of southeastern Europe and the Middle East for centuries.
 
@@ -53,7 +53,7 @@ Culturally, it preserves layers of history: Roman ruins stand near Ottoman mosqu
 ## Related Events / Periods
 
 - Bronze Age
-- [[history.periods.hellenistic|Hellenistic Period]]
+- [[Hellenistic Period]]
 - Roman–Persian Wars
 - Byzantine–Seljuk Wars
 - Fall of Constantinople

@@ -1,13 +1,21 @@
 ---
-title: Hellenistic Period
 date: 2025-10-05
 created: 2025-10-05 23:56
 modified: 2026-02-23T13:59:10-05:00
+aliases:
+  - Hellenistic
+tags:
+  - period
+  - Mediterranean
+  - African
+  - Eastern
+  - Asian
 ---
+
 > [!summary]
 > **Time Frame:** 323 BCE – 31 BCE
 > **Geographic Scope:** Eastern Mediterranean, North Africa, Near East, parts of Central and South Asia
-> **Preceded By:** Classical Greek Period
+> **Preceded By:** [[Classical]] Greek Period
 > **Followed By:** Roman Imperial Period
 
 ## Overview

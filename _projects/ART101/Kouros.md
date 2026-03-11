@@ -1,14 +1,14 @@
 ---
 date: 2025-10-06
 created: 2025-10-06 00:54
-modified: 2025-10-06 01:11
+modified: 2026-03-11T09:30:04-04:00
 tags:
   - ART101
   - definition
 ---
 
 > [!summary] Kouros
-> A free-standing sculpture of a nude male youth, typically made of marble or bronze, produced in ancient Greece during the [[history.periods.archaic|Archaic]] period. They're characterized by their rigid, stylized poses, with one foot slightly forward and arms held straight down.
+> A free-standing sculpture of a nude male youth, typically made of marble or bronze, produced in ancient Greece during the [[Archaic]] period. They're characterized by their rigid, stylized poses, with one foot slightly forward and arms held straight down.
 
 ^0c1f70
 

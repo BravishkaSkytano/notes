@@ -15,13 +15,13 @@ permalink: /personal/classes/ART101/
 
 ### Week 1
 
-1. Archaic
-2. [[history.periods.classical]]
-3. Hellenistic
-4. Doric capital
+1. [[Archaic]]
+2. [[Classical]]
+3. [[Hellenistic Period|Hellenistic]]
+4. [[Doric capital]]
 5. Ionic capital
-6. Corinthian capital
-7. Frieze
+6. [[Corinthian capital]]
+7. [[Frieze]]
 8. Roman triumphal arch
 9. Pediment
 10. Pyramid
@@ -41,5 +41,5 @@ permalink: /personal/classes/ART101/
 
 ### Week 5
 
-- Rococo
+- [[Rococo]]
 - Neoclassism

@@ -11,9 +11,9 @@ description:
 
 ## Terms to Define
 
-1.  ![[history.periods.archaic#^12ad6e]]
-2. ![[history.periods.classical#^c1c548]]
-3. ![[history.periods.hellenistic#^79d00d]]
+1.  ![[Archaic#^12ad6e]]
+2. ![[Classical#^c1c548]]
+3. ![[Hellenistic Period#^79d00d]]
 4. ![[Doric capital#^843fe9]]
 5. ![[Ionic capital#^286375]]
 6. ![[Corinthian Capital#^ba9f18]]
@@ -27,7 +27,7 @@ description:
 14. ![[Obelisk#^fa0457]]
 
 ## People to Know
- 
+
 15. ![[Phidias]]
 16. Polykleitos
 17. Praxiteles

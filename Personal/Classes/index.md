@@ -1,4 +1,5 @@
 ---
+title: "ART101: Visual and Performing Arts"
 created: 2026-02-18T11:35:06-05:00
 modified: 2026-03-08T19:28:54-04:00
 aliases:

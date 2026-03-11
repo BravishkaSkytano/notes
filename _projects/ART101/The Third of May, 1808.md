@@ -35,6 +35,6 @@ banner: _projects/ART101/The Third of May, 1808-960x741.webp
 
 ## Resources
 
-- [[ART101 Visual and Performing Arts]]
+- [[Personal/Classes/index]]
 - [[The Annotated Mona Lisa]]
 - [The Third of May 1808 - Wikipedia](https://en.wikipedia.org/wiki/The_Third_of_May_1808)

@@ -6,3 +6,5 @@ title: Tags
     <a href="/tags/{{ tag }}/" class="link link-hover badge">{{ tag }}</a>
   {% endfor %}
 </div>
+
+{% render 'tag-tree', tree: collections.tagTree, path: '' %}

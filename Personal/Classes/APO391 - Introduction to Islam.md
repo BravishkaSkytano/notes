@@ -1,9 +1,13 @@
 ---
-title: "APO391: Introduction to Islam"
 description: This course will introduce the student primarily to the history and theology of the religion of Islam. Special emphasis will be given to topics such as a life of Muhammad, the Quran and the “Golden Age of Islam” (10th-13th centuries). The course will also include introductory information on Christian apologetics to Muslims.
 date: 2026-02-27
 created: 2026-02-27T15:40:14-05:00
 modified: 2026-02-27T15:50:21-05:00
+aliases:
+  - APO391
+tags:
+  - course
+  - class
 ---
 
 > [!summary]

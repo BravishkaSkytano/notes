@@ -35,7 +35,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🖼️ Specific Artworks to Identify by Sight
 
 - ![[Cathedral of Florence#^0993c3]]
-- ![[art.works.paintings.the-last-supper#^7e0309]]
+- ![[The Last Supper#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
 - ![[David (Donatello and Michelangelo)#^7a2cc0]]

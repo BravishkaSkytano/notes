@@ -1,11 +1,21 @@
 ---
-title: Asia Minor
 date: 2023-10-19
 created: 2025-08-07 15:17
-modified: 2026-02-23T13:44:37-05:00
+modified: 2026-03-11T09:26:53-04:00
 description: A peninsula in West Asia that makes up the majority of Turkey.
 aliases:
   - Anatolia
+tags:
+  - region
+  - peninsula
+  - Anatolian
+  - Greek
+  - Persian
+  - Roman
+  - Byzantine
+  - Seljuk
+  - Ottoman
+  - Christianity
 ---
 
 > [!summary]

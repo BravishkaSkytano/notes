@@ -8,7 +8,7 @@ tags:
 
 ## Terms to Define
 
-1. [[history.movements.rococo]]
+1. [[Rococo]]
 
 2. [[Neoclassicism]]
 

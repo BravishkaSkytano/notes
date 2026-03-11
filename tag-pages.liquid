@@ -1,0 +1,32 @@
+---
+layout: base
+eleventyComputed:
+  title: "#{{ tag }}"
+  description: All the entries that are tagged with “{{ tag }}”.
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+permalink: /{{ tag }}/
+---
+<main
+  id="top"
+>
+  <!-- Hero Section -->
+  {% render 'hero',
+    title: title,
+    description: description,
+    date: date,
+    modified: modified,
+    banner: banner,
+    cover: cover
+  %}
+
+  <div class="m-5">
+    {% assign taglist = collections[tag] %}
+    {% render 'posts-list', collection: taglist %}
+    </div>
+  </div>
+</main>

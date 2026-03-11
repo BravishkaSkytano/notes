@@ -1,0 +1,8 @@
+---
+title: Tags
+---
+<div class="not-prose m-5 text-center font-medium">
+  {% for tag in collections.tagList %}
+    <a href="/tags/{{ tag }}/" class="link link-hover badge">{{ tag }}</a>
+  {% endfor %}
+</div>

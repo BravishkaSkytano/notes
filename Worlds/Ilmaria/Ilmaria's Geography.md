@@ -1,12 +1,15 @@
 ---
-title: Ilmaria's Geography
 description: Ilmaria is divided into several distinct regions, each with its own unique landscape and climate.
 date: 2024-10-16T22:10:00
 created: 2024-10-16T23:03:00
-modified: 2024-10-20T22:53:00
+modified: 2026-03-11T10:19:35-04:00
 tags:
   - geography
+  - ilmaria
+  - worldbuilding
+draft: true
 ---
+
 ## Crystalline Peaks
 
 Dominated by towering mountains made of translucent crystals, this region glows with an otherworldly light. Home to the reclusive [[Gemfolk]], these peaks are rich in magical minerals that power much of Ilmaria’s arcane technology.
@@ -33,4 +36,4 @@ Rolling grasslands and fertile farmlands where the [[Humans]] kingdoms flourish.
 
 ## Sunaara Deserts
 
-The [[Sunaara Desert|Desert of Sunaara]], known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.
+The [[Sunaara Desert]], known as the Golden Expanse, is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.

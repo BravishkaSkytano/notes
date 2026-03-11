@@ -1,17 +1,21 @@
 ---
-title: Exegesis
+description: Interpreting the meaning of a text according to what the author intended rather than one’s own personal interpretation.
 date: 2023-10-03
 created: 2023-10-03T18:42:00
-modified: 2026-02-26T09:56:44-05:00
-description: Interpreting the meaning of a text according to what the author intended rather than one’s own personal interpretation.
+modified: 2026-03-11T10:15:14-04:00
+tags:
+  - biblical-studies
+  - theology
+  - literary-theory
+  - hermeneutics
 ---
 
 > [!summary]
 > **Definition:** The careful, context-sensitive interpretation of a text that seeks to draw out the author’s intended meaning rather than importing one’s own assumptions.
-> **Domain:** Biblical studies, theology, literary studies, [[Hermeneutics|Hermeneutics]]
-> **Related Concepts:** [[Hermeneutics|Hermeneutics]], [[theology.hermeneutics.eisegesis|Eisegesis]], historical-grammatical method, authorial intent
+> **Domain:** Biblical studies, theology, literary studies, [[Hermeneutics]]
+> **Related Concepts:** [[Hermeneutics]], [[Eisegesis]], historical-grammatical method, authorial intent
 > **Key Sources:**
-> **Opposing / Contrasting Ideas:** [[theology.hermeneutics.eisegesis|Eisegesis]], proof-texting, unchecked reader-response
+> **Opposing / Contrasting Ideas:** [[Eisegesis]], proof-texting, unchecked reader-response
 
 ## Overview
 
@@ -59,7 +63,7 @@ For someone committed to Christ-centered, Spirit-led growth, exegesis becomes an
 
 ## Connections
 
-- [[Hermeneutics|Hermeneutics]] — the broader theory of interpretation
+- [[Hermeneutics]] — the broader theory of interpretation
 - The historical-grammatical method
 - Genre analysis
 - Canonical theology

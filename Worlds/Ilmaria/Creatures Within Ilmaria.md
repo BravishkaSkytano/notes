@@ -1,9 +1,13 @@
 ---
-title: Peoples
 description: Ilmaria is home to a myriad of magical creatures, including dragons, fey, sea serpents, griffins, and elementals.
 date: 2024-10-16T22:08:00
 created: 2024-10-16T20:52:00
 modified: 2024-10-20T23:03:00
+tags:
+  - worldbuilding
+  - ilmaria
+  - creature
+draft: true
 ---
 
 - **Dragons**: Majestic and powerful, dragons are revered and feared. Each region has its own subspecies, adapted to their environment.

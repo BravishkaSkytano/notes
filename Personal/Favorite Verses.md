@@ -1,9 +1,9 @@
 ---
-title: Favorite Verses
 date: 2024-03-18
-tags:
 created: 2024-03-18T10:29:00
 modified: 2024-03-19
+tags:
+  - Bible
 needsUpdate: true
 ---
 

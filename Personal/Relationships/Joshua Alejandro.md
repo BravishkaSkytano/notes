@@ -6,4 +6,6 @@ modified: 2026-03-02T01:03:25-05:00
 aliases:
   - Joshua
   - Joshi
+tags:
+  - family
 ---

@@ -12,7 +12,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "Journal",
-      "shortcuts": [],
+      "shortcuts": [
+        {
+          "type": "note",
+          "path": "Dashboard.base"
+        }
+      ],
       "navRainbow": {
         "mode": "foreground",
         "shortcuts": {

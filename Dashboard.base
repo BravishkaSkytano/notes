@@ -5,10 +5,15 @@ views:
       or:
         - draft == true
         - file.folder.startsWith("_")
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
-      - title
       - tags
+      - description
+    markers: none
+    indentProperties: true
   - type: list
     name: Inbox
     filters:
@@ -24,18 +29,25 @@ views:
       - tags
       - description
     sort: []
-    indentProperties: false
+    indentProperties: true
+    markers: none
   - type: list
     name: Finished
     filters:
       and:
-        - completed == true
+        - draft != true
+        - needsUpdate != true
+        - '!file.folder.startsWith("img")'
+        - file.ext == "md"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
-      - title
-      - date
-      - description
       - file.tags
+      - description
+    indentProperties: true
+    markers: bullet
   - type: cards
     name: Banners
     filters:
@@ -79,10 +91,7 @@ views:
     groupBy:
       property: file.folder
       direction: ASC
-    order:
-      - file.name
-      - file.size
-      - file.ext
+    order: []
     sort:
       - property: file.ext
         direction: ASC

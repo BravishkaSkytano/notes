@@ -6,7 +6,7 @@ modified: 2026-02-25T01:48:09-05:00
 tags:
   - theory
   - methodology
-  - philosophy
+  - subject/philosophy
   - theology
   - biblical-studies
   - literary-theory

@@ -9,7 +9,7 @@ needsUpdate: true
 cover: img/covers/arion-thorne.webp
 tags:
   - character
-  - fireborn
+  - character/fireborn
 ---
 
 ## Backstory

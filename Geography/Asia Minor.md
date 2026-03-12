@@ -8,13 +8,13 @@ aliases:
 tags:
   - country
   - peninsula
-  - Anatolian
+  - culture/Anatolian
   - Greek
-  - Persian
+  - culture/Persian
   - Roman
-  - Byzantine
-  - Seljuk
-  - Ottoman
+  - culture/Byzantine
+  - culture/Seljuk
+  - culture/Ottoman
   - religion/christianity
 ---
 

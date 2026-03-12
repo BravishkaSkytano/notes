@@ -5,7 +5,7 @@ modified: 2025-11-16 22:05
 tags:
   - course/ART101
   - person/painter
-  - impressionism
+  - style/impressionism
   - country/france
   - century/19th
   - century/20th

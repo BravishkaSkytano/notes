@@ -6,7 +6,7 @@ banner: https://images.unsplash.com/photo-1561599966-da3b485f4701?crop=entropy&c
 needsUpdate: true
 tags:
   - monument
-  - Egyptian
+  - culture/Egyptian
 ---
 
 > [!summary] Obelisk

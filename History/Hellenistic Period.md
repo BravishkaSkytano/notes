@@ -7,9 +7,9 @@ aliases:
 tags:
   - period
   - Mediterranean
-  - African
+  - culture/African
   - Eastern
-  - Asian
+  - culture/Asian
 ---
 
 > [!summary]

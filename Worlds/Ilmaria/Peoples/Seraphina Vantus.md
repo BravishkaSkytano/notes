@@ -5,7 +5,7 @@ created: 2026-02-11T18:42:47-05:00
 modified: 2026-03-04T14:30:47-05:00
 tags:
   - character
-  - human
+  - character/human
 aliases:
   - Scorpion Queen
 needsUpdate: true

@@ -5,7 +5,7 @@ created: 2026-03-07T11:30:11-05:00
 
 > [!bible] [Acts 2:1-4 - WEB](https://bible-api.com/Acts+2:1-4?translation=web)
 >  <sup> **1** </sup>Now when the day of Pentecost had come, they were all with one accord in one place. <sup> **2** </sup>Suddenly there came from the sky a sound like the rushing of a mighty wind, and it filled all the house where they were sitting. <sup> **3** </sup>Tongues like fire appeared and were distributed to them, and one sat on each of them. <sup> **4** </sup>They were all filled with the Holy Spirit, and began to speak with other languages, as the Spirit gave them the ability to speak.
- %% #Acts %%
+ %% #Bible/NT/Acts %%
 
 ## The Feast of Pentecost
 
@@ -23,7 +23,7 @@ created: 2026-03-07T11:30:11-05:00
 
 > [!bible] [Ephesians 1:13-14 - WEB](https://bible-api.com/Ephesians+1:13-14?translation=web)
 >  <sup> **13** </sup>In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit, <sup> **14** </sup>who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.
- %% #Ephesians %%
+ %% #Bible/NT/Ephesians %%
 
 - God shows up in many ways
 - The Hebrew word “Ruah” means **spirit, wind, or breath**
@@ -40,7 +40,7 @@ created: 2026-03-07T11:30:11-05:00
 
 > [!bible] [Acts 2:5-13 - WEB](https://bible-api.com/Acts+2:5-13?translation=web)
 >  <sup> **5** </sup>Now there were dwelling in Jerusalem Jews, devout men, from every nation under the sky. <sup> **6** </sup>When this sound was heard, the multitude came together, and were bewildered, because everyone heard them speaking in his own language. <sup> **7** </sup>They were all amazed and marveled, saying to one another, “Behold, aren’t all these who speak Galileans? <sup> **8** </sup>How do we hear, everyone in our own native language? <sup> **9** </sup>Parthians, Medes, Elamites, and people from Mesopotamia, Judea, Cappadocia, Pontus, Asia, <sup> **10** </sup>Phrygia, Pamphylia, Egypt, the parts of Libya around Cyrene, visitors from Rome, both Jews and proselytes, <sup> **11** </sup>Cretans and Arabians: we hear them speaking in our languages the mighty works of God!” <sup> **12** </sup>They were all amazed, and were perplexed, saying to one another, “What does this mean?” <sup> **13** </sup>Others, mocking, said, “They are filled with new wine.”
- %% #Acts %%
+ %% #Bible/NT/Acts %%
 
 - On this day there were Jews from Media, Persia, Mesopotamia, Cappadocia, Pontus and Asia, Phrygia and Pamphylia, Egypt and Libya, some from Rome and even some Cretans and Arabs
 - the gift of tongues appears to be the exact reversal of the Tower of Babel

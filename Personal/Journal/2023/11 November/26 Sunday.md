@@ -18,6 +18,6 @@ We live in a society full of people who want things, but won’t work for it. Ev
 
 > [!bible] [Proverbs 10:5 - WEB](https://bible-api.com/Proverbs+10:5?translation=web)
 >  <sup> **5** </sup>He who gathers in summer is a wise son, but he who sleeps during the harvest is a son who causes shame.
- %% #Proverbs %%
+ %% #Bible/OT/Proverbs %%
 
 In times of great fear, pain, and depression, how many of us are sleeping? The harvest is ripe yet we are just being lazy and relaxing in our warm homes because it’s not our problem or anyone we know. How ridiculous is that! Wake up! You don’t need to go out of your way and travel hundreds of miles to a new place, go next door, look around when you’re outside, strike up a conversation with your friends, stop sleeping and do something for the Lord! How wonderful it would be if we could be the one who helped bring just one person to Christ. Imagine being part of the reason there’s a party in heaven. Picture God’s smiling face when you get to heaven and He says you brought one to Me.

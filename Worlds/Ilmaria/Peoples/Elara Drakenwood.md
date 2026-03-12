@@ -8,7 +8,7 @@ aliases:
 cover: img/covers/elara-drakenwood.webp
 tags:
   - character
-  - drakari
+  - character/drakari
 ---
 
 ## Origins

@@ -4,8 +4,8 @@ created: 2025-11-16 21:21
 modified:
 tags:
   - course/ART101
-  - art-nouveau
-  - art-nouveau
+  - style/art-nouveau
+  - style/art-nouveau
   - century/19th
   - century/20th
   - country/europe

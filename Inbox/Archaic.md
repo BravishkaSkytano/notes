@@ -4,7 +4,7 @@ created: 2025-10-05 23:43
 modified: 2026-03-11T09:34:35-04:00
 draft: true
 tags:
-  - classical
+  - style/classical
   - definition
 ---
 

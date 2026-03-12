@@ -4,7 +4,7 @@ created: 2023-10-02T22:06:00
 modified: 2024-01-29
 draft: true
 tags:
-  - soteriology
+  - theology/soteriology
   - doctrine
 ---
 

@@ -6,7 +6,7 @@ modified: 2026-03-02T20:44:55-05:00
 draft: true
 tags:
   - movement
-  - science
+  - subject/science
 ---
 
 > [!summary]

@@ -4,7 +4,7 @@ created: 2025-10-12 23:01
 modified: 2025-10-12 23:02
 needsUpdate: true
 tags:
-  - cathedral
+  - building/cathedral
   - style/gothic
 ---
 

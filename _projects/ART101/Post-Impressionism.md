@@ -3,11 +3,11 @@ date: 2025-11-16
 created: 2025-11-16 21:25
 modified: 2025-11-16 22:54
 tags:
-  - ART101
-  - post-impressionism
-  - post-impressionism
+  - course/ART101
+  - movement/post-impressionism
+  - movement/post-impressionism
   - century/19th
-  - region/europe
+  - country/europe
 aliases:
   - Post-Impressionist
 ---

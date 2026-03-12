@@ -5,8 +5,7 @@ created: 2024-10-18T13:18:00
 modified: 2024-10-17T23:01:00
 tags:
   - magic-systems
-  - worldbuilding
-  - ilmaria
+  - world/ilmaria
 ---
 
 - **Earth Magic** in the [[Crystalline Peaks]] allows for the manipulation of minerals and gemstones.

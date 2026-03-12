@@ -6,7 +6,7 @@ description: A peninsula in West Asia that makes up the majority of Turkey.
 aliases:
   - Anatolia
 tags:
-  - region
+  - country
   - peninsula
   - Anatolian
   - Greek
@@ -15,7 +15,7 @@ tags:
   - Byzantine
   - Seljuk
   - Ottoman
-  - Christianity
+  - religion/christianity
 ---
 
 > [!summary]

@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 17:36
 modified: 2025-10-12 20:47
 tags:
-  - ART101
+  - course/ART101
 state: "[[Shortlisted]]"
 image: 00-09 System Management/05 Covers & Thumbnails/The Last Judgment relief sculpture by Gislebertus-1760308783744.webp
 feature: "[[The Last Judgment relief sculpture by Gislebertus-1760308783744.webp]]"

@@ -3,10 +3,10 @@ date: 2025-11-16
 created: 2025-11-16 22:00
 modified: 2025-11-16 22:05
 tags:
-  - ART101
+  - course/ART101
   - person/painter
   - impressionism
-  - region/france
+  - country/france
   - century/19th
   - century/20th
 ---

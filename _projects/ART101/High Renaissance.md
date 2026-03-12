@@ -4,7 +4,7 @@ created: 2025-11-03 00:30
 modified: 2025-11-03 00:31
 feature:
 tags:
-  - ART101
+  - course/ART101
   - period
 ---
 

@@ -3,7 +3,7 @@ date: 2025-10-06
 created: 2025-10-06 00:40
 modified: 2026-03-11T09:35:51-04:00
 tags:
-  - ART101
+  - course/ART101
   - definition
 ---
 

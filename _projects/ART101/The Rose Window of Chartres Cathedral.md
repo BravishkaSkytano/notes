@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 18:49
 modified: 2025-10-12 21:04
 tags:
-  - ART101
+  - course/ART101
 state: "[[Drafting]]"
 image: 00-09 System Management/05 Covers & Thumbnails/The Rose Window of Chartres Cathedral - West Transept.webp
 feature: "[[The Rose Window of Chartres Cathedral - West Transept.webp]]"

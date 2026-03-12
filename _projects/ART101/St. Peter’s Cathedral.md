@@ -3,11 +3,11 @@ date: 2025-11-05
 created: 2025-11-05 10:08
 modified: 2025-11-05 10:09
 tags:
-  - ART101
+  - course/ART101
   - place/cathedral
   - place/Vatican_City
   - architecture
-  - renaissance
+  - period/renaissance
 ---
 
 > [!tldr] St. Peter's Cathedral

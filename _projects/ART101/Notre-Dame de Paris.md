@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 22:16
 modified: 2025-10-12 23:01
 tags:
-  - ART101
+  - course/ART101
 aliases:
   - Notre-Dame
   - Notre-Dame Cathedral

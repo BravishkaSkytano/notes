@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 18:44
 modified: 2025-11-16 22:58
 tags:
-  - ART101
+  - course/ART101
   - architecture/style
   - style/gothic
 aliases:

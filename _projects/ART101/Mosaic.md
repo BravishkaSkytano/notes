@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 20:00
 modified: 2025-11-03 01:24
 tags:
-  - ART101
+  - course/ART101
   - mosaic
 state: "[[Idea]]"
 image: 00-09 System Management/05 Covers & Thumbnails/The Theodora Panels.webp

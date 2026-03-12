@@ -7,5 +7,5 @@ aliases:
   - Malkiya
   - Sis
 tags:
-  - family
+  - person/family
 ---

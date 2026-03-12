@@ -4,7 +4,7 @@ created: 2025-11-02 23:54
 modified: 2025-11-02 23:57
 feature:
 tags:
-  - ART101
+  - course/ART101
 ---
 
 > [!tldr] Renaissance man

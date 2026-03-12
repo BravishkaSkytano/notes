@@ -3,7 +3,7 @@ date: 2025-10-06
 created: 2025-10-06 00:36
 modified: 2025-11-03 01:31
 tags:
-  - ART101
+  - course/ART101
   - architecture/column
 ---
 

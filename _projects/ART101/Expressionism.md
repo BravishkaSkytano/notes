@@ -3,11 +3,11 @@ date: 2025-11-16
 created: 2025-11-16 21:30
 modified: 2025-11-16 21:32
 tags:
-  - ART101
-  - expressionism
-  - expressionism
+  - course/ART101
+  - style/expressionism
+  - style/expressionism
   - century/20th
-  - region/germany
+  - country/germany
 ---
 
 > [!tldr] Expressionism

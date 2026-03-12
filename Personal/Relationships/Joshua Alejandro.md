@@ -7,5 +7,5 @@ aliases:
   - Joshua
   - Joshi
 tags:
-  - family
+  - person/family
 ---

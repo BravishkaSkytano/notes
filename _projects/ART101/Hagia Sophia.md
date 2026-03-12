@@ -3,11 +3,11 @@ date: 2025-10-12
 created: 2025-10-12 21:18
 modified: 2026-03-02T15:03:02-05:00
 tags:
-  - ART101
+  - course/ART101
   - mosaic
   - museum
-  - Islam
-  - Christianity
+  - religion/islam
+  - religion/christianity
 feature: z - Attachments/Hagia Sophia-1761596077883.webp
 image: 00-09 System Management/05 Covers & Thumbnails/Hagia Sophia-1761596077883.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/0639f7aebf8311970493f9e2fb60b268_86cf658e.webp

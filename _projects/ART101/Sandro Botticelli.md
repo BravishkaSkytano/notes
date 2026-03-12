@@ -4,7 +4,7 @@ created: 2025-11-03 00:16
 modified: 2025-11-03 00:24
 feature: Projects/University/ART101/Botticelli-500x546.webp
 tags:
-  - ART101
+  - course/ART101
   - person/painter
 aliases:
   - Botticelli

@@ -3,7 +3,7 @@ date: 2025-10-06
 created: 2025-10-06 00:22
 modified: 2025-11-03 01:13
 tags:
-  - ART101
+  - course/ART101
   - person/sculptor
 ---
 

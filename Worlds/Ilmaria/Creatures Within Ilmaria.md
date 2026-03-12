@@ -4,8 +4,7 @@ date: 2024-10-16T22:08:00
 created: 2024-10-16T20:52:00
 modified: 2024-10-20T23:03:00
 tags:
-  - worldbuilding
-  - ilmaria
+  - world/ilmaria
   - creature
 draft: true
 ---

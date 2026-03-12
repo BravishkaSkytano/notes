@@ -3,11 +3,11 @@ date: 2025-11-16
 created: 2025-11-16 21:38
 modified: 2025-11-16 21:45
 tags:
-  - ART101
-  - surrealism
-  - surrealism
+  - course/ART101
+  - movement/surrealism
+  - movement/surrealism
   - century/20th
-  - region/europe
+  - country/europe
 ---
 
 > [!tldr] Surrealism

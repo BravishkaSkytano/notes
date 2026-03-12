@@ -5,8 +5,7 @@ created: 2024-10-16T23:03:00
 modified: 2026-03-11T10:29:16-04:00
 tags:
   - geography
-  - ilmaria
-  - worldbuilding
+  - world/ilmaria
 permalink: /worlds/ilmaria/geography/
 needsUpdate: true
 ---

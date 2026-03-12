@@ -4,10 +4,10 @@ created: 2025-11-03 00:04
 modified: 2025-11-03 00:42
 feature:
 tags:
-  - ART101
+  - course/ART101
   - place/city-state
   - Italian
-  - Italy
+  - country/Italy
 aliases:
   - Florentine
 ---

@@ -4,15 +4,15 @@ created: 2025-11-03 00:35
 modified: 2025-11-14 12:45
 feature: Projects/University/ART101/Leonardo da Vinci-500x716.webp
 tags:
-  - ART101
-  - inventor
-  - scientist
+  - course/ART101
+  - person/inventor
+  - person/scientist
   - person/painter
   - person/sculptor
   - person/architect
-  - engineer
-  - high-renaissance
-  - place/Italy
+  - person/engineer
+  - period/high-renaissance
+  - country/Italy
 aliases:
   - da Vinci
 image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/Leonardo da Vinci-500x716.webp

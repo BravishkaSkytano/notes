@@ -4,7 +4,7 @@ date: 2023-04-06
 created: 2023-04-06T14:23:00
 modified: 2026-02-23T14:24:00
 tags:
-  - patience
+  - theme/patience
 ---
 
 Out of all the electives I could take, why did I choose chemistry? And not only did I choose chem, but I also chose Algebra 2 and a Latin course AND a creative writing course. _Why?_ Because I wasn’t thinking, of course.

@@ -3,11 +3,11 @@ date: 2025-11-16
 created: 2025-11-16 22:07
 modified:
 tags:
-  - ART101
+  - course/ART101
   - person/painter
-  - cubism
-  - surrealism
-  - region/spain
+  - style/cubism
+  - movement/surrealism
+  - country/spain
   - century/20th
 ---
 

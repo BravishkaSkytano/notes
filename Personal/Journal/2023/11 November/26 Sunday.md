@@ -7,7 +7,7 @@ aliases:
 
 > [!bible] [Matthew 9:35-38 - WEB](https://bible-api.com/Matthew+9:35-38?translation=web)
 >  <sup> **35** </sup>Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people. <sup> **36** </sup>But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd. <sup> **37** </sup>Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few. <sup> **38** </sup>Pray therefore that the Lord of the harvest will send out laborers into his harvest.”
- %% #Matthew %%
+ %% #Bible/NT/Matthew %%
 
 Jesus had compassion on the people because they were filled with anguish and fear due to their ignorance about God.
 

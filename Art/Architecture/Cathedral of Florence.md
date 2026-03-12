@@ -7,10 +7,10 @@ aliases:
   - Duomo di Firenze
 needsUpdate: true
 tags:
-  - cathedral
+  - building/cathedral
   - style/gothic
   - Italian
-  - renaissance
+  - period/renaissance
 ---
 
 > [!tldr] Cathedral of Florence

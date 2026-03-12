@@ -3,11 +3,11 @@ date: 2025-11-16
 created: 2025-11-16 21:33
 modified: 2025-11-16 21:35
 tags:
-  - ART101
-  - fauvism
-  - fauvism
+  - course/ART101
+  - style/fauvism
+  - style/fauvism
   - century/20th
-  - region/france
+  - country/france
 ---
 
 > [!tldr] Fauvism

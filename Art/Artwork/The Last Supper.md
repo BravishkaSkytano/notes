@@ -9,7 +9,7 @@ tags:
   - artwork
   - painting
   - mural
-  - high-renaissance
+  - period/high-renaissance
 ---
 
 > [!tldr] The Last Supper

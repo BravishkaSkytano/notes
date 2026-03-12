@@ -3,7 +3,7 @@ date: 2025-11-05
 created: 2025-11-05 10:02
 modified: 2025-11-05 10:03
 tags:
-  - ART101
+  - course/ART101
   - marble
 feature:
 ---

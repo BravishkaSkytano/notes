@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 22:41
 modified: 2025-11-17 14:34
 tags:
-  - ART101
+  - course/ART101
   - painting
   - medium/oil
   - genre/daily-life
@@ -11,8 +11,8 @@ tags:
   - theme/struggle
   - theme/daily-life
   - theme/nature
-  - realism
-  - region/france
+  - style/realism
+  - country/france
   - century/19th
 image: 20–29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Sower (Millet)-500x616.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/2034d7b9d23406ca640d1356cfea4c4c_86cf658e.webp

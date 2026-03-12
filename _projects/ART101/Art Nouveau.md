@@ -3,12 +3,12 @@ date: 2025-11-16
 created: 2025-11-16 21:21
 modified:
 tags:
-  - ART101
+  - course/ART101
   - art-nouveau
   - art-nouveau
   - century/19th
   - century/20th
-  - region/europe
+  - country/europe
 ---
 
 > [!tldr] Art Nouveau

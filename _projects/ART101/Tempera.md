@@ -4,7 +4,7 @@ created: 2025-11-03 00:03
 modified: 2025-11-03 00:04
 feature:
 tags:
-  - ART101
+  - course/ART101
   - painting
 ---
 

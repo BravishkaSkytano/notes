@@ -20,7 +20,6 @@ reminders:
     relatedTo: due
     offset: -P1D
 tags:
-  - research
   - task
 contexts: []
 ---

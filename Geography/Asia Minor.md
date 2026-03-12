@@ -9,9 +9,9 @@ tags:
   - country
   - peninsula
   - culture/Anatolian
-  - Greek
+  - culture/Greek
   - culture/Persian
-  - Roman
+  - culture/Roman
   - culture/Byzantine
   - culture/Seljuk
   - culture/Ottoman

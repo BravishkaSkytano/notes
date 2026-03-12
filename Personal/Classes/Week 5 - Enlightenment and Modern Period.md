@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 19:25
 modified: 2026-03-07T19:25:50-05:00
 tags:
-  - worksheet
+  - type/worksheet
   - course/ART101
 ---
 

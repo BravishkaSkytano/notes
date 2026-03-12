@@ -9,7 +9,7 @@ needsUpdate: true
 tags:
   - building/cathedral
   - style/gothic
-  - Italian
+  - culture/Italian
   - period/renaissance
 ---
 

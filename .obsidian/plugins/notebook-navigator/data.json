@@ -172,7 +172,7 @@
   "showTagIcons": true,
   "showAllTagsFolder": true,
   "showUntagged": true,
-  "tagSortOrder": "frequency-desc",
+  "tagSortOrder": "alpha-asc",
   "inheritTagColors": true,
   "keepEmptyTagsProperty": false,
   "showProperties": true,

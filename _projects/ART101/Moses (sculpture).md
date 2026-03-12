@@ -4,7 +4,7 @@ created: 2025-11-05 10:02
 modified: 2025-11-05 10:03
 tags:
   - course/ART101
-  - marble
+  - medium/marble
 feature:
 ---
 

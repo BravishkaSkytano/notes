@@ -6,7 +6,7 @@ feature:
 tags:
   - course/ART101
   - place/city-state
-  - Italian
+  - culture/Italian
   - country/Italy
 aliases:
   - Florentine

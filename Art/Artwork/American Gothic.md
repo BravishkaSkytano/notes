@@ -7,7 +7,7 @@ needsUpdate: true
 cover: https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
 tags:
   - artwork
-  - painting
+  - type/painting
 ---
 
 > [!info]

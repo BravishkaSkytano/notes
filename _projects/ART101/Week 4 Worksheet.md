@@ -5,7 +5,7 @@ modified: 2025-11-18 13:50
 feature:
 tags:
   - course/ART101
-  - worksheet
+  - type/worksheet
   - pinned
 description: "Covers: Baroque period: Painting, Sculpture and Architecture"
 ---

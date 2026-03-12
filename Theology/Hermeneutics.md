@@ -4,7 +4,7 @@ date: 2023-10-03
 created: 2026-02-11T18:42:45-05:00
 modified: 2026-02-25T01:48:09-05:00
 tags:
-  - theory
+  - type/theory
   - methodology
   - subject/philosophy
   - theology

@@ -9,7 +9,7 @@ banner: img/banners/A Sunday on La Grande Jatte-960x639.webp
 needsUpdate: true
 tags:
   - artwork
-  - painting
+  - type/painting
 ---
 
 > [!summary]

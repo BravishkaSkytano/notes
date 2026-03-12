@@ -5,7 +5,7 @@ modified: 2026-02-28T22:42:29-05:00
 draft: true
 tags:
   - artwork
-  - painting
+  - type/painting
 ---
 
 > [!tldr] Battle of Alexander and Darius on the Issus

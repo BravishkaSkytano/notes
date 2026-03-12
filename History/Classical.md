@@ -6,8 +6,8 @@ needsUpdate: true
 tags:
   - art
   - architecture
-  - Greek
-  - Roman
+  - culture/Greek
+  - culture/Roman
   - definition
 ---
 

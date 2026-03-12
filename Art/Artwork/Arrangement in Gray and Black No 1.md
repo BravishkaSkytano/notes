@@ -9,7 +9,7 @@ needsUpdate: true
 banner: img/banners/Arrangement in Gray and Black No 1-960x854.webp
 tags:
   - artwork
-  - painting
+  - type/painting
 ---
 
 > [!summary] Arrangement in Gray and Black No. 1

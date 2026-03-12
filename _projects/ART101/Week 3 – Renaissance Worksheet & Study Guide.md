@@ -4,7 +4,7 @@ created: 2025-10-18 21:54
 modified: 2025-11-18 13:50
 tags:
   - course/ART101
-  - worksheet
+  - type/worksheet
   - pinned
 description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ---

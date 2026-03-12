@@ -4,11 +4,11 @@ created: 2025-11-16 22:07
 modified:
 tags:
   - ART101
-  - painter
+  - person/painter
   - cubism
   - surrealism
   - region/spain
-  - 20th-century
+  - century/20th
 ---
 
 > [!tldr] Pablo Picasso

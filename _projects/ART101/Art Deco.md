@@ -5,7 +5,7 @@ modified: 2026-03-08T18:40:53-04:00
 tags:
   - ART101
   - art-deco
-  - 20th-century
+  - century/20th
   - region/europe
   - region/united-states
 ---

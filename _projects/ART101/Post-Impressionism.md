@@ -6,7 +6,7 @@ tags:
   - ART101
   - post-impressionism
   - post-impressionism
-  - 19th-century
+  - century/19th
   - region/europe
 aliases:
   - Post-Impressionist

@@ -4,11 +4,11 @@ created: 2025-11-16 22:00
 modified: 2025-11-16 22:05
 tags:
   - ART101
-  - painter
+  - person/painter
   - impressionism
   - region/france
-  - 19th-century
-  - 20th-century
+  - century/19th
+  - century/20th
 ---
 
 > [!tldr] Pierre-Auguste Renoir

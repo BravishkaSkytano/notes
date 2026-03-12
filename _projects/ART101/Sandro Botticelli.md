@@ -5,7 +5,7 @@ modified: 2025-11-03 00:24
 feature: Projects/University/ART101/Botticelli-500x546.webp
 tags:
   - ART101
-  - painter
+  - person/painter
 aliases:
   - Botticelli
 image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/Botticelli-500x546.webp

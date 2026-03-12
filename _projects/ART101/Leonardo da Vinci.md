@@ -7,9 +7,9 @@ tags:
   - ART101
   - inventor
   - scientist
-  - painter
-  - sculptor
-  - architect
+  - person/painter
+  - person/sculptor
+  - person/architect
   - engineer
   - high-renaissance
   - place/Italy

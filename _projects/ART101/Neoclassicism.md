@@ -7,8 +7,8 @@ tags:
   - ART101
   - neoclassicism
   - neoclassicism
-  - 18th-century
-  - 19th-century
+  - century/18th
+  - century/19th
   - region/europe
 aliases:
   - Neoclassical

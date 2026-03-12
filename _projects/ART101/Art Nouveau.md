@@ -6,8 +6,8 @@ tags:
   - ART101
   - art-nouveau
   - art-nouveau
-  - 19th-century
-  - 20th-century
+  - century/19th
+  - century/20th
   - region/europe
 ---
 

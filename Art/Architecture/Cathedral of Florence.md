@@ -8,7 +8,7 @@ aliases:
 needsUpdate: true
 tags:
   - cathedral
-  - gothic
+  - style/gothic
   - Italian
   - renaissance
 ---

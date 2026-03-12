@@ -6,9 +6,9 @@ tags:
   - ART101
   - neoclassicism
   - region/france
-  - 18th-century
-  - 19th-century
-  - painter
+  - century/18th
+  - century/19th
+  - person/painter
 ---
 
 > [!tldr] Jacques-Louis David

@@ -6,7 +6,7 @@ tags:
   - ART101
   - surrealism
   - surrealism
-  - 20th-century
+  - century/20th
   - region/europe
 ---
 

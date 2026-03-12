@@ -9,7 +9,7 @@ aliases:
 needsUpdate: true
 tags:
   - movement
-  - 18th-century
+  - century/18th
 ---
 
 > [!summary]

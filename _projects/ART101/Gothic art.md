@@ -5,7 +5,7 @@ modified: 2025-11-16 22:58
 tags:
   - ART101
   - architecture/style
-  - gothic
+  - style/gothic
 aliases:
   - Gothic
 image: 00-09 System Management/05 Covers & Thumbnails/The Rose Window of Chartres Cathedral-South Transept.webp

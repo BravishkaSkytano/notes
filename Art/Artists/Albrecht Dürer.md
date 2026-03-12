@@ -6,7 +6,7 @@ description: German artist known for detailed engravings and woodcuts like Adora
 cover: img/covers/Albrecht Dürer-500x705.webp
 tags:
   - person
-  - painter
+  - person/painter
 needsUpdate: true
 ---
 

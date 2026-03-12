@@ -4,7 +4,7 @@ created: 2025-10-12 20:43
 modified: 2026-02-28T22:56:33-05:00
 needsUpdate: true
 tags:
-  - gothic
+  - style/gothic
 ---
 
 > [!tldr] Clerestory

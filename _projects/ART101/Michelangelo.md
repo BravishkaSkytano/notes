@@ -4,9 +4,9 @@ created: 2025-11-03 00:19
 modified: 2025-11-18 14:57
 tags:
   - ART101
-  - painter
-  - sculptor
-  - architect
+  - person/painter
+  - person/sculptor
+  - person/architect
 image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/Michelangelo-500x579.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/12b03493b4ab88404be9da572057960e_86cf658e.webp
 ---

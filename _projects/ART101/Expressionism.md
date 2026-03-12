@@ -6,7 +6,7 @@ tags:
   - ART101
   - expressionism
   - expressionism
-  - 20th-century
+  - century/20th
   - region/germany
 ---
 

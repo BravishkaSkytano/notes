@@ -1,10 +1,10 @@
 ---
 date: 2025-10-12
 created: 2025-10-12 19:52
-modified: 2026-02-28T22:42:13-05:00
+modified: 2026-03-12T12:37:06-04:00
 needsUpdate: true
 tags:
-  - building-style
+  - style/basilica
   - culture/Roman
 ---
 

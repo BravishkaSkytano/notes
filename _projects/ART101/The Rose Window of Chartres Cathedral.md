@@ -1,7 +1,7 @@
 ---
 date: 2025-10-12
 created: 2025-10-12 18:49
-modified: 2025-10-12 21:04
+modified: 2026-03-12T12:40:35-04:00
 tags:
   - course/ART101
 state: "[[Drafting]]"
@@ -22,7 +22,7 @@ The north transept rose window, dating to around 1235 CE, dedicated to the Virgi
 
 The south transept rose window, created between 1221 and 1230 CE, dedicated to Christ's triumph, shows him in benediction, surrounded by the 24 Elders of the Apocalypse, who are holding medieval musical instruments. The central lancet beneath it portrays the Virgin and Child, flanked by the evangelists seated on the shoulders of Old Testament prophets, symbolizing the New Testament building upon the Old. This window’s design reflects the theme of Christ’s second coming and the Kingdom of God.
 
-All three rose windows are integral to the cathedral’s architectural and liturgical design, reinforcing the cruciform shape of the building and serving as visual narratives of [[Christianity|Christian]] theology. The windows were crafted through the collaborative efforts of masons, glaziers, and metalsmiths, with their design carefully integrated into the overall structure, including buttresses and [[Clerestory|clerestory]] rosettes. The north rose window, in particular, is noted for its intricate tracery and radial symmetry, which some interpret as a visual representation of cosmic harmony and vibrational frequencies, such as the 528 Hz "Love Frequency". The windows, along with the cathedral’s other stained glass, were intended to be educational, conveying biblical stories and theological concepts to a largely illiterate population.
+All three rose windows are integral to the cathedral’s architectural and liturgical design, reinforcing the cruciform shape of the building and serving as visual narratives of [[Christianity|Christian]] theology. The windows were crafted through the collaborative efforts of masons, glaziers, and metalsmiths, with their design carefully integrated into the overall structure, including buttresses and [[clerestory]] rosettes. The north rose window, in particular, is noted for its intricate tracery and radial symmetry, which some interpret as a visual representation of cosmic harmony and vibrational frequencies, such as the 528 Hz "Love Frequency". The windows, along with the cathedral’s other stained glass, were intended to be educational, conveying biblical stories and theological concepts to a largely illiterate population.
 
 ---
 

@@ -460,6 +460,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Dashboard.base": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

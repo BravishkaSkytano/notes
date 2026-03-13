@@ -4,7 +4,6 @@ created: 2025-11-16 22:28
 modified: 2025-11-17 14:30
 tags:
   - course/ART101
-  - artwork
 description: David's Neoclassical scene of three brothers swearing an oath.
 image: 20–29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/Oath of the Horatii-960x744.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/62e30b0acc367b2ccd4cca7e80f6d6c7_86cf658e.webp

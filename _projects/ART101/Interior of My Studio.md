@@ -2,8 +2,6 @@
 date: 2025-11-17
 created: 2025-11-17 14:48
 modified: 2025-11-17 14:56
-tags:
-  - artwork
 description: Courbet’s large Realist painting showing his studio filled with people
 aliases:
   - The Artist's Studio
@@ -36,6 +34,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/05b41ec6f92d34
 - **Background**: The unfinished paintings on the studio wall represent Courbet’s earlier works, left incomplete due to time constraints.
 - **Context**: The painting was not accepted for the **1855 Paris World Fair**, prompting Courbet to host his own exhibition, a precursor to the **Salon des Refusés**.
 - **Themes**: Represents **society at its best, worst, and average**, reflecting Courbet’s **Realist** philosophy.
+
 ## Resources
 
 - [[Worlds/Ilmaria/Ontology/Untitled/Untitled|ART101: Visual and Performing Arts]]

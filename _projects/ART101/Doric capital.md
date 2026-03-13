@@ -4,7 +4,6 @@ created: 2025-10-06 00:33
 modified: 2026-03-11T09:35:28-04:00
 tags:
   - course/ART101
-  - definition
 ---
 
 > [!summary] Doric capital

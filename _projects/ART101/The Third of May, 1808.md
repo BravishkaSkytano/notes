@@ -2,8 +2,6 @@
 date: 2025-11-17
 created: 2025-11-17 15:27
 modified: 2026-03-07T19:23:39-05:00
-tags:
-  - artwork
 description: 1814 painting by Francisco de Goya
 image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Third of May, 1808-960x741.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/f82d8d618bb22b1b72aacc1480bddeed_86cf658e.webp

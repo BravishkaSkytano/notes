@@ -6,7 +6,6 @@ modified: 2026-02-26T10:02:10-05:00
 banner: img/banners/The Last Supper-500x250.webp
 needsUpdate: true
 tags:
-  - artwork
   - type/painting
   - type/mural
   - period/high-renaissance

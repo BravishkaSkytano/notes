@@ -2,8 +2,6 @@
 date: 2025-11-17
 created: 2025-11-17 15:14
 modified: 2025-11-17 15:26
-tags:
-  - artwork
 description: Van Gogh’s swirling night sky over a quiet town.
 image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Starry Night-960x760.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/06de4c3437fb95e6931c6828416daff3_86cf658e.webp

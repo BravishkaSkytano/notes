@@ -4,7 +4,6 @@ created: 2025-10-06 00:49
 modified: 2025-10-06 01:09
 tags:
   - course/ART101
-  - definition
 ---
 
 > [!summary] Pediment

@@ -4,7 +4,6 @@ created: 2025-11-05 10:00
 modified: 2026-02-28T22:42:29-05:00
 draft: true
 tags:
-  - artwork
   - type/painting
 ---
 

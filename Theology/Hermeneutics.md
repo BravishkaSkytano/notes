@@ -9,7 +9,7 @@ tags:
   - subject/philosophy
   - theology
   - biblical-studies
-  - literary-theory
+  - type/literary-theory
 ---
 
 > [!summary]

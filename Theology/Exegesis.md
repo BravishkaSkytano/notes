@@ -6,8 +6,8 @@ modified: 2026-03-11T10:15:14-04:00
 tags:
   - biblical-studies
   - theology
-  - literary-theory
-  - hermeneutics
+  - type/literary-theory
+  - theology/hermeneutics
 ---
 
 > [!summary]

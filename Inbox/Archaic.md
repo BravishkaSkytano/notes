@@ -5,7 +5,6 @@ modified: 2026-03-11T09:34:35-04:00
 draft: true
 tags:
   - style/classical
-  - definition
 ---
 
 > [!summary] Archaic

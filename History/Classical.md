@@ -8,7 +8,6 @@ tags:
   - architecture
   - culture/Greek
   - culture/Roman
-  - definition
 ---
 
 > [!tldr] Classical

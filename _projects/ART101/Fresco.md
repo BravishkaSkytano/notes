@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 19:36
 modified: 2026-03-02T15:02:51-05:00
 tags:
-  - course/ART101
+  - course/_ART101
   - technique
 aliases:
   - frescoes

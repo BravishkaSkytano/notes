@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:38
 modified: 2025-11-16 21:45
 tags:
-  - course/ART101
+  - course/_ART101
   - movement/surrealism
   - movement/surrealism
   - century/20th

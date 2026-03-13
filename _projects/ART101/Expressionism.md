@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:30
 modified: 2025-11-16 21:32
 tags:
-  - course/ART101
+  - course/_ART101
   - style/expressionism
   - style/expressionism
   - century/20th

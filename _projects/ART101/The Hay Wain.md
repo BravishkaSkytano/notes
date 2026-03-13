@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 22:38
 modified: 2025-11-17 14:30
 tags:
-  - course/ART101
+  - course/_ART101
   - type/painting
 description: Constable's landscape with a wagon crossing a rural river.
 image: 20–29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/The Hay Wain-960x662.webp

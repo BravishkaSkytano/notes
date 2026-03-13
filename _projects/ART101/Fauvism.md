@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:33
 modified: 2025-11-16 21:35
 tags:
-  - course/ART101
+  - course/_ART101
   - style/fauvism
   - style/fauvism
   - century/20th

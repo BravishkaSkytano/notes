@@ -4,7 +4,7 @@ created: 2025-11-02 23:57
 modified: 2025-11-03 00:34
 feature:
 tags:
-  - course/ART101
+  - course/_ART101
   - movement
 ---
 

@@ -3,7 +3,7 @@ date: 2025-11-05
 created: 2025-11-05 10:08
 modified: 2025-11-05 10:09
 tags:
-  - course/ART101
+  - course/_ART101
   - place/cathedral
   - place/Vatican_City
   - architecture

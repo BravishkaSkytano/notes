@@ -4,7 +4,7 @@ created: 2025-11-03 00:32
 modified: 2025-11-03 00:34
 feature:
 tags:
-  - course/ART101
+  - course/_ART101
   - movement/neoclassicism
   - movement/neoclassicism
   - century/18th

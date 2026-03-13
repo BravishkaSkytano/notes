@@ -4,7 +4,7 @@ created: 2025-11-03 00:35
 modified: 2025-11-14 12:45
 feature: Projects/University/ART101/Leonardo da Vinci-500x716.webp
 tags:
-  - course/ART101
+  - course/_ART101
   - person/inventor
   - person/scientist
   - person/painter

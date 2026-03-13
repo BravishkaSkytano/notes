@@ -4,7 +4,7 @@ created: 2025-11-03 00:04
 modified: 2025-11-03 00:42
 feature:
 tags:
-  - course/ART101
+  - course/_ART101
   - place/city-state
   - culture/Italian
   - country/Italy

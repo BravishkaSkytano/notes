@@ -35,6 +35,10 @@ In progress, on purpose.
 > 
 > > [!example] [[Country]]
 > 
+> > [!example] [[Course]]
+> 
+> > [!example] [[_indexes/Culture|Culture]]
+> 
 > > [!example] [[_indexes/Person|Person]]
 > 
 > ^indexof-root000

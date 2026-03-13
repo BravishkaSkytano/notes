@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 21:18
 modified: 2026-03-02T15:03:02-05:00
 tags:
-  - course/ART101
+  - course/_ART101
   - type/mosaic
   - building/museum
   - religion/islam

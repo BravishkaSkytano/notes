@@ -3,7 +3,7 @@ date: 2025-11-03
 created: 2025-11-03 00:07
 modified: 2025-11-03 00:27
 tags:
-  - course/ART101
+  - course/_ART101
   - person/painter
 feature: Projects/University/ART101/Projects/University/ART101/Masaccio-290x470/Masaccio-290x470.webp
 image: 00-09 System Management/05 Covers & Thumbnails/Masaccio-290x470.webp

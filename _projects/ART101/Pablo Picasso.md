@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 22:07
 modified:
 tags:
-  - course/ART101
+  - course/_ART101
   - person/painter
   - style/cubism
   - movement/surrealism

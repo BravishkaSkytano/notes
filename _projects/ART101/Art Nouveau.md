@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 21:21
 modified:
 tags:
-  - course/ART101
+  - course/_ART101
   - style/art-nouveau
   - style/art-nouveau
   - century/19th

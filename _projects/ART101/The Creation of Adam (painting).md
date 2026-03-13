@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 19:41
 modified: 2025-11-03 02:12
 tags:
-  - course/ART101
+  - course/_ART101
   - type/painting
   - technique/fresco
 feature: "[[The Creation of Adam.webp]]"

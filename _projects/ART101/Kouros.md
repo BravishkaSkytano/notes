@@ -3,7 +3,7 @@ date: 2025-10-06
 created: 2025-10-06 00:54
 modified: 2026-03-11T09:30:04-04:00
 tags:
-  - course/ART101
+  - course/_ART101
 ---
 
 > [!summary] Kouros

@@ -6,7 +6,7 @@ modified: 2026-03-12T12:20:28-04:00
 aliases:
   - APO391
 tags:
-  - course/APO391
+  - course/_APO391
 ---
 
 > [!summary]

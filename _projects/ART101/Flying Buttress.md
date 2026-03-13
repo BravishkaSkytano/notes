@@ -3,7 +3,7 @@ date: 2025-10-12
 created: 2025-10-12 20:32
 modified: 2025-10-12 20:37
 tags:
-  - course/ART101
+  - course/_ART101
 state: "[[Final]]"
 image: 00-09 System Management/05 Covers & Thumbnails/Flying Buttress-1760315669597.webp
 feature: "[[Flying Buttress-1760315669597.webp]]"

@@ -3,7 +3,7 @@ date: 2025-11-16
 created: 2025-11-16 22:00
 modified: 2025-11-16 22:05
 tags:
-  - course/ART101
+  - course/_ART101
   - person/painter
   - style/impressionism
   - country/france

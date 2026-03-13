@@ -3,7 +3,7 @@ date: 2025-11-03
 created: 2025-11-03 00:56
 modified: 2025-11-03 01:01
 tags:
-  - course/ART101
+  - course/_ART101
   - type/painting
 feature: Projects/University/ART101/Mona Lisa-500x745.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/26c70c24e912380d2fd1f95eecc3e3c7_86cf658e.webp

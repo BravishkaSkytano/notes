@@ -22,3 +22,5 @@ This garden favors process over polish, learning over certainty, and growth over
 Nothing here is final. Everything is alive.
 
 In progress, on purpose.
+
+

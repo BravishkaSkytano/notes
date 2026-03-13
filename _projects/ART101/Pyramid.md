@@ -4,7 +4,6 @@ created: 2025-10-06 00:50
 modified: 2025-10-06 01:10
 tags:
   - course/ART101
-  - definition
 ---
 
 > [!summary] Pyramid

@@ -7,7 +7,7 @@ tags:
   - biblical-studies
   - theology
   - literary-theory
-  - hermeneutics
+  - theology/hermeneutics
 ---
 
 > [!summary]

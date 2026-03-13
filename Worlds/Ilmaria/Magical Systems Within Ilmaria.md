@@ -4,7 +4,7 @@ date: 2024-10-18T21:05:28
 created: 2024-10-18T13:18:00
 modified: 2024-10-17T23:01:00
 tags:
-  - magic-systems
+  - worlds/magic-systems
   - world/ilmaria
 ---
 

@@ -6,7 +6,7 @@ banner: img/banners/Bayeux Tapestry-1760317947129.webp
 needsUpdate: true
 tags:
   - artwork
-  - embroidery
+  - type/embroidery
   - culture/British
 ---
 

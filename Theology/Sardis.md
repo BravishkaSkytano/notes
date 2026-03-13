@@ -6,8 +6,7 @@ aliases:
   - Sart
 needsUpdate: true
 tags:
-  - church
-  - church-history
+  - building/church
 ---
 
 Sardis was the ancient capital of the Lydian Kingdoms and overcame multiple conquest attempts. It was originally founded by the Hittites in 1200 B.C. but it was captured by Persians in 550 B.C. before becoming a center for gold mining for Lydia.

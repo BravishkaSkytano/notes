@@ -7,7 +7,7 @@ aliases:
   - Anatolia
 tags:
   - country
-  - peninsula
+  - geography/peninsula
   - culture/Anatolian
   - culture/Greek
   - culture/Persian

@@ -5,7 +5,7 @@ modified: 2025-11-03 02:12
 tags:
   - course/ART101
   - type/painting
-  - fresco
+  - technique/fresco
 feature: "[[The Creation of Adam.webp]]"
 image: 00-09 System Management/05 Covers & Thumbnails/The Creation of Adam.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/791f843de7f4f40abd86c71dab2ba23c_86cf658e.webp

@@ -17,11 +17,13 @@ permalink: /country/
 > 	- [[Surrealism]]
 > - **France**
 > 	- [[Cathedral Chartres]]
+> 	- [[Édouard Manet]]
 > 	- [[Fauvism]]
 > 	- [[Jacques-Louis David]]
 > 	- [[Pierre-Auguste Renoir]]
 > 	- [[The Sower (Millet)]]
 > - **Germany**
+> 	- [[Albrecht Dürer]]
 > 	- [[Expressionism]]
 > - **Italy**
 > 	- [[Cathedral of Florence]]

@@ -14,6 +14,7 @@ permalink: /style/
 > 	- [[Art Nouveau]]
 > - **[[Basilica]]**
 > - **Classical**
+> 	- [[Albrecht Dürer]]
 > 	- [[Archaic]]
 > - **Cubism**
 > 	- [[Pablo Picasso]]
@@ -25,8 +26,10 @@ permalink: /style/
 > 	- [[Clerestory]]
 > 	- [[Gothic art]]
 > - **Impressionism**
+> 	- [[Édouard Manet]]
 > 	- [[Pierre-Auguste Renoir]]
 > - **Realism**
+> 	- [[Édouard Manet]]
 > 	- [[The Sower (Millet)]]
 > 
 > ^indexof-style

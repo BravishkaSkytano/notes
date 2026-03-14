@@ -20,7 +20,7 @@ permalink: /personal/classes/ART101/
 3. [[Hellenistic Period|Hellenistic]]
 4. [[Doric capital]]
 5. Ionic capital
-6. [[Corinthian capital]]
+6. [[Corinthian Capital]]
 7. [[Frieze]]
 8. Roman triumphal arch
 9. Pediment

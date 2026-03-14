@@ -17,7 +17,9 @@ permalink: /period/
 > 	- [[Leonardo da Vinci]]
 > 	- [[The Last Supper]]
 > - **Renaissance**
+> 	- [[Albrecht Dürer]]
 > 	- [[Cathedral of Florence]]
+> 	- [[Donatello]]
 > 	- [[St. Peter’s Cathedral|St]]
 > 
 > ^indexof-period

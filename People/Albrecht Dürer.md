@@ -5,8 +5,17 @@ modified: 2026-03-11T09:34:06-04:00
 description: German artist known for detailed engravings and woodcuts like Adoration of the Trinity, combined Northern and Italian Renaissance styles.
 cover: img/covers/Albrecht Dürer-500x705.webp
 tags:
-  - person
   - person/painter
+  - country/germany
+  - period/renaissance
+  - style/classical
+  - philosophy/humanism
+  - person/theorist
+  - person/printmaker
+  - subject/cartography
+  - subject/astronomy
+  - culture/European
+  - course/ART101
 needsUpdate: true
 ---
 

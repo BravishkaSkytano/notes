@@ -10,10 +10,12 @@ permalink: /course/
 > - **Apo391**
 > 	- [[APO391 - Introduction to Islam]]
 > - **Art101**
+> 	- [[Albrecht Dürer]]
 > 	- [[Art Deco]]
 > 	- [[Art Nouveau]]
 > 	- [[Cathedral Chartres]]
 > 	- [[Cathedral of Florence]]
+> 	- [[Claude Monet]]
 > 	- [[Domus Church]]
 > 	- [[Doric capital]]
 > 	- [[Etching or Engraving]]

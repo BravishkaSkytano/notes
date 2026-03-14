@@ -7,6 +7,10 @@ permalink: /subject/
 ---
 
 > [!example] Subject
+> - **Astronomy**
+> 	- [[Albrecht Dürer]]
+> - **Cartography**
+> 	- [[Albrecht Dürer]]
 > - **Philosophy**
 > 	- [[Hermeneutics]]
 > - **Science**

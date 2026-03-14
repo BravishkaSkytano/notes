@@ -23,10 +23,13 @@ permalink: /culture/
 > 	- [[Byzantine Empire]]
 > - **Egyptian**
 > 	- [[Obelisk]]
+> - **European**
+> 	- [[Albrecht Dürer]]
 > - **Greek**
 > 	- [[Asia Minor]]
 > 	- [[Classical]]
 > - **Italian**
+> 	- [[Donatello]]
 > 	- [[Florence]]
 > - **Maori**
 > 	- [[New Zealand]]

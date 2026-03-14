@@ -3,8 +3,8 @@ date: 2025-11-16
 created: 2025-11-16 21:58
 modified: 2026-03-07T19:11:00-05:00
 tags:
-  - person
   - person/painter
+  - course/ART101
 needsUpdate: true
 ---
 

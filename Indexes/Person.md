@@ -7,15 +7,10 @@ permalink: /person/
 ---
 
 > [!example] Person
-> - [[Albrecht Dürer]]
 > - [[Aristotle]]
-> - [[Claude Monet]]
-> - [[Donatello]]
-> - [[Édouard Manet]]
 > - [[Galileo Galilei]]
 > - [[Johannes Kepler]]
 > - [[Nicolas Copernicus]]
-> - [[Vincent van Gogh]]
 > - **Architect**
 > 	- [[Leonardo da Vinci]]
 > 	- [[Michelangelo]]
@@ -40,6 +35,8 @@ permalink: /person/
 > 	- [[Raphael]]
 > 	- [[Sandro Botticelli]]
 > 	- [[Vincent van Gogh]]
+> - **Printmaker**
+> 	- [[Albrecht Dürer]]
 > - **Scientist**
 > 	- [[Leonardo da Vinci]]
 > - **Sculptor**
@@ -47,5 +44,7 @@ permalink: /person/
 > 	- [[Leonardo da Vinci]]
 > 	- [[Michelangelo]]
 > 	- [[Phidias]]
+> - **Theorist**
+> 	- [[Albrecht Dürer]]
 > 
 > ^indexof-person

@@ -8,6 +8,6 @@ permalink: /world/
 
 > [!example] Meta-index of: World
 > 
-> > [!example] [[Ilmaria]]
+> > [!example] [[Indexes/Ilmaria|Ilmaria]]
 > 
 > ^indexof-world

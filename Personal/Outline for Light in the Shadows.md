@@ -5,7 +5,7 @@ created: 2024-10-14T21:10:00
 modified: 2026-02-17T21:11:00
 tags:
   - outline
-  - 27-chapter-method
+  - method/27-chapter
 draft: true
 ---
 

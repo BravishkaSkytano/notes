@@ -7,6 +7,8 @@ permalink: /culture/
 ---
 
 
+
+
 > [!example] Culture
 > - **African**
 > 	- [[Hellenistic Period]]

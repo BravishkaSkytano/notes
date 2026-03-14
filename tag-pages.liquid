@@ -1,7 +1,7 @@
 ---
 layout: base
 eleventyComputed:
-  title: "#{{ tag }}"
+  title: "{{ tag | split: '/' | join: ' > ' }}"
   description: All the entries that are tagged with “{{ tag }}”.
 pagination:
   data: collections
@@ -11,21 +11,8 @@ pagination:
     - all
 permalink: /{{ tag }}/
 ---
-<main
-  id="top"
->
-  <!-- Hero Section -->
-  {% render 'hero',
-    title: title,
-    description: description,
-    date: date,
-    modified: modified,
-    banner: banner,
-    cover: cover
-  %}
-
-  <div class="m-5">
+<div class="mx-auto max-w-screen-2xl p-6">
+  <div class="columns-3xs gap-4">
     {% render 'posts-list', collection: collections[tag] %}
-    </div>
   </div>
-</main>
+</div>

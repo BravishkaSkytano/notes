@@ -7,6 +7,7 @@ eleventyExcludeFromCollections: true
 automatic-linker-exclude: true
 modified: 2026-02-27T15:14:47-05:00
 created: 2026-02-13T15:08:23-05:00
+cover: img/covers/logo.jpg
 ---
 
 This is not a library of conclusions.
@@ -22,5 +23,3 @@ This garden favors process over polish, learning over certainty, and growth over
 Nothing here is final. Everything is alive.
 
 In progress, on purpose.
-
-

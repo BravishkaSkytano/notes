@@ -12,6 +12,8 @@ permalink: /course/
 > - **Art101**
 > 	- [[Art Deco]]
 > 	- [[Art Nouveau]]
+> 	- [[Cathedral Chartres]]
+> 	- [[Cathedral of Florence]]
 > 	- [[Domus Church]]
 > 	- [[Doric capital]]
 > 	- [[Etching or Engraving]]

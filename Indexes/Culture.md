@@ -27,7 +27,6 @@ permalink: /culture/
 > 	- [[Asia Minor]]
 > 	- [[Classical]]
 > - **Italian**
-> 	- [[Cathedral of Florence]]
 > 	- [[Florence]]
 > - **Maori**
 > 	- [[New Zealand]]

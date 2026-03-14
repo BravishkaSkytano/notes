@@ -16,6 +16,7 @@ permalink: /country/
 > 	- [[Post-Impressionism]]
 > 	- [[Surrealism]]
 > - **France**
+> 	- [[Cathedral Chartres]]
 > 	- [[Fauvism]]
 > 	- [[Jacques-Louis David]]
 > 	- [[Pierre-Auguste Renoir]]
@@ -23,6 +24,7 @@ permalink: /country/
 > - **Germany**
 > 	- [[Expressionism]]
 > - **Italy**
+> 	- [[Cathedral of Florence]]
 > 	- [[Florence]]
 > 	- [[Leonardo da Vinci]]
 > - **Spain**

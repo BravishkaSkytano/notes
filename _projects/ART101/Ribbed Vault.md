@@ -11,7 +11,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/c8ef403cc619e6
 ---
 
 > [!tldr] Ribbed Vault
-> A type of [[Vault]] where the ceiling’s **arches (ribs)** form a framework that supports the stone panels in between. This design made roofs **stronger and lighter**, allowing for **taller, more open interiors** and **larger windows**—a key feature of Gothic architecture.
+> A type of [[Vault]] where the ceiling’s **arches (ribs)** form a framework that supports the stone panels in between. This design made roofs **stronger and lighter**, allowing for **taller, more open interiors** and **larger windows**—a key feature of [[Gothic]] architecture.
 > 
 > ![[Ribbed Vault-1760316107980.webp|250x393]]
 

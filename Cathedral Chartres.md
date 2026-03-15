@@ -10,6 +10,6 @@ tags:
   - course/ART101
 ---
 
-A famous **[[Gothic|Gothic]] cathedral** in Chartres, France, built mainly between **1194 and 1250**. It is celebrated for its **soaring pointed arches**, **[[Flying Buttress|flying buttress]]es**, **stained glass windows** that tell biblical stories, and **sculpted portals** with detailed figures of saints and kings. The cathedral exemplifies **Gothic emphasis on height, light, and spiritual awe**.
+A famous **[[Gothic|Gothic]] cathedral** in Chartres, France, built mainly between **1194 and 1250**. It is celebrated for its **soaring pointed arches**, **[[Flying Buttress|flying buttress]]es**, **stained glass windows** that tell biblical stories, and **sculpted portals** with detailed figures of saints and kings. The cathedral exemplifies **[[Gothic]] emphasis on height, light, and spiritual awe**.
 
-**Example artwork/feature:** The **Blue Virgin stained glass window** (Notre Dame de la Belle Verrière) is a famous masterpiece of Gothic art at Chartres.
+**Example artwork/feature:** The **Blue Virgin stained glass window** (Notre Dame de la Belle Verrière) is a famous masterpiece of [[Gothic]] art at Chartres.

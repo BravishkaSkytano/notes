@@ -1,16 +1,21 @@
 ---
 date: 2025-10-12
 created: 2025-10-12 18:44
-modified: 2026-03-14T23:40:27-04:00
+modified: 2026-03-14T23:46:19-04:00
 tags:
   - course/ART101
   - style/gothic/idx
   - country/france
   - century/12th
+  - century/13th
+  - century/14th
+  - century/15th
+  - century/16th
+  - style/romanesque
 banner: img/The Rose Window of Chartres Cathedral-South Transept.webp
 ---
 
-> [!tldr] Gothic art
+> [!summary]
 > An art and architectural style that developed in **Europe from the 12th to the 16th centuries**, following the Romanesque period. It’s known for **pointed arches**, **tall spires**, **flying buttresses**, and **large stained glass windows** that fill churches with colorful light. Gothic art focused on **religious stories**, **graceful figures**, and a sense of **height and lightness**.
 >
 > ![[The Rose Window of Chartres Cathedral-South Transept.webp]]

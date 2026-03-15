@@ -37,5 +37,7 @@ permalink: /style/
 > 	- [[Arrangement in Gray and Black No 1]]
 > 	- [[Édouard Manet]]
 > 	- [[The Sower (Millet)]]
+> - **Romanesque**
+> 	- [[Gothic]]
 > 
 > ^indexof-style

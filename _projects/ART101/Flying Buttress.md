@@ -11,7 +11,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/dd1ec490e03f09
 ---
 
 > [!tldr] Flying Buttress
-> An **external support structure** that transfers the weight of a building’s tall walls and roof away from the main structure to a separate pier, allowing for **thinner walls and large stained glass windows**. It’s a hallmark of **Gothic architecture**, giving buildings both strength and elegance.
+> An **external support structure** that transfers the weight of a building’s tall walls and roof away from the main structure to a separate pier, allowing for **thinner walls and large stained glass windows**. It’s a hallmark of **[[Gothic]] architecture**, giving buildings both strength and elegance.
 > 
 > ![[Flying Buttress-1760315669597.webp|Flying Buttress of Notre Dame Cathedral|250x143]]
 

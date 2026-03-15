@@ -5,6 +5,8 @@ modified: 2026-03-07T19:33:58-05:00
 needsUpdate: true
 tags:
   - type/sculpture
+  - medium/marble
+  - medium/bronze
 ---
 
 > [!tldr] David

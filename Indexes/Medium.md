@@ -7,12 +7,17 @@ created: 2026-03-14T12:52:11-04:00
 ---
 
 > [!example] Medium
+> - **Bronze**
+> 	- [[David (Donatello and Michelangelo)]]
 > - **Marble**
+> 	- [[David (Donatello and Michelangelo)]]
 > 	- [[Moses (sculpture)]]
 > - **Oil**
 > 	- [[A Sunday on La Grande Jatte]]
 > 	- [[American Gothic]]
-> 	- [[Oil on canvas]]
+> 	- [[Arrangement in Gray and Black No 1]]
+> 	- [[Rouen Cathedral paintings]]
 > 	- [[The Sower (Millet)]]
+> 	- [[Oil on canvas]]
 > 
 > ^indexof-medium

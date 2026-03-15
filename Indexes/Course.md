@@ -26,7 +26,7 @@ permalink: /course/
 > 	- [[Flying Buttress]]
 > 	- [[Fresco]]
 > 	- [[Frieze]]
-> 	- [[Gothic art]]
+> 	- [[Gothic]]
 > 	- [[Hagia Sophia]]
 > 	- [[Hieroglyphs]]
 > 	- [[High Renaissance]]

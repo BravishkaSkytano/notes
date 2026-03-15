@@ -17,4 +17,4 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/5b58ec762a7605
 
 ^c704ee
 
-In-between 1000 AD and the rise of [[Gothic art]] in the 12th century, European art took on a Romanesque style.
+In-between 1000 AD and the rise of [[Gothic]] in the 12th century, European art took on a Romanesque style.

@@ -24,15 +24,17 @@ permalink: /style/
 > 	- [[Cathedral Chartres]]
 > 	- [[Cathedral of Florence]]
 > 	- [[Clerestory]]
-> 	- [[Gothic art]]
+> 	- [[Gothic]]
 > - **Impressionism**
 > 	- [[Édouard Manet]]
 > 	- [[Pierre-Auguste Renoir]]
+> 	- [[Rouen Cathedral paintings]]
 > - **Pointillism**
 > 	- [[A Sunday on La Grande Jatte]]
 > - **Post-impressionism**
 > 	- [[A Sunday on La Grande Jatte]]
 > - **Realism**
+> 	- [[Arrangement in Gray and Black No 1]]
 > 	- [[Édouard Manet]]
 > 	- [[The Sower (Millet)]]
 > 

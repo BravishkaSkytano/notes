@@ -13,7 +13,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 
 1. ![[Byzantine art#^f45b4c]]
 2. ![[Romanesque art#^c704ee]]
-3. ![[Gothic art#^def890]]
+3. ![[Gothic#^def890]]
 4. ![[Domus Church]]
 5. ![[Martyrium#^4f9b9a]]
 6. ![[Catacombs#^042d68]]

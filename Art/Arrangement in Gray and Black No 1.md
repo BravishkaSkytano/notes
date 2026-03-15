@@ -9,6 +9,13 @@ needsUpdate: true
 banner: img/banners/Arrangement in Gray and Black No 1-960x854.webp
 tags:
   - type/painting
+  - medium/oil
+  - theme/portrait
+  - theme/emotion
+  - theme/daily-life
+  - style/realism
+  - culture/american
+  - century/19th
 ---
 
 > [!summary] Arrangement in Gray and Black No. 1

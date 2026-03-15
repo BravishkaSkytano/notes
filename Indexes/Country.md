@@ -19,6 +19,7 @@ permalink: /country/
 > 	- [[Cathedral Chartres]]
 > 	- [[Édouard Manet]]
 > 	- [[Fauvism]]
+> 	- [[Gothic]]
 > 	- [[Jacques-Louis David]]
 > 	- [[Pierre-Auguste Renoir]]
 > 	- [[The Sower (Millet)]]

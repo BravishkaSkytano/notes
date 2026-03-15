@@ -12,6 +12,9 @@ permalink: /culture/
 > [!example] Culture
 > - **African**
 > 	- [[Hellenistic Period]]
+> - **American**
+> 	- [[American Gothic]]
+> 	- [[Arrangement in Gray and Black No 1]]
 > - **Anatolian**
 > 	- [[Asia Minor]]
 > - **Asian**
@@ -27,12 +30,15 @@ permalink: /culture/
 > 	- [[Obelisk]]
 > - **European**
 > 	- [[Albrecht Dürer]]
+> - **French**
+> 	- [[Rouen Cathedral paintings]]
 > - **Greek**
 > 	- [[Asia Minor]]
 > 	- [[Classical]]
 > - **Italian**
 > 	- [[Donatello]]
 > 	- [[Florence]]
+> 	- [[The Last Supper]]
 > - **Maori**
 > 	- [[New Zealand]]
 > - **Ottoman**

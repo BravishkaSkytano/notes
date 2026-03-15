@@ -8,7 +8,7 @@ state: "[[Final]]"
 ---
 
 > [!tldr] Tracery
-> The **stonework or ornamental pattern** that supports and decorates the **glass in a [[Gothic art|Gothic]] window**. It divides the window into sections and can form **delicate, lace-like designs** such as circles, arches, and floral shapes.
+> The **stonework or ornamental pattern** that supports and decorates the **glass in a [[Gothic|Gothic]] window**. It divides the window into sections and can form **delicate, lace-like designs** such as circles, arches, and floral shapes.
 
 ^920185
 

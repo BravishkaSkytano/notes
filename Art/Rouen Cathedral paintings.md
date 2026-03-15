@@ -4,6 +4,12 @@ created: 2025-11-17 13:22
 modified: 2026-03-14T16:31:07-04:00
 tags:
   - type/painting
+  - medium/oil
+  - theme/nature
+  - theme/emotion
+  - style/impressionism
+  - culture/french
+  - century/19th
 description: Monet's paintings of the cathedral in different light.
 banner: img/banners/Rouen Cathedral paintings-500x782.webp
 needsUpdate: true

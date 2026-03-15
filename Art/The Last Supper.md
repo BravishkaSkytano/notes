@@ -9,6 +9,8 @@ tags:
   - type/painting
   - type/mural
   - period/high-renaissance
+  - century/15th
+  - culture/Italian
 ---
 
 > [!tldr] The Last Supper

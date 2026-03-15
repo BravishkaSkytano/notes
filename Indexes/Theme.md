@@ -11,6 +11,7 @@ created: 2026-03-14T13:01:56-04:00
 > 	- [[Invisible Scars]]
 > - **Daily-life**
 > 	- [[A Sunday on La Grande Jatte]]
+> 	- [[Arrangement in Gray and Black No 1]]
 > 	- [[The Sower (Millet)]]
 > - **Depression**
 > 	- [[20220207000016]]: Nietzsche, Nihilism, and the 20th Century: The Beg...
@@ -20,16 +21,21 @@ created: 2026-03-14T13:01:56-04:00
 > 	- [[Thinking, Thinking, Thinking...|Thinking, Thinking, Thinking]]
 > - **Emotion**
 > 	- [[A Sunday on La Grande Jatte]]
+> 	- [[Arrangement in Gray and Black No 1]]
+> 	- [[Rouen Cathedral paintings]]
 > - **Mental-health**
 > 	- [[Fear and Envy, What A Pair]]
 > 	- [[Invisible Scars]]
 > - **Nature**
 > 	- [[A Sunday on La Grande Jatte]]
+> 	- [[Rouen Cathedral paintings]]
 > 	- [[The Sower (Millet)]]
 > - **Patience**
 > 	- [[20201120222259]]: The Book of Instruction
 > 	- [[20201127000058]]: Learning To Wait and Be Patient
 > 	- [[Chemistry is Hard]]
+> - **Portrait**
+> 	- [[Arrangement in Gray and Black No 1]]
 > - **Prayer**
 > 	- [[20201127000058]]: Learning To Wait and Be Patient
 > 	- [[Prayer is a Weapon]]

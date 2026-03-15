@@ -28,6 +28,10 @@ permalink: /style/
 > - **Impressionism**
 > 	- [[Édouard Manet]]
 > 	- [[Pierre-Auguste Renoir]]
+> - **Pointillism**
+> 	- [[A Sunday on La Grande Jatte]]
+> - **Post-impressionism**
+> 	- [[A Sunday on La Grande Jatte]]
 > - **Realism**
 > 	- [[Édouard Manet]]
 > 	- [[The Sower (Millet)]]

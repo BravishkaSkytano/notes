@@ -11,6 +11,7 @@ permalink: /course/
 > 	- [[APO391 - Introduction to Islam]]
 > - **Art101**
 > 	- [[Albrecht Dürer]]
+> 	- [[American Gothic]]
 > 	- [[Art Deco]]
 > 	- [[Art Nouveau]]
 > 	- [[Cathedral Chartres]]

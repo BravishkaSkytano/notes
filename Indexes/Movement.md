@@ -17,8 +17,10 @@ permalink: /movement/
 > - **[[Neoclassicism]]**
 > 	- [[Jacques-Louis David]]
 > - **Post-impressionism**
+> 	- [[A Sunday on La Grande Jatte]]
 > 	- [[Post-Impressionism]]
 > 	- [[Post-Impressionism]]
+> 	- [[Vincent van Gogh]]
 > - **[[Surrealism]]**
 > 	- [[Pablo Picasso]]
 > 

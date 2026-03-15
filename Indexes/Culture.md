@@ -21,6 +21,8 @@ permalink: /culture/
 > - **Byzantine**
 > 	- [[Asia Minor]]
 > 	- [[Byzantine Empire]]
+> - **Dutch**
+> 	- [[Vincent van Gogh]]
 > - **Egyptian**
 > 	- [[Obelisk]]
 > - **European**

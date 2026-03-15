@@ -9,6 +9,13 @@ banner: img/banners/A Sunday on La Grande Jatte-960x639.webp
 needsUpdate: true
 tags:
   - type/painting
+  - medium/oil
+  - theme/daily-life
+  - theme/nature
+  - theme/emotion
+  - movement/post-impressionism
+  - style/post-impressionism
+  - style/pointillism
 ---
 
 > [!summary]

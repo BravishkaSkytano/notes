@@ -10,6 +10,7 @@ created: 2026-03-14T13:01:56-04:00
 > - **Abuse**
 > 	- [[Invisible Scars]]
 > - **Daily-life**
+> 	- [[A Sunday on La Grande Jatte]]
 > 	- [[The Sower (Millet)]]
 > - **Depression**
 > 	- [[20220207000016]]: Nietzsche, Nihilism, and the 20th Century: The Beg...
@@ -17,10 +18,13 @@ created: 2026-03-14T13:01:56-04:00
 > 	- [[Quiet]]
 > 	- [[The Endless Loop]]
 > 	- [[Thinking, Thinking, Thinking...|Thinking, Thinking, Thinking]]
+> - **Emotion**
+> 	- [[A Sunday on La Grande Jatte]]
 > - **Mental-health**
 > 	- [[Fear and Envy, What A Pair]]
 > 	- [[Invisible Scars]]
 > - **Nature**
+> 	- [[A Sunday on La Grande Jatte]]
 > 	- [[The Sower (Millet)]]
 > - **Patience**
 > 	- [[20201120222259]]: The Book of Instruction

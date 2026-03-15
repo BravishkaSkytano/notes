@@ -1,12 +1,12 @@
 ---
-description: A Post-Impressionist painter known for expressive brushwork, vivid colors, and emotional intensity.
-parent: Painters
 date: 2025-11-16
 created: 2025-11-16 22:04
 modified: 2026-03-07T19:26:52-05:00
+description: A Post-Impressionist painter known for expressive brushwork, vivid colors, and emotional intensity.
 tags:
   - person/painter
   - movement/post-impressionism
+  - culture/dutch
 ---
 
 > [!summary]

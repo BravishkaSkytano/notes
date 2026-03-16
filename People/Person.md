@@ -10,7 +10,6 @@ permalink: /person/
 
 
 > [!example] Person
-> - [[Nicolas Copernicus]]
 > - **Architect**
 > 	- [[Leonardo da Vinci]]
 > 	- [[Michelangelo]]
@@ -20,16 +19,24 @@ permalink: /person/
 > - **Astronomer**
 > 	- [[Galileo Galilei]]
 > 	- [[Johannes Kepler]]
+> 	- [[Nicolas Copernicus]]
+> - **Diplomat**
+> 	- [[Nicolas Copernicus]]
+> - **Economist**
+> 	- [[Nicolas Copernicus]]
 > - **Engineer**
 > 	- [[Galileo Galilei]]
 > 	- [[Leonardo da Vinci]]
 > - **Family**
 > 	- [[Joshua Alejandro]]
 > 	- [[Malkiya Olson]]
+> - **Governor**
+> 	- [[Nicolas Copernicus]]
 > - **Inventor**
 > 	- [[Leonardo da Vinci]]
 > - **Mathematician**
 > 	- [[Johannes Kepler]]
+> 	- [[Nicolas Copernicus]]
 > - **Music-writer**
 > 	- [[Johannes Kepler]]
 > - **Painter**
@@ -48,10 +55,16 @@ permalink: /person/
 > - **Philosopher**
 > 	- [[Aristotle]]
 > 	- [[Johannes Kepler]]
+> - **Physician**
+> 	- [[Nicolas Copernicus]]
 > - **Physicist**
 > 	- [[Galileo Galilei]]
+> - **Polyglot**
+> 	- [[Nicolas Copernicus]]
 > - **Printmaker**
 > 	- [[Albrecht Dürer]]
+> - **Scholar**
+> 	- [[Nicolas Copernicus]]
 > - **Scientist**
 > 	- [[Leonardo da Vinci]]
 > - **Sculptor**
@@ -61,5 +74,7 @@ permalink: /person/
 > 	- [[Phidias]]
 > - **Theorist**
 > 	- [[Albrecht Dürer]]
+> - **Translator**
+> 	- [[Nicolas Copernicus]]
 > 
 > ^indexof-person

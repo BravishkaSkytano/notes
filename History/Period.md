@@ -21,6 +21,7 @@ permalink: /period/
 > 	- [[Cathedral of Florence]]
 > 	- [[Donatello]]
 > 	- [[Galileo Galilei]]
+> 	- [[Nicolas Copernicus]]
 > 	- [[St. Peter’s Cathedral|St]]
 > 
 > ^indexof-period

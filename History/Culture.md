@@ -29,6 +29,8 @@ permalink: /culture/
 > 	- [[Albrecht Dürer]]
 > - **French**
 > 	- [[Rouen Cathedral paintings]]
+> - **German**
+> 	- [[Johannes Kepler]]
 > - **Greek**
 > 	- [[Aristotle]]
 > 	- [[Asia Minor]]
@@ -44,6 +46,8 @@ permalink: /culture/
 > 	- [[Asia Minor]]
 > - **Persian**
 > 	- [[Asia Minor]]
+> - **Prussian**
+> 	- [[Nicolas Copernicus]]
 > - **Roman**
 > 	- [[Asia Minor]]
 > 	- [[Basilica]]

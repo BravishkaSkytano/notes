@@ -2,10 +2,22 @@
 description: A Prussian polyglot, mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist
 date: 2026-02-27
 created: 2026-02-27T16:32:00
-modified: 2026-03-16T09:33:34-04:00
+modified: 2026-03-16T09:41:02-04:00
 needsUpdate: true
 tags:
-  - person
+  - person/astronomer
+  - person/polyglot
+  - person/mathematician
+  - person/physician
+  - person/scholar
+  - person/translator
+  - person/governor
+  - person/diplomat
+  - person/economist
+  - culture/prussian
+  - period/renaissance
+  - movement/copernican-revolution
+  - movement/scientific-revolution
 ---
 
 > [!summary]

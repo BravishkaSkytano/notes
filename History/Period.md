@@ -20,6 +20,7 @@ permalink: /period/
 > 	- [[Albrecht Dürer]]
 > 	- [[Cathedral of Florence]]
 > 	- [[Donatello]]
+> 	- [[Galileo Galilei]]
 > 	- [[St. Peter’s Cathedral|St]]
 > 
 > ^indexof-period

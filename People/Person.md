@@ -10,21 +10,28 @@ permalink: /person/
 
 
 > [!example] Person
-> - [[Aristotle]]
-> - [[Galileo Galilei]]
-> - [[Johannes Kepler]]
 > - [[Nicolas Copernicus]]
 > - **Architect**
 > 	- [[Leonardo da Vinci]]
 > 	- [[Michelangelo]]
 > 	- [[Raphael]]
+> - **Astrologer**
+> 	- [[Johannes Kepler]]
+> - **Astronomer**
+> 	- [[Galileo Galilei]]
+> 	- [[Johannes Kepler]]
 > - **Engineer**
+> 	- [[Galileo Galilei]]
 > 	- [[Leonardo da Vinci]]
 > - **Family**
 > 	- [[Joshua Alejandro]]
 > 	- [[Malkiya Olson]]
 > - **Inventor**
 > 	- [[Leonardo da Vinci]]
+> - **Mathematician**
+> 	- [[Johannes Kepler]]
+> - **Music-writer**
+> 	- [[Johannes Kepler]]
 > - **Painter**
 > 	- [[Albrecht Dürer]]
 > 	- [[Claude Monet]]
@@ -38,6 +45,11 @@ permalink: /person/
 > 	- [[Raphael]]
 > 	- [[Sandro Botticelli]]
 > 	- [[Vincent van Gogh]]
+> - **Philosopher**
+> 	- [[Aristotle]]
+> 	- [[Johannes Kepler]]
+> - **Physicist**
+> 	- [[Galileo Galilei]]
 > - **Printmaker**
 > 	- [[Albrecht Dürer]]
 > - **Scientist**

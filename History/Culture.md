@@ -6,9 +6,6 @@ created: 2026-03-14T12:23:18-04:00
 permalink: /culture/
 ---
 
-
-
-
 > [!example] Culture
 > - **African**
 > 	- [[Hellenistic Period]]
@@ -33,11 +30,13 @@ permalink: /culture/
 > - **French**
 > 	- [[Rouen Cathedral paintings]]
 > - **Greek**
+> 	- [[Aristotle]]
 > 	- [[Asia Minor]]
 > 	- [[Classical]]
 > - **Italian**
 > 	- [[Donatello]]
 > 	- [[Florence]]
+> 	- [[Galileo Galilei]]
 > 	- [[The Last Supper]]
 > - **Maori**
 > 	- [[New Zealand]]

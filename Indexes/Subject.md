@@ -9,6 +9,7 @@ permalink: /subject/
 > [!example] Subject
 > - **Astronomy**
 > 	- [[Albrecht Dürer]]
+> 	- [[Heliocentrism]]
 > - **Cartography**
 > 	- [[Albrecht Dürer]]
 > - **Philosophy**

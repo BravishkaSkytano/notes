@@ -2,13 +2,14 @@
 description:
 date: 2026-02-13
 created: 2026-02-13T15:08:24-05:00
-modified: 2026-02-27T15:18:52-05:00
+modified: 2026-03-16T09:28:57-04:00
 needsUpdate: true
 tags:
-  - person
+  - person/philosopher
+  - culture/Greek
 ---
 
-> **Aristotle** ( ARR-iss-tot-əl; Greek: Ἀριστοτέλης Aristotélēs, pronounced [aristotélɛːs]; 384–322 BC) was an Ancient Greek philosopher and polymath. His writings cover a broad range of subjects spanning the natural sciences, [[Definition of Philosophy]], linguistics, economics, politics, psychology, and the arts. As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set the groundwork for the development of modern science.
+> **Aristotle** ( ARR-iss-tot-əl; Greek: Ἀριστοτέλης Aristotélēs, pronounced [aristotélɛːs]; 384–322 BC) was an Ancient Greek philosopher and polymath. His writings cover a broad range of subjects spanning the natural sciences, Philosophy, linguistics, economics, politics, psychology, and the arts. As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set the groundwork for the development of modern science.
 >
 > Little is known about Aristotle's life. He was born in the city of Stagira in northern Greece during the [[Classical]] period. His father, Nicomachus, died when Aristotle was a child, and he was brought up by a guardian. At 17 or 18, he joined Plato's Academy in Athens and remained there until the age of 37 (c. 347 BC). Shortly after Plato died, Aristotle left Athens and, at the request of Philip II of Macedon, tutored his son Alexander the Great beginning in 343 BC. He established a library in the Lyceum, which helped him to produce many of his hundreds of books on papyrus scrolls.
 >

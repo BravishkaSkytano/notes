@@ -2,13 +2,17 @@
 description: The father of observational astronomy, modern-era classical physics, the scientific method, and modern science
 date: 2026-02-27
 created: 2026-02-04T23:36:02-05:00
-modified: 2026-02-27T16:01:06-05:00
+modified: 2026-03-16T09:35:33-04:00
 aliases:
   - Galileo
   - Galileo di Vincenzo Bonaiuti de' Galilei
 needsUpdate: true
 tags:
-  - person
+  - person/astronomer
+  - person/physicist
+  - person/engineer
+  - culture/Italian
+  - period/renaissance
 ---
 
 > [!summary]

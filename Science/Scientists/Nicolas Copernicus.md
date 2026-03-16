@@ -2,7 +2,7 @@
 description: A Prussian polyglot, mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist
 date: 2026-02-27
 created: 2026-02-27T16:32:00
-modified: 2026-02-27T16:38:47-05:00
+modified: 2026-03-16T09:33:34-04:00
 needsUpdate: true
 tags:
   - person
@@ -13,7 +13,7 @@ tags:
 > **Role / Profession:** polyglot, mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist
 > **Nationality:** Royal Prussia
 > **Associated Movements:** [[Renaissance]], Copernican Revolution, [[Scientific Revolution]]
-> **Key Works:** [[Heliocentrism|Heliocentrism]], De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)(book)
+> **Key Works:** [[Heliocentrism]], De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres)(book)
 
 ## Overview
 

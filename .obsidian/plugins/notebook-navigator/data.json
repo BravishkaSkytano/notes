@@ -16,6 +16,14 @@
         {
           "type": "note",
           "path": "Dashboard.base"
+        },
+        {
+          "type": "note",
+          "path": "Home.md"
+        },
+        {
+          "type": "note",
+          "path": "Worlds/World.md"
         }
       ],
       "navRainbow": {
@@ -245,10 +253,10 @@
   "colorFileProperties": true,
   "prioritizeColoredFileProperties": true,
   "showFilePropertiesInCompactMode": false,
-  "showPropertiesOnSeparateRows": false,
+  "showPropertiesOnSeparateRows": true,
   "enablePropertyInternalLinks": true,
   "enablePropertyExternalLinks": true,
-  "notePropertyType": "wordCount",
+  "notePropertyType": "none",
   "showFileDate": true,
   "alphabeticalDateMode": "modified",
   "showParentFolder": true,
@@ -436,17 +444,52 @@
       "tag": false,
       "property": false
     },
-    "Worlds/Ilmaria/Geography/Ilmaria's Geography.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Personal/Classes/ART101 - Visual and Performing Arts.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
     "Personal/Journal/2024/2024.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Technology/Technology.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Worlds/Ilmaria.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Worlds/World.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Worlds/Ilmaria's Geography.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Geography/Country.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "History/Culture.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "History/Period.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "People/Person.md": {
       "folder": true,
       "tag": false,
       "property": false

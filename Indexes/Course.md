@@ -14,6 +14,7 @@ permalink: /course/
 > 	- [[American Gothic]]
 > 	- [[Art Deco]]
 > 	- [[Art Nouveau]]
+> 	- [[ART101]]: ART101: Visual and Performing Arts
 > 	- [[Cathedral Chartres]]
 > 	- [[Cathedral of Florence]]
 > 	- [[Claude Monet]]

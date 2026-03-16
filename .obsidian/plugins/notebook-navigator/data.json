@@ -444,11 +444,6 @@
       "tag": false,
       "property": false
     },
-    "Personal/Classes/ART101 - Visual and Performing Arts.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Personal/Journal/2024/2024.md": {
       "folder": true,
       "tag": false,
@@ -490,6 +485,16 @@
       "property": false
     },
     "People/Person.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/Oil on canvas.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/Fresco.md": {
       "folder": true,
       "tag": false,
       "property": false

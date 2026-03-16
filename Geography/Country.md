@@ -25,7 +25,6 @@ index: true
 > 	- [[Pierre-Auguste Renoir]]
 > 	- [[The Sower (Millet)]]
 > - **Germany**
-> 	- [[Albrecht Dürer]]
 > 	- [[Expressionism]]
 > - **Italy**
 > 	- [[Cathedral of Florence]]

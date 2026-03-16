@@ -12,6 +12,7 @@ tags:
   - century/15th
   - century/16th
   - style/romanesque
+banner: img/The Rose Window of Chartres Cathedral-South Transept.webp
 ---
 
 > [!summary]

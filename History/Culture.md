@@ -26,11 +26,10 @@ index: true
 > 	- [[Vincent van Gogh]]
 > - **Egyptian**
 > 	- [[Obelisk]]
-> - **European**
-> 	- [[Albrecht Dürer]]
 > - **French**
 > 	- [[Rouen Cathedral paintings]]
 > - **German**
+> 	- [[Albrecht Dürer]]
 > 	- [[Johannes Kepler]]
 > - **Greek**
 > 	- [[Aristotle]]

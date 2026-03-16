@@ -12,11 +12,11 @@ index: true
 > - [[Eisegesis]]
 > - [[Exegesis]]
 > - [[Guardian Spirit of Persia]]
-> - [[Hermeneutics]]
 > - [[Little horn]]
 > - **Hermeneutics**
 > 	- [[Eisegesis]]
 > 	- [[Exegesis]]
+> 	- [[Hermeneutics]]
 > - **Soteriology**
 > 	- [[Free Grace Theology]]
 > 

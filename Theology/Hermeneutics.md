@@ -2,13 +2,10 @@
 description: The theory of interpretation.
 date: 2023-10-03
 created: 2026-02-11T18:42:45-05:00
-modified: 2026-02-25T01:48:09-05:00
+modified: 2026-03-16T10:48:21-04:00
 tags:
   - type/theory
-  - methodology
-  - subject/philosophy
-  - theology
-  - biblical-studies
+  - theology/hermeneutics/idx
   - type/literary-theory
 ---
 
@@ -64,12 +61,10 @@ For someone pursuing biblically grounded servant leadership, hermeneutics become
 4. **Storytelling & Worldbuilding:** Creating internally consistent meaning structures within fictional worlds.
 5. **Leadership & Discipleship:** Modeling interpretive humility and intellectual integrity.
 
-## Connections
-
-- [[Exegesis]] — the practice flowing from hermeneutics
-- [[Eisegesis]] — the interpretive danger hermeneutics seeks to guard against
-- Historical-grammatical method
-- Canonical theology
-- Authorial intent vs. reader-response theory
-
 Hermeneutics is the quiet compass behind interpretation. It does not shout from the page, but it determines the direction of every step taken across it.
+
+> [!example] Theology / Hermeneutics
+> - [[Eisegesis]]
+> - [[Exegesis]]
+> 
+> ^indexof-theology-hermeneutics

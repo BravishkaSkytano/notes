@@ -14,7 +14,6 @@ permalink: /style/
 > 	- [[Art Nouveau]]
 > - **[[Basilica]]**
 > - **Classical**
-> 	- [[Albrecht Dürer]]
 > 	- [[Archaic]]
 > - **Cubism**
 > 	- [[Pablo Picasso]]

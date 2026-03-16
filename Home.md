@@ -10,7 +10,6 @@ created: 2026-02-13T15:08:23-05:00
 cover: img/covers/logo.jpg
 tags:
   - meta_idx
-index: true
 ---
 
 This is not a library of conclusions.

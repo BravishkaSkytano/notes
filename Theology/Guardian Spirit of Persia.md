@@ -1,10 +1,11 @@
 ---
 date: 2023-10-03
 created: 2023-10-03T19:40:00
-modified: 2024-02-14
+modified: 2026-03-16T00:31:12-04:00
 draft: true
 tags:
   - Bible/OT/Daniel
+  - theology
 ---
 
 A ram with clean feet and sharp-pointed horns is the guardian spirit of Persia. The king would hold the head of a ram when he was at the head of the army.

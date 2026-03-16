@@ -4,6 +4,8 @@ date: 2025-07-31
 created: 2025-07-31T15:14:00
 modified: 2025-10-05 22:04
 needsUpdate: true
+tags:
+  - technology/git
 ---
 
 Adding submodules is simple with two commands for each authentication method you want to use. The first command adds the submodule, while the second command tells Git to pull in the contents of the submodule.

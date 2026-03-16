@@ -4,8 +4,12 @@ date: 2025-07-31
 created: 2025-07-31T15:04:00
 modified: 2025-10-05 22:03
 tags:
-  - git
-  - netlify
+  - technology/git
+  - technology/netlify
+  - type/tutorial
+  - technology/github/actions
+  - technology/github/pat
+  - technology/git/deploy-keys
 ---
 
 Netlify is a great resource for me because it allows me to build websites for free, using any static site generator I want, without worrying about storage or bandwidth. Plus, the URLs are clean and easy to set without feeling the need to buy your own domain. Netlify is quick, easy to use, and pretty versatile. The one issue I've run into that didn't have an easy and intuitive solution was using private [[Git Submodules|Git submodules]] within my site.

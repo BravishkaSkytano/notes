@@ -13,6 +13,7 @@ created: 2026-03-14T13:02:38-04:00
 > 	- [[Bayeux Tapestry]]
 > - **Essay**
 > 	- [[20250707010440]]: Discussing Sex Within The Church
+> 	- [[Thoughts on Genesis]]
 > - **Literary-theory**
 > 	- [[Eisegesis]]
 > 	- [[Exegesis]]
@@ -45,6 +46,8 @@ created: 2026-03-14T13:02:38-04:00
 > 	- [[Be Transformed Essay]]
 > - **Theory**
 > 	- [[Hermeneutics]]
+> - **Tutorial**
+> 	- [[How To Use Private Submodules With Netlify]]
 > - **Worksheet**
 > 	- [[W1 Worksheet]]
 > 	- [[W2 Worksheet]]

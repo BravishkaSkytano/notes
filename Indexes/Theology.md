@@ -10,7 +10,9 @@ permalink: /theology/
 > - [[20220906155648]]: My Breath Alone Shall Praise Him
 > - [[Eisegesis]]
 > - [[Exegesis]]
+> - [[Guardian Spirit of Persia]]
 > - [[Hermeneutics]]
+> - [[Little horn]]
 > - **Hermeneutics**
 > 	- [[Eisegesis]]
 > 	- [[Exegesis]]

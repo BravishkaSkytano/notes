@@ -5,6 +5,7 @@ modified: 2024-02-16
 draft: true
 tags:
   - Bible/OT/Daniel
+  - theology
 ---
 
 ![[Daniel 8#9]] ![[Daniel 8#10]]

@@ -6,6 +6,9 @@ created: 2026-03-14T12:20:04-04:00
 permalink: /person/
 ---
 
+
+
+
 > [!example] Person
 > - [[Aristotle]]
 > - [[Galileo Galilei]]

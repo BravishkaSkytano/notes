@@ -102,3 +102,9 @@ views:
       and:
         - description.isEmpty()
         - file.ext == "md"
+  - type: list
+    name: Indexes
+    filters:
+      and:
+        - file.tags.contains("idx")
+    indentProperties: true

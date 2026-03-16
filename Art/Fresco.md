@@ -7,6 +7,7 @@ tags:
 aliases:
   - frescoes
 permalink: /technique/fresco/
+index: true
 ---
 
 > [!tldr] Fresco

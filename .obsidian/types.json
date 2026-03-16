@@ -31,6 +31,7 @@
     "parent": "text",
     "child": "multitext",
     "needsUpdate": "checkbox",
-    "completed": "checkbox"
+    "completed": "checkbox",
+    "index?": "checkbox"
   }
 }

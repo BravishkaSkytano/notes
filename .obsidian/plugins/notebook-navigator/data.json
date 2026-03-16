@@ -498,6 +498,16 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Courses/Course.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "History/Movement.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

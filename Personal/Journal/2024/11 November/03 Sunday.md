@@ -1,5 +1,5 @@
 ---
-modified: 2026-03-05T11:14:21-05:00
+modified: 2026-03-16T10:23:12-04:00
 created: 2026-02-27T17:36:22-05:00
 aliases:
   - 2024-11-03
@@ -14,6 +14,6 @@ aliases:
 
 ## Work Log
 
-- ([[APO391 - Introduction to Islam|APO391]]) I finished the discussion board for week 2
-- ([[APO391 - Introduction to Islam|APO391]]) I took the reading quiz, think I got every question right.
+- ([[APO391]]) I finished the discussion board for week 2
+- ([[APO391]]) I took the reading quiz, think I got every question right.
 - (SOC2110) Watched video 8, and it was… wow. The topic was abortion and it was a pretty good argument. The speaker showed a short video going over what a baby looks like after it’s aborted at different stages of growth. It was so sad. Even at the earliest stage, you can see the hands and fingers! How can someone see that and argue the fetus isn’t human?

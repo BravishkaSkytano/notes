@@ -5,6 +5,7 @@ tags:
   - course/ART101
   - technique/oil-on-canvas/idx
   - medium/oil/idx
+permalink: /technique/oil-on-canvas/
 index: true
 ---
 

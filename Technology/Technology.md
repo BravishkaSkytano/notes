@@ -1,9 +1,10 @@
 ---
-tags:
-  - technology/idx
 modified: 2026-03-16T00:39:54-04:00
 created: 2026-03-16T00:39:36-04:00
+tags:
+  - technology/idx
 permalink: /technology/
+index: true
 ---
 
 > [!example] Technology

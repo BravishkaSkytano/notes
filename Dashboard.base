@@ -106,5 +106,12 @@ views:
     name: Indexes
     filters:
       and:
-        - file.tags.contains("idx")
+        - index == true
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - permalink
     indentProperties: true

@@ -7,6 +7,8 @@ tags:
 needsUpdate: true
 aliases:
   - Christian
+permalink: /religion/christianity/
+index: true
 ---
 
 > [!example] Religion / Christianity

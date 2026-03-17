@@ -530,17 +530,22 @@
       "tag": false,
       "property": false
     },
-    "Theology/NT.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Theology/OT.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
     "Journal/2024/2024.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Journal/Journal.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Theology/NT.md": {
       "folder": true,
       "tag": false,
       "property": false

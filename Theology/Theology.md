@@ -9,8 +9,6 @@ index: true
 
 > [!example] Theology
 > - [[20220906155648]]: My Breath Alone Shall Praise Him
-> - [[Eisegesis]]
-> - [[Exegesis]]
 > - [[Guardian Spirit of Persia]]
 > - [[Little horn]]
 > - **Hermeneutics**

@@ -4,7 +4,6 @@ date: 2023-10-03
 created: 2023-10-03T22:03:00
 modified: 2026-03-11T10:12:57-04:00
 tags:
-  - biblical-studies
   - type/literary-theory
   - theology/hermeneutics
   - theology

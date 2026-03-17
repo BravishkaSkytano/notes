@@ -13,6 +13,7 @@ index: true
 > - [[20250707010440]]: Discussing Sex Within The Church
 > - [[Favorite Verses]]
 > - **Nt**
+> 	- [[New Testament]]
 > 	- **Romans**
 > 		- [[20230201000000]]: Romans 8 Affirmation
 > - **Ot**

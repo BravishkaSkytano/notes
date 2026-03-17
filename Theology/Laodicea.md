@@ -4,8 +4,7 @@ created: 2023-10-21 15:56
 modified: 2026-03-11T09:46:17-04:00
 needsUpdate: true
 tags:
-  - church
-  - church-history
+  - building/church
 ---
 
 > [!quote] [[Revelation 3#14|Revelation 3:14-]][[Revelation 3#22|22]]

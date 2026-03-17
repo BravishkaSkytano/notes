@@ -16,5 +16,6 @@ index: true
 > ![[The Creation of Adam.webp|The Creation of Adam by Michelangelo]]
 
 > [!example] Technique / Fresco
+> - [[The Creation of Adam (painting)]]
 > 
 > ^indexof-technique-fresco

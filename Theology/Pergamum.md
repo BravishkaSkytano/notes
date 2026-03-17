@@ -6,8 +6,7 @@ aliases:
   - Satan's City
 needsUpdate: true
 tags:
-  - church
-  - church-history
+  - building/church
 ---
 
 Pergamum was an extremely pagan city, even Jesus wrote that it contained "Satan's throne" (Revelation 2:13). The most famous altar in the world, the altar of Zeus, was built here on top of the Acropolis. The city itself received special favor from Rome because they helped Rome take down other East Mediterranean kings. Rome turned Pergamos into their provincial capital, and it became a major cultural hub with a library that rivaled the one in Alexandria. And despite all that was going on around them, there were some Christians who stayed firmly focused on Jesus and the Gospel message. However, some of the church members followed false teachings and compromised both religiously and morally.

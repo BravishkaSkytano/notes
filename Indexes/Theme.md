@@ -23,6 +23,8 @@ created: 2026-03-14T13:01:56-04:00
 > 	- [[A Sunday on La Grande Jatte]]
 > 	- [[Arrangement in Gray and Black No 1]]
 > 	- [[Rouen Cathedral paintings]]
+> - **Gender-dysphoria**
+> 	- [[20240814000000]]: Looking Through Two Lenses, Part 2
 > - **Mental-health**
 > 	- [[Fear and Envy, What A Pair]]
 > 	- [[Invisible Scars]]

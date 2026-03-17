@@ -7,3 +7,14 @@ permalink: /place/
 ---
 
 
+
+
+> [!example] Place
+> - **Cathedral**
+> 	- [[St. Peter’s Cathedral|St]]
+> - **City-state**
+> 	- [[Florence]]
+> - **Vatican city**
+> 	- [[St. Peter’s Cathedral|St]]
+> 
+> ^indexof-place

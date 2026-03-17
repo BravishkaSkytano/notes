@@ -45,6 +45,8 @@ index: true
 > 	- [[The Last Supper]]
 > - **Maori**
 > 	- [[New Zealand]]
+> - **Mediterranean**
+> 	- [[Hellenistic Period]]
 > - **Ottoman**
 > 	- [[Asia Minor]]
 > - **Persian**

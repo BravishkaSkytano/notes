@@ -6,9 +6,8 @@ aliases:
   - Hellenistic
 tags:
   - period
-  - Mediterranean
+  - culture/Mediterranean
   - culture/African
-  - Eastern
   - culture/Asian
 ---
 

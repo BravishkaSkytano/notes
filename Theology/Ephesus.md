@@ -4,8 +4,7 @@ created: 2023-10-19 15:56
 modified: 2026-03-11T09:44:33-04:00
 needsUpdate: true
 tags:
-  - church
-  - church-history
+  - building/church
 ---
 
 Ephesus was a church founded by Apollos and empowered by Paul during his third missionary journey. Located in a harbor along the Aegean Sea, it was more culturally favored than [[Smyrna]] and more politically powerful than [[Pergamum]]. It became the most prominent church in [[Asia Minor]] as well as a commercial and cultural center. The Temple of Artemis, one of the seven wonders of the world, was also located here.

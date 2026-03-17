@@ -5,7 +5,6 @@ created: 2024-10-16T20:52:00
 modified: 2024-10-20T23:03:00
 tags:
   - world/ilmaria
-  - creature
 draft: true
 ---
 

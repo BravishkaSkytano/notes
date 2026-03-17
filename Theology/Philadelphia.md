@@ -4,8 +4,7 @@ created: 2023-10-21 15:56
 modified: 2026-03-11T09:47:15-04:00
 needsUpdate: true
 tags:
-  - church
-  - church-history
+  - building/church
 ---
 
 Philadelphia was founded by King Attalus II of [[Pergamum]] in 150 B.C. and became known as the “Gateway to the East.” Its trademark consisted of grapes, textiles, and leather goods. And during the Byzantine times, it became an important center of [[Christianity]].

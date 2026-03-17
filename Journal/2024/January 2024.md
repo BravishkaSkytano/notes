@@ -9,5 +9,7 @@ index: true
 
 > [!example] Journal / 2024 / 01
 > - [[2024-01-02]]: Tuesday, January 2nd, 2024
+> - [[2024-01-04]]: Thursday, January 4th, 2024
+> - [[2024-01-05]]: Friday, January 5th, 2024
 > 
 > ^indexof-journal-

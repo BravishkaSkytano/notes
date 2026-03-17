@@ -7,7 +7,7 @@ aliases:
 
 > [!bible] [Matthew 9:35-38 - WEB](https://bible-api.com/Matthew+9:35-38?translation=web)
 >  <sup> **35** </sup>Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people. <sup> **36** </sup>But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd. <sup> **37** </sup>Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few. <sup> **38** </sup>Pray therefore that the Lord of the harvest will send out laborers into his harvest.”
- %% #Bible/NT/Matthew %%
+ %% #Bible/_NT/Matthew %%
 
 Jesus had compassion on the people because they were filled with anguish and fear due to their ignorance about God.
 
@@ -18,6 +18,6 @@ We live in a society full of people who want things, but won’t work for it. Ev
 
 > [!bible] [Proverbs 10:5 - WEB](https://bible-api.com/Proverbs+10:5?translation=web)
 >  <sup> **5** </sup>He who gathers in summer is a wise son, but he who sleeps during the harvest is a son who causes shame.
- %% #Bible/OT/Proverbs %%
+ %% #Bible/_OT/Proverbs %%
 
 In times of great fear, pain, and depression, how many of us are sleeping? The harvest is ripe yet we are just being lazy and relaxing in our warm homes because it’s not our problem or anyone we know. How ridiculous is that! Wake up! You don’t need to go out of your way and travel hundreds of miles to a new place, go next door, look around when you’re outside, strike up a conversation with your friends, stop sleeping and do something for the Lord! How wonderful it would be if we could be the one who helped bring just one person to Christ. Imagine being part of the reason there’s a party in heaven. Picture God’s smiling face when you get to heaven and He says you brought one to Me.

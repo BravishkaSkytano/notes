@@ -7,7 +7,7 @@ aliases:
 
 > [!bible] [Matthew 16:26 - WEB](https://bible-api.com/Matthew+16:26?translation=web)
 >  <sup> **26** </sup>For what will it profit a man, if he gains the whole world, and forfeits his life? Or what will a man give in exchange for his life?
- %% #Bible/NT/Matthew %%
+ %% #Bible/_NT/Matthew %%
 
 In the 1800s, the focus was not on the time we have here but on eternity and what we can do that will carry on to them. However, in the 1940s, the message switched to materialism and how we can make our lives better and how God can help us with anything. It became about profit and how God could give you anything. Ministers and pastors are more concerned about how much money they have, what the people want, who speaks at their church, how big the congregation is, etc. instead of focusing on God and what He wants.
 
@@ -17,7 +17,7 @@ In the 1800s, the focus was not on the time we have here but on eternity and wha
 
 > [!bible] [Matthew 24:36-39 - WEB](https://bible-api.com/Matthew+24:36-39?translation=web)
 >  <sup> **36** </sup>But no one knows of that day and hour, not even the angels of heaven, but my Father only. <sup> **37** </sup>“As the days of Noah were, so will be the coming of the Son of Man. <sup> **38** </sup>For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ship, <sup> **39** </sup>and they didn’t know until the flood came, and took them all away, so will be the coming of the Son of Man.
- %% #Bible/NT/Matthew %%
+ %% #Bible/_NT/Matthew %%
 
 Are you focused on the here and now or on eternity and God? Are you listening to the gentle promptings on the Holy Spirit? When another Noah comes to warn you, will you be listening? When God speaks to you, do you listen? When Judgement Day comes make sure you are ready to meet the Lord. It costs nothing to get in the Ark, you only have to listen and go when you are called.
 

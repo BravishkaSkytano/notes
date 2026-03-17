@@ -4,7 +4,7 @@ date: 2020-11-15
 created: 2020-11-15 00:00
 modified: 2025-08-07 22:07
 tags:
-  - Bible/OT/Genesis
+  - Bible/_OT/Genesis
   - type/essay
 ---
 

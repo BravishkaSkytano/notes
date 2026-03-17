@@ -4,7 +4,7 @@ created:
 modified: 2024-02-16
 draft: true
 tags:
-  - Bible/OT/Daniel
+  - Bible/_OT/Daniel
   - theology
 ---
 

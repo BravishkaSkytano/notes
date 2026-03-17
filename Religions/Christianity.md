@@ -11,6 +11,9 @@ permalink: /religion/christianity/
 index: true
 ---
 
+
+
+
 > [!example] Religion / Christianity
 > - [[Asia Minor]]
 > - [[Hagia Sophia]]

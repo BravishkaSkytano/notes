@@ -7,6 +7,9 @@ permalink: /period/
 index: true
 ---
 
+
+
+
 > [!example] Period
 > - [[Hellenistic Period]]
 > - [[High Renaissance]]

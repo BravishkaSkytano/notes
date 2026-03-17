@@ -7,6 +7,9 @@ permalink: /movement/
 index: true
 ---
 
+
+
+
 > [!example] Movement
 > - [[Humanism]]
 > - [[Impressionism]]

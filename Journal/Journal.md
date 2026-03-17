@@ -11,8 +11,6 @@ index: true
 > 
 > > [!example] [[2023]]
 > 
-> > [!example] [[Journal/2024|2024]]
-> 
-> > [!example] [[Journal/2024/2024|2024]]
+> > [!example] [[2024]]
 > 
 > ^indexof-journal

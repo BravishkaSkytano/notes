@@ -38,6 +38,8 @@ In progress, on purpose.
 > 
 > > [!example] [[Culture]]
 > 
+> > [!example] [[Journal/Journal|Journal]]
+> 
 > > [!example] [[Medium]]
 > 
 > > [!example] [[Movement]]

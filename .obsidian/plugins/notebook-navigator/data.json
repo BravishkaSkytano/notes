@@ -455,11 +455,6 @@
       "tag": false,
       "property": false
     },
-    "Personal/Journal/2024/2024.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Technology/Technology.md": {
       "folder": true,
       "tag": false,
@@ -544,6 +539,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Journal/2024/2024.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},
@@ -553,7 +553,7 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
-    "Personal/Journal/2024/01 January": "title-asc"
+    "Journal/2024/01 January": "title-asc"
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},

@@ -26,7 +26,7 @@ permalink: /style/
 > 	- [[Cathedral Chartres]]
 > 	- [[Cathedral of Florence]]
 > 	- [[Clerestory]]
-> 	- [[Gothic]]
+> 	- [[Indexes/Gothic|Gothic]]
 > - **Impressionism**
 > 	- [[Édouard Manet]]
 > 	- [[Pierre-Auguste Renoir]]
@@ -40,6 +40,6 @@ permalink: /style/
 > 	- [[Édouard Manet]]
 > 	- [[The Sower (Millet)]]
 > - **Romanesque**
-> 	- [[Gothic]]
+> 	- [[Indexes/Gothic|Gothic]]
 > 
 > ^indexof-style

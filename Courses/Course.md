@@ -9,8 +9,8 @@ index: true
 
 > [!example] Meta-index of: Course
 > 
-> > [!example] [[APO391]]: APO391: Introduction to Islam
+> > [!example] [[Courses/APO391|APO391]]: APO391: Introduction to Islam
 > 
-> > [!example] [[ART101]]: ART101: Visual and Performing Arts
+> > [!example] [[Courses/ART101|ART101]]: ART101: Visual and Performing Arts
 > 
 > ^indexof-course

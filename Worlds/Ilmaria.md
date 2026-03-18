@@ -16,6 +16,6 @@ index: true
 > - [[Creatures Within Ilmaria]]
 > - [[Magical Systems Within Ilmaria]]
 > - **Geography**
-> 	- [[Ilmaria's Geography]]
+> 	- [[Worlds/Ilmaria's Geography|Ilmaria's Geography]]
 > 
 > ^indexof-world-ilmaria

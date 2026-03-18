@@ -198,7 +198,7 @@
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
   "includeDescendantNotes": false,
-  "defaultFolderSort": "title-asc",
+  "defaultFolderSort": "filename-asc",
   "propertySortKey": "",
   "propertySortSecondary": "created",
   "revealFileOnListChanges": true,
@@ -220,7 +220,7 @@
   "frontmatterIconField": "icon",
   "frontmatterColorField": "color",
   "frontmatterBackgroundField": "background",
-  "frontmatterNameField": "",
+  "frontmatterNameField": "title",
   "frontmatterCreatedField": "created",
   "frontmatterModifiedField": "modified",
   "frontmatterDateFormat": "",
@@ -536,6 +536,21 @@
       "property": false
     },
     "Journal/2024/01.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Theology/NT.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Theology/OT.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Architecture/Architecture.md": {
       "folder": true,
       "tag": false,
       "property": false

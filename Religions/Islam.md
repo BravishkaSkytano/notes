@@ -12,7 +12,7 @@ permalink: /religion/islam/
 
 
 > [!example] Religion / Islam
-> - [[APO391]]: APO391: Introduction to Islam
+> - [[Courses/APO391|APO391]]: APO391: Introduction to Islam
 > - [[Hagia Sophia]]
 > 
 > ^indexof-religion-islam

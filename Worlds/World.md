@@ -14,6 +14,6 @@ index: true
 
 > [!example] Meta-index of: World
 > 
-> > [!example] [[Ilmaria]]
+> > [!example] [[Worlds/Ilmaria|Ilmaria]]
 > 
 > ^indexof-world

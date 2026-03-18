@@ -1,6 +1,6 @@
 ---
 date: 2023-10-03
-created:
+created: 2023-10-03T16:42:00
 modified: 2024-02-16
 draft: true
 tags:

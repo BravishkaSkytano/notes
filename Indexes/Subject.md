@@ -11,7 +11,7 @@ permalink: /subject/
 
 > [!example] Subject
 > - **Art**
-> 	- [[ART101]]: ART101: Visual and Performing Arts
+> 	- [[Courses/ART101|ART101]]: ART101: Visual and Performing Arts
 > - **Astronomy**
 > 	- [[Albrecht Dürer]]
 > 	- [[Heliocentrism]]

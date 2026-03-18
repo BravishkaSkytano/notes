@@ -13,14 +13,14 @@ index: true
 > - **Europe**
 > 	- [[Art Deco]]
 > 	- [[Art Nouveau]]
-> 	- [[Neoclassicism]]
+> 	- [[_projects/ART101/Neoclassicism|Neoclassicism]]
 > 	- [[Post-Impressionism]]
 > 	- [[Surrealism]]
 > - **France**
 > 	- [[Cathedral Chartres]]
 > 	- [[Édouard Manet]]
 > 	- [[Fauvism]]
-> 	- [[Gothic]]
+> 	- [[Indexes/Gothic|Gothic]]
 > 	- [[Jacques-Louis David]]
 > 	- [[Pierre-Auguste Renoir]]
 > 	- [[The Sower (Millet)]]

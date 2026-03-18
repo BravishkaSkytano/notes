@@ -1,9 +1,10 @@
 ---
-modified: 2026-03-05T11:15:13-05:00
+modified: 2026-03-17T20:04:41-04:00
 created: 2026-02-27T17:36:22-05:00
 aliases:
   - 2024-11-06
   - Nov 6, 2024
+title:
 ---
 
 > [!quote] Elizabeth Browning
@@ -20,4 +21,4 @@ Today, I am grateful for:
 ## Work Log
 
 - Didn’t get much done, procrastinated for *hours* instead of reading [[Daniel W Brown - A New Introduction to Islam|A New Introduction to Islam by Daniel W. Brown]].
-- Plot twist, I don’t even have to read the book this week! All that’s due is Lecture 2 and an article comparing [[Christianity]] and Islam.
+- Plot twist, I don’t even have to read the book this week! All that’s due is Lecture 2 and an article comparing [[Christianity]] and [[Islam]].

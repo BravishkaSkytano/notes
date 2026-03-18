@@ -31,34 +31,18 @@ views:
     sort: []
     indentProperties: true
     markers: none
-  - type: list
-    name: Finished
-    filters:
-      and:
-        - draft != true
-        - needsUpdate != true
-        - '!file.folder.startsWith("img")'
-        - file.ext == "md"
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-      - description
-    indentProperties: true
-    markers: bullet
   - type: cards
     name: Banners
     filters:
       and:
         - "!banner.isEmpty()"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - title
       - description
-    sort:
-      - property: file.path
-        direction: ASC
+    sort: []
     image: note.banner
     imageAspectRatio: 0.7
     cardSize: 300
@@ -67,12 +51,13 @@ views:
     filters:
       and:
         - "!cover.isEmpty()"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - title
       - description
-    sort:
-      - property: file.name
-        direction: ASC
+    sort: []
     image: note.cover
     imageAspectRatio: 1
     cardSize: 260
@@ -82,7 +67,6 @@ views:
       and:
         - banner.isEmpty()
         - file.ext == "md"
-        - '!file.path.startsWith("_journal")'
   - type: cards
     name: Images
     filters:
@@ -97,15 +81,31 @@ views:
         direction: ASC
     image: file.file
   - type: list
-    name: Lacks description
+    name: Missing metadata
     filters:
       and:
-        - description.isEmpty()
         - file.ext == "md"
+        - or:
+            - description.isEmpty()
+            - date.isEmpty()
+            - created.isEmpty()
+            - file.tags.isEmpty()
+        - draft != true
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - date
+      - description
+      - created
+      - modified
+      - file.tags
+    indentProperties: true
   - type: list
     name: Indexes
     filters:
-      and:
+      or:
         - index == true
     groupBy:
       property: file.folder

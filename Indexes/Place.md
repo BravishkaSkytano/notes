@@ -9,6 +9,8 @@ permalink: /place/
 
 
 
+
+
 > [!example] Place
 > - **Cathedral**
 > 	- [[St. Peter’s Cathedral|St]]

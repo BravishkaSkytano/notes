@@ -20,10 +20,6 @@
         {
           "type": "note",
           "path": "Home.md"
-        },
-        {
-          "type": "note",
-          "path": "Worlds/World.md"
         }
       ],
       "navRainbow": {

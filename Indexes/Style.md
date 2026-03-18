@@ -6,6 +6,9 @@ created: 2026-03-14T13:00:52-04:00
 permalink: /style/
 ---
 
+
+
+
 > [!example] Style
 > - **Art-deco**
 > 	- [[Art Deco]]

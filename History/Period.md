@@ -10,6 +10,8 @@ index: true
 
 
 
+
+
 > [!example] Period
 > - [[Hellenistic Period]]
 > - [[High Renaissance]]

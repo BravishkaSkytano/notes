@@ -6,6 +6,9 @@ created: 2026-03-14T13:01:14-04:00
 permalink: /subject/
 ---
 
+
+
+
 > [!example] Subject
 > - **Art**
 > 	- [[ART101]]: ART101: Visual and Performing Arts

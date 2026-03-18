@@ -10,6 +10,8 @@ index: true
 
 
 
+
+
 > [!example] Movement
 > - [[Humanism]]
 > - [[Impressionism]]

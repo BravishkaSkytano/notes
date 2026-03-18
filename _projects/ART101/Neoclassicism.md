@@ -1,11 +1,9 @@
 ---
 date: 2025-11-03
 created: 2025-11-03 00:32
-modified: 2025-11-03 00:34
-feature:
+modified: 2026-03-18T12:55:55-04:00
 tags:
-  - course/ART101
-  - movement/neoclassicism
+  - course/ART101/W5
   - movement/neoclassicism
   - century/18th
   - century/19th

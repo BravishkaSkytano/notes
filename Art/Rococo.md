@@ -10,6 +10,7 @@ needsUpdate: true
 tags:
   - movement
   - century/18th
+  - course/ART101/W5
 ---
 
 > [!summary]

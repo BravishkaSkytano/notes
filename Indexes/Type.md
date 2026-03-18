@@ -56,6 +56,6 @@ created: 2026-03-14T13:02:38-04:00
 > 	- **[[W2 Worksheet]]**
 > 	- **[[Week 3 – Renaissance Worksheet & Study Guide]]**
 > 	- **[[Week 4 Worksheet]]**
-> 	- [[Week 5 - Enlightenment and Modern Period]]
+> 	- [[W5]]: Week 5
 > 
 > ^indexof-type

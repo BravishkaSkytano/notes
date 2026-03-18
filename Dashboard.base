@@ -65,8 +65,14 @@ views:
     name: No banner
     filters:
       and:
-        - banner.isEmpty()
         - file.ext == "md"
+        - or:
+            - banner.isEmpty()
+            - cover.isEmpty()
+        - draft != true
+    groupBy:
+      property: file.folder
+      direction: ASC
   - type: cards
     name: Images
     filters:
@@ -91,6 +97,8 @@ views:
             - created.isEmpty()
             - file.tags.isEmpty()
         - draft != true
+        - index != true
+        - '!file.folder.startsWith("_")'
     groupBy:
       property: file.folder
       direction: ASC
@@ -98,8 +106,6 @@ views:
       - file.name
       - date
       - description
-      - created
-      - modified
       - file.tags
     indentProperties: true
   - type: list

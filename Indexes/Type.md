@@ -6,6 +6,9 @@ modified: 2026-03-14T13:02:52-04:00
 created: 2026-03-14T13:02:38-04:00
 ---
 
+
+
+
 > [!example] Type
 > - **Debate**
 > 	- [[Origins Debate]]

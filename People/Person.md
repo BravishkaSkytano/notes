@@ -7,6 +7,9 @@ permalink: /person/
 index: true
 ---
 
+
+
+
 > [!example] Person
 > - **Architect**
 > 	- [[Leonardo da Vinci]]

@@ -7,6 +7,9 @@ permalink: /technology/
 index: true
 ---
 
+
+
+
 > [!example] Technology
 > - **Git**
 > 	- [[How To Add A Submodule To A Repository]]

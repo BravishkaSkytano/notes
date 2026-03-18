@@ -9,6 +9,9 @@ aliases:
 index: true
 ---
 
+
+
+
 > [!example] Meta-index of: World
 > 
 > > [!example] [[Ilmaria]]

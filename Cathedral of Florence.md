@@ -1,7 +1,7 @@
 ---
 date: 2025-11-03
 created: 2025-11-03 00:48
-modified: 2026-03-14T16:20:54-04:00
+modified: 2026-03-18T13:05:04-04:00
 aliases:
   - Il Duomo
   - Duomo di Firenze
@@ -11,7 +11,7 @@ tags:
   - style/gothic
   - period/renaissance
   - country/Italy
-  - course/ART101
+  - course/ART101/W3
 ---
 
 > [!tldr] Cathedral of Florence

@@ -529,6 +529,16 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Journal/2024/04.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Journal/2024/01.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

@@ -1,3 +1,5 @@
 {
-  "format": "[personal.journal.]YYYY[.W]w"
+  "format": "YYYY-MM-DD",
+  "folder": "Journal",
+  "template": "z-templates/journal"
 }

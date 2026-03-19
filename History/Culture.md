@@ -7,17 +7,14 @@ permalink: /culture/
 index: true
 ---
 
-
-
-
-
-
 > [!example] Culture
 > - **African**
 > 	- [[Hellenistic Period]]
+> 	- [[African]]
 > - **American**
 > 	- [[American Gothic]]
 > 	- [[Arrangement in Gray and Black No 1]]
+> 	- [[American]]
 > - **Anatolian**
 > 	- [[Asia Minor]]
 > - **Asian**

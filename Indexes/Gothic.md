@@ -6,7 +6,7 @@ tags:
   - course/ART101
   - style/gothic/idx
   - country/france
-  - century/12th
+  - century/12
   - century/13th
   - century/14th
   - century/15th

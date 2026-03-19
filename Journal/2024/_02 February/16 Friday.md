@@ -1,5 +1,7 @@
 ---
-created: 2026-02-11T18:42:46-05:00
+title: Friday, February 16th, 2024
+date: 2024-02-16
+created: 2024-02-16T18:42:00
 modified: 2026-03-08T21:13:04-04:00
 aliases:
   - 2024-02-16

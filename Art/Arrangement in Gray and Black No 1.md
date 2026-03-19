@@ -1,7 +1,7 @@
 ---
 date: 2025-11-16
 created: 2025-11-16 22:18
-modified: 2026-02-27T13:55:32-05:00
+modified: 2026-03-18T16:50:26-04:00
 aliases:
   - Whistler's Mother
   - Portrait of the Painter's Mother
@@ -17,16 +17,6 @@ tags:
   - culture/american
   - century/19th
 ---
-
-> [!summary] Arrangement in Gray and Black No. 1
-> **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas]]
-> **Genre:** [[Portrait]]
-> **Themes:** Emotion, Daily life
-> **Artist:** [[James McNeill Whistler]]
-> **Movement:** [[Realism]]
-> **Region:** [[United States]]
-> **Period:** [[19th Century]]
 
 **Whistler's Mother (Arrangement in Grey and Black No. 1)** is a famous painting by **James McNeill Whistler**, created in 1871. It depicts **Anna McNeill Whistler**, the artist's mother, and is known for its muted palette and formal composition. The painting was originally titled *Arrangement in Grey and Black* but later acquired the nickname *Whistler's Mother* after the subject became more prominent in public perception.
 

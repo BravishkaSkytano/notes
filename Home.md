@@ -28,46 +28,46 @@ In progress, on purpose.
 
 > [!example] Meta-index
 > 
-> > [!example] [[Journal/2023|2023]]
+> > [!example] [[2023]]
 > 
-> > [!example] [[Journal/2024|2024]]
+> > [!example] [[2024]]
 > 
 > > [!example] [[Architecture/Architecture|Architecture]]
 > 
 > > [!example] [[Bible]]
 > 
-> > [!example] [[People/Character|Character]]
+> > [!example] [[Character]]
 > 
 > > [!example] [[Country]]
 > 
-> > [!example] [[Courses/Course|Course]]
+> > [!example] [[Course]]
 > 
-> > [!example] [[History/Culture|Culture]]
+> > [!example] [[Culture]]
 > 
-> > [!example] [[Indexes/Medium|Medium]]
+> > [!example] [[Medium]]
 > 
-> > [!example] [[History/Movement|Movement]]
+> > [!example] [[Movement]]
 > 
-> > [!example] [[History/Period|Period]]
+> > [!example] [[Period]]
 > 
 > > [!example] [[People/Person|Person]]
 > 
 > > [!example] [[Indexes/Place|Place]]
 > 
-> > [!example] [[Indexes/Style|Style]]
+> > [!example] [[Style]]
 > 
-> > [!example] [[Indexes/Subject|Subject]]
+> > [!example] [[Subject]]
 > 
-> > [!example] [[Indexes/Technique|Technique]]
+> > [!example] [[Technique]]
 > 
-> > [!example] [[Technology/Technology|Technology]]
+> > [!example] [[Technology]]
 > 
-> > [!example] [[Indexes/Theme|Theme]]
+> > [!example] [[Theme]]
 > 
 > > [!example] [[Theology]]
 > 
-> > [!example] [[Indexes/Type|Type]]
+> > [!example] [[Type]]
 > 
-> > [!example] [[Worlds/World|World]]
+> > [!example] [[World]]
 > 
 > ^indexof-root000

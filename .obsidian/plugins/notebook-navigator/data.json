@@ -554,6 +554,16 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Type/Type.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/Mosaic.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

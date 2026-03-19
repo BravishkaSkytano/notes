@@ -1,12 +1,13 @@
 ---
 created: 2025-11-03 00:06
-modified: 2026-03-14T23:38:29-04:00
+modified: 2026-03-18T16:54:55-04:00
 tags:
-  - course/ART101
+  - course/ART101/W3
   - technique/oil-on-canvas/idx
   - medium/oil/idx
 permalink: /technique/oil-on-canvas/
 index: true
+needsUpdate: true
 ---
 
 > [!summary]

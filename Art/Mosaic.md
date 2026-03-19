@@ -1,0 +1,22 @@
+---
+created: 2025-10-12 20:00
+modified: 2026-03-18T16:52:56-04:00
+tags:
+  - course/ART101/W2
+  - type/mosaic/idx
+permalink: /type/mosaic/
+index: true
+banner: img/banners/The Theodora Panels.webp
+---
+
+> [!tldr] Mosaic
+> An **art form** made by arranging small pieces of **colored glass, stone, or tile** (called _tesserae_) to create images or patterns. Mosaics were often used to **decorate walls, floors, and ceilings**, especially in churches and public buildings. They can be very detailed and colorful, showing **religious scenes or geometric designs**.
+>
+> ![[The Theodora Panels.webp]]
+
+**Example:** [[The Justinian and Theodora Panels]]
+
+> [!example] Type / Mosaic
+> - [[Hagia Sophia]]
+> 
+> ^indexof-type-mosaic

@@ -1,8 +1,8 @@
 ---
 created: 2025-10-12 19:36
-modified: 2026-03-14T16:11:26-04:00
+modified: 2026-03-18T16:55:32-04:00
 tags:
-  - course/ART101
+  - course/ART101/W2
   - technique/fresco/idx
 aliases:
   - frescoes

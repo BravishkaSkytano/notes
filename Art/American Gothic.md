@@ -2,7 +2,7 @@
 description: 1930 painting by Grant Wood of a farmer and daughter with a pitchfork in front of a house.
 date: 2025-11-17
 created: 2025-11-17 17:16
-modified: 2026-03-14T23:30:58-04:00
+modified: 2026-03-18T16:49:53-04:00
 needsUpdate: true
 cover: https://upload.wikimedia.org/wikipedia/commons/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
 tags:
@@ -12,16 +12,6 @@ tags:
   - culture/american
   - century/20th
 ---
-
-> [!info]
-> **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas]]
-> **Genre:**  
-> **Themes:**  
-> **Artist:** Grant Wood
-> **Movement:**
-> **Region:** [[United States]]
-> **Period:** [[20th Century]]
 
 ## Description
 

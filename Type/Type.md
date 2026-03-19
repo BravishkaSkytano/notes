@@ -6,9 +6,6 @@ modified: 2026-03-14T13:02:52-04:00
 created: 2026-03-14T13:02:38-04:00
 ---
 
-
-
-
 > [!example] Type
 > - **Debate**
 > 	- [[Origins Debate]]
@@ -23,8 +20,9 @@ created: 2026-03-14T13:02:38-04:00
 > 	- [[Hermeneutics]]
 > - **Monument**
 > 	- [[Obelisk]]
-> - **[[Mosaic]]**
+> - **Mosaic**
 > 	- [[Hagia Sophia]]
+> 	- [[Mosaic]]
 > - **Mural**
 > 	- [[The Last Supper]]
 > - **Painting**
@@ -40,6 +38,7 @@ created: 2026-03-14T13:02:38-04:00
 > 	- [[The Hay Wain]]
 > 	- [[The Last Supper]]
 > 	- [[The Sower (Millet)]]
+> 	- [[Painting]]
 > - **Review**
 > 	- [[20220207220900]]: We All Have Special Needs - A Review of The Open D...
 > - **Sculpture**
@@ -56,6 +55,6 @@ created: 2026-03-14T13:02:38-04:00
 > 	- **[[W2 Worksheet]]**
 > 	- **[[Week 3 – Renaissance Worksheet & Study Guide]]**
 > 	- **[[Week 4 Worksheet]]**
-> 	- [[Courses/W5|W5]]: Week 5 - Enlightenment and Modern Period
+> 	- [[W5]]: Week 5 - Enlightenment and Modern Period
 > 
 > ^indexof-type

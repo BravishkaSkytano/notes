@@ -1,7 +1,7 @@
 ---
 date: 2025-11-17
 created: 2025-11-17 13:22
-modified: 2026-03-14T16:31:07-04:00
+modified: 2026-03-18T16:51:24-04:00
 tags:
   - type/painting
   - medium/oil
@@ -10,20 +10,11 @@ tags:
   - style/impressionism
   - culture/french
   - century/19th
+  - course/ART101/W5
 description: Monet's paintings of the cathedral in different light.
 banner: img/banners/Rouen Cathedral paintings-500x782.webp
 needsUpdate: true
 ---
-
-> [!tldr] Rouen Cathedral paintings
-> **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas]]
-> **Genre(s):** [[z-templates/architecture]]
-> **Theme(s):** [[Nature]], [[Emotion]]
-> **Artist:** [[Claude Monet]]
-> **Movement:** [[Impressionism]]
-> **Region:** [[France]]
-> **Period:** [[19th Century]]
 
 ## Description
 

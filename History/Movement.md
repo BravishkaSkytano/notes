@@ -16,13 +16,13 @@ index: true
 > - [[Humanism]]
 > - [[Impressionism]]
 > - [[Realism]]
-> - [[Art/Rococo|Rococo]]
+> - [[Rococo]]
 > - [[Romanticism]]
 > - [[Scientific Revolution]]
 > - [[Symbolism (movement)]]
 > - **Copernican-revolution**
 > 	- [[Nicolas Copernicus]]
-> - **[[_projects/ART101/Neoclassicism|Neoclassicism]]**
+> - **[[Neoclassicism]]**
 > 	- [[Jacques-Louis David]]
 > - **Post-impressionism**
 > 	- [[A Sunday on La Grande Jatte]]

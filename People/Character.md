@@ -7,9 +7,6 @@ permalink: /character/
 index: true
 ---
 
-
-
-
 > [!example] Character
 > - [[Aric Shadowbane]]
 > - [[Arion Thorne]]

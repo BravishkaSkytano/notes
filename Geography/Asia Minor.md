@@ -6,7 +6,6 @@ description: A peninsula in West Asia that makes up the majority of Turkey.
 aliases:
   - Anatolia
 tags:
-  - country
   - geography/peninsula
   - culture/Anatolian
   - culture/Greek

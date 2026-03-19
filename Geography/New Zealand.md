@@ -4,7 +4,7 @@ modified: 2026-02-19T11:39:40-05:00
 created: 2026-02-04T23:36:02-05:00
 needsUpdate: true
 tags:
-  - country
+  - country/New-Zealand/idx
   - culture/Maori
   - movie-set
   - theme/scenic
@@ -19,3 +19,8 @@ There’s a reason why New Zealand is full of awe-inspiring geological history, 
 The rich culture and spectacular scenery are not the only reasons to visit New Zealand, if you’re a big movie junkie you absolutely have to visit this country at least once. The number one thing on the official Ultimate New Zealand Bucket List[@a2023_ultimate] is to visit the set of one of the most popular movie franchises of the world, *The Lord of the Rings* and *The Hobbit Trilogies*. You read that right, Sir Peter Jackson, a native himself, had the majestic Middle-Earth set built in New Zealand, and he never took it down! Middle-Earth is still right there, bringing the movies to life in the best way possible. If the idea of walking through Hobbiton doesn’t excite you enough, Jackson wasn’t the only one who used Aotearoa as the backdrop for a new world. *King Kong, The Last Samurai, The Chronicles of Narnia*, and even *Our Flag Means Death* have all used locations in New Zealand as movie sets. But that’s not all! TV shows like *Xena: Warrior Princess, The Bachelor, One of Us Is Lying* and several *Power Ranger* seasons as well have also filmed in New Zealand.[@wikipediacontributors_2021_categorytelevision] You won’t find the sets for all of these, but with a little research you can find where they used to be. So, make sure you check your list of favorite shows before you leave Aotearoa, just in case.
 
 All of these make Aotearoa New Zealand one of the best vacation (or permanent living) spots in the world. It’s definitely a country you should add to your travel list, even if movies or tribal dances aren’t your thing. There’s so much to do, no one could possibly say they’re bored or didn’t enjoy themselves. I can’t wait to visit New Zealand for myself, I’m sure I won’t want to leave for at least two weeks.
+
+
+> [!example] Country / New-zealand
+> 
+> ^indexof-country-new-zealand

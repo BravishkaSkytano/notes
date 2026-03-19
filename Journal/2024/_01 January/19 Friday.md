@@ -4,6 +4,7 @@ created: 2026-02-11T18:42:46-05:00
 aliases:
   - 2024-01-19
   - Jan 19, 2024
+title:
 ---
 
 > [!quote] Confucius

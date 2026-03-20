@@ -5,11 +5,12 @@ description: Welcome to my digital garden. A space for second brain notes, proje
 permalink: /
 eleventyExcludeFromCollections: true
 automatic-linker-exclude: true
-modified: 2026-02-27T15:14:47-05:00
+modified: 2026-03-19T20:40:02-04:00
 created: 2026-02-13T15:08:23-05:00
 cover: img/covers/logo.jpg
 tags:
   - meta_idx
+index: true
 ---
 
 This is not a library of conclusions.
@@ -25,54 +26,6 @@ This garden favors process over polish, learning over certainty, and growth over
 Nothing here is final. Everything is alive.
 
 In progress, on purpose.
-
-> [!example] Meta-index
->
-> > [!example] [[2023]]
->
-> > [!example] [[2024]]
->
-> > [!example] [[Architecture/Architecture|Architecture]]
->
-> > [!example] [[Bible]]
->
-> > [!example] [[Century]]
->
-> > [!example] [[Character]]
->
-> > [!example] [[Country]]
->
-> > [!example] [[Course]]
->
-> > [!example] [[Culture]]
->
-> > [!example] [[Medium]]
->
-> > [!example] [[Movement]]
->
-> > [!example] [[Period]]
->
-> > [!example] [[People/Person|Person]]
->
-> > [!example] [[Indexes/Place|Place]]
->
-> > [!example] [[Style]]
->
-> > [!example] [[Subject]]
->
-> > [!example] [[Technique]]
->
-> > [!example] [[Technology]]
->
-> > [!example] [[Theme]]
->
-> > [!example] [[Theology]]
->
-> > [!example] [[Type]]
->
-> > [!example] [[World]]
-
-> ^indexof-root000
 
 
 > [!example] Meta-index

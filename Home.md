@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 permalink: /
@@ -26,6 +25,54 @@ This garden favors process over polish, learning over certainty, and growth over
 Nothing here is final. Everything is alive.
 
 In progress, on purpose.
+
+> [!example] Meta-index
+>
+> > [!example] [[2023]]
+>
+> > [!example] [[2024]]
+>
+> > [!example] [[Architecture/Architecture|Architecture]]
+>
+> > [!example] [[Bible]]
+>
+> > [!example] [[Century]]
+>
+> > [!example] [[Character]]
+>
+> > [!example] [[Country]]
+>
+> > [!example] [[Course]]
+>
+> > [!example] [[Culture]]
+>
+> > [!example] [[Medium]]
+>
+> > [!example] [[Movement]]
+>
+> > [!example] [[Period]]
+>
+> > [!example] [[People/Person|Person]]
+>
+> > [!example] [[Indexes/Place|Place]]
+>
+> > [!example] [[Style]]
+>
+> > [!example] [[Subject]]
+>
+> > [!example] [[Technique]]
+>
+> > [!example] [[Technology]]
+>
+> > [!example] [[Theme]]
+>
+> > [!example] [[Theology]]
+>
+> > [!example] [[Type]]
+>
+> > [!example] [[World]]
+
+> ^indexof-root000
 
 
 > [!example] Meta-index

@@ -14,7 +14,6 @@ permalink: /style/
 > 	- [[Art Deco]]
 > - **Art-nouveau**
 > 	- [[Art Nouveau]]
-> 	- [[Art Nouveau]]
 > - **[[Basilica]]**
 > - **Classical**
 > 	- [[Archaic]]

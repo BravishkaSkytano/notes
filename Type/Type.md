@@ -51,10 +51,10 @@ created: 2026-03-14T13:02:38-04:00
 > - **Tutorial**
 > 	- [[How To Use Private Submodules With Netlify]]
 > - **Worksheet**
-> 	- **[[W1 Worksheet]]**
 > 	- **[[W2 Worksheet]]**
 > 	- **[[Week 3 – Renaissance Worksheet & Study Guide]]**
 > 	- **[[Week 4 Worksheet]]**
+> 	- [[W1 Worksheet]]
 > 	- [[W5]]: Week 5 - Enlightenment and Modern Period
 > 
 > ^indexof-type

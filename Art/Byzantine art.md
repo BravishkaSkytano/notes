@@ -4,6 +4,9 @@ created: 2025-10-12 1[[Eastern Roman Empire|Byzantine Empire]]025-10-12 18:28
 modified: 2026-03-11T09:31:43-04:00
 banner: img/banners/Byzantine art-1760304037177.webp
 needsUpdate: true
+tags:
+  - culture/Byzantine
+  - course/ART101/W2
 ---
 
 > [!tldr] Byzantine art

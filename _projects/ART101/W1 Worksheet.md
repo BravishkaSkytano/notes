@@ -5,8 +5,6 @@ modified: 2025-11-18 13:50
 tags:
   - course/ART101
   - type/worksheet
-  - pinned
-description:
 ---
 
 ## Terms to Define

@@ -10,6 +10,7 @@ index: true
 > [!example] Culture
 > - **African**
 > 	- [[Hellenistic Period]]
+> 	- [[African]]
 > - **American**
 > 	- [[American Gothic]]
 > 	- [[Arrangement in Gray and Black No 1]]
@@ -22,6 +23,7 @@ index: true
 > 	- [[Bayeux Tapestry]]
 > - **Byzantine**
 > 	- [[Asia Minor]]
+> 	- [[Byzantine art]]
 > 	- [[Byzantine Empire]]
 > - **Dutch**
 > 	- [[Vincent van Gogh]]

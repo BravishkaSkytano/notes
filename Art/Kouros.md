@@ -1,9 +1,17 @@
 ---
 date: 2025-10-06
 created: 2025-10-06 00:54
-modified: 2026-03-11T09:30:04-04:00
+modified: 2026-03-21T11:00:24-04:00
 tags:
-  - course/ART101
+  - course/ART101/W1
+  - type/sculpture
+  - medium/marble
+  - medium/bronze
+  - culture/Greek
+  - period/archaic
+aliases:
+  - Kouroi
+needsUpdate: true
 ---
 
 > [!summary]

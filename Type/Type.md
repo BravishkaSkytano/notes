@@ -43,6 +43,7 @@ created: 2026-03-14T13:02:38-04:00
 > 	- [[20220207220900]]: We All Have Special Needs - A Review of The Open D...
 > - **Sculpture**
 > 	- [[David (Donatello and Michelangelo)]]
+> 	- [[Kouros]]
 > 	- [[Pietà]]
 > - **Testimony**
 > 	- [[Be Transformed Essay]]

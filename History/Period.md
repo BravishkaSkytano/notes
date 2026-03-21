@@ -15,6 +15,8 @@ index: true
 > [!example] Period
 > - [[High Renaissance]]
 > - [[Renaissance]]
+> - **Archaic**
+> 	- [[Kouros]]
 > - **Hellenistic**
 > 	- [[Hellenistic Period]]
 > - **High-renaissance**

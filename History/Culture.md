@@ -28,6 +28,7 @@ index: true
 > - **Dutch**
 > 	- [[Vincent van Gogh]]
 > - **Egyptian**
+> 	- [[Hieroglyphs]]
 > 	- [[Obelisk]]
 > 	- [[Pyramid]]
 > - **French**
@@ -43,6 +44,7 @@ index: true
 > 	- [[Doric capital]]
 > 	- [[Frieze]]
 > 	- [[Ionic capital]]
+> 	- [[Kouros]]
 > 	- [[Pediment]]
 > - **Italian**
 > 	- [[Donatello]]

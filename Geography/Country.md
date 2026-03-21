@@ -15,8 +15,6 @@ index: true
 > 
 > > [!example] [[Germany]]
 > 
-> > [!example] [[Italy]]
-> 
 > > [!example] [[Spain]]
 > 
 > > [!example] [[United States]]

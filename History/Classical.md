@@ -1,10 +1,10 @@
 ---
 date: 2025-10-05
 created: 2025-10-05 23:47
-modified: 2026-02-23T10:53:24-05:00
+modified: 2026-03-20T11:38:40-04:00
 needsUpdate: true
 tags:
-  - art
+  - course/ART101/W1
   - architecture
   - culture/Greek
   - culture/Roman

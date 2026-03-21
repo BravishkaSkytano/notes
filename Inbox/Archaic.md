@@ -5,6 +5,7 @@ modified: 2026-03-11T09:34:35-04:00
 draft: true
 tags:
   - style/classical
+  - course/ART101/W1
 ---
 
 > [!summary] Archaic

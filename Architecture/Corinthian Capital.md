@@ -1,11 +1,15 @@
 ---
 date: 2025-10-06
 created: 2025-10-06 00:38
-modified: 2026-03-11T09:34:53-04:00
+modified: 2026-03-21T10:44:43-04:00
 needsUpdate: true
 tags:
+  - course/ART101/W1
   - architecture/column
   - culture/Roman
+  - culture/Greek
+aliases:
+  - Corinthian
 ---
 
 > [!summary] Corinthian capital

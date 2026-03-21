@@ -17,6 +17,8 @@ permalink: /style/
 > - **[[Basilica]]**
 > - **Classical**
 > 	- [[Archaic]]
+> 	- [[Doric capital]]
+> 	- [[Ionic capital]]
 > - **Cubism**
 > 	- [[Pablo Picasso]]
 > - **[[Expressionism]]**

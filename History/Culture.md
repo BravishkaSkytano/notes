@@ -10,6 +10,7 @@ index: true
 > [!example] Culture
 > - **African**
 > 	- [[Hellenistic Period]]
+> 	- [[African]]
 > - **American**
 > 	- [[American Gothic]]
 > 	- [[Arrangement in Gray and Black No 1]]
@@ -37,6 +38,9 @@ index: true
 > 	- [[Aristotle]]
 > 	- [[Asia Minor]]
 > 	- [[Classical]]
+> 	- [[Corinthian Capital]]
+> 	- [[Doric capital]]
+> 	- [[Ionic capital]]
 > - **Italian**
 > 	- [[Donatello]]
 > 	- [[Florence]]
@@ -45,6 +49,8 @@ index: true
 > - **Maori**
 > 	- [[New Zealand]]
 > - **Mediterranean**
+> 	- [[Hellenistic Period]]
+> - **Near-east**
 > 	- [[Hellenistic Period]]
 > - **Ottoman**
 > 	- [[Asia Minor]]
@@ -57,6 +63,8 @@ index: true
 > 	- [[Basilica]]
 > 	- [[Classical]]
 > 	- [[Corinthian Capital]]
+> 	- [[Doric capital]]
+> 	- [[Ionic capital]]
 > - **Seljuk**
 > 	- [[Asia Minor]]
 > 

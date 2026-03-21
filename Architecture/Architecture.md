@@ -15,6 +15,7 @@ index: true
 > - [[St. Peter’s Cathedral|St]]
 > - **Column**
 > 	- [[Corinthian Capital]]
+> 	- [[Doric capital]]
 > 	- [[Ionic capital]]
 > 
 > ^indexof-architecture

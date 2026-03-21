@@ -13,9 +13,10 @@ index: true
 
 
 > [!example] Period
-> - [[Hellenistic Period]]
 > - [[High Renaissance]]
 > - [[Renaissance]]
+> - **Hellenistic**
+> 	- [[Hellenistic Period]]
 > - **High-renaissance**
 > 	- [[Leonardo da Vinci]]
 > 	- [[The Last Supper]]

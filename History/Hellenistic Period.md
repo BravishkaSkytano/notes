@@ -1,14 +1,16 @@
 ---
 date: 2025-10-05
 created: 2025-10-05 23:56
-modified: 2026-02-23T13:59:10-05:00
+modified: 2026-03-21T10:39:22-04:00
 aliases:
   - Hellenistic
 tags:
-  - period
+  - course/ART101/W1
+  - period/Hellenistic
   - culture/Mediterranean
   - culture/African
   - culture/Asian
+  - culture/Near-East
 ---
 
 > [!summary]

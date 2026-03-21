@@ -29,6 +29,7 @@ index: true
 > 	- [[Vincent van Gogh]]
 > - **Egyptian**
 > 	- [[Obelisk]]
+> 	- [[Pyramid]]
 > - **French**
 > 	- [[Rouen Cathedral paintings]]
 > - **German**
@@ -40,7 +41,9 @@ index: true
 > 	- [[Classical]]
 > 	- [[Corinthian Capital]]
 > 	- [[Doric capital]]
+> 	- [[Frieze]]
 > 	- [[Ionic capital]]
+> 	- [[Pediment]]
 > - **Italian**
 > 	- [[Donatello]]
 > 	- [[Florence]]
@@ -50,6 +53,8 @@ index: true
 > 	- [[New Zealand]]
 > - **Mediterranean**
 > 	- [[Hellenistic Period]]
+> - **Mesopotamian**
+> 	- [[Ziggurat]]
 > - **Near-east**
 > 	- [[Hellenistic Period]]
 > - **Ottoman**
@@ -64,7 +69,10 @@ index: true
 > 	- [[Classical]]
 > 	- [[Corinthian Capital]]
 > 	- [[Doric capital]]
+> 	- [[Frieze]]
 > 	- [[Ionic capital]]
+> 	- [[Pediment]]
+> 	- [[Roman triumphal arch]]
 > - **Seljuk**
 > 	- [[Asia Minor]]
 > 

@@ -1,19 +1,19 @@
 ---
 date: 2025-10-06
 created: 2025-10-06 00:42
-modified: 2025-10-06 01:07
+modified: 2026-03-21T10:50:26-04:00
 tags:
-  - course/ART101
+  - course/ART101/W1
+  - architecture/monument
+  - culture/Roman
 ---
 
-> [!summary] Roman triumphal arch
+> [!summary]
 > A monumental structure built to commemorate a military victory or the achievements of an emperor. These arches were typically constructed from stone and featured ornate carvings, reliefs, and inscriptions that depicted scenes of triumph, conquest, or imperial power.
-
-^189fc4
 
 Key features of a Roman triumphal arch include:
 - Two or three archways (passages)
-- Decorative columns (often Corinthian)
+- Decorative columns (often [[Corinthian Capital|Corinthian]])
 - Reliefs depicting historical events or victories
 - Inscriptions that record the name of the emperor, the event, and the date
 

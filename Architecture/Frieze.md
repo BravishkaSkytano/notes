@@ -4,6 +4,10 @@ created: 2025-10-06 00:40
 modified: 2026-03-21T10:46:57-04:00
 tags:
   - course/ART101/W1
+  - architecture/panel
+  - culture/Greek
+  - culture/Roman
+needsUpdate: true
 ---
 
 > [!summary] Frieze

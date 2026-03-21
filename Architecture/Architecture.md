@@ -12,10 +12,17 @@ index: true
 > - [[Catacombs]]
 > - [[Classical]]
 > - [[Clerestory]]
+> - [[Pediment]]
+> - [[Pyramid]]
 > - [[St. Peter’s Cathedral|St]]
+> - [[Ziggurat]]
 > - **Column**
 > 	- [[Corinthian Capital]]
 > 	- [[Doric capital]]
 > 	- [[Ionic capital]]
+> - **Monument**
+> 	- [[Roman triumphal arch]]
+> - **Panel**
+> 	- [[Frieze]]
 > 
 > ^indexof-architecture

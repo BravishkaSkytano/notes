@@ -564,6 +564,16 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Courses/ART101.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Courses/APO391.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

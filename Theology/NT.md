@@ -13,10 +13,3 @@ permalink: /bible/nt/
 > 	- [[20230201000000]]: Romans 8 Affirmation
 > 
 > ^indexof-bible-nt
-
-
-> [!example] Bible / NT
-> - **Romans**
-> 	- [[20230201000000]]: Romans 8 Affirmation
-> 
-> ^indexof-bible-nt

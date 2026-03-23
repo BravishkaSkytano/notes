@@ -1,0 +1,11 @@
+{
+  "exclude_folders": [
+    "z-templates",
+    "img"
+  ],
+  "index_tag": "idx",
+  "meta_index_tag": "meta_idx",
+  "priority_tag": "pinned",
+  "show_note_title": true,
+  "metadata_template": "date_created: {{today}}\ntags: {{tags}}"
+}

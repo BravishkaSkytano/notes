@@ -25,17 +25,3 @@ needsUpdate: true
 > - [[The Sower (Millet)]]
 > 
 > ^indexof-medium-oil
-
-
-> [!example] Medium / Oil
-> - [[A Sunday on La Grande Jatte]]
-> - [[American Gothic]]
-> - [[Arrangement in Gray and Black No 1]]
-> - [[Rouen Cathedral paintings]]
-> - [[The Sower (Millet)]]
-> 
-> ^indexof-medium-oil
-
-> [!example] Technique / Oil-on-canvas
-> 
-> ^indexof-technique-oil-on-canvas

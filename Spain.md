@@ -11,9 +11,3 @@ index: true
 > - [[Pablo Picasso]]
 > 
 > ^indexof-country-spain
-
-
-> [!example] Country / Spain
-> - [[Pablo Picasso]]
-> 
-> ^indexof-country-spain

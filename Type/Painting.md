@@ -22,20 +22,3 @@ index: true
 > - [[The Sower (Millet)]]
 > 
 > ^indexof-type-painting
-
-
-> [!example] Type / Painting
-> - [[A Sunday on La Grande Jatte]]
-> - [[Adoration of the Trinity]]
-> - [[American Gothic]]
-> - [[Arrangement in Gray and Black No 1]]
-> - [[Battle of Alexander and Darius on the Issus]]
-> - [[Mona Lisa]]
-> - [[Rouen Cathedral paintings]]
-> - [[Tempera]]
-> - [[The Creation of Adam (painting)]]
-> - [[The Hay Wain]]
-> - [[The Last Supper]]
-> - [[The Sower (Millet)]]
-> 
-> ^indexof-type-painting

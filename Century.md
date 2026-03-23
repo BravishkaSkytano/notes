@@ -18,13 +18,7 @@ index: true
 
 
 
-> [!example] Meta-index of: Century
-> 
-> > [!example] [[1000s]]
-> 
-> > [!example] [[1100s]]
-> 
-> ^indexof-century
+
 
 > [!example] Meta-index of: Century
 > 

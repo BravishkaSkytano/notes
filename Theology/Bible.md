@@ -14,12 +14,3 @@ index: true
 > > [!example] [[OT]]: Old Testament
 > 
 > ^indexof-bible
-
-
-> [!example] Meta-index of: Bible
-> 
-> > [!example] [[NT]]: New Testament
-> 
-> > [!example] [[OT]]: Old Testament
-> 
-> ^indexof-bible

@@ -19,17 +19,3 @@ index: true
 > 	- [[Free Grace Theology]]
 > 
 > ^indexof-theology
-
-
-> [!example] Theology
-> - [[20220906155648]]: My Breath Alone Shall Praise Him
-> - [[Guardian Spirit of Persia]]
-> - [[Little horn]]
-> - **Hermeneutics**
-> 	- [[Eisegesis]]
-> 	- [[Exegesis]]
-> 	- [[Hermeneutics]]
-> - **Soteriology**
-> 	- [[Free Grace Theology]]
-> 
-> ^indexof-theology

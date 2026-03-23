@@ -19,9 +19,3 @@ index: true
 > - [[The Creation of Adam (painting)]]
 > 
 > ^indexof-technique-fresco
-
-
-> [!example] Technique / Fresco
-> - [[The Creation of Adam (painting)]]
-> 
-> ^indexof-technique-fresco

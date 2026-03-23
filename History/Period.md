@@ -31,23 +31,3 @@ index: true
 > 	- [[St. Peter’s Cathedral|St]]
 > 
 > ^indexof-period
-
-> [!example] Period
-> - [[High Renaissance]]
-> - [[Renaissance]]
-> - **Archaic**
-> 	- [[Kouros]]
-> - **Hellenistic**
-> 	- [[Hellenistic Period]]
-> - **High-renaissance**
-> 	- [[Leonardo da Vinci]]
-> 	- [[The Last Supper]]
-> - **Renaissance**
-> 	- [[Albrecht Dürer]]
-> 	- [[Cathedral of Florence]]
-> 	- [[Donatello]]
-> 	- [[Galileo Galilei]]
-> 	- [[Nicolas Copernicus]]
-> 	- [[St. Peter’s Cathedral|St]]
-> 
-> ^indexof-period

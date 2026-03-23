@@ -20,12 +20,3 @@ created: 2026-03-09T12:48:26-04:00
 > 	- [[Oil on canvas]]
 > 
 > ^indexof-technique
-
-> [!example] Technique
-> - **Fresco**
-> 	- [[The Creation of Adam (painting)]]
-> 	- [[Fresco]]
-> - **Oil-on-canvas**
-> 	- [[Oil on canvas]]
-> 
-> ^indexof-technique

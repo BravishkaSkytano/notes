@@ -16,12 +16,7 @@ index: true
 
 
 
-> [!example] Country / Italy
-> - [[Cathedral of Florence]]
-> - [[Florence]]
-> - [[Leonardo da Vinci]]
-> 
-> ^indexof-country-italy
+
 
 > [!example] Country / Italy
 > - [[Cathedral of Florence]]

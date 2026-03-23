@@ -20,10 +20,7 @@ index: true
 
 
 
-> [!example] Culture / African
-> - [[Hellenistic Period]]
-> 
-> ^indexof-culture-african
+
 
 > [!example] Culture / African
 > - [[Hellenistic Period]]

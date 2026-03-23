@@ -44,7 +44,3 @@ The [[Sunaara Desert]] is a vast and arid region characterized by its rolling du
 > [!example] World / Ilmaria / Geography
 > 
 > ^indexof-world-ilmaria-geography
-
-> [!example] World / Ilmaria / Geography
-> 
-> ^indexof-world-ilmaria-geography

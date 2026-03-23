@@ -27,22 +27,3 @@ tags:
 > - [[Ziggurat]]
 > 
 > ^indexof-course-art-w-
-
-
-> [!example] Course / Art101 / W1
-> - [[Archaic]]
-> - [[Classical]]
-> - [[Corinthian Capital]]
-> - [[Doric capital]]
-> - [[Frieze]]
-> - [[Hellenistic Period]]
-> - [[Ionic capital]]
-> - [[Kouros]]
-> - [[Obelisk]]
-> - [[Pediment]]
-> - [[Phidias]]
-> - [[Pyramid]]
-> - [[Roman triumphal arch]]
-> - [[Ziggurat]]
-> 
-> ^indexof-course-art-w-

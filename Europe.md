@@ -15,13 +15,3 @@ index: true
 > - [[Surrealism]]
 > 
 > ^indexof-country-europe
-
-
-> [!example] Country / Europe
-> - [[Art Deco]]
-> - [[Art Nouveau]]
-> - [[Neoclassicism]]
-> - [[Post-Impressionism]]
-> - [[Surrealism]]
-> 
-> ^indexof-country-europe

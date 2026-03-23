@@ -11,9 +11,3 @@ index: true
 > - [[Expressionism]]
 > 
 > ^indexof-country-germany
-
-
-> [!example] Country / Germany
-> - [[Expressionism]]
-> 
-> ^indexof-country-germany

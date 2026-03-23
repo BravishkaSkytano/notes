@@ -14,3 +14,12 @@ index: true
 > > [!example] [[ART101]]: ART101: Visual and Performing Arts
 > 
 > ^indexof-course
+
+
+> [!example] Meta-index of: Course
+> 
+> > [!example] [[APO391]]: APO391: Introduction to Islam
+> 
+> > [!example] [[ART101]]: ART101: Visual and Performing Arts
+> 
+> ^indexof-course

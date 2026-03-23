@@ -16,3 +16,9 @@ permalink: /religion/islam/
 > - [[Hagia Sophia]]
 > 
 > ^indexof-religion-islam
+
+> [!example] Religion / Islam
+> - [[APO391]]: APO391: Introduction to Islam
+> - [[Hagia Sophia]]
+> 
+> ^indexof-religion-islam

@@ -25,3 +25,19 @@ index: true
 > 	- [[How To Use Private Submodules With Netlify]]
 > 
 > ^indexof-technology
+
+> [!example] Technology
+> - **Git**
+> 	- [[How To Add A Submodule To A Repository]]
+> 	- [[How To Use Private Submodules With Netlify]]
+> 	- **Deploy-keys**
+> 		- [[How To Use Private Submodules With Netlify]]
+> - **Github**
+> 	- **Actions**
+> 		- [[How To Use Private Submodules With Netlify]]
+> 	- **Pat**
+> 		- [[How To Use Private Submodules With Netlify]]
+> - **Netlify**
+> 	- [[How To Use Private Submodules With Netlify]]
+> 
+> ^indexof-technology

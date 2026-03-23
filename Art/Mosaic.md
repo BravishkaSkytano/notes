@@ -20,3 +20,9 @@ banner: img/banners/The Theodora Panels.webp
 > - [[Hagia Sophia]]
 > 
 > ^indexof-type-mosaic
+
+
+> [!example] Type / Mosaic
+> - [[Hagia Sophia]]
+> 
+> ^indexof-type-mosaic

@@ -17,3 +17,15 @@ index: true
 > - [[The Sower (Millet)]]
 > 
 > ^indexof-country-france
+
+
+> [!example] Country / France
+> - [[Cathedral Chartres]]
+> - [[Édouard Manet]]
+> - [[Fauvism]]
+> - [[Gothic]]
+> - [[Jacques-Louis David]]
+> - [[Pierre-Auguste Renoir]]
+> - [[The Sower (Millet)]]
+> 
+> ^indexof-country-france

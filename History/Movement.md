@@ -36,3 +36,28 @@ index: true
 > 	- [[Pablo Picasso]]
 > 
 > ^indexof-movement
+
+> [!example] Movement
+> - [[Humanism]]
+> - [[Impressionism]]
+> - [[Realism]]
+> - [[Rococo]]
+> - [[Romanticism]]
+> - [[Scientific Revolution]]
+> - [[Symbolism (movement)]]
+> - **Copernican-revolution**
+> 	- [[Nicolas Copernicus]]
+> - **[[Neoclassicism]]**
+> 	- [[Jacques-Louis David]]
+> - **Post-impressionism**
+> 	- [[A Sunday on La Grande Jatte]]
+> 	- [[Post-Impressionism]]
+> 	- [[Post-Impressionism]]
+> 	- [[Vincent van Gogh]]
+> - **Scientific-revolution**
+> 	- [[Johannes Kepler]]
+> 	- [[Nicolas Copernicus]]
+> - **[[Surrealism]]**
+> 	- [[Pablo Picasso]]
+> 
+> ^indexof-movement

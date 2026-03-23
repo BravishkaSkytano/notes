@@ -17,3 +17,9 @@ index: true
 > > [!example] [[Ilmaria]]
 > 
 > ^indexof-world
+
+> [!example] Meta-index of: World
+> 
+> > [!example] [[Ilmaria]]
+> 
+> ^indexof-world

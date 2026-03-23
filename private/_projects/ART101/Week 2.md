@@ -44,3 +44,17 @@ God as Architect
 > - [[Romanesque]]
 > 
 > ^indexof-course-art-w-
+
+
+> [!example] Course / Art101 / W2
+> - [[Basilica]]
+> - [[Byzantine art]]
+> - [[Cathedral Chartres]]
+> - [[Domus Church]]
+> - [[Fresco]]
+> - [[Gothic]]
+> - [[Martyrium]]
+> - [[Mosaic]]
+> - [[Romanesque]]
+> 
+> ^indexof-course-art-w-

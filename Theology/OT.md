@@ -16,3 +16,13 @@ permalink: /bible/ot/
 > 	- [[Thoughts on Genesis]]
 > 
 > ^indexof-bible-ot
+
+
+> [!example] Bible / OT
+> - **Daniel**
+> 	- [[Guardian Spirit of Persia]]
+> 	- [[Little horn]]
+> - **Genesis**
+> 	- [[Thoughts on Genesis]]
+> 
+> ^indexof-bible-ot

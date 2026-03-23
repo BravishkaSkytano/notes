@@ -68,3 +68,10 @@ Hermeneutics is the quiet compass behind interpretation. It does not shout from 
 > - [[Exegesis]]
 > 
 > ^indexof-theology-hermeneutics
+
+
+> [!example] Theology / Hermeneutics
+> - [[Eisegesis]]
+> - [[Exegesis]]
+> 
+> ^indexof-theology-hermeneutics

@@ -14,3 +14,9 @@ aliases:
 > - [[Art Deco]]
 > 
 > ^indexof-country-united-states
+
+
+> [!example] Country / United-states
+> - [[Art Deco]]
+> 
+> ^indexof-country-united-states

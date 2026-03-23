@@ -21,3 +21,9 @@ index: true
 > - [[Hagia Sophia]]
 > 
 > ^indexof-religion-christianity
+
+> [!example] Religion / Christianity
+> - [[Asia Minor]]
+> - [[Hagia Sophia]]
+> 
+> ^indexof-religion-christianity

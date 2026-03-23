@@ -19,3 +19,11 @@ index: true
 > 	- [[Ilmaria's Geography]]
 > 
 > ^indexof-world-ilmaria
+
+> [!example] World / Ilmaria
+> - [[Creatures Within Ilmaria]]
+> - [[Magical Systems Within Ilmaria]]
+> - **Geography**
+> 	- [[Ilmaria's Geography]]
+> 
+> ^indexof-world-ilmaria

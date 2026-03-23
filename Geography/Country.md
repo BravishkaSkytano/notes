@@ -22,3 +22,20 @@ index: true
 > > [!example] [[United States]]
 > 
 > ^indexof-country
+
+
+> [!example] Meta-index of: Country
+> 
+> > [!example] [[Europe]]
+> 
+> > [!example] [[France]]
+> 
+> > [!example] [[Germany]]
+> 
+> > [!example] [[Italy]]
+> 
+> > [!example] [[Spain]]
+> 
+> > [!example] [[United States]]
+> 
+> ^indexof-country

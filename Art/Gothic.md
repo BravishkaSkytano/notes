@@ -28,3 +28,11 @@ It is characterized by a shift towards greater naturalism in painting and sculpt
 > - [[Clerestory]]
 > 
 > ^indexof-style-gothic
+
+
+> [!example] Style / Gothic
+> - [[Cathedral Chartres]]
+> - [[Cathedral of Florence]]
+> - [[Clerestory]]
+> 
+> ^indexof-style-gothic

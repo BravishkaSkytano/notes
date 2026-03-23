@@ -12,3 +12,10 @@ index: true
 > - [[Arrangement in Gray and Black No 1]]
 > 
 > ^indexof-culture-american
+
+
+> [!example] Culture / American
+> - [[American Gothic]]
+> - [[Arrangement in Gray and Black No 1]]
+> 
+> ^indexof-culture-american

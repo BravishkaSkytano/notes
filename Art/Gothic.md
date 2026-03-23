@@ -4,7 +4,6 @@ created: 2025-10-12 18:44
 modified: 2026-03-21T15:31:02-04:00
 tags:
   - course/ART101/W2
-  - style/gothic/idx
   - country/france
   - century/12
   - century/13th
@@ -22,9 +21,4 @@ Gothic art is a style of medieval art that originated in Northern France in the 
 
 It is characterized by a shift towards greater naturalism in painting and sculpture, with more realistic human forms, expressive faces, and a greater sense of depth and perspective. The style is most famously associated with Gothic architecture, defined by features such as pointed arches, [[Ribbed Vault|ribbed vault]]s, [[Flying Buttress|flying buttress]]es, and large stained glass windows, particularly [[Rose Window|rose window]]s, which allowed for taller structures and an abundance of light. This architectural innovation aimed to create a heavenly atmosphere, symbolizing the divine through soaring verticality and intricate detailing. The style extended to various media, including sculpture, panel painting, stained glass, [[Fresco|fresco]], illuminated manuscripts, and textiles. The term "Gothic" was initially used pejoratively by Renaissance scholars, who associated it with the barbaric Goths who destroyed the Roman Empire, criticizing its departure from [[Classical|classical]] ideals. This derogatory label persisted until the 19th century, when a positive re-evaluation of the style occurred, particularly during the Gothic Revival movement. The International Gothic style emerged in the late 14th century, emphasizing refined, delicate details and decorative elements, particularly in courtly art Key artists associated with the period include Giotto di Bondone, Duccio di Buoninsegna, and the Limbourg Brothers, whose works exemplify the transition from [[Byzantine art|Byzantine]] forms to more naturalistic representations.
 
-> [!example] Style / Gothic
-> - [[Cathedral Chartres]]
-> - [[Cathedral of Florence]]
-> - [[Clerestory]]
-> 
-> ^indexof-style-gothic
+

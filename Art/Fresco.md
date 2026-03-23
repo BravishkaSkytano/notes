@@ -3,7 +3,6 @@ created: 2025-10-12 19:36
 modified: 2026-03-22T21:16:39-04:00
 tags:
   - course/ART101/W2
-  - technique/fresco/idx
 aliases:
   - frescoes
 permalink: /technique/fresco/
@@ -15,7 +14,4 @@ index: true
 >
 > ![[The Creation of Adam.webp|The Creation of Adam by Michelangelo]]
 
-> [!example] Technique / Fresco
-> - [[The Creation of Adam (painting)]]
-> 
-> ^indexof-technique-fresco
+

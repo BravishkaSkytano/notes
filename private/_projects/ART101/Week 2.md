@@ -3,7 +3,6 @@ date: 2025-10-06
 created: 2025-10-06 12:05
 modified: 2026-03-22T21:18:30-04:00
 tags:
-  - course/ART101/W2/idx
   - type/worksheet
 description: "Archaic, Ancient and Classical period: Painting, Sculpture and Architecture and the Medieval period: Painting, Sculpture and Architecture"
 ---
@@ -17,7 +16,7 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 7. ![[Rose Window#^06cc7c]]
 8. ![[Tracery#^920185]]
 9. ![[concepts.artwork.styles.tapestry#^cab0c4]]
-10. ![[Apse#^552857]]
+10. ![[20251012211314#^552857]]
 
 ## Specific Arts to Identify by Sight
 
@@ -31,15 +30,4 @@ Cathedral of Reims
 Sainte Chapelle
 God as Architect
 
-> [!example] Course / Art101 / W2
-> - [[Basilica]]
-> - [[Byzantine art]]
-> - [[Cathedral Chartres]]
-> - [[Domus Church]]
-> - [[Fresco]]
-> - [[Gothic]]
-> - [[Martyrium]]
-> - [[Mosaic]]
-> - [[Romanesque]]
-> 
-> ^indexof-course-art-w-
+

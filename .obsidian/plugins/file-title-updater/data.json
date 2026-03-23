@@ -1,0 +1,13 @@
+{
+  "defaultTitleSource": "filename",
+  "illegalCharHandling": "replace_with_dash",
+  "customReplacement": "",
+  "updateOtherTitlesWithSanitizedVersion": false,
+  "syncMode": "filename_frontmatter",
+  "frontmatterTitleField": "default",
+  "customFrontmatterField": "title",
+  "addOldFilenameAsAlias": false,
+  "useOldFilenameAsDisplayText": false,
+  "notificationPreference": "all",
+  "mobileNotificationPreference": null
+}

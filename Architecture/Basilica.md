@@ -6,6 +6,7 @@ needsUpdate: true
 tags:
   - style/basilica
   - culture/Roman
+  - course/ART101/W2
 permalink: /style/basilica/
 ---
 

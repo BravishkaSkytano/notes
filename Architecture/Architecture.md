@@ -21,6 +21,7 @@ index: true
 > 	- [[Doric capital]]
 > 	- [[Ionic capital]]
 > - **Monument**
+> 	- [[Martyrium]]
 > 	- [[Obelisk]]
 > 	- [[Roman triumphal arch]]
 > - **Panel**

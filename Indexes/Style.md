@@ -41,6 +41,5 @@ permalink: /style/
 > 	- [[Édouard Manet]]
 > 	- [[The Sower (Millet)]]
 > - **[[Romanesque]]**
-> 	- [[Gothic]]
 > 
 > ^indexof-style

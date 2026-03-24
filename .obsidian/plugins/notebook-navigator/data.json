@@ -450,21 +450,6 @@
   },
   "customVaultName": "",
   "pinnedNotes": {
-    "Worlds/Ilmaria.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Worlds/World.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Worlds/Ilmaria's Geography.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "index.md": {
       "folder": true,
       "tag": false,
@@ -496,6 +481,11 @@
       "property": false
     },
     "Theology/Hermeneutics/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Worlds/Ilmaria/Geography/index.md": {
       "folder": true,
       "tag": false,
       "property": false

@@ -1,11 +1,10 @@
 ---
+title: Ilmaria's Geography
 description: Ilmaria is divided into several distinct regions, each with its own unique landscape and climate.
 date: 2024-10-16T22:10:00
 created: 2024-10-16T23:03:00
 modified: 2026-03-16T10:39:10-04:00
-permalink: /world/ilmaria/geography/
 needsUpdate: true
-index: true
 ---
 
 ## Crystalline Peaks
@@ -34,8 +33,4 @@ Rolling grasslands and fertile farmlands, known as the [[Verdant Plains]], is wh
 
 ## Sunaara Deserts
 
-The [[Sunaara Desert]] is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.
-
-
-
-
+The [[20241018131622|Sunaara Desert]] is a vast and arid region characterized by its rolling dunes, scorching sun, and hidden oasis. It is a land of ancient ruins, nomadic tribes, and powerful sand magic.

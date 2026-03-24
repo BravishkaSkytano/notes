@@ -40,7 +40,7 @@ Arion's leadership extends beyond mere conquest. He has established a network of
 
 ## Conflicts and Alliances
 
-Arion's primary conflict lies with the nomadic tribes of the [[Sunaara Desert]], whose expansion threatens the borders of the Ashen Wastes. A series of skirmishes and diplomatic standoffs have marked their relationship, with neither side willing to concede ground.
+Arion's primary conflict lies with the nomadic tribes of the [[20241018131622|Sunaara Desert]], whose expansion threatens the borders of the Ashen Wastes. A series of skirmishes and diplomatic standoffs have marked their relationship, with neither side willing to concede ground.
 
 In contrast, Arion has found allies in the Gemfolk of the Crystalline Peaks, with whom he shares a mutual respect and trade partnership. The exchange of minerals and fire-forged weaponry has strengthened both regions, creating a bond of cooperation and shared interest.
 

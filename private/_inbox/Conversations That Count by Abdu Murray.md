@@ -34,7 +34,7 @@ Pontius Pilate was a cynic, not a skeptic. A skeptic is someone who doesn't beli
 
 Sample questions:
 - Why are you a Muslim, atheist, agnostic, etc.?
-- What would happen if you became a [[Christianity|Christian]]?
+- What would happen if you became a [[20260311100618|Christian]]?
 - What if Jesus is who the Bible says he is?
 
 Now, shut up and listen. *Don’t waste time answering questions people aren't asking.* Listen for the emotional “reason” behind their questions and then address those.

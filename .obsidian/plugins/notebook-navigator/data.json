@@ -450,11 +450,6 @@
   },
   "customVaultName": "",
   "pinnedNotes": {
-    "Technology/Technology.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Worlds/Ilmaria.md": {
       "folder": true,
       "tag": false,
@@ -466,11 +461,6 @@
       "property": false
     },
     "Worlds/Ilmaria's Geography.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Theology/Bible.md": {
       "folder": true,
       "tag": false,
       "property": false

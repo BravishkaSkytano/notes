@@ -490,16 +490,6 @@
       "tag": false,
       "property": false
     },
-    "Art/Oil on canvas.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Art/Fresco.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "History/Movement.md": {
       "folder": true,
       "tag": false,
@@ -535,17 +525,27 @@
       "tag": false,
       "property": false
     },
-    "Art/Mosaic.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "index.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
     "Courses/ART101/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/20251012193616.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/20251012200052.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/20251103000654.md": {
       "folder": true,
       "tag": false,
       "property": false

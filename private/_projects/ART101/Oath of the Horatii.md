@@ -12,7 +12,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/62e30b0acc367b
 > [!summary] Oath of the Horatii
 > ![[Oath of the Horatii-960x744.webp|David’s Neoclassical scene of three brothers swearing an oath.|480x372]]
 > **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas]]
+> **Medium:** [[20251103000654|Oil on canvas]]
 > **Genre:** [[History painting]]  
 > **Themes:** [[war]], [[politics]], [[myth]]
 > **Artist:** [[Jacques-Louis David]]

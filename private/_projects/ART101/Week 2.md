@@ -7,7 +7,7 @@ tags:
 description: "Archaic, Ancient and Classical period: Painting, Sculpture and Architecture and the Medieval period: Painting, Sculpture and Architecture"
 ---
 
-1. ![[Mosaic#^6c0583]]
+1. ![[20251012200052#^6c0583]]
 2. ![[Vault#^9b51d1]]
 3. ![[Nave#^c376ab]]
 4. ![[Flying Buttress#^0b390b]]

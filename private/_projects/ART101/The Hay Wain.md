@@ -13,7 +13,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/a50d1823a3c9ae
 > [!summary] The Hay Wain
 > ![[The Hay Wain-960x662.webp|Constable’s landscape with a wagon crossing a rural river|480x331]]
 > **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas]]
+> **Medium:** [[20251103000654|Oil on canvas]]
 > **Genre:** [[Landscape]]
 > **Themes:** [[nature]], [[daily life]] 
 > **Artist:** [[John Constable]]  

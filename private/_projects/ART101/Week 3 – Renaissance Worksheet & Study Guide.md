@@ -19,7 +19,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 7. ![[Etching or Engraving#^622f7a]]
 8. ![[Tempera#^3aa4f0]]
 9. ![[Florence#^76a45a]]
-10. ![[Oil on canvas#^e500f6]]
+10. ![[20251103000654#^e500f6]]
 
 ## 🎨 People to Know
 

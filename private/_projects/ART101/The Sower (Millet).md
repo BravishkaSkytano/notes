@@ -22,7 +22,7 @@ banner: _projects/ART101/The Sower (Millet)-500x616.webp
 > [!tldr] The Sower
 > ![[The Sower (Millet)-500x616.webp|Millet’s painting of a farmer striding across a field scattering seeds]]
 > **Type:** [[Painting]]  
-> **Medium:** [[Oil on canvas]]  
+> **Medium:** [[20251103000654|Oil on canvas]]  
 > **Genre:** [[daily life]], [[Landscape]]  
 > **Themes:** [[struggle]], [[daily life]], [[Nature]]
 > **Artist:** [[Jean-François Millet]]  

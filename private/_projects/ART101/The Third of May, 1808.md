@@ -11,7 +11,7 @@ banner: _projects/ART101/The Third of May, 1808-960x741.webp
 > [!summary] The Third of May, 1808
 > ![[The Third of May, 1808-960x741.webp|Goya’s emotional scene of Spanish rebels being executed|480x371]]
 > **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas]]
+> **Medium:** [[20251103000654|Oil on canvas]]
 > **Genre:** [[History painting]]
 > **Themes:** [[war]], [[politics]], [[Emotion]], [[struggle]]
 > **Artist:** [[Francisco Goya]]

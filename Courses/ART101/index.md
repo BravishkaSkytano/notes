@@ -18,7 +18,7 @@ tags:
 ### Week 1
 
 1. [[Archaic]]
-2. [[Classical]]
+2. [[20251005234738|Classical]]
 3. [[20251005235639|Hellenistic]]
 4. [[20251006003341|Doric capital]]
 5. Ionic capital

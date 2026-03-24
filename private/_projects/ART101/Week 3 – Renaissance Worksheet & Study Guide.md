@@ -14,7 +14,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 2. ![[Renaissance man#^fdd91a]]
 3. ![[Iconoclasm#^9957df]]
 4. ![[Humanism#^dca863]]
-5. ![[Classical#^c1c548]]
+5. ![[20251005234738#^c1c548]]
 6. ![[20251103000023#^453e0d]]
 7. ![[Etching or Engraving#^622f7a]]
 8. ![[Tempera#^3aa4f0]]

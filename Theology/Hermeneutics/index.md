@@ -1,4 +1,5 @@
 ---
+title: Hermeneutics
 description: The theory of interpretation.
 date: 2023-10-03
 created: 2026-02-11T18:42:45-05:00
@@ -11,7 +12,7 @@ tags:
 > [!summary]
 > **Definition:** The theory and methodology of interpretation, especially of texts, concerned with how meaning is understood, communicated, and applied.
 > **Domain:** Philosophy, theology, biblical studies, literary theory
-> **Related Concepts:** [[Exegesis]], [[Eisegesis]], historical-grammatical method, reader-response theory
+> **Related Concepts:** [[20231003184215|Exegesis]], [[20231003220312|Eisegesis]], historical-grammatical method, reader-response theory
 > **Key Sources:**
 > **Opposing / Contrasting Ideas:** Interpretive relativism, naïve literalism, postmodern skepticism
 
@@ -26,7 +27,7 @@ It asks questions beneath the text:
 - How does culture shape interpretation?
 - Can we truly understand texts from another time?
 
-If [[Exegesis]] is the craft of building a house, hermeneutics is the architecture blueprint behind it.
+If [[20231003184215|Exegesis]] is the craft of building a house, hermeneutics is the architecture blueprint behind it.
 
 Historically, hermeneutics began as a discipline focused on interpreting Scripture and [[20251005234738|Classical]] texts. Over time, it expanded into philosophy, influencing thinkers like Hans-Georg Gadamer and reshaping conversations about language, history, and understanding itself.
 

@@ -465,21 +465,6 @@
       "tag": false,
       "property": false
     },
-    "Theology/Theology.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Theology/NT.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Theology/OT.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "index.md": {
       "folder": true,
       "tag": false,
@@ -506,6 +491,11 @@
       "property": false
     },
     "Art/20251012184431.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Theology/Hermeneutics/index.md": {
       "folder": true,
       "tag": false,
       "property": false

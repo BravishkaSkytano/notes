@@ -11,7 +11,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/3fec811dda9698
 ---
 
 > [!tldr] Rose Window
-> A large, **circular stained glass window** with **intricate designs** that resemble the petals of a rose. Common in **[[Gothic|Gothic]] cathedrals**, rose windows often depict **biblical scenes or saints** and fill the interior with **colorful light**.
+> A large, **circular stained glass window** with **intricate designs** that resemble the petals of a rose. Common in **[[20251012184431|Gothic]] cathedrals**, rose windows often depict **biblical scenes or saints** and fill the interior with **colorful light**.
 > 
 > ![[The Rose Window of Chartres Cathedral - West Transept.webp]]
 

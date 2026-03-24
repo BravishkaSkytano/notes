@@ -40,7 +40,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 - ![[David (Donatello and Michelangelo)#^7a2cc0]]
 - ![[Battle of Alexander and Darius on the Issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
-- ![[Adoration of the Trinity#^64655d]]
+- ![[20251105100434#^64655d]]
 - ![[Transfiguration of Christ#^77f14d]]
 - ![[St. Peter’s Cathedral#^7ff03e]]
 - [[Sistine Chapel ceiling]]

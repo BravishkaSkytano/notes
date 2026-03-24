@@ -3,8 +3,6 @@ description: Ilmaria is divided into several distinct regions, each with its own
 date: 2024-10-16T22:10:00
 created: 2024-10-16T23:03:00
 modified: 2026-03-16T10:39:10-04:00
-tags:
-  - world/ilmaria/geography/idx
 permalink: /world/ilmaria/geography/
 needsUpdate: true
 index: true
@@ -41,6 +39,3 @@ The [[Sunaara Desert]] is a vast and arid region characterized by its rolling du
 
 
 
-> [!example] World / Ilmaria / Geography
-> 
-> ^indexof-world-ilmaria-geography

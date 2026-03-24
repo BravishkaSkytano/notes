@@ -5,7 +5,6 @@ created: 2026-02-11T18:42:45-05:00
 modified: 2026-03-16T10:48:21-04:00
 tags:
   - type/theory
-  - theology/hermeneutics/idx
   - type/literary-theory
 ---
 
@@ -63,8 +62,4 @@ For someone pursuing biblically grounded servant leadership, hermeneutics become
 
 Hermeneutics is the quiet compass behind interpretation. It does not shout from the page, but it determines the direction of every step taken across it.
 
-> [!example] Theology / Hermeneutics
-> - [[Eisegesis]]
-> - [[Exegesis]]
-> 
-> ^indexof-theology-hermeneutics
+

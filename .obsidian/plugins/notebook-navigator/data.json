@@ -220,7 +220,7 @@
   "frontmatterIconField": "icon",
   "frontmatterColorField": "color",
   "frontmatterBackgroundField": "background",
-  "frontmatterNameField": "title",
+  "frontmatterNameField": "",
   "frontmatterCreatedField": "created",
   "frontmatterModifiedField": "modified",
   "frontmatterDateFormat": "",
@@ -500,11 +500,6 @@
       "tag": false,
       "property": false
     },
-    "Courses/Course.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "History/Movement.md": {
       "folder": true,
       "tag": false,
@@ -540,27 +535,17 @@
       "tag": false,
       "property": false
     },
-    "Type/Type.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Art/Mosaic.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Courses/ART101.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Courses/APO391.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Courses/ART101/index.md": {
       "folder": true,
       "tag": false,
       "property": false

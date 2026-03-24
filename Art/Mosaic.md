@@ -3,7 +3,6 @@ created: 2025-10-12 20:00
 modified: 2026-03-18T16:52:56-04:00
 tags:
   - course/ART101/W2
-  - type/mosaic/idx
 permalink: /type/mosaic/
 index: true
 banner: img/banners/The Theodora Panels.webp
@@ -16,7 +15,4 @@ banner: img/banners/The Theodora Panels.webp
 
 **Example:** [[The Justinian and Theodora Panels]]
 
-> [!example] Type / Mosaic
-> - [[Hagia Sophia]]
-> 
-> ^indexof-type-mosaic
+

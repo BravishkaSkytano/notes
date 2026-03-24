@@ -22,6 +22,6 @@ The **Rouen Cathedral** series, painted in the **1890s**, consists of over thirt
 
 ## References
 
-- [[ART101]]
+- [[Courses/ART101/index|ART101: Visual and Performing Arts]]
 - The Annotated Mona Lisa
 - [Rouen Cathedral (Monet series) - Wikipedia](https://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet_series))

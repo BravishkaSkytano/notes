@@ -37,5 +37,5 @@ tags:
 ## Resources
 
 - [Rococo - Wikipedia](https://en.wikipedia.org/wiki/Rococo)
-- [[ART101]]
+- [[Courses/ART101/index|ART101: Visual and Performing Arts]]
 - The Annotated Mona Lisa

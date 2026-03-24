@@ -44,7 +44,7 @@ created: 2026-03-07T11:30:11-05:00
 
 - On this day there were Jews from Media, Persia, Mesopotamia, Cappadocia, Pontus and Asia, Phrygia and Pamphylia, Egypt and Libya, some from Rome and even some Cretans and Arabs
 - the gift of tongues appears to be the exact reversal of the Tower of Babel
-- God didn’t scatter the people at Babel because they were trying to build a tower “to heaven,” they were building a [[Ziggurat|ziggurat]] to see the stars like the Aztecs and the Mayans (in the future). He scattered them because they wouldn’t spread out
+- God didn’t scatter the people at Babel because they were trying to build a tower “to heaven,” they were building a [[20251006005258|ziggurat]] to see the stars like the Aztecs and the Mayans (in the future). He scattered them because they wouldn’t spread out
 
 ## Summary and Significance
 

@@ -19,7 +19,7 @@ tags:
 
 1. [[Archaic]]
 2. [[Classical]]
-3. [[Hellenistic Period|Hellenistic]]
+3. [[20251005235639|Hellenistic]]
 4. [[20251006003341|Doric capital]]
 5. Ionic capital
 6. [[20251006003844|Corinthian Capital]]

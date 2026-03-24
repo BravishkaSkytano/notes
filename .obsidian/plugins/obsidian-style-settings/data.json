@@ -9,5 +9,6 @@
   "sanctum@@active-line-accent": "var(--background-hover)",
   "sanctum@@no-sanctum-icons": false,
   "sanctum@@nav-folder-indicators": false,
-  "sanctum@@colorful-active-nav": false
+  "sanctum@@colorful-active-nav": false,
+  "typomagical-title@@font-title": "Playfair Display"
 }

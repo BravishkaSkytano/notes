@@ -3,9 +3,11 @@ title: Welcome to the Living Index
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-23T19:30:29-04:00
+modified: 2026-03-23T23:13:16-04:00
 cover: img/covers/logo.jpg
 ---
+
+![[logo.jpg]]
 
 This is not a library of conclusions.
 It’s an index of things I’m still working out.

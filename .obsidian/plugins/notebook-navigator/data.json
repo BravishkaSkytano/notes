@@ -470,27 +470,7 @@
       "tag": false,
       "property": false
     },
-    "Geography/Country.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "History/Culture.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "History/Period.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "People/Person.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "History/Movement.md": {
       "folder": true,
       "tag": false,
       "property": false

@@ -62,5 +62,3 @@ For someone pursuing biblically grounded servant leadership, hermeneutics become
 5. **Leadership & Discipleship:** Modeling interpretive humility and intellectual integrity.
 
 Hermeneutics is the quiet compass behind interpretation. It does not shout from the page, but it determines the direction of every step taken across it.
-
-

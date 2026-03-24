@@ -16,7 +16,7 @@ title:
 > **Medium:** [[20251103000654|Oil on canvas]]
 > **Genre:** [[Landscape]], [[night scene]]
 > **Themes:** [[night]], [[nature]], [[Emotion]]
-> **Artist:** [[Vincent van Gogh|Vincent van Gogh]]
+> **Artist:** [[20251116220426|Vincent van Gogh]]
 > **Movement:** [[Post-Impressionism]]
 > **Region:** [[Netherlands]]
 > **Period:** [[19th Century]]

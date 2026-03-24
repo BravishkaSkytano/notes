@@ -10,4 +10,4 @@ tags:
 ---
 
 > [!tldr] David
-> both depict the biblical hero, [[Donatello]]’s in bronze, [[Michelangelo]]’s in marble.
+> both depict the biblical hero, [[20251103001303|Donatello]]’s in bronze, [[Michelangelo]]’s in marble.

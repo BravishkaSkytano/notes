@@ -1,31 +1,24 @@
 ---
-title: Welcome to the Living Index
-description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
-automatic-linker-exclude: true
-created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-25T11:54:29-04:00
-cover: img/covers/logo.jpg
 tags:
   - type/structure
   - structure/moc
   - structure/index
+  - target/project
+  - target/github
+  - target/starterkit
+aliases: 
+created: 2023-11-21, 20:38
+modified: 2025-03-30, 16:03
+banner: "![[IMG_0319.png]]"
+banner_x: 0.5
+lead: Startpage for Zettelkasten. To be revised if necessary.
+visual: "![[image.jpg]]"
+template_type: Structure
+template_version: "1.12"
+view_count: 185
 ---
 
-![[logo.jpg]]
-
-This is not a library of conclusions.
-It’s an index of things I’m still working out.
-
-Ideas live here in draft form. Some are half-formed, some overgrown, some waiting patiently for their season.
-I collect them, link them, revisit them, and let them change me over time.
-
-I don’t believe clarity arrives all at once. It accumulates. Slowly.
-Through attention, curiosity, and returning to the same thoughts with new eyes.
-
-This garden favors process over polish, learning over certainty, and growth over completion.
-Nothing here is final. Everything is alive.
-
-In progress, on purpose.
+[Home](Home.md) | [ARCO](ARCO%20View.md) |  [Inspect](Inspect%20View.md) 
 
 ```dataviewjs 
 // Select random quote or idea
@@ -88,3 +81,5 @@ dv.paragraph("> " + text.message + " <br>- "
  	);
  } 
 ```
+ 
+<small>*) 100% organic thinking. Less than 5% AI-generated ideas.</small>

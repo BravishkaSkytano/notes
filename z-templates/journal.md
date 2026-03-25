@@ -1,7 +1,7 @@
 ---
 title:
 description:
-date: {{date}}
+date: {{yyyy-MM-dd}}
 created:
 modified:
 ---

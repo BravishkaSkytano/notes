@@ -15,7 +15,7 @@ template_version: "1.14"
 <!--  See "Template Help" below for using properties -->
 
 ![[About - 4_Project Notes.canvas|About - 4_Project Notes]]
-[[1. Fleeting/index|1_Fleeting]] | [[2. Literature/index|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
+[[1 Fleeting/index|1_Fleeting]] | [[2 Literature/index|2_Literature]] | [[3_Permanent/index|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
 
 <!-- Visual or sketchnote if available -->
 

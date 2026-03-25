@@ -1,26 +1,20 @@
 ---
+title: Permanent Notes
 tags:
   - type/structure
   - theme/zettelkasten
   - structure/about
   - target/starterkit
-aliases: 
+aliases:
 lead: "**Permanent Notes** are processed, stand-alone insights that are linked meaningfully into the system. They transform fleeting ideas into structured knowledge that can be revisited and built upon. Use them for writing notes in your own words, linking them to related concepts, and making them reusable."
 visual: "![[image.jpg]]"
 created: 2024-07-28, 13:49
-modified: 2025-03-30, 16:36
+modified: 2026-03-25, 17:39
 template_type: Structure
 template_version: "1.14"
-view_count: 2
 ---
-<!--  See "Template Help" below for using properties -->
 
-<!--  Clear and descriptive title -->
-
-<!-- Visual or sketchnote if available -->
-
-![[About - 3_Permanent Notes.canvas|About - 3_Permanent Notes]]
-[[1. Fleeting/index|1_Fleeting]] | [[2. Literature/index|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
+[[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3_Permanent/index|Permanent Notes]] | [[About - 4_Project Notes]] | [[_About - 5_Structure Notes]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 
@@ -38,18 +32,13 @@ view_count: 2
 >- Always keep a link to the source.
 
 <!-- Main STRUCTURE of my content -->
+
 ```dataview
 TABLE WITHOUT ID 
-	file.link as "3_Permanent Notes", 
+	file.link as "3 Permanent Notes", 
 	(date(today) - file.cday).day as "alive",
 	view_count AS "opened"
-FROM "3_Permanent"
+FROM "3 Permanent"
 SORT file.cday desc
 LIMIT 20
 ```
-
-
----
-More about: [[Permanent Notes]]
-
-

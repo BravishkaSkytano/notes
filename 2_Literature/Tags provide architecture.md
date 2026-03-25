@@ -17,7 +17,7 @@ view_count: 3
 visual: "![[image.jpg]]"
 ---
 
-# Tags provide architecture
+## Tags Provide Architecture
 
 <!-- Quote and author from frontmatter goes here. Also used for Dataview list of quotes. -->
 
@@ -25,19 +25,17 @@ visual: "![[image.jpg]]"
 >  `= this.quote`
 >  — `= this.author`
 
-
-
-
 ---
-# Back Matter
+
+## Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [How to use tags in a PKM like Obsidian \| Medium](https://austingovella.medium.com/how-to-approach-tags-in-your-pkm-b29c98dc43d3)
 
 **References**
 <!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see:: 
+- see::
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -48,15 +46,17 @@ visual: "![[image.jpg]]"
 - used_in::
 
 ---
+
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
 
 ---
+
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

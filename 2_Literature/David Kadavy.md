@@ -16,49 +16,55 @@ template_version: "1.11"
 view_count: 2
 ---
 
-# David Kadavy
+## David Kadavy
 
-##  Bio
+### Bio
+
 <!-- Short biography of the AUTHOR -->
 
 > [!Bio short]
 > `= this.bio_short`
 
+### Books
 
-
-## Books
 <!-- Only most important I‘ve read -->
-- [[Digital Zettelkasten - David Kadavy]]
+- [[Digital Zettelkasten - David Kadavy|Digital Zettelkasten]]
 
+### Notes
 
-## Notes
 <!-- The main content of my thoughts really -->
 - 
 
+### Quotes
 
-## Quotes
 <!-- Notable quotes with reference to their page or location -->
 - 
 
 ---
-# Back Matter
-## Source
-<!-- Always keep a link to the source- --> 
+
+## Back Matter
+
+### Source
+
+<!-- Always keep a link to the source- -->
 - 
 
-## Tasks
-<!-- What remains to be done with this note? --> 
+### Tasks
+
+<!-- What remains to be done with this note? -->
 - 
 
-## Questions
+### Questions
+
 <!-- What remains for you to consider? -->
 - 
 
-## References 
+### References
+
 <!-- Links to pages not referenced in the content -->
 - [Digital Zettelkasten - Principles and Methods](Digital%20Zettelkasten%20-%20Principles%20and%20Methods.md)
 
-## Template Help
+### Template Help
 
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
 - [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
@@ -67,19 +73,10 @@ view_count: 2
 - [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
 - [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
 
-
-
-
-
-
-
-
 ---
+
 References
 
 - [How to take Smart Notes - Sönke Ahrens](How%20to%20take%20Smart%20Notes%20-%20Sönke%20Ahrens.md)
 - https://kadavy.net/blog/posts/how-to-take-smart-notes-summary/
 - https://kadavy.net/blog/
-
-
-

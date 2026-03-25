@@ -34,6 +34,7 @@ template_type: Book
 template_version: "1.15"
 view_count: 3
 ---
+
 <!-- 
 rating: ⭐️⭐️⭐️    // 1 to 3 stars
 date: 2023             // when started reading
@@ -44,48 +45,51 @@ status: undefined, backlog, to read, reading, completed, stopped
 
 ![cover|150](http://books.google.com/books/content?id=o4gwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
-# Digital Zettelkasten
+## Digital Zettelkasten
 
 by [[David Kadavy]]
 
-## Summary
+### Summary
+
 <!-- No more than a couple paragraphs summarizing this BOOK -->
 
-Are you an academic, author, or blogger or anyone else who wants to make writing a breeze? The Zettelkasten method is the perfect way to harness the power of technology to remember what you read and boost creativity. 
+Are you an academic, author, or blogger or anyone else who wants to make writing a breeze? The Zettelkasten method is the perfect way to harness the power of technology to remember what you read and boost creativity.
 
-Invented in the 16th century, and practiced to its fullest extent by a German sociologist who wrote more than seventy books and hundreds of articles, the Zettelkasten method is exploding in popularity. 
+Invented in the 16th century, and practiced to its fullest extent by a German sociologist who wrote more than seventy books and hundreds of articles, the Zettelkasten method is exploding in popularity.
 
-Writers of all types are discovering that digital tools make the method more powerful than ever, turning your digital life into an “external brain,” or “bicycle for the mind.” 
+Writers of all types are discovering that digital tools make the method more powerful than ever, turning your digital life into an “external brain,” or “bicycle for the mind.”
 
-In Digital Zettelkasten: Principles, Methods, & Examples, blogger and nonfiction author David Kadavy shares a first-principles approach on how to adapt the Zettelkasten method to simple digital tools of your choice. 
+In Digital Zettelkasten: Principles, Methods, & Examples, blogger and nonfiction author David Kadavy shares a first-principles approach on how to adapt the Zettelkasten method to simple digital tools of your choice.
 
-How to structure your Zettelkasten? Kadavy borrows an element of the Getting Things Done framework to make sure nothing you want to read falls through the cracks. Naming convention pros/cons. Should you adopt the classic [[Folgezettel]] technique, or do digital tools make it irrelevant for your workflow? Reading workflow. The exact steps to follow to turn what you read into detailed notes you can mix and match to produce writing. Staying comfortable. 
+How to structure your Zettelkasten? Kadavy borrows an element of the Getting Things Done framework to make sure nothing you want to read falls through the cracks. Naming convention pros/cons. Should you adopt the classic [[Folgezettel]] technique, or do digital tools make it irrelevant for your workflow? Reading workflow. The exact steps to follow to turn what you read into detailed notes you can mix and match to produce writing. Staying comfortable.
 
-Build a workflow to maintain your Zettelkasten without being chained to your computer. Examples, examples, examples. See real examples of notes that illustrate concepts, so you can build a Zettelkasten that fits your workflow and tools. 
+Build a workflow to maintain your Zettelkasten without being chained to your computer. Examples, examples, examples. See real examples of notes that illustrate concepts, so you can build a Zettelkasten that fits your workflow and tools.
 
 Digital Zettelkasten: Principles, Methods, & Examples is short, to the point, with no fluff, so it won’t keep you from what you want – to build your Zettelkasten!
 
-## Table of Contents
+### Table of Contents
+
 <!--Link to table of contents (TOC) -->
 
+### Notes
 
-## Notes
 <!-- The main content of my thoughts really -->
 - 
 
+### Quotes
 
-## Quotes
 <!-- Notable quotes with reference to their page or location -->
 
-## Bibliography
+### Bibliography
 
 > `= this.bibliography`
 
 ---
-# Back Matter
+
+## Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: Digital Zettelkasten: Principles, Methods, & Examples
 https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example/
 
@@ -102,11 +106,11 @@ https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example/
 - 
 
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
 
 **Template Help**

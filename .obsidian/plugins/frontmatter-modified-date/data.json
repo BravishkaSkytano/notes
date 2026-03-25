@@ -1,13 +1,13 @@
 {
   "frontmatterProperty": "modified",
-  "createdDateProperty": "created",
-  "momentFormat": "",
+  "createdDateProperty": "",
+  "momentFormat": "YYYY-MM-DD, HH:mm",
   "momentLocale": "",
   "storeHistoryLog": false,
   "historyNewestFirst": false,
   "historyMaxItems": 0,
   "excludedFolders": [
-    "z-templates"
+    "Templates"
   ],
   "useKeyupEvents": true,
   "onlyUpdateExisting": false,

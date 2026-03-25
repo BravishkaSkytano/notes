@@ -1,22 +1,19 @@
 ---
-view_count: 2
-created: 2024-07-26, 20:42
-modified: 2025-03-30, 16:07
+title: Literature Notes
+created: 2026-03-25T12:25:00
+modified: 2026-03-25, 12:27
 tags:
   - type/structure
   - structure/about
   - target/starterkit
-aliases: 
+aliases:
 lead: "**Literature Notes** are summaries of sources with key takeaways. They extract useful insights from books, articles, or lectures. Use them for highlighting arguments, summarizing theories, and noting relevant passages."
 visual: "![[image.jpg]]"
 template_type: Structure
 template_version: "1.14"
 ---
-<!--  See "Template Help" below for using properties -->
 
-<!--  Clear and descriptive title -->
-![[About - 2_Literature Notes.canvas|About - 2_Literature Notes]]
-[[1. Fleeting/index|1_Fleeting]] | [[_About - 2_Literature Notes|2_Literature]] | [[_About - 3_Permanent Notes|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
+[[1. Fleeting/index|Fleeting Notes]] | [[_About - 2_Literature Notes|Literature Notes]] | [[_About - 3_Permanent Notes]] | [[About - 4_Project Notes]] | [[_About - 5_Structure Notes]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 
@@ -30,15 +27,12 @@ template_version: "1.14"
 
 <!-- Main STRUCTURE of my content -->
 <!-- Dataview table. Use as example and modify. -->
+
 ```dataview
 TABLE WITHOUT ID 
-	file.link as "2_Literature Notes", 
+	file.link as "2. Literature Notes", 
 	(date(today) - file.cday).day as "Days alive" 
-FROM "2_Literature"
+FROM "2. Literature"
 SORT file.cday asc 
 LIMIT 20
 ```
-
-
----
-More about: [[Literature Notes]]

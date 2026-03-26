@@ -5,7 +5,7 @@ tags:
   - target/starterkit
 image: "![[banner_books.jpg]]"
 created: 2022-03-04, 19:32
-modified: 2026-03-25, 20:34
+modified: 2026-03-25, 21:05
 template_type: Structure
 ---
 
@@ -16,14 +16,7 @@ template_type: Structure
 
 ## Reading
 
-```dataview 
-TABLE WITHOUT ID
-	bibliography AS "Books",
-	file.link as Notes
-From #type/book 
-Where contains(status, "reading") 
-SORT bibliography ASC
-```  
+![[Master Bookshelf.base#Reading]]
 
 ## Bibliography Chicago 17th Style
 

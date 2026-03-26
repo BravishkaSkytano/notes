@@ -46,3 +46,35 @@ views:
       - status
     image: note.cover_url
     imageFit: contain
+  - type: cards
+    name: Finished
+    filters:
+      and:
+        - file.tags.contains("type/book")
+        - file.folder != "Templates"
+        - status == "finished"
+    order:
+      - title
+      - subtitle
+      - author
+      - description
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
+  - type: cards
+    name: TBR
+    filters:
+      and:
+        - file.tags.contains("type/book")
+        - file.folder != "Templates"
+        - status == "tbr"
+    order:
+      - title
+      - subtitle
+      - author
+      - description
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain

@@ -1,0 +1,48 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.tags.contains("type/book")
+        - file.folder != "Templates"
+    order:
+      - title
+      - subtitle
+      - author
+      - description
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
+  - type: cards
+    name: Reading
+    filters:
+      and:
+        - file.tags.contains("type/book")
+        - file.folder != "Templates"
+        - status == "reading"
+    order:
+      - title
+      - subtitle
+      - author
+      - description
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
+  - type: cards
+    name: DNF
+    filters:
+      and:
+        - file.tags.contains("type/book")
+        - file.folder != "Templates"
+        - status == "dnf"
+    order:
+      - title
+      - subtitle
+      - author
+      - description
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain

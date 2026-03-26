@@ -12,9 +12,11 @@ template_type: Note
 template_version: "1.25"
 view_count: 1
 ---
+
 <!--  See "Template Help" below for using properties -->
 
-# Apples Vision Statement
+## Apples Vision Statement
+
 <!--  Clear and descriptive title -->
 
 <!-- My sketchnote if available -->
@@ -54,12 +56,12 @@ And frankly, we don’t settle for anything less than excellence in every group 
 
 And I think regardless of who is in what job those values are so embedded in this company that Apple will do extremely well.
 
-
 ---
-# Back Matter
+
+## Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: Internet
 
 **References**
@@ -76,11 +78,11 @@ And I think regardless of who is in what job those values are so embedded in thi
 - 
 
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - 
 
 **Template Help**

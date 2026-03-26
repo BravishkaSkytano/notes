@@ -19,7 +19,19 @@
         },
         {
           "type": "note",
-          "path": "index.md"
+          "path": "1 Fleeting/index.md"
+        },
+        {
+          "type": "note",
+          "path": "2 Literature/index.md"
+        },
+        {
+          "type": "note",
+          "path": "3 Permanent/index.md"
+        },
+        {
+          "type": "note",
+          "path": "4 Project/index.md"
         }
       ],
       "navRainbow": {
@@ -487,6 +499,26 @@
       "property": false
     },
     "Worlds/Ilmaria/Geography/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "1 Fleeting/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "2 Literature/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "3 Permanent/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "4 Project/index.md": {
       "folder": true,
       "tag": false,
       "property": false

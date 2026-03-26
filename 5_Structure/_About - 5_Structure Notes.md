@@ -15,7 +15,7 @@ view_count: 2
 <!--  See "Template Help" below for using properties -->
 
 ![[About - 5_Structure Notes.canvas|About - 5_Structure Notes]]
-[[1 Fleeting/index|1_Fleeting]] | [[2 Literature/index|2_Literature]] | [[3 Permanent/index|3_Permanent]] | [[About - 4_Project Notes|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
+[[1 Fleeting/index|1_Fleeting]] | [[2 Literature/index|2_Literature]] | [[3 Permanent/index|3_Permanent]] | [[4 Project/index|4_Project]] | [[_About - 5_Structure Notes|5_Structure]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 

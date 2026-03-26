@@ -3,20 +3,19 @@ tags:
   - type/structure
   - structure/list
   - target/starterkit
-banner: "![[banner_books.jpg]]"
+image: "![[banner_books.jpg]]"
 created: 2022-03-04, 19:32
-modified: 2025-03-30, 16:54
-view_count: 1
+modified: 2026-03-25, 20:34
 template_type: Structure
 ---
-  
-# Books 
+
 <!-- A list of books for further study or of works consulted by an author.  -->
 [[Reference]] > [[Authors]] | [[Bibliography]] | [[Books]] | [[Glossary]] | [[Quotes]]
 
 > [[Maps of Books]]
 
-### Reading
+## Reading
+
 ```dataview 
 TABLE WITHOUT ID
 	bibliography AS "Books",
@@ -26,7 +25,8 @@ Where contains(status, "reading")
 SORT bibliography ASC
 ```  
 
-### Bibliography Chicago 17th Style
+## Bibliography Chicago 17th Style
+
 ```dataview
 TABLE WITHOUT ID
 	bibliography AS "Books",
@@ -36,7 +36,7 @@ WHERE bibliography !=empty
 SORT file.name ASC
 ```
 
-### Sketchnote Books
+## Sketchnote Books
 
 ```dataview
 TABLE WITHOUT ID
@@ -46,7 +46,7 @@ FROM #type/book and #theme/sketchnotes
 SORT file.name ASC
 ```
 
-### Zettelkasten Books
+## Zettelkasten Books
 
 ```dataview
 TABLE WITHOUT ID
@@ -56,7 +56,7 @@ FROM #type/book and #theme/zettelkasten
 SORT file.name ASC
 ```
 
-### Other Books
+## Other Books
 
 ```dataview
 TABLE WITHOUT ID
@@ -66,7 +66,6 @@ TABLE WITHOUT ID
 FROM #type/book and !#theme/sketchnotes and !#theme/zettelkasten
 SORT file.name ASC
 ```
-
 
 ___
 
@@ -86,19 +85,7 @@ Export options:
 
 ___
 
+### References
 
-##### References
 - _Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
-- [List of Reading](List%20of%20Reading.md)
-
-### Books by Incoming Links
-
-```dataview
-TABLE WITHOUT ID
-	file.link as books, 
-	length(file.inlinks) AS in,
-	file.mday AS "modified", 
-	file.folder AS "folder" 
-FROM #type/book
-SORT length(file.inlinks) DESC
-```
+- [List of Reading](List%20of%

@@ -32,6 +32,10 @@
         {
           "type": "note",
           "path": "4 Project/index.md"
+        },
+        {
+          "type": "note",
+          "path": "5_Structure/index.md"
         }
       ],
       "navRainbow": {
@@ -519,6 +523,11 @@
       "property": false
     },
     "4 Project/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "5_Structure/index.md": {
       "folder": true,
       "tag": false,
       "property": false

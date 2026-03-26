@@ -16,7 +16,7 @@ source: https://github.com/groepl/Obsidian-Templates
 view_count: 2
 ---
 
-# 7 Days - Created
+## 7 Days - Created
 
 | [7 Days - Created](7%20Days%20Created%20Chart.md) | [7 Days - Summary](7%20Days%20Created%20List.md) | [7 Days - Modified](7%20Days%20Modified%20Chart.md) | [7 Days - Table](7%20Days%20Table.md) |
 
@@ -190,8 +190,10 @@ window.renderChart(chartData, this.container)
 
 ```
 
-###### Notes Created
+### Notes Created
+
 <!-- DataView table, use example and modify -->
+
 ```dataview
 LIST
 lead + " " + file.cday + "."
@@ -200,14 +202,12 @@ Where file.cday >= date(today) - dur(7 day)
 SORT file.cday DESC
 ```
 
-
-
-<!-- Options 
+<!-- Options
 TABLE WITHOUT ID
-	file.folder AS ...
-	file.link AS ...
-	file.name AS ...
-	file.etags AS ...
+	file.folder AS …
+	file.link AS …
+	file.name AS …
+	file.etags AS …
 	file.cday AS Date
 
 FROM #target/forumzettelkasten  : when using tags
@@ -226,30 +226,29 @@ WHERE sketchnote != empty
 LIMIT 3
 
 ---
-More about: 
+More about:
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/query-types.md
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/data-commands.md
 
-Source: 
+Source:
 https://github.com/groepl/Obsidian-Templates
 -->
 
-
-
 ---
-# Back Matter
-## Questions
-<!-- What remains for you to consider? --> 
+
+## Back Matter
+
+### Questions
+
+<!-- What remains for you to consider? -->
 - 
 
+### Terms
 
-## Terms
 <!-- Links to definition pages -->
 - 
 
+### References
 
-## References
 <!-- Links to pages not referenced in the content -->
 - [Obsidian Charts - Plugin](Obsidian%20Charts%20-%20Plugin.md)
-
-

@@ -6,7 +6,7 @@
   "enableBanner": true,
   "enableIcon": true,
   "enableCover": true,
-  "bannerProperty": "banner",
+  "bannerProperty": "image",
   "iconProperty": "icon",
   "coverProperty": "cover",
   "extraCoverProperties": [],
@@ -36,8 +36,8 @@
   "uncompletedTasksStatuses": [
     " "
   ],
-  "bannersFolder": "img/banners",
-  "coversFolder": "img/covers",
+  "bannersFolder": "Assets/banners",
+  "coversFolder": "Assets/covers",
   "showColorSettings": false,
   "showTextColorSettings": false,
   "showHiddenSettings": false,
@@ -64,7 +64,7 @@
   "enableCustomDateFormat": false,
   "enableCustomDateFormatInBases": false,
   "enableRelativeDateColors": false,
-  "settingsTab": "COVERS",
+  "settingsTab": "BANNERS",
   "enableTaskNotesCount": false,
   "allTNTasksCount": "tn_tasks",
   "completedTNTasksCount": "tn_tasks_completed",

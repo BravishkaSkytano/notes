@@ -14,18 +14,20 @@ visual: "![[luhmann_vs_digital_2025-03-06.png|300]]"
 template_type: Note
 template_version: "1.17"
 ---
+
 <!--  See "Template Help" below for using properties -->
 
-# Basic Zettelkasten vs Extended Digital Zettelkasten
+## Basic Zettelkasten Vs Extended Digital Zettelkasten
 
 <!-- My sketchnote if available -->
+
 ```dataviewjs 
 dv.paragraph(dv.current().visual);
 ```
+
 <small>_Zoom: [[luhmann_vs_digital_2025-03-06.png]] | Edit: [[luhmann_vs_digital_2025-03-06.smmx]]_</small>
 
 <!-- Detailed question from short title in front matter -->
-
 
 > [!Note]
 > `= this.lead`
@@ -35,6 +37,7 @@ dv.paragraph(dv.current().visual);
  A **Double Bubble Map** contrasting **"Luhmann’s Basic Zettelkasten Method"** with **"Extended Digital Zettelkasten Methods"** can highlight the evolution of the method and its modern adaptations.
 
 ---
+
 ### Content for the Bubbles
 
 #### Basic Zettelkasten (Luhmann’s Original Method) – Unique Aspects
@@ -68,13 +71,12 @@ dv.paragraph(dv.current().visual);
 - **Personalized Growth** – Adaptable to individual workflows.
 - **Iteration & Refinement** – Notes evolve over time.
 
-
-
 ---
-# Back Matter
+
+## Back Matter
 
 **Source**
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source- -->
 - based_on:: [[Tools for Visual Thinking]]
 
 **References**
@@ -92,15 +94,17 @@ dv.paragraph(dv.current().visual);
 - used_in:: [[Post - Luhmann vs Digital Zettelkasten]]
 
 ---
+
 **Tasks**
-<!-- What remains to be done with this note? --> 
+<!-- What remains to be done with this note? -->
 - 
 
 **Questions**
-<!-- What remains for you to consider? --> 
+<!-- What remains for you to consider? -->
 - question::
 
 ---
+
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

@@ -32,7 +32,7 @@
       }
     },
     "explorer": {
-      "enabled": false,
+      "enabled": true,
       "sort": false,
       "templates": {
         "main": "",
@@ -40,14 +40,14 @@
       }
     },
     "tab": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
       }
     },
     "header": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
@@ -89,7 +89,7 @@
       }
     },
     "canvas": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
@@ -103,7 +103,7 @@
       }
     },
     "windowFrame": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""

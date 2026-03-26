@@ -1,5 +1,5 @@
 {
-  "format": "YYYY-MM-DD",
+  "format": "YYYY/MM/YYYY-MM-DD",
   "folder": "Journal",
   "template": "z-templates/journal"
 }

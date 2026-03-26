@@ -220,7 +220,7 @@
   "frontmatterIconField": "icon",
   "frontmatterColorField": "color",
   "frontmatterBackgroundField": "background",
-  "frontmatterNameField": "",
+  "frontmatterNameField": "title",
   "frontmatterCreatedField": "created",
   "frontmatterModifiedField": "modified",
   "frontmatterDateFormat": "",

@@ -15,7 +15,27 @@ views:
     markers: none
     indentProperties: true
   - type: table
-    name: Fleeting Notes
+    name: Missing metadata
+    filters:
+      and:
+        - file.ext == "md"
+        - or:
+            - description.isEmpty()
+            - created.isEmpty()
+            - file.tags.isEmpty()
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - date
+      - description
+      - file.tags
+      - created
+    indentProperties: true
+  - type: table
+    name: Fleeting
     filters:
       or:
         - file.folder == "1 Fleeting"
@@ -32,23 +52,67 @@ views:
     indentProperties: true
     markers: none
   - type: table
-    name: Missing metadata
+    name: Literature
     filters:
-      and:
-        - file.ext == "md"
-        - or:
-            - description.isEmpty()
-            - date.isEmpty()
-            - created.isEmpty()
-            - file.tags.isEmpty()
-        - draft != true
+      or:
+        - file.folder == "2 Literature"
     groupBy:
       property: file.folder
       direction: ASC
     order:
       - file.name
-      - date
+      - title
+      - tags
       - description
-      - file.tags
-      - created
+    sort: []
     indentProperties: true
+    markers: none
+  - type: table
+    name: Permanent
+    filters:
+      or:
+        - file.folder == "3 Permanent"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: none
+  - type: table
+    name: Project
+    filters:
+      or:
+        - file.folder == "4 Project"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: none
+  - type: table
+    name: Structure
+    filters:
+      and:
+        - file.folder == "5 Structure"
+        - file.ext != "base"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: none

@@ -14,7 +14,7 @@ template_type: Structure
 template_version: "1.14"
 ---
 
-[[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5_Structure/index|Structure Notes]]
+[[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 

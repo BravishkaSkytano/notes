@@ -35,7 +35,7 @@
         },
         {
           "type": "note",
-          "path": "5_Structure/index.md"
+          "path": "5 Structure/index.md"
         }
       ],
       "navRainbow": {
@@ -527,7 +527,7 @@
       "tag": false,
       "property": false
     },
-    "5_Structure/index.md": {
+    "5 Structure/index.md": {
       "folder": true,
       "tag": false,
       "property": false

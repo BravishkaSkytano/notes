@@ -5,16 +5,12 @@ modified: 2026-03-27, 09:25
 tags:
   - type/structure
   - structure/about
-  - target/starterkit
 aliases:
   - 1. Fleeting
 lead: "**Fleeting Notes** are quick thoughts or ideas, temporary and unstructured. They capture raw ideas before they are lost. Use them for jotting down spontaneous insights, brainstorming, or initial reflections."
-visual: "![[image.jpg]]"
-template_type: Structure
-template_version: "1.14"
 ---
 
-[[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5_Structure/index|Structure Notes]]
+[[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 
@@ -25,13 +21,4 @@ template_version: "1.14"
 > - Capture ideas that op into mind.
 
 <!-- Main STRUCTURE of my content -->
-
-<!-- Dataview table. Use as example and modify. -->
-
-```dataview
-TABLE WITHOUT ID 
-	file.link as "1. Fleeting Notes", 
-	(date(today) - file.cday).day as "Days alive" 
-FROM "1. Fleeting"
-SORT file.cday asc 
-```
+![[Dashboard.base#Fleeting]]

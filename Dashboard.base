@@ -33,6 +33,8 @@ views:
       - description
       - file.tags
       - created
+    summaries:
+      file.name: Empty
     indentProperties: true
   - type: table
     name: Fleeting

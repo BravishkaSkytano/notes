@@ -4,14 +4,10 @@ tags:
   - type/structure
   - theme/zettelkasten
   - structure/about
-  - target/starterkit
 aliases:
-lead: "**Permanent Notes** are processed, stand-alone insights that are linked meaningfully into the system. They transform fleeting ideas into structured knowledge that can be revisited and built upon. Use them for writing notes in your own words, linking them to related concepts, and making them reusable."
-visual: "![[image.jpg]]"
+description: "**Permanent Notes** are processed, stand-alone insights that are linked meaningfully into the system. They transform fleeting ideas into structured knowledge that can be revisited and built upon. Use them for writing notes in your own words, linking them to related concepts, and making them reusable."
 created: 2024-07-28, 13:49
-modified: 2026-03-25, 17:39
-template_type: Structure
-template_version: "1.14"
+modified: 2026-03-27, 09:44
 ---
 
 [[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
@@ -31,14 +27,4 @@ template_version: "1.14"
 >- Leave a reason to revisit your idea.
 >- Always keep a link to the source.
 
-<!-- Main STRUCTURE of my content -->
-
-```dataview
-TABLE WITHOUT ID 
-	file.link as "3 Permanent Notes", 
-	(date(today) - file.cday).day as "alive",
-	view_count AS "opened"
-FROM "3 Permanent"
-SORT file.cday desc
-LIMIT 20
-```
+![[Dashboard.base#Permanent]]

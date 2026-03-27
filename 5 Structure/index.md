@@ -10,7 +10,7 @@ created: 2024-08-19, 13:36
 modified: 2026-03-27, 09:48
 ---
 
-[[1 Fleeting/index|Fleeting Notes]] | [[2 Source/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
+[[1 Fleeting/index|Fleeting Notes]] | [[2 Source/index|Source Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 

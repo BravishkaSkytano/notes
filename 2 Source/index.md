@@ -6,10 +6,10 @@ tags:
   - type/structure
   - structure/about
 aliases:
-description: "**Literature Notes** are summaries of sources with key takeaways. They extract useful insights from books, articles, or lectures. Use them for highlighting arguments, summarizing theories, and noting relevant passages."
+description: Summaries of sources with key takeaways. They extract useful insights from books, articles, or lectures. Use them for highlighting arguments, summarizing theories, and noting relevant passages.
 ---
 
-[[1 Fleeting/index|Fleeting Notes]] | [[2 Source/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
+[[1 Fleeting/index|Fleeting Notes]] | [[2 Source/index|Source Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 

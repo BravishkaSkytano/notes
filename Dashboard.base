@@ -57,22 +57,22 @@ views:
       file.name: 132
       note.title: 215
       note.tags: 208
-  - type: table
-    name: Literature
+  - type: cards
+    name: Sources
     filters:
       or:
-        - file.folder == "2 Literature"
+        - file.folder.startsWith("2 Source")
     groupBy:
-      property: file.folder
+      property: type
       direction: ASC
     order:
       - file.name
-      - title
-      - tags
-      - description
+      - author
+      - status
     sort: []
     indentProperties: true
     markers: none
+    image: note.cover
   - type: table
     name: Permanent
     filters:

@@ -19,4 +19,4 @@ description: Summaries of sources with key takeaways. They extract useful insigh
 >- Write in the context of the source.
 >- Always keep a link to the source.
 
-![[Dashboard.base#Literature]]
+![[Dashboard.base#Sources]]

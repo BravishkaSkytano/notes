@@ -1,24 +1,21 @@
 ---
-created: "{{ INVALID TEMPLATE TAG }}"
-modified: 2026-03-27, 14:17
+created: 2026-03-27, 14:15
+modified: 2026-03-27, 14:21
 type: book
-tags: mediaDB/book
-aliases: Throne of Glass
+aliases:
 title: Throne of Glass
 author:
   - Sarah J. Maas
 cover: https://covers.openlibrary.org/b/OLID/OL35606216M-L.jpg
 pages: unknown
-year: 2012
 isbn: unknown
 isbn13: unknown
 url: https://openlibrary.org/works/OL16607146W
 status: tbr
 read: false
-lastRead: ""
+lastRead:
 rating:
 ---
-
 
 > [!summary]
 unknown

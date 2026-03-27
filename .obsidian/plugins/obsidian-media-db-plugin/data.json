@@ -917,7 +917,7 @@
           "property": "subType",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "title",
@@ -929,13 +929,13 @@
           "property": "englishTitle",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "year",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "dataSource",
@@ -983,7 +983,7 @@
           "property": "onlineRating",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "isbn",
@@ -1001,7 +1001,7 @@
           "property": "released",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "read",
@@ -1013,13 +1013,13 @@
           "property": "lastRead",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "personalRating",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "tags",

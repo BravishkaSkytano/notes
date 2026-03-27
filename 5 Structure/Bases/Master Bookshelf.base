@@ -1,19 +1,20 @@
 filters:
   and:
-    - file.folder != "Templates"
-    - file.tags.contains("type/book")
+    - file.folder == "2 Source/books"
 views:
   - type: cards
     name: All
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - title
       - subtitle
       - author
       - description
       - category
-      - status
-    image: note.cover_url
-    imageFit: contain
+    image: note.cover
+    imageAspectRatio: 1.55
   - type: cards
     name: Reading
     filters:
@@ -26,8 +27,8 @@ views:
       - description
       - category
       - status
-    image: note.cover_url
-    imageFit: contain
+    image: note.cover
+    imageAspectRatio: 1.55
   - type: cards
     name: DNF
     filters:
@@ -40,8 +41,8 @@ views:
       - description
       - category
       - status
-    image: note.cover_url
-    imageFit: contain
+    image: note.cover
+    imageAspectRatio: 1.55
   - type: cards
     name: Finished
     filters:
@@ -54,8 +55,8 @@ views:
       - description
       - category
       - status
-    image: note.cover_url
-    imageFit: contain
+    image: note.cover
+    imageAspectRatio: 1.55
   - type: cards
     name: TBR
     filters:
@@ -68,5 +69,5 @@ views:
       - description
       - category
       - status
-    image: note.cover_url
-    imageFit: contain
+    image: note.cover
+    imageAspectRatio: 1.55

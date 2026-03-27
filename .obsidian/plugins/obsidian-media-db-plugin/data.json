@@ -39,7 +39,7 @@
   "wikiFolder": "Media DB/wiki",
   "musicReleaseFolder": "Media DB/music",
   "boardgameFolder": "Media DB/boardgames",
-  "bookFolder": "Media DB/books",
+  "bookFolder": "2 Source/books",
   "propertyMappingModels": [
     {
       "type": "movie",
@@ -1007,7 +1007,7 @@
           "property": "read",
           "newProperty": "",
           "locked": false,
-          "mapping": "default"
+          "mapping": "remove"
         },
         {
           "property": "lastRead",

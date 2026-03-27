@@ -1,16 +1,19 @@
 ---
-created: 2026-03-27, 14:15
-modified: 2026-03-27, 14:21
+created:
+modified:
+tags: mediaDB/book
 aliases:
-title: Throne of Glass
+title: A Court of Thorns and Roses
 author:
   - Sarah J. Maas
-cover: https://covers.openlibrary.org/b/OLID/OL35606216M-L.jpg
+cover: https://covers.openlibrary.org/b/OLID/OL27099075M-L.jpg
 pages: unknown
 isbn: unknown
 isbn13: unknown
-url: https://openlibrary.org/works/OL16607146W
+published: "true"
+url: https://openlibrary.org/works/OL17352669W
 status: tbr
+read:
 lastRead:
 rating:
 ---

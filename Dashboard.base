@@ -63,7 +63,7 @@ views:
       or:
         - file.folder.startsWith("2 Source")
     groupBy:
-      property: type
+      property: file.folder
       direction: ASC
     order:
       - file.name

@@ -1,5 +1,5 @@
 views:
-  - type: list
+  - type: table
     name: Drafts
     filters:
       or:
@@ -14,11 +14,11 @@ views:
       - description
     markers: none
     indentProperties: true
-  - type: list
-    name: Inbox
+  - type: table
+    name: Fleeting Notes
     filters:
       or:
-        - file.folder == "Inbox"
+        - file.folder == "1 Fleeting"
         - needsUpdate == true
     groupBy:
       property: file.folder
@@ -31,62 +31,7 @@ views:
     sort: []
     indentProperties: true
     markers: none
-  - type: cards
-    name: Banners
-    filters:
-      and:
-        - "!banner.isEmpty()"
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - title
-      - description
-    sort: []
-    image: note.banner
-    imageAspectRatio: 0.7
-    cardSize: 300
-  - type: cards
-    name: Covers
-    filters:
-      and:
-        - "!cover.isEmpty()"
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - title
-      - description
-    sort: []
-    image: note.cover
-    imageAspectRatio: 1
-    cardSize: 260
-  - type: list
-    name: No banner
-    filters:
-      and:
-        - file.ext == "md"
-        - or:
-            - banner.isEmpty()
-            - cover.isEmpty()
-        - draft != true
-    groupBy:
-      property: file.folder
-      direction: ASC
-  - type: cards
-    name: Images
-    filters:
-      and:
-        - file.ext == "webp"
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order: []
-    sort:
-      - property: file.ext
-        direction: ASC
-    image: file.file
-  - type: list
+  - type: table
     name: Missing metadata
     filters:
       and:
@@ -97,8 +42,6 @@ views:
             - created.isEmpty()
             - file.tags.isEmpty()
         - draft != true
-        - index != true
-        - '!file.folder.startsWith("_")'
     groupBy:
       property: file.folder
       direction: ASC
@@ -107,17 +50,5 @@ views:
       - date
       - description
       - file.tags
-    indentProperties: true
-  - type: list
-    name: Indexes
-    filters:
-      or:
-        - index == true
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-      - permalink
+      - created
     indentProperties: true

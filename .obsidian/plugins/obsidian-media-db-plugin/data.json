@@ -15,7 +15,7 @@
   "wikiTemplate": "",
   "musicReleaseTemplate": "",
   "boardgameTemplate": "",
-  "bookTemplate": "",
+  "bookTemplate": "Templates/2. Book Template.md",
   "movieFileNameTemplate": "{{ title }} ({{ year }})",
   "seriesFileNameTemplate": "{{ title }} ({{ year }})",
   "mangaFileNameTemplate": "{{ title }} ({{ year }})",

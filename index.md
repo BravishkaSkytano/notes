@@ -27,4 +27,4 @@ Nothing here is final. Everything is alive.
 
 In progress, on purpose.
 
-[[1 Fleeting/index|Fleeting Notes]] | [[2 Literature/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]
+[[1 Fleeting/index|Fleeting Notes]] | [[2 Source/index|Literature Notes]] | [[3 Permanent/index|Permanent Notes]] | [[4 Project/index|Project Notes]] | [[5 Structure/index|Structure Notes]]

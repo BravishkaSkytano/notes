@@ -1,5 +1,5 @@
 {
-  "OMDbKey": "",
+  "OMDbKey": "9b2394",
   "MobyGamesKey": "",
   "GiantBombKey": "",
   "sfwFilter": true,
@@ -32,13 +32,13 @@
   "musicReleasePropertyConversionRules": "",
   "boardgamePropertyConversionRules": "",
   "bookPropertyConversionRules": "",
-  "movieFolder": "Media DB/movies",
-  "seriesFolder": "Media DB/series",
-  "mangaFolder": "Media DB/manga",
-  "gameFolder": "Media DB/games",
-  "wikiFolder": "Media DB/wiki",
-  "musicReleaseFolder": "Media DB/music",
-  "boardgameFolder": "Media DB/boardgames",
+  "movieFolder": "2 Source/movies",
+  "seriesFolder": "2 Source/series",
+  "mangaFolder": "2 Source/manga",
+  "gameFolder": "2 Source/games",
+  "wikiFolder": "2 Source/wiki",
+  "musicReleaseFolder": "2 Source/music",
+  "boardgameFolder": "2 Source/boardgames",
   "bookFolder": "2 Source/books",
   "propertyMappingModels": [
     {

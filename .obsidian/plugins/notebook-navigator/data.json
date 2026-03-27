@@ -11,35 +11,10 @@
       "hiddenFileTags": [],
       "hiddenFileProperties": [],
       "navigationBanner": null,
-      "periodicNotesFolder": "Journal",
-      "shortcuts": [
-        {
-          "type": "note",
-          "path": "Dashboard.base"
-        },
-        {
-          "type": "note",
-          "path": "1 Fleeting/index.md"
-        },
-        {
-          "type": "note",
-          "path": "2 Literature/index.md"
-        },
-        {
-          "type": "note",
-          "path": "3 Permanent/index.md"
-        },
-        {
-          "type": "note",
-          "path": "4 Project/index.md"
-        },
-        {
-          "type": "note",
-          "path": "5 Structure/index.md"
-        }
-      ],
+      "periodicNotesFolder": "",
+      "shortcuts": [],
       "navRainbow": {
-        "mode": "foreground",
+        "mode": "none",
         "balanceHueLuminance": true,
         "separateThemeColors": false,
         "shortcuts": {
@@ -68,7 +43,7 @@
           "scope": "root"
         },
         "tags": {
-          "enabled": true,
+          "enabled": false,
           "firstColor": "#ef4444",
           "lastColor": "#8b5cf6",
           "darkFirstColor": "#fb7185",
@@ -123,12 +98,12 @@
   "enterToOpenFiles": false,
   "shiftEnterOpenContext": "tab",
   "cmdCtrlEnterOpenContext": "split",
-  "startView": "navigation",
+  "startView": "files",
   "showInfoButtons": true,
   "homepage": null,
   "mobileHomepage": null,
   "useMobileHomepage": false,
-  "dualPane": true,
+  "dualPane": false,
   "dualPaneOrientation": "horizontal",
   "showTooltips": false,
   "showTooltipPath": true,
@@ -158,7 +133,7 @@
   "colorIconOnly": false,
   "dateFormat": "MMM D, YYYY",
   "timeFormat": "h:mm a",
-  "calendarTemplateFolder": "z-templates",
+  "calendarTemplateFolder": "",
   "confirmBeforeDelete": true,
   "deleteAttachments": "ask",
   "moveFileConflicts": "ask",
@@ -167,7 +142,7 @@
   "pinNavigationBanner": true,
   "showNoteCount": true,
   "separateNoteCounts": true,
-  "showIndentGuides": true,
+  "showIndentGuides": false,
   "rootLevelSpacing": 0,
   "navIndent": 16,
   "navItemHeight": 28,
@@ -193,12 +168,12 @@
   "folderSortOrder": "alpha-asc",
   "enableFolderNotes": false,
   "folderNoteType": "markdown",
-  "folderNoteName": "index",
+  "folderNoteName": "",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
   "enableFolderNoteLinks": true,
   "hideFolderNoteInList": true,
-  "pinCreatedFolderNote": true,
+  "pinCreatedFolderNote": false,
   "openFolderNotesInNewTab": false,
   "showTags": true,
   "showTagIcons": true,
@@ -214,13 +189,13 @@
   "showAllPropertiesFolder": true,
   "defaultListMode": "standard",
   "includeDescendantNotes": false,
-  "defaultFolderSort": "filename-asc",
+  "defaultFolderSort": "modified-desc",
   "propertySortKey": "",
-  "propertySortSecondary": "created",
+  "propertySortSecondary": "title",
   "revealFileOnListChanges": true,
   "listPaneTitle": "header",
-  "noteGrouping": "folder",
-  "filterPinnedByFolder": true,
+  "noteGrouping": "date",
+  "filterPinnedByFolder": false,
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
@@ -232,15 +207,15 @@
   "quickActionAddToShortcuts": true,
   "quickActionPinNote": true,
   "quickActionOpenInNewTab": false,
-  "useFrontmatterMetadata": true,
+  "useFrontmatterMetadata": false,
   "frontmatterIconField": "icon",
   "frontmatterColorField": "color",
   "frontmatterBackgroundField": "background",
-  "frontmatterNameField": "title",
-  "frontmatterCreatedField": "created",
-  "frontmatterModifiedField": "modified",
+  "frontmatterNameField": "",
+  "frontmatterCreatedField": "",
+  "frontmatterModifiedField": "",
   "frontmatterDateFormat": "",
-  "showFileIconUnfinishedTask": true,
+  "showFileIconUnfinishedTask": false,
   "showFileBackgroundUnfinishedTask": false,
   "unfinishedTaskBackgroundColor": "#ef000050",
   "showFileIcons": true,
@@ -255,20 +230,15 @@
   "stripHtmlInPreview": true,
   "stripLatexInPreview": true,
   "previewRows": 2,
-  "previewProperties": [
-    "description"
-  ],
+  "previewProperties": [],
   "previewPropertiesFallback": true,
   "showFeatureImage": true,
-  "featureImageProperties": [
-    "banner",
-    "cover"
-  ],
+  "featureImageProperties": [],
   "featureImageExcludeProperties": [],
   "featureImageSize": "64",
   "featureImagePixelSize": "256",
   "forceSquareFeatureImage": true,
-  "downloadExternalFeatureImages": false,
+  "downloadExternalFeatureImages": true,
   "showFileTags": true,
   "colorFileTags": true,
   "prioritizeColoredFileTags": true,
@@ -278,14 +248,14 @@
   "colorFileProperties": true,
   "prioritizeColoredFileProperties": true,
   "showFilePropertiesInCompactMode": false,
-  "showPropertiesOnSeparateRows": true,
+  "showPropertiesOnSeparateRows": false,
   "enablePropertyInternalLinks": true,
   "enablePropertyExternalLinks": true,
   "notePropertyType": "none",
   "showFileDate": true,
-  "alphabeticalDateMode": "created",
+  "alphabeticalDateMode": "modified",
   "showParentFolder": true,
-  "parentFolderClickRevealsFile": true,
+  "parentFolderClickRevealsFile": false,
   "showParentFolderColor": false,
   "showParentFolderIcon": false,
   "calendarEnabled": true,
@@ -303,9 +273,9 @@
   "calendarLeftPlacement": "navigation",
   "calendarWeeksToShow": 1,
   "calendarIntegrationMode": "notebook-navigator",
-  "calendarCustomFilePattern": "YYYY/MM-MMMM/DD",
+  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
   "calendarCustomWeekPattern": "gggg/[W]ww",
-  "calendarCustomMonthPattern": "YYYY/MM-MMMM/[index]",
+  "calendarCustomMonthPattern": "YYYY/YYYYMM",
   "calendarCustomQuarterPattern": "YYYY/[Q]Q",
   "calendarCustomYearPattern": "YYYY",
   "calendarCustomFileTemplate": null,
@@ -466,82 +436,14 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {
-    "index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Courses/ART101/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Art/20251012193616.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Art/20251012200052.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Art/20251103000654.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Art/20251012184431.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Theology/Hermeneutics/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Worlds/Ilmaria/Geography/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "1 Fleeting/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "2 Literature/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "3 Permanent/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "4 Project/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "5 Structure/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    }
-  },
+  "pinnedNotes": {},
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {
-    "Personal/Journal/2024/01 January": "title-asc"
-  },
+  "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},

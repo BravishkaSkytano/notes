@@ -53,6 +53,10 @@ views:
     sort: []
     indentProperties: true
     markers: none
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
   - type: table
     name: Literature
     filters:

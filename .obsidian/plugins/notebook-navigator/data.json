@@ -19,7 +19,7 @@
         }
       ],
       "navRainbow": {
-        "mode": "none",
+        "mode": "foreground",
         "balanceHueLuminance": true,
         "separateThemeColors": false,
         "shortcuts": {
@@ -48,7 +48,7 @@
           "scope": "root"
         },
         "tags": {
-          "enabled": false,
+          "enabled": true,
           "firstColor": "#ef4444",
           "lastColor": "#8b5cf6",
           "darkFirstColor": "#fb7185",
@@ -147,14 +147,14 @@
   "pinNavigationBanner": true,
   "showNoteCount": true,
   "separateNoteCounts": true,
-  "showIndentGuides": false,
+  "showIndentGuides": true,
   "rootLevelSpacing": 0,
   "navIndent": 16,
   "navItemHeight": 28,
   "navItemHeightScaleText": true,
   "collapseBehavior": "all",
   "smartCollapse": true,
-  "autoSelectFirstFileOnFocusChange": false,
+  "autoSelectFirstFileOnFocusChange": true,
   "autoExpandNavItems": false,
   "springLoadedFolders": true,
   "springLoadedFoldersInitialDelay": 0.5,
@@ -164,21 +164,21 @@
   "shortcutBadgeDisplay": "index",
   "skipAutoScroll": false,
   "showRecentNotes": true,
-  "hideRecentNotes": "none",
+  "hideRecentNotes": "folder-notes",
   "pinRecentNotesWithShortcuts": false,
   "recentNotesCount": 5,
   "showFolderIcons": true,
   "showRootFolder": true,
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
-  "folderNoteName": "",
+  "folderNoteName": "index",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
   "enableFolderNoteLinks": true,
   "hideFolderNoteInList": true,
-  "pinCreatedFolderNote": false,
+  "pinCreatedFolderNote": true,
   "openFolderNotesInNewTab": false,
   "showTags": true,
   "showTagIcons": true,
@@ -200,8 +200,8 @@
   "revealFileOnListChanges": true,
   "listPaneTitle": "header",
   "noteGrouping": "date",
-  "filterPinnedByFolder": false,
-  "showPinnedGroupHeader": true,
+  "filterPinnedByFolder": true,
+  "showPinnedGroupHeader": false,
   "showPinnedIcon": true,
   "optimizeNoteHeight": true,
   "compactItemHeight": 28,
@@ -443,6 +443,11 @@
   "customVaultName": "",
   "pinnedNotes": {
     "2 Source/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "index.md": {
       "folder": true,
       "tag": false,
       "property": false

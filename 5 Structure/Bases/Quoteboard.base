@@ -1,8 +1,10 @@
 filters:
   and:
-    - file.folder != "Templates"
-    - and:
-        - file.tags.contains("quote")
+    - file.folder == "2 Source/quotes"
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - author
+      - file.backlinks

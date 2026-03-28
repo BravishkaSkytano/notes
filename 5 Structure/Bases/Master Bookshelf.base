@@ -6,13 +6,12 @@ views:
     name: All
     groupBy:
       property: status
-      direction: ASC
+      direction: DESC
     order:
       - title
-      - subtitle
       - author
       - description
-      - category
+      - file.tags
     image: note.cover
     imageAspectRatio: 1.55
   - type: cards
@@ -22,39 +21,9 @@ views:
         - status == "reading"
     order:
       - title
-      - subtitle
       - author
       - description
-      - category
-      - status
-    image: note.cover
-    imageAspectRatio: 1.55
-  - type: cards
-    name: DNF
-    filters:
-      and:
-        - status == "dnf"
-    order:
-      - title
-      - subtitle
-      - author
-      - description
-      - category
-      - status
-    image: note.cover
-    imageAspectRatio: 1.55
-  - type: cards
-    name: Finished
-    filters:
-      and:
-        - status == "finished"
-    order:
-      - title
-      - subtitle
-      - author
-      - description
-      - category
-      - status
+      - file.tags
     image: note.cover
     imageAspectRatio: 1.55
   - type: cards
@@ -64,10 +33,34 @@ views:
         - status == "tbr"
     order:
       - title
-      - subtitle
       - author
       - description
-      - category
-      - status
+      - file.tags
+    image: note.cover
+    imageAspectRatio: 1.55
+  - type: cards
+    name: DNF
+    filters:
+      and:
+        - status == "dnf"
+    order:
+      - title
+      - author
+      - description
+      - file.tags
+    image: note.cover
+    imageAspectRatio: 1.55
+  - type: cards
+    name: Finished
+    filters:
+      and:
+        - status == "finished"
+    order:
+      - title
+      - author
+      - description
+      - file.tags
+      - rating
+      - lastRead
     image: note.cover
     imageAspectRatio: 1.55

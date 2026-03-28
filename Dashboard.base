@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.name != "index"
 views:
   - type: table
     name: Drafts
@@ -57,7 +60,7 @@ views:
       file.name: 132
       note.title: 215
       note.tags: 208
-  - type: cards
+  - type: table
     name: Sources
     filters:
       or:

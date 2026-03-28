@@ -3,7 +3,6 @@ created: 2026-03-27, 23:31
 modified: 2026-03-27, 23:33
 tags:
   - type/quote
-quote: Reason without emotion is often a mask for cruelty; emotion without reason can allow people to excuse all sorts of excesses
 author:
   - Elena
 ---

@@ -16,18 +16,6 @@
         {
           "type": "note",
           "path": "Dashboard.base"
-        },
-        {
-          "type": "note",
-          "path": "1 Fleeting/index.md"
-        },
-        {
-          "type": "note",
-          "path": "3 Permanent/index.md"
-        },
-        {
-          "type": "note",
-          "path": "4 Project/index.md"
         }
       ],
       "navRainbow": {

@@ -1,6 +1,7 @@
 ---
-created: 2026-03-27, 14:15
-modified: 2026-03-27, 14:21
+created:
+modified:
+tags: mediaDB/book
 aliases:
 title: Throne of Glass
 author:
@@ -9,10 +10,13 @@ cover: https://covers.openlibrary.org/b/OLID/OL35606216M-L.jpg
 pages: unknown
 isbn: unknown
 isbn13: unknown
+published: "true"
 url: https://openlibrary.org/works/OL16607146W
 status: tbr
+read:
 lastRead:
 rating:
+dataSource: OpenLibraryAPI
 ---
 
 > [!summary]

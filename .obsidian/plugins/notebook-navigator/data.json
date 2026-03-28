@@ -16,6 +16,14 @@
         {
           "type": "note",
           "path": "Dashboard.base"
+        },
+        {
+          "type": "note",
+          "path": "5 Structure/Bases/Master Bookshelf.base"
+        },
+        {
+          "type": "note",
+          "path": "5 Structure/Bases/Quoteboard.base"
         }
       ],
       "navRainbow": {

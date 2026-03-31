@@ -3,7 +3,7 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-31, 15:45
+modified: 2026-03-31, 16:06
 cover: img/covers/logo.jpg
 tags:
   - forest
@@ -32,37 +32,17 @@ In progress, on purpose.
 
 ## 🌱 Growth Stages (My Notes)
 
-### 🌰 Seeds — Fleeting Ideas
+### [[1 Seeds/index|🌰 Seeds]] — Fleeting Ideas
 
-Raw, unprocessed thoughts.
+![[1 Seeds/index#^6e75e1|🌰 Seeds]]
 
-- Questions  
-- Quick insights  
-- Captured ideas  
-- Things I don’t fully understand yet  
+### [[2 Sprouts/index|🌱 Sprouts]] — Early Development
 
-These are planted, not perfected.
+![[2 Sprouts/index#^a47e8f|🌱 Sprouts]]
 
-### 🌿 Sprouts — Early Development
+### [[3 Sapplings/index|🪴 Sapplings]] — Structured Notes
 
-Ideas that have begun to take shape.
-
-- Light reflections  
-- Initial connections  
-- Rough explanations  
-
-Still forming, but worth revisiting.
-
-### 🌱 Saplings — Structured Notes
-
-Clear, standalone ideas in my own words.
-
-- Defined concepts  
-- Atomic notes  
-- Understandable without context  
-
-These form the foundation of my knowledge.
-
+![[3 Sapplings/index#^a0e3a5|🪴 Sapplings]]
 ### 🌳 Trees — Mature Knowledge
 
 Deep, developed, and connected ideas.

@@ -82,7 +82,7 @@
       }
     },
     "inlineTitle": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""

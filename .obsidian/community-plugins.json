@@ -22,5 +22,6 @@
   "file-title-updater",
   "obsidian-front-matter-title-plugin",
   "dataview",
-  "obsidian-media-db-plugin"
+  "obsidian-media-db-plugin",
+  "auto-mover"
 ]

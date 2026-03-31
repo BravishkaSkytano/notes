@@ -17,4 +17,4 @@ description: Quick thoughts or ideas, temporary and unstructured. They capture r
 > [!important] Simple Rules
 > - Capture ideas that op into mind.
 
-![[Dashboard.base#Fleeting]]
+![[Dashboard.base#Seeds]]

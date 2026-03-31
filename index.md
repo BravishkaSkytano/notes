@@ -3,12 +3,10 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-31, 15:44
+modified: 2026-03-31, 15:45
 cover: img/covers/logo.jpg
 tags:
-  - type/structure
-  - structure/moc
-  - structure/index
+  - forest
 ---
 
 ![[logo.jpg]]
@@ -32,10 +30,10 @@ In progress, on purpose.
 
 ---
 
-
 ## 🌱 Growth Stages (My Notes)
 
 ### 🌰 Seeds — Fleeting Ideas
+
 Raw, unprocessed thoughts.
 
 - Questions  
@@ -45,7 +43,8 @@ Raw, unprocessed thoughts.
 
 These are planted, not perfected.
 
-### 🌿 Sprouts — Early Development  
+### 🌿 Sprouts — Early Development
+
 Ideas that have begun to take shape.
 
 - Light reflections  
@@ -54,7 +53,8 @@ Ideas that have begun to take shape.
 
 Still forming, but worth revisiting.
 
-### 🌱 Saplings — Structured Notes  
+### 🌱 Saplings — Structured Notes
+
 Clear, standalone ideas in my own words.
 
 - Defined concepts  
@@ -63,9 +63,8 @@ Clear, standalone ideas in my own words.
 
 These form the foundation of my knowledge.
 
----
+### 🌳 Trees — Mature Knowledge
 
-### 🌳 Trees — Mature Knowledge  
 Deep, developed, and connected ideas.
 
 - Synthesized insights  
@@ -74,9 +73,8 @@ Deep, developed, and connected ideas.
 
 These are the strongest parts of the garden.
 
----
+### 🌲 Forest — Big Picture
 
-### 🌲 Forest — Big Picture  
 Collections of ideas working together.
 
 - Maps of Content (MOCs)  
@@ -85,9 +83,8 @@ Collections of ideas working together.
 
 This is where patterns emerge.
 
----
+### 🍂 Compost — Archived
 
-### 🍂 Compost — Archived  
 Old or unused notes.
 
 - Outdated ideas  
@@ -96,15 +93,12 @@ Old or unused notes.
 
 Nothing is wasted. Everything contributes to growth.
 
----
-
 ## 🌸🍎 Sources (What Feeds the Garden)
 
 These notes are not my thinking itself, but what influences it.
 
----
+### 🌸 Flowers — Inspiration
 
-### 🌸 Flowers — Inspiration  
 Unprocessed or lightly processed sources.
 
 - Quotes  
@@ -114,9 +108,8 @@ Unprocessed or lightly processed sources.
 
 They spark new thoughts.
 
----
+### 🍎 Fruit — Nourishment
 
-### 🍎 Fruit — Nourishment  
 Processed and understood sources.
 
 - Summaries  
@@ -125,8 +118,6 @@ Processed and understood sources.
 
 These feed and strengthen my ideas.
 
----
-
 ## 🌿 How to Read This Garden
 
 - Follow links to see how ideas connect  
@@ -134,8 +125,6 @@ These feed and strengthen my ideas.
 - Some notes are small, others are fully grown  
 
 This is a living system. It evolves over time.
-
----
 
 ## 🌳 Philosophy
 

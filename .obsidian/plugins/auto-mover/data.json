@@ -1,7 +1,11 @@
 {
   "moveOnOpen": true,
   "movingRules": [],
-  "exclusionRules": [],
+  "exclusionRules": [
+    {
+      "regex": "index"
+    }
+  ],
   "tagRules": [
     {
       "regex": "seedling",
@@ -12,7 +16,7 @@
   "automaticMoving": false,
   "timer": null,
   "collapseSections": {
-    "tutorial": false,
+    "tutorial": true,
     "movingRules": false,
     "exclusionRules": false,
     "tagRules": false,

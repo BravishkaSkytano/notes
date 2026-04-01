@@ -135,3 +135,35 @@ views:
       file.name: 132
       note.title: 215
       note.tags: 208
+  - type: list
+    name: Flowers
+    filters:
+      and:
+        - file.tags.contains("flower")
+    order:
+      - file.name
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
+  - type: list
+    name: Fruit
+    filters:
+      and:
+        - file.tags.contains("fruit")
+    order:
+      - file.name
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208

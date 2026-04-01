@@ -1,12 +1,12 @@
 ---
-date: 2025-10-06
-created: 2025-10-06 00:56
-modified: 2026-03-21T11:01:33-04:00
+created: 2025-10-06, 12:56
+modified: 2026-04-01, 6:40
 tags:
   - course/ART101
   - writing-system
   - culture/Egyptian
   - seed
+date: 2025-10-06
 needsUpdate: true
 ---
 

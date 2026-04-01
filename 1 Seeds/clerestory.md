@@ -1,13 +1,13 @@
 ---
 title: Clerestory
-date: 2025-10-12
-created: 2025-10-12 20:43
-modified: 2026-03-16T10:06:33-04:00
-needsUpdate: true
+created: 2025-10-12, 8:43
+modified: 2026-04-01, 6:39
 tags:
   - style/gothic
   - architecture
   - seed
+date: 2025-10-12
+needsUpdate: true
 ---
 
 > [!summary]

@@ -1,10 +1,12 @@
 ---
 title: 🌰 Seeds
-modified: 2026-04-01, 12:39
-created: 2026-03-31, 15:53
+created: 2026-03-31, 3:53
+modified: 2026-04-01, 6:39
 tags:
   - forest
 ---
+
+# Seeds
 
 > [!Info]
 > Raw, unprocessed thoughts.

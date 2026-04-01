@@ -1,9 +1,9 @@
 {
-  "defaultTitleSource": "frontmatter",
-  "illegalCharHandling": "replace_with_dash",
+  "defaultTitleSource": "heading",
+  "illegalCharHandling": "replace_with_underscore",
   "customReplacement": "",
   "updateOtherTitlesWithSanitizedVersion": false,
-  "syncMode": "all",
+  "syncMode": "frontmatter_heading",
   "frontmatterTitleField": "default",
   "customFrontmatterField": "title",
   "addOldFilenameAsAlias": false,

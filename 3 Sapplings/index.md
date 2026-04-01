@@ -16,4 +16,3 @@ created: 2026-03-31, 16:04
 > These form the foundation of my knowledge.
 
 ^a0e3a5
-

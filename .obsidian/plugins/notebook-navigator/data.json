@@ -184,8 +184,8 @@
   "folderNoteName": "index",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
-  "enableFolderNoteLinks": true,
-  "hideFolderNoteInList": true,
+  "enableFolderNoteLinks": false,
+  "hideFolderNoteInList": false,
   "pinCreatedFolderNote": true,
   "openFolderNotesInNewTab": false,
   "showTags": true,
@@ -531,6 +531,11 @@
       "property": false
     },
     "5 Forest/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "6 Flowers/index.md": {
       "folder": true,
       "tag": false,
       "property": false

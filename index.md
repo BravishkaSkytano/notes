@@ -3,7 +3,7 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-04-01, 11:23
+modified: 2026-04-01, 11:38
 cover: img/covers/logo.jpg
 tags:
   - forest
@@ -48,11 +48,11 @@ In progress, on purpose.
 
 ![[4 Trees/index#^f41bb6|🌳 Trees]]
 
-### 🌲 Forest — Big Picture
+### [[5 Forest/index|🌲 Forest]] — Big Picture
 
 ![[5 Forest/index#^f4a309|🌲 Forest]]
 
-### 🍂 Compost — Archived
+### [[8 Compost/index|🍂 Compost]] — Archived
 
 ![[8 Compost/index#^ee438d|🍂 Compost]]
 
@@ -60,26 +60,13 @@ In progress, on purpose.
 
 These notes are not my thinking itself, but what influences it.
 
-### 🌸 Flowers — Inspiration
+### [[6 Flowers/index|🌺 Flowers]] — Inspiration
 
-Unprocessed or lightly processed sources.
+![[6 Flowers/index#^e6d1dc|🌺 Flowers]]
 
-- Quotes  
-- Passages  
-- Highlights  
-- Interesting ideas  
+### [[7 Fruit/index|🍎 Fruit]] — Nourishment
 
-They spark new thoughts.
-
-### 🍎 Fruit — Nourishment
-
-Processed and understood sources.
-
-- Summaries  
-- Key takeaways  
-- Extracted insights  
-
-These feed and strengthen my ideas.
+![[7 Fruit/index#^262e68|🍎 Fruit]]
 
 ## 🌿 How to Read This Garden
 

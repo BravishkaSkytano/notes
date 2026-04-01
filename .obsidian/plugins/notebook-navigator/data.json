@@ -179,7 +179,7 @@
   "showRootFolder": true,
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
   "folderNoteName": "index",
   "folderNoteNamePattern": "",
@@ -521,6 +521,16 @@
       "property": false
     },
     "3 Sapplings/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "8 Compost/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "5 Forest/index.md": {
       "folder": true,
       "tag": false,
       "property": false

@@ -3,7 +3,7 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-31, 16:11
+modified: 2026-04-01, 11:23
 cover: img/covers/logo.jpg
 tags:
   - forest
@@ -50,23 +50,11 @@ In progress, on purpose.
 
 ### 🌲 Forest — Big Picture
 
-Collections of ideas working together.
-
-- Maps of Content (MOCs)  
-- Topic overviews  
-- Systems and structures  
-
-This is where patterns emerge.
+![[5 Forest/index#^f4a309|🌲 Forest]]
 
 ### 🍂 Compost — Archived
 
-Old or unused notes.
-
-- Outdated ideas  
-- Previous versions  
-- Things I’ve moved on from  
-
-Nothing is wasted. Everything contributes to growth.
+![[8 Compost/index#^ee438d|🍂 Compost]]
 
 ## 🌸🍎 Sources (What Feeds the Garden)
 

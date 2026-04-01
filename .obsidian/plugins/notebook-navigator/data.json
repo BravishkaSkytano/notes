@@ -509,6 +509,21 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "1 Seeds/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "2 Sprouts/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "3 Sapplings/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

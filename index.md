@@ -3,7 +3,7 @@ title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-31, 16:06
+modified: 2026-03-31, 16:11
 cover: img/covers/logo.jpg
 tags:
   - forest
@@ -43,15 +43,10 @@ In progress, on purpose.
 ### [[3 Sapplings/index|🪴 Sapplings]] — Structured Notes
 
 ![[3 Sapplings/index#^a0e3a5|🪴 Sapplings]]
-### 🌳 Trees — Mature Knowledge
 
-Deep, developed, and connected ideas.
+### [[4 Trees/index|🌳 Trees]] — Mature Knowledge
 
-- Synthesized insights  
-- Personal frameworks  
-- Heavily linked notes  
-
-These are the strongest parts of the garden.
+![[4 Trees/index#^f41bb6|🌳 Trees]]
 
 ### 🌲 Forest — Big Picture
 

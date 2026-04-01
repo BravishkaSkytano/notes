@@ -10,5 +10,6 @@
   "sanctum@@no-sanctum-icons": false,
   "sanctum@@nav-folder-indicators": false,
   "sanctum@@colorful-active-nav": false,
-  "typomagical-title@@font-title": "Playfair Display"
+  "typomagical-title@@font-title": "Playfair Display",
+  "supercharged-links@@e0cf-65aa-before": "🌰"
 }

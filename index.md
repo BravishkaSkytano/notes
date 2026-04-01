@@ -1,14 +1,12 @@
 ---
-title: Welcome to the Living Index
+title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 automatic-linker-exclude: true
 created: 2026-02-13T15:08:23-05:00
-modified: 2026-03-25T11:54:29-04:00
+modified: 2026-04-01, 12:21
 cover: img/covers/logo.jpg
 tags:
-  - type/structure
-  - structure/moc
-  - structure/index
+  - forest
 ---
 
 ![[logo.jpg]]
@@ -17,74 +15,67 @@ This is not a library of conclusions.
 It’s an index of things I’m still working out.
 
 Ideas live here in draft form. Some are half-formed, some overgrown, some waiting patiently for their season.
+
 I collect them, link them, revisit them, and let them change me over time.
 
 I don’t believe clarity arrives all at once. It accumulates. Slowly.
+
 Through attention, curiosity, and returning to the same thoughts with new eyes.
 
 This garden favors process over polish, learning over certainty, and growth over completion.
+
 Nothing here is final. Everything is alive.
 
 In progress, on purpose.
 
-```dataviewjs 
-// Select random quote or idea
-let a = Math.random()
+---
 
-if (a < 0.5) {
+## 🌱 Growth Stages (My Notes)
 
-dv.paragraph(">[!Quote]")
+### [[1 Seeds/index|🌰 Seeds]] — Fleeting Ideas
 
-// List of quotes 
-let quotes = []; 
+![[1 Seeds/index#^6e75e1|🌰 Seeds]]
 
-// Extract quotes from pages
-dv.pages() 
-	.where(page => page.quote) 	.forEach(page => { 
-		dv.array(page.quote) 
-			.forEach(quote => { quotes.push({ 
-				message: (quote), 
-				page: page }); 
-	})}); 
+### [[2 Sprouts/index|🌱 Sprouts]] — Early Development
 
-// Select random quote
-let text = quotes[Math.floor(Math.random() * quotes.length)] 
+![[2 Sprouts/index#^a47e8f|🌱 Sprouts]]
 
-dv.paragraph("> " + text.message + " <br>- " 
-	+ text.page.author + " <br><br><small>From: " 
-	+ text.page.file.link) + "</small>"; 
+### [[3 Sapplings/index|🪴 Sapplings]] — Structured Notes
 
-} else {
- 
- dv.paragraph(">[!Remember]-")
- // List of ideas 
- let ideas = []; 
+![[3 Sapplings/index#^a0e3a5|🪴 Sapplings]]
 
- // Extract ideas from pages
- dv.pages('"3_Permanent" AND #theme/zettelkasten') 
-	.where(page => page.lead) 
-	.forEach(page => { 
-		dv.array(page.lead) 
-			.forEach(lead => { ideas.push({ 
-				message: (lead), 
-				page: page }); 
-	})}); 
+### [[4 Trees/index|🌳 Trees]] — Mature Knowledge
 
- // Select random idea
- let text = ideas[Math.floor(Math.random() * ideas.length)] 
+![[4 Trees/index#^f41bb6|🌳 Trees]]
 
- dv.paragraph("> " +
- 	"<b>" + text.page.file.name + "</b><br>" +
- 	text.message + 
- 	" <br><br><small>" + 
- 	text.page.file.link +  " - " +
- 	text.page.template_type  + ", " +
- 	text.page.file.inlinks.length  + " inlinks, " +
- 	text.page.file.outlinks.length  + " out, " +
- 	text.page.file.etags.length  + " tags, " +
- 	text.page.file.tasks.length  + " tasks, " +
- 	moment(text.page.file.cday.toString()).format("DD.MM.YYYY") + "." +
- 	"</small>"
- 	);
- } 
-```
+### [[5 Forest/index|🌲 Forest]] — Big Picture
+
+![[5 Forest/index#^f4a309|🌲 Forest]]
+
+### [[6 Compost/index|🍂 Compost]] — Archived
+
+![[6 Compost/index#^ee438d|🍂 Compost]]
+
+## [[7 Flowers/index|🌺 Flowers]] — Inspiration
+
+![[7 Flowers/index#^e6d1dc|🌺 Flowers]]
+
+## [[8 Fruit/index|🍎 Fruit]] — Nourishment
+
+![[8 Fruit/index#^262e68|🍎 Fruit]]
+
+## 🌿 How to Read This Garden
+
+- Follow links to see how ideas connect  
+- Start anywhere, not everything is linear  
+- Some notes are small, others are fully grown  
+
+This is a living system. It evolves over time.
+
+## 🌳 Philosophy
+
+This garden is not about collecting information.  
+It’s about cultivating understanding.
+
+Ideas are planted, revisited, and grown  
+at their own pace.

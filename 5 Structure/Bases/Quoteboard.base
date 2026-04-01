@@ -1,7 +1,10 @@
+filters:
+  and:
+    - file.folder == "2 Source/quotes"
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - file.tags.contains("type/quote")
-        - file.folder != "Templates"
+    order:
+      - file.name
+      - author
+      - file.backlinks

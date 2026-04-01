@@ -1,24 +1,27 @@
 ---
 created:
 modified:
-tags: "{{ LIST:tags }}"
+tags:
+  - book
 aliases:
-title: "{{ title }}"
-author: "{{ ENUM:author }}"
-cover: "{{ image }}"
-pages: "{{ pages }}"
-isbn: "{{ isbn }}"
-isbn13: "{{ isbn13 }}"
-published: "{{ released }}"
-url: "{{ url }}"
+title: Throne of Glass
+author:
+  - Sarah J. Maas
+cover: https://covers.openlibrary.org/b/OLID/OL35606216M-L.jpg
+pages: unknown
+isbn: unknown
+isbn13: unknown
+published: "true"
+url: https://openlibrary.org/works/OL16607146W
 status: tbr
 read:
 lastRead:
 rating:
+dataSource: OpenLibraryAPI
 ---
 
 > [!summary]
-{{ plot }}
+unknown
 
 ## Table of Contents
 

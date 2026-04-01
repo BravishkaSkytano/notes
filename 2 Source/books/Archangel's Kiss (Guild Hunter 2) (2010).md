@@ -1,24 +1,28 @@
 ---
-created:
-modified:
-tags: "{{ LIST:tags }}"
+created: 2026-03-27, 23:28
+modified: 2026-03-27, 23:31
+tags:
 aliases:
-title: "{{ title }}"
-author: "{{ ENUM:author }}"
-cover: "{{ image }}"
-pages: "{{ pages }}"
-isbn: "{{ isbn }}"
-isbn13: "{{ isbn13 }}"
-published: "{{ released }}"
-url: "{{ url }}"
-status: tbr
+  - Archangel’s Kiss
+  - "Guild Hunter #2"
+title: "Archangel's Kiss (Guild Hunter #2)"
+author:
+  - Nalini Singh
+cover: https://covers.openlibrary.org/b/OLID/OL24280932M-L.jpg
+pages: unknown
+isbn: unknown
+isbn13: unknown
+published: "true"
+url: https://openlibrary.org/works/OL15168472W
+status: finished
 read:
 lastRead:
 rating:
+dataSource: OpenLibraryAPI
 ---
 
 > [!summary]
-{{ plot }}
+unknown
 
 ## Table of Contents
 
@@ -32,7 +36,8 @@ rating:
 
 ## Quotes
 
-<!-- Notable quotes with reference to their page or location -->
+- [[Reason without emotions is often a mask for cruelty]]
+- 
 
 ## Bibliography
 

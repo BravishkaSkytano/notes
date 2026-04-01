@@ -20,8 +20,5 @@
   "notebook-navigator",
   "obsidian-contextual-typography",
   "file-title-updater",
-  "obsidian-front-matter-title-plugin",
-  "dataview",
-  "obsidian-media-db-plugin",
-  "auto-mover"
+  "obsidian-front-matter-title-plugin"
 ]

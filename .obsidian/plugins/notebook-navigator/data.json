@@ -19,11 +19,23 @@
         },
         {
           "type": "note",
-          "path": "5 Structure/Bases/Master Bookshelf.base"
+          "path": "1 Fleeting/index.md"
         },
         {
           "type": "note",
-          "path": "5 Structure/Bases/Quoteboard.base"
+          "path": "2 Literature/index.md"
+        },
+        {
+          "type": "note",
+          "path": "3 Permanent/index.md"
+        },
+        {
+          "type": "note",
+          "path": "4 Project/index.md"
+        },
+        {
+          "type": "note",
+          "path": "5 Structure/index.md"
         }
       ],
       "navRainbow": {
@@ -179,13 +191,13 @@
   "showRootFolder": true,
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
-  "enableFolderNotes": true,
+  "enableFolderNotes": false,
   "folderNoteType": "markdown",
   "folderNoteName": "index",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
-  "enableFolderNoteLinks": false,
-  "hideFolderNoteInList": false,
+  "enableFolderNoteLinks": true,
+  "hideFolderNoteInList": true,
   "pinCreatedFolderNote": true,
   "openFolderNotesInNewTab": false,
   "showTags": true,
@@ -465,6 +477,26 @@
       "tag": false,
       "property": false
     },
+    "Art/20251012193616.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/20251012200052.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/20251103000654.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "Art/20251012184431.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
     "Theology/Hermeneutics/index.md": {
       "folder": true,
       "tag": false,
@@ -480,6 +512,11 @@
       "tag": false,
       "property": false
     },
+    "2 Literature/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
     "3 Permanent/index.md": {
       "folder": true,
       "tag": false,
@@ -490,52 +527,7 @@
       "tag": false,
       "property": false
     },
-    "1 Seeds/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "2 Sprouts/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "3 Sapplings/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "5 Forest/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "6 Compost/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "7 Flowers/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251103000654.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251012200052.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251012184431.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251012193616.md": {
+    "5 Structure/index.md": {
       "folder": true,
       "tag": false,
       "property": false

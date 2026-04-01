@@ -1,19 +1,19 @@
 filters:
   and:
-    - file.tags.contains("book")
+    - file.folder != "Templates"
+    - file.tags.contains("type/book")
 views:
   - type: cards
     name: All
-    groupBy:
-      property: status
-      direction: DESC
     order:
       - title
+      - subtitle
       - author
       - description
-      - file.tags
-    image: note.cover
-    imageAspectRatio: 1.55
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
   - type: cards
     name: Reading
     filters:
@@ -21,23 +21,13 @@ views:
         - status == "reading"
     order:
       - title
+      - subtitle
       - author
       - description
-      - file.tags
-    image: note.cover
-    imageAspectRatio: 1.55
-  - type: cards
-    name: TBR
-    filters:
-      and:
-        - status == "tbr"
-    order:
-      - title
-      - author
-      - description
-      - file.tags
-    image: note.cover
-    imageAspectRatio: 1.55
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
   - type: cards
     name: DNF
     filters:
@@ -45,11 +35,13 @@ views:
         - status == "dnf"
     order:
       - title
+      - subtitle
       - author
       - description
-      - file.tags
-    image: note.cover
-    imageAspectRatio: 1.55
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
   - type: cards
     name: Finished
     filters:
@@ -57,10 +49,24 @@ views:
         - status == "finished"
     order:
       - title
+      - subtitle
       - author
       - description
-      - file.tags
-      - rating
-      - lastRead
-    image: note.cover
-    imageAspectRatio: 1.55
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain
+  - type: cards
+    name: TBR
+    filters:
+      and:
+        - status == "tbr"
+    order:
+      - title
+      - subtitle
+      - author
+      - description
+      - category
+      - status
+    image: note.cover_url
+    imageFit: contain

@@ -1,6 +1,3 @@
-filters:
-  and:
-    - file.name != "index"
 views:
   - type: table
     name: Drafts
@@ -39,131 +36,85 @@ views:
     summaries:
       file.name: Empty
     indentProperties: true
-  - type: list
-    name: Seeds
+  - type: table
+    name: Fleeting
     filters:
-      and:
-        - file.tags.contains("seed")
+      or:
+        - file.folder == "1 Fleeting"
+        - needsUpdate == true
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
     indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Sprouts
+    markers: none
+  - type: table
+    name: Literature
     filters:
-      and:
-        - file.tags.contains("sprout")
+      or:
+        - file.folder == "2 Literature"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
     indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Saplings
+    markers: none
+  - type: table
+    name: Permanent
     filters:
-      and:
-        - file.tags.contains("sapling")
+      or:
+        - file.folder == "3 Permanent"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
     indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Trees
+    markers: none
+  - type: table
+    name: Project
     filters:
-      and:
-        - file.tags.contains("tree")
+      or:
+        - file.folder == "4 Project"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
     indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Forest
+    markers: none
+  - type: table
+    name: Structure
     filters:
       and:
-        - file.tags.contains("forest")
+        - file.folder == "5 Structure"
+        - file.ext != "base"
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
     indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Compost
-    filters:
-      and:
-        - file.tags.contains("compost")
-    order:
-      - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Flowers
-    filters:
-      and:
-        - file.tags.contains("flower")
-    order:
-      - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Fruit
-    filters:
-      and:
-        - file.tags.contains("fruit")
-    order:
-      - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
+    markers: none

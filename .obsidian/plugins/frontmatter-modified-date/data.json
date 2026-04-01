@@ -1,6 +1,6 @@
 {
   "frontmatterProperty": "modified",
-  "createdDateProperty": "created",
+  "createdDateProperty": "",
   "momentFormat": "YYYY-MM-DD, HH:mm",
   "momentLocale": "",
   "storeHistoryLog": false,

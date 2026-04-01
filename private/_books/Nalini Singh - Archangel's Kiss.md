@@ -2,11 +2,14 @@
 description:
 date: 2024-02-27
 created: 2024-02-27 15:27
-modified: 2026-03-27, 23:30
+modified: 2025-08-10 21:06
 draft: true
 ---
 
 ## Quotes
+
+> [!QUOTE] Nalini Singh
+> Reason without emotion is often a mask for cruelty; emotion without reason can allow people to excuse all sorts of excesses.
 
 > [!QUOTE] Nalini Singh
 > They didn't understand that she held his heart, held it so utterly that there was nothing he wouldn't do, no line he wouldn't cross to keep her safe.

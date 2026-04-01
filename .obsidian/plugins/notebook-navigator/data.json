@@ -525,17 +525,17 @@
       "tag": false,
       "property": false
     },
-    "8 Compost/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "5 Forest/index.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "6 Flowers/index.md": {
+    "6 Compost/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "7 Flowers/index.md": {
       "folder": true,
       "tag": false,
       "property": false

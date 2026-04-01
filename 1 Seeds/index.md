@@ -17,4 +17,3 @@ tags:
 > These are planted, not perfected.
 
 ^6e75e1
-

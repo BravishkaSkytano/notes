@@ -7,6 +7,7 @@ needsUpdate: true
 tags:
   - style/gothic
   - architecture
+  - seed
 ---
 
 > [!summary]

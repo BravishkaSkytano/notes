@@ -1,11 +1,10 @@
 ---
 title: Apse
-date: 2025-10-12
 created: 2025-10-12 21:13
 modified: 2026-03-23T19:41:37-04:00
-needsUpdate: true
 tags:
   - architecture
+  - seed
 ---
 
 > [!summary]

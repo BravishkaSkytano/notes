@@ -8,4 +8,4 @@ modified: 2026-03-11T02:51:24-04:00
 > [!tldr] Tapestry
 > A **woven textile artwork** created by hand on a loom, where colored threads are woven together to form **pictures or patterns**. Tapestries were often used to **decorate walls**, **insulate rooms**, and **tell stories**, especially in castles and churches during the **Middle Ages**.
 
-**Example:** [[20251012211045|Bayeux Tapestry]]
+**Example:** [[bayeux_tapestry|Bayeux Tapestry]]

@@ -12,11 +12,11 @@ description: "Archaic, Ancient and Classical period: Painting, Sculpture and Arc
 3. ![[Nave#^c376ab]]
 4. ![[Flying Buttress#^0b390b]]
 5. ![[Ribbed Vault#^bd2569]]
-6. ![[20251012204306#^344860]]
+6. ![[clerestory#^344860]]
 7. ![[Rose Window#^06cc7c]]
 8. ![[Tracery#^920185]]
 9. ![[concepts.artwork.styles.tapestry#^cab0c4]]
-10. ![[20251012211314#^552857]]
+10. ![[apse#^552857]]
 
 ## Specific Arts to Identify by Sight
 

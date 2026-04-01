@@ -1,10 +1,9 @@
 ---
 title: Cruciform
-date: 2025-11-03
 created: 2025-11-03 00:00
 modified: 2026-03-23T19:56:24-04:00
-draft: true
 tags:
+  - seed
 ---
 
 > [!summary]

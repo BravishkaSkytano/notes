@@ -1,10 +1,8 @@
 ---
 title: Bayeux Tapestry
-date: 2025-10-12
 created: 2025-10-12 21:10
 modified: 2026-03-23T23:18:41-04:00
 banner: img/banners/Bayeux Tapestry-1760317947129.webp
-needsUpdate: true
 tags:
   - type/embroidery
   - culture/British

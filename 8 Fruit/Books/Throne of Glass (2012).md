@@ -1,7 +1,8 @@
 ---
 created:
 modified:
-tags: mediaDB/book
+tags:
+  - book
 aliases:
 title: Throne of Glass
 author:

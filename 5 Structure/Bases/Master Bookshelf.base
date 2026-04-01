@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "2 Source/books"
+    - file.tags.contains("book")
 views:
   - type: cards
     name: All

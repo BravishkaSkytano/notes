@@ -60,9 +60,9 @@ In progress, on purpose.
 
 ![[7 Flowers/index#^e6d1dc|🌺 Flowers]]
 
-## [[7 Fruit/index|🍎 Fruit]] — Nourishment
+## [[8 Fruit/index|🍎 Fruit]] — Nourishment
 
-![[7 Fruit/index#^262e68|🍎 Fruit]]
+![[8 Fruit/index#^262e68|🍎 Fruit]]
 
 ## 🌿 How to Read This Garden
 

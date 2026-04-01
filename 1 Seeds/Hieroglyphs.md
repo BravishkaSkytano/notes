@@ -6,6 +6,7 @@ tags:
   - course/ART101
   - writing-system
   - culture/Egyptian
+  - seed
 needsUpdate: true
 ---
 

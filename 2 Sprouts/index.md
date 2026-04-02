@@ -1,7 +1,7 @@
 ---
 title: 🌱 Sprouts
-modified: 2026-03-31, 16:00
-created: 2026-03-31, 15:59
+created: 2026-03-31, 3:59
+modified: 2026-04-01, 8:37
 tags:
   - forest
 ---

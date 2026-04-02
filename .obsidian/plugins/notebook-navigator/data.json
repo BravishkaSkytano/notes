@@ -19,11 +19,11 @@
         },
         {
           "type": "note",
-          "path": "5 Structure/Bases/Master Bookshelf.base"
+          "path": "8 Fruit/Master Bookshelf.base"
         },
         {
           "type": "note",
-          "path": "5 Structure/Bases/Quoteboard.base"
+          "path": "7 Flowers/Quoteboard.base"
         }
       ],
       "navRainbow": {
@@ -471,21 +471,6 @@
       "property": false
     },
     "Worlds/Ilmaria/Geography/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "1 Fleeting/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "3 Permanent/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "4 Project/index.md": {
       "folder": true,
       "tag": false,
       "property": false

@@ -37,7 +37,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 - ![[20251103005355#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
-- ![[David (Donatello and Michelangelo)#^7a2cc0]]
+- ![[20251105095751#^7a2cc0]]
 - ![[20251105100019#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
 - ![[20251105100434#^64655d]]

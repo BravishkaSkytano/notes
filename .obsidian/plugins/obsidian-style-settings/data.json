@@ -12,5 +12,13 @@
   "sanctum@@colorful-active-nav": false,
   "typomagical-title@@font-title": "Playfair Display",
   "supercharged-links@@e0cf-65aa-before": "🌰 ",
-  "supercharged-links@@e0cf-65aa-color": "#A34444"
+  "supercharged-links@@e0cf-65aa-color": "#A34444",
+  "supercharged-links@@bc92-9293-before": "🌱",
+  "supercharged-links@@bc92-9293-color": "#B9E4AA",
+  "supercharged-links@@6339-f46e-before": "🪴",
+  "supercharged-links@@1804-3eb3-before": "🌳",
+  "supercharged-links@@1804-3eb3-color": "#68C17D",
+  "supercharged-links@@6339-f46e-color": "#E19C56",
+  "supercharged-links@@2cde-3544-before": "🌲",
+  "supercharged-links@@2e9d-8098-before": "🍂"
 }

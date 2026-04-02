@@ -1,8 +1,7 @@
 ---
 description: A rant about a chemistry class I had to take.
-date: 2023-04-06
-created: 2023-04-06T14:23:00
-modified: 2026-02-23T14:24:00
+created: 2023-04-06, 2:23
+modified: 2026-04-01, 6:58
 tags:
   - theme/patience
 ---

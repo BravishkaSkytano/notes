@@ -177,7 +177,7 @@
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
   "enableFolderNoteLinks": true,
-  "hideFolderNoteInList": true,
+  "hideFolderNoteInList": false,
   "pinCreatedFolderNote": true,
   "openFolderNotesInNewTab": false,
   "showTags": true,
@@ -463,6 +463,46 @@
       "property": false
     },
     "Worlds/Ilmaria/Geography/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "1 Seeds/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "2 Sprouts/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "4 Trees/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "5 Forest/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "6 Compost/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "7 Flowers/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "8 Fruit/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "3 Saplings/index.md": {
       "folder": true,
       "tag": false,
       "property": false

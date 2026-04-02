@@ -1,9 +1,7 @@
 ---
 title: 🌰 Seeds
 created: 2026-03-31, 3:53
-modified: 2026-04-01, 6:39
-tags:
-  - forest
+modified: 2026-04-02, 1:10
 ---
 
 # Seeds

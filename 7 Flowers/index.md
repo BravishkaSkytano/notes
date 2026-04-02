@@ -1,10 +1,10 @@
 ---
 title: 🌸 Flowers
-modified: 2026-04-01, 12:20
 created: 2026-04-01, 11:32
-tags:
-  - forest
+modified: 2026-04-02, 1:09
 ---
+
+# Index
 
 > [!Info]
 > Unprocessed or lightly processed sources.
@@ -13,7 +13,8 @@ tags:
 > - 🌹 Quotes  
 > - 🌼 Highlights / excerpts  
 > - 🌺 Beautiful or emotionally striking passages  
-> - 🌻 Big or attention-grabbing ideas  
+> - 🌻 Big or attention-grabbing ideas
+> - 🪷 Sources I wrote myself, like poems
 > 
 > These often grow into [[1 Seeds/index|🌰 Seeds]]
 

@@ -1,10 +1,10 @@
 ---
 title: 🪴 Saplings
 created: 2026-03-31, 4:04
-modified: 2026-04-02, 1:47
-tags:
-  - forest
+modified: 2026-04-02, 1:10
 ---
+
+# Index
 
 > [!Info]
 > Clear, standalone ideas in my own words.

@@ -1,10 +1,10 @@
 ---
 title: 🌱 Sprouts
 created: 2026-03-31, 3:59
-modified: 2026-04-01, 8:37
-tags:
-  - forest
+modified: 2026-04-02, 1:10
 ---
+
+# Index
 
 > [!Info]
 > Ideas that have begun to take shape.

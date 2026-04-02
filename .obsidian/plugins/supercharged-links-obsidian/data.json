@@ -106,6 +106,18 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "lotus",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3f03-0f8b",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }

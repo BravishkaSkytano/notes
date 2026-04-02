@@ -1,10 +1,10 @@
 ---
 title: 🍂 Compost
-modified: 2026-04-01, 11:22
 created: 2026-04-01, 11:21
-tags:
-  - forest
+modified: 2026-04-02, 1:11
 ---
+
+# Index
 
 > [!Info]
 > Old or unused notes.
@@ -16,4 +16,3 @@ tags:
 > Nothing is wasted. Everything contributes to growth.
 
 ^ee438d
-

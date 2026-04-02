@@ -1,10 +1,10 @@
 ---
 title: 🌲 Forest
-modified: 2026-04-01, 11:20
 created: 2026-04-01, 11:19
-tags:
-  - forest
+modified: 2026-04-02, 1:11
 ---
+
+# Index
 
 > [!Info]
 > Collections of ideas working together.

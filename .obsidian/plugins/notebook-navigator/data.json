@@ -142,7 +142,9 @@
   "confirmBeforeDelete": true,
   "deleteAttachments": "ask",
   "moveFileConflicts": "ask",
-  "externalIconProviders": {},
+  "externalIconProviders": {
+    "rpg-awesome": true
+  },
   "checkForUpdatesOnStart": true,
   "pinNavigationBanner": true,
   "showNoteCount": true,
@@ -508,7 +510,9 @@
       "property": false
     }
   },
-  "fileIcons": {},
+  "fileIcons": {
+    "Personal/Poetry/20200503103519.md": "emoji:🪷"
+  },
   "fileColors": {},
   "fileBackgroundColors": {},
   "folderIcons": {},

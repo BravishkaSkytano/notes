@@ -1,8 +1,8 @@
 ---
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
-created: 2026-02-13, 3:08
-modified: 2026-04-02, 1:10
+created: 2026-02-13, 03:08
+modified: 2026-04-02, 14:17
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---

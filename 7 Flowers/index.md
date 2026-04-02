@@ -1,7 +1,7 @@
 ---
 title: 🌸 Flowers
 created: 2026-04-01, 11:32
-modified: 2026-04-02, 1:09
+modified: 2026-04-02, 14:18
 ---
 
 # Index
@@ -14,7 +14,7 @@ modified: 2026-04-02, 1:09
 > - 🌼 Highlights / excerpts  
 > - 🌺 Beautiful or emotionally striking passages  
 > - 🌻 Big or attention-grabbing ideas
-> - 🪷 Sources I wrote myself, like poems
+> - 🪷 Poems written by me
 > 
 > These often grow into [[1 Seeds/index|🌰 Seeds]]
 

@@ -16,6 +16,14 @@
         {
           "type": "note",
           "path": "Dashboard.base"
+        },
+        {
+          "type": "note",
+          "path": "8 Fruit/Master Bookshelf.base"
+        },
+        {
+          "type": "note",
+          "path": "7 Flowers/Quoteboard.base"
         }
       ],
       "navRainbow": {
@@ -142,9 +150,7 @@
   "confirmBeforeDelete": true,
   "deleteAttachments": "ask",
   "moveFileConflicts": "ask",
-  "externalIconProviders": {
-    "rpg-awesome": true
-  },
+  "externalIconProviders": {},
   "checkForUpdatesOnStart": true,
   "pinNavigationBanner": true,
   "showNoteCount": true,
@@ -173,12 +179,12 @@
   "showRootFolder": true,
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
   "folderNoteName": "index",
   "folderNoteNamePattern": "",
   "folderNoteTemplate": null,
-  "enableFolderNoteLinks": true,
+  "enableFolderNoteLinks": false,
   "hideFolderNoteInList": false,
   "pinCreatedFolderNote": true,
   "openFolderNotesInNewTab": false,
@@ -218,14 +224,14 @@
   "frontmatterIconField": "icon",
   "frontmatterColorField": "color",
   "frontmatterBackgroundField": "background",
-  "frontmatterNameField": "title",
+  "frontmatterNameField": "",
   "frontmatterCreatedField": "created",
   "frontmatterModifiedField": "modified",
   "frontmatterDateFormat": "",
   "showFileIconUnfinishedTask": true,
   "showFileBackgroundUnfinishedTask": false,
   "unfinishedTaskBackgroundColor": "#ef000050",
-  "showFileIcons": true,
+  "showFileIcons": false,
   "showFilenameMatchIcons": false,
   "fileNameIconMap": {},
   "showCategoryIcons": false,
@@ -263,7 +269,7 @@
   "showPropertiesOnSeparateRows": true,
   "enablePropertyInternalLinks": true,
   "enablePropertyExternalLinks": true,
-  "notePropertyType": "none",
+  "notePropertyType": "wordCount",
   "showFileDate": true,
   "alphabeticalDateMode": "created",
   "showParentFolder": true,
@@ -479,11 +485,6 @@
       "tag": false,
       "property": false
     },
-    "4 Trees/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "5 Forest/index.md": {
       "folder": true,
       "tag": false,
@@ -499,20 +500,28 @@
       "tag": false,
       "property": false
     },
-    "8 Fruit/index.md": {
+    "8 Fruit/Courses/20251103000654.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "3 Saplings/index.md": {
+    "8 Fruit/Courses/20251012200052.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "8 Fruit/Courses/20251012184431.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "8 Fruit/Courses/20251012193616.md": {
       "folder": true,
       "tag": false,
       "property": false
     }
   },
-  "fileIcons": {
-    "Personal/Poetry/20200503103519.md": "emoji:🪷"
-  },
+  "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
   "folderIcons": {},

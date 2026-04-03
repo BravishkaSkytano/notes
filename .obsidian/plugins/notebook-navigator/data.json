@@ -16,14 +16,6 @@
         {
           "type": "note",
           "path": "Dashboard.base"
-        },
-        {
-          "type": "note",
-          "path": "8 Fruit/Master Bookshelf.base"
-        },
-        {
-          "type": "note",
-          "path": "7 Flowers/Quoteboard.base"
         }
       ],
       "navRainbow": {
@@ -113,7 +105,7 @@
   "cmdCtrlEnterOpenContext": "split",
   "startView": "navigation",
   "showInfoButtons": true,
-  "homepage": null,
+  "homepage": "index.md",
   "mobileHomepage": null,
   "useMobileHomepage": false,
   "dualPane": true,
@@ -460,11 +452,6 @@
       "tag": false,
       "property": false
     },
-    "Courses/ART101/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "Theology/Hermeneutics/index.md": {
       "folder": true,
       "tag": false,
@@ -519,6 +506,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "Courses/ART101/20260218113537.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},
@@ -527,9 +519,7 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {
-    "Personal/Journal/2024/01 January": "title-asc"
-  },
+  "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
   "tagIcons": {},

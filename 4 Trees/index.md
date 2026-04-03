@@ -1,10 +1,10 @@
 ---
 title: 🌳 Trees
-created: 2026-03-31, 4:09
-modified: 2026-04-02, 1:10
+created: 2026-03-31, 04:09
+modified: 2026-04-03, 12:41
 ---
 
-# Index
+# 🌳 Trees
 
 > [!Info]
 > Deep, developed, and connected ideas.

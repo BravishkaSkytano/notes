@@ -22,5 +22,6 @@
   "obsidian-media-db-plugin",
   "auto-mover",
   "file-explorer-note-count",
-  "notebook-navigator"
+  "notebook-navigator",
+  "obsidian-front-matter-title-plugin"
 ]

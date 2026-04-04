@@ -1,19 +1,19 @@
 ---
 title: "🌳 ART101: Week 5 - Enlightenment and Modern Period"
 created: 2025-11-16, 19:25
-modified: 2026-04-03, 12:42
+modified: 2026-04-04, 18:55
 tags:
   - type/worksheet
-  - tree
+  - course/ART101
 ---
-# 🌳 ART101: Week 5 - Enlightenment and Modern Period
+
 ## Terms to Define
 
 3. [[Romanticism]]
 
 4. [[Realism]]
 
-5. [[20251116212130|Art Nouveau]]
+5. [[20251116212130]]
 
 6. [[Impressionism]]
 
@@ -25,19 +25,19 @@ tags:
 
 10. [[Fauvism]]
 
-11. [[20251116213729|Art Deco]]
+11. [[20251116213729]]
 
 12. [[Surrealism]]
 
 ## People to Know
 
-1. [[🌱 Édouard Manet|Édouard Manet]]
+1. [[🌱 Édouard Manet]]
 
-2. [[20251116215811|Claude Monet]]
+2. [[20251116215811]]
 
 3. [[Pierre-Auguste Renoir]]
 
-4. [[🌱 Vincent Van Gogh|Vincent van Gogh]]
+4. [[🌱 Vincent Van Gogh]]
 
 5. [[Pablo Picasso]]
 
@@ -45,7 +45,7 @@ tags:
 
 ## Specific Artworks to Identify by Sight
 
-1. [[🪴 Arrangement in Gray and Black No 1|Arrangement in Gray and Black No 1]]
+1. [[🪴 Arrangement in Gray and Black No 1]]
 
 2. [[Oath of the Horatii]]
 
@@ -53,7 +53,7 @@ tags:
 
 4. [[The Sower (Millet)]]
 
-5. [[20251117132251|Rouen Cathedral paintings]]
+5. [[20251117132251]]
 
 6. [[The Raft of the Medusa]]
 
@@ -65,6 +65,6 @@ tags:
 
 10. [[The Third of May, 1808]]
 
-11. [[🪴 A Sunday on La Grande Jatte|A Sunday on La Grande Jatte]]
+11. [[🪴 A Sunday on La Grande Jatte]]
 
-12. [[20251117171649|American Gothic]]
+12. [[20251117171649]]

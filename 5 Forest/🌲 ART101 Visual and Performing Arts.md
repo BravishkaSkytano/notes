@@ -1,15 +1,12 @@
 ---
 title: "🌲 ART101: Visual and Performing Arts"
 created: 2026-02-18, 11:35
-modified: 2026-04-03, 12:39
+modified: 2026-04-04, 18:58
 tags:
   - subject/art
-  - forest
 aliases:
   - ART101
 ---
-
-# 🌲 ART101: Visual and Performing Arts
 
 ## Sources
 
@@ -20,16 +17,16 @@ aliases:
 ### Week 1
 
 1. [[Archaic]]
-2. [[20251005234738|Classical]]
-3. [[20251005235639|Hellenistic]]
-4. [[20251006003341|Doric capital]]
+2. [[20251005234738]]
+3. [[20251005235639]]
+4. [[20251006003341]]
 5. Ionic capital
-6. [[20251006003844|Corinthian Capital]]
-7. [[20251006004046|Frieze]]
+6. [[20251006003844]]
+7. [[20251006004046]]
 8. Roman triumphal arch
 9. Pediment
 10. Pyramid
-11. [[20251006005258|Ziggurat]]
+11. [[20251006005258]]
 12. Kouros
 13. Hieroglyphs
 14. Obelisk

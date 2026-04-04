@@ -1,17 +1,13 @@
 ---
-title: Why God Took My Daddy From Me
+title: 🪷 Why God Took My Daddy From Me?
 description: A poem I wrote for a friend who lost her father.
 created: 2020-05-04, 11:12
-modified: 2026-04-02, 2:06
+modified: 2026-04-04, 19:00
 tags:
   - poetry
-  - lotus
   - loss
   - death
-  - flower
 ---
-
-# Why God Took My Daddy From Me
 
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"
 

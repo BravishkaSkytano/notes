@@ -1,15 +1,11 @@
 ---
-title: Prayer is a Weapon
+title: 🪷 Prayer is a Weapon
 created: 2020-05-03, 10:35
-modified: 2026-04-02, 2:06
+modified: 2026-04-04, 18:59
 tags:
   - theme/prayer
   - poetry
-  - lotus
-  - flower
 ---
-
-# Prayer is a Weapon
 
 Prayer is a weapon.
 You may not believe it but it's true.

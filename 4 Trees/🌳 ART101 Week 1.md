@@ -1,13 +1,11 @@
 ---
 title: "🌳 ART101: Week 1"
 created: 2025-10-05, 23:35
-modified: 2026-04-03, 12:40
+modified: 2026-04-04, 18:53
 tags:
   - type/worksheet
-  - tree
+  - course/ART101
 ---
-
-# 🌳 ART101: Week 1
 
 1. Polykleitos
 2. Praxiteles

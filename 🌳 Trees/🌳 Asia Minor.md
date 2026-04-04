@@ -1,20 +1,18 @@
 ---
-title: Asia Minor
+title: 🌳 Asia Minor
 description: A peninsula in West Asia that makes up the majority of Turkey.
 created: 2025-08-07, 03:17
-modified: 2026-04-04, 18:50
+modified: 2026-04-04, 18:52
 tags:
   - geography/peninsula
-  - tree
 aliases:
   - Anatolia
 ---
 
-
 > [!summary]
 > **Location Type:** Peninsula / Historical Region
 > **Region / Country:** Primarily modern-day Turkey
-> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[20260311100618|Christianity]]
+> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[20260311100618]]
 > **Cultural Notes:** Blend of Anatolian, Greek, Persian, Roman, Byzantine, Seljuk, and Ottoman influences
 
 ## Overview
@@ -29,9 +27,9 @@ Anatolia has been inhabited since prehistoric times, with early civilizations su
 
 Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[20251005235639|Hellenistic]] world following the campaigns of Alexander the Great.
 
-Under the Roman Empire, Asia Minor flourished with cities such as [[20231019155644|Ephesus]] and Pergamon becoming major centers of trade, learning, and early [[20260311100618|Christianity]].
+Under the Roman Empire, Asia Minor flourished with cities such as [[20231019155644]] and Pergamon becoming major centers of trade, learning, and early [[20260311100618]].
 
-After the division of Rome, Anatolia became the heartland of the [[🌰 Byzantine Empire|Byzantine Empire]], with Constantinople serving as its capital.
+After the division of Rome, Anatolia became the heartland of the [[🌰 Byzantine Empire]], with Constantinople serving as its capital.
 
 In the medieval period, Turkish migrations reshaped the region, eventually leading to the rise of the Ottoman Empire, which would rule much of southeastern Europe and the Middle East for centuries.
 
@@ -46,7 +44,7 @@ Culturally, it preserves layers of history: Roman ruins stand near Ottoman mosqu
 ## Related Events / Periods
 
 - Bronze Age
-- [[20251005235639|Hellenistic Period]]
+- [[20251005235639]]
 - Roman–Persian Wars
 - Byzantine–Seljuk Wars
 - Fall of Constantinople

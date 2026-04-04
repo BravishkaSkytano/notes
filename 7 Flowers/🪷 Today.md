@@ -1,14 +1,10 @@
 ---
-title: Today
-created: 2020-05-02, 9:05
-modified: 2026-04-02, 2:06
+title: 🪷 Today
+created: 2020-05-02, 09:05
+modified: 2026-04-04, 18:59
 tags:
   - poetry
-  - lotus
-  - flower
 ---
-
-# Today
 
 Sometimes I wonder what's different 'bout today
 It doesn't take long till I find something to say.

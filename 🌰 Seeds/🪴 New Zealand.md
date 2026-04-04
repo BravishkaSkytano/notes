@@ -1,15 +1,12 @@
 ---
-title: New Zealand
+title: 🪴 New Zealand
 description: A short guide on travel ideas for New Zealand
 created: 2026-02-04, 11:36
-modified: 2026-04-02, 2:02
+modified: 2026-04-04, 18:28
 tags:
   - movie-set
   - theme/scenic
-  - seed
 ---
-
-# New Zealand
 
 Hidden in one corner of the earth, lies a group of islands with skies so crisp and clear, air refreshingly clean and sweet, and horizons that are blissfully undisturbed. In the morning, the beautiful orange and pink waves of the sunset can be seen from anywhere. At night, the stars light up the sky in breathtaking shades of silver and blue. Here is where beauty, imagination, and adventure have all gracefully danced together for hundreds of years. Are you ready to be transported into another world? Welcome to Aotearoa New Zealand.
 

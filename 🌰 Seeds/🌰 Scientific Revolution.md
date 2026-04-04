@@ -1,14 +1,12 @@
 ---
 title:
-created: 2026-02-11, 6:42
-modified: 2026-04-02, 2:04
+created: 2026-02-11, 06:42
+modified: 2026-04-04, 18:28
 tags:
   - movement
   - subject/science
-  - seed
 ---
 
-# Scientific Revolution
 
 > [!summary]
 > **Time Frame:**  

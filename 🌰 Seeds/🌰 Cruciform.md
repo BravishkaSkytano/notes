@@ -1,12 +1,9 @@
 ---
-title: Cruciform
+title: 🌰 Cruciform
 created: 2025-11-03, 12:00
-modified: 2026-04-01, 6:46
+modified: 2026-04-04, 18:21
 tags:
-  - seed
 ---
-
-# Cruciform
 
 > [!summary]
 > Shaped like a cross; common layout for [[20260311100618|Christian]] churches.

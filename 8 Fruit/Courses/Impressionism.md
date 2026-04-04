@@ -13,7 +13,7 @@ aliases:
 > **Overview:** focused on capturing light, color, atmosphere, and fletting moments, often painted outdoors.
 > **Period:** [[19th Century]]  
 > **Region:** [[France]]
-> **Key Artists:** [[20251116215811|Claude Monet]], [[Pierre-Auguste Renoir]], [[20251116214926|Édouard Manet]]
+> **Key Artists:** [[20251116215811|Claude Monet]], [[Pierre-Auguste Renoir]], [[🌱 Édouard Manet|Édouard Manet]]
 
 ^tldr
 

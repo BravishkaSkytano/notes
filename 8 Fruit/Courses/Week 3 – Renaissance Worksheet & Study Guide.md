@@ -15,7 +15,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 3. ![[Iconoclasm#^9957df]]
 4. ![[Humanism#^dca863]]
 5. ![[20251005234738#^c1c548]]
-6. ![[20251103120040#^453e0d]]
+6. ![[🌰 Cruciform#^453e0d]]
 7. ![[Etching or Engraving#^622f7a]]
 8. ![[Tempera#^3aa4f0]]
 9. ![[Florence#^76a45a]]
@@ -24,7 +24,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🎨 People to Know
 
 11. ![[Masaccio#^4496a9]]
-12. ![[20251103001303#^1af21a]]
+12. ![[🌱 Donatello#^1af21a]]
 13. ![[Sandro Botticelli#^78b90c]]
 14. ![[Michelangelo#^729b42]]
 15. ![[Raphael#^6220c6]]
@@ -34,13 +34,13 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🖼️ Specific Artworks to Identify by Sight
 
 - ![[Cathedral of Florence#^0993c3]]
-- ![[🌰 Seeds/20251103005355#^7e0309]]
+- ![[🌱 The Last Supper#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
-- ![[20251105095751#^7a2cc0]]
-- ![[20251105100019#^37438c]]
+- ![[🌰 David (sculpture)#^7a2cc0]]
+- ![[🌰 Battle of Alexander and Darius on the Issus#^37438c]]
 - ![[Moses (sculpture)#^4e5036]]
-- ![[20251105100434#^64655d]]
+- ![[🌰 Adoration of the Trinity#^64655d]]
 - ![[Transfiguration of Christ#^77f14d]]
 - ![[St. Peter’s Cathedral#^7ff03e]]
 - [[Sistine Chapel ceiling]]

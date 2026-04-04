@@ -1,19 +1,16 @@
 ---
-title: Édouard Manet
-created: 2025-11-16, 9:49
-modified: 2026-04-02, 1:56
+title: 🌱 Édouard Manet
+created: 2025-11-16, 09:49
+modified: 2026-04-04, 18:26
 tags:
   - person/painter
   - style/realism
   - style/impressionism
   - century/19th
   - country/france
-  - seed
 aliases:
   - Manet
 ---
-
-# Édouard Manet
 
 > [!tldr] Édouard Manet
 > **Overview:** A French painter who bridged [[Realism]] and [[Impressionism]], and challenged traditional art.

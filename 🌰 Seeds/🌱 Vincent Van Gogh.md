@@ -1,18 +1,15 @@
 ---
-title: Vincent van Gogh
+title: 🌱 Vincent Van Gogh
 description: A Post-Impressionist painter known for expressive brushwork, vivid colors, and emotional intensity.
 created: 2025-11-16, 10:04
-modified: 2026-04-02, 1:57
+modified: 2026-04-04, 18:27
 tags:
   - person/painter
   - movement/post-impressionism
   - culture/dutch
-  - seed
 aliases:
   - Van Gogh
 ---
-
-# Vincent Van Gogh
 
 > [!summary]
 > **Born–Died:**  30 March 1853 – 29 July 1890

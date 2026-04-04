@@ -1,12 +1,10 @@
 ---
-title: Maccabean Revolt
-created: 2026-03-02, 8:46
-modified: 2026-04-02, 2:05
+title: 🌰 Maccabean Revolt
+created: 2026-03-02, 08:46
+modified: 2026-04-04, 18:29
 tags:
   - seed
 ---
-
-# Maccabean Revolt
 
 > [!summary]
 > **Time Frame:**  

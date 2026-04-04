@@ -1,11 +1,9 @@
 ---
 title: 🍎 Fruit
 created: 2026-04-01, 11:37
-modified: 2026-04-04, 17:47
+modified: 2026-04-04, 18:32
 order: 8
 ---
-
-## Index
 
 > [!Info]
 > Processed sources that I have engaged with and learned from.

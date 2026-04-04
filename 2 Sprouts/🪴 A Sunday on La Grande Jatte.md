@@ -1,8 +1,8 @@
 ---
-title: A Sunday on La Grande Jatte
+title: 🪴 A Sunday on La Grande Jatte
 description: Seurat’s pointillist park scene with figures in profile.
-created: 2025-11-17, 3:35
-modified: 2026-04-02, 1:50
+created: 2025-11-17, 03:35
+modified: 2026-04-04, 18:39
 tags:
   - type/painting
   - medium/oil
@@ -12,13 +12,10 @@ tags:
   - movement/post-impressionism
   - style/post-impressionism
   - style/pointillism
-  - sprout
 image: img/banners/A Sunday on La Grande Jatte-960x639.webp
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
 ---
-
-# A Sunday on La Grande Jatte
 
 > [!summary]
 > **Creator(s):**  Georges Seurat
@@ -46,6 +43,6 @@ A Sunday Afternoon on the Island of La Grande Jatte is Georges Seurat’s most f
 
 ## Resources
 
-- [[20260218113537|ART101: Visual and Performing Arts]]
+- [[20260218113537]]
 - The Annotated Mona Lisa
 - [A Sunday Afternoon on the Island of La Grande Jatte - Wikipedia](https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte)

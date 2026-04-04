@@ -2,12 +2,10 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-04-04, 17:28
+modified: 2026-04-04, 18:32
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---
-
-# Home
 
 This is not a library of conclusions.
 It’s an index of things I’m still working out.
@@ -30,35 +28,35 @@ In progress, on purpose.
 
 ## 🌱 Garden Directory
 
-## 🌰 Seeds — Fleeting Ideas
+### 🌰 Seeds — Fleeting Ideas
 
 ![[🌰 Seeds/index#^6e75e1|🌰 Seeds]]
 
-## 🌱 Sprouts — Early Development
+### 🌱 Sprouts — Early Development
 
 ![[🌱 Sprouts/index#^a47e8f|🌱 Sprouts]]
 
-## 🪴 Saplings — Structured Notes
+### 🪴 Saplings — Structured Notes
 
 ![[🪴 Saplings/index#^a0e3a5|🪴 Sapplings]]
 
-## 🌳 Trees — Mature Knowledge
+### 🌳 Trees — Mature Knowledge
 
 ![[🌳 Trees/index#^f41bb6|🌳 Trees]]
 
-## 🌲 Forest — Big Picture
+### 🌲 Forest — Big Picture
 
 ![[🌲 Forest/index#^f4a309|🌲 Forest]]
 
-## 🍂 Compost — Archived
+### 🍂 Compost — Archived
 
 ![[🍂 Compost/index#^ee438d|🍂 Compost]]
 
-## 🌺 Flowers — Inspiration
+### 🌺 Flowers — Inspiration
 
 ![[🌸 Flowers/index#^e6d1dc|🌺 Flowers]]
 
-## 🍎 Fruit — Nourishment
+### 🍎 Fruit — Nourishment
 
 ![[🍎 Fruit/index#^262e68|🍎 Fruit]]
 

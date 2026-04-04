@@ -1,13 +1,10 @@
 ---
-title: My Favorite Verses
+title: 🌼 My Favorite Verses
 created: 2024-03-18, 10:29
-modified: 2026-04-02, 12:53
+modified: 2026-04-04, 18:31
 tags:
   - Bible
-  - sprout
 ---
-
-# My Favorite Verses
 
 > [!quote] [[Galatians 3#3|Galatians 3:3]]
 > <sup>**3** </sup>Are you so foolish? After starting in the Spirit, are you now finishing in the flesh?

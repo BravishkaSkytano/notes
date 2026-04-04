@@ -17,4 +17,4 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/3fec811dda9698
 
 ^06cc7c
 
-See [[The Rose Window of Chartres Cathedral]]
+See [[🪴 The Rose Window of Chartres Cathedral]]

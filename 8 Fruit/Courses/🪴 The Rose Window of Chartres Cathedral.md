@@ -1,16 +1,11 @@
 ---
-date: 2025-10-12
+title: 🪴 The Rose Window of Chartres Cathedral
 created: 2025-10-12, 18:49
-modified: 2026-04-04, 18:06
+modified: 2026-04-04, 18:12
 tags:
   - course/ART101
-state: "[[Drafting]]"
-image: 00-09 System Management/05 Covers & Thumbnails/The Rose Window of Chartres Cathedral - West Transept.webp
-feature: "[[The Rose Window of Chartres Cathedral - West Transept.webp]]"
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/3fec811dda96986e65d9d1fa85f8a938_86cf658e.webp
+image: img/banners/The Rose Window of Chartres Cathedral - West Transept.webp
 ---
-
-![[The Rose Window of Chartres Cathedral - West Transept.webp|282x188]]
 
 The [[Rose Window]] of Chartres Cathedral refers to three major rose windows located in the west, north, and south transepts, each a masterpiece of [[20251012184431]] stained glass art with distinct themes and historical significance. The west rose window, the largest of the three at 15.42 meters in diameter, dates to around 1215 CE and depicts the Last Judgment, with Christ as the Judge at the center, surrounded by angels, the Elders of the Apocalypse, and scenes of resurrection and judgment. Positioned on the west-facing wall, it captures the light of the setting sun, symbolizing the end of time.
 

@@ -36,8 +36,8 @@
   "uncompletedTasksStatuses": [
     " "
   ],
-  "bannersFolder": "Assets/banners",
-  "coversFolder": "Assets/covers",
+  "bannersFolder": "img/banners",
+  "coversFolder": "img/covers",
   "showColorSettings": false,
   "showTextColorSettings": false,
   "showHiddenSettings": false,

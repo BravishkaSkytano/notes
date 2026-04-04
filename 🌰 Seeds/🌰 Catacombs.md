@@ -1,13 +1,10 @@
 ---
-title: Catacombs
-created: 2025-10-12, 7:35
-modified: 2026-04-01, 6:41
+title: 🌰 Catacombs
+created: 2025-10-12, 07:35
+modified: 2026-04-04, 17:59
 tags:
   - architecture
-  - seed
 ---
-
-# Catacombs
 
 > [!summary]
 > Underground burial chambers used by early [[20260311100618|Christians]] (and sometimes Jews) from the 2nd to 5th centuries CE. They were dug beneath cities like Rome and included tunnels, tombs, and small chapels decorated with frescoes showing biblical scenes and symbols of faith.

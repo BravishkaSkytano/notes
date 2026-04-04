@@ -1,7 +1,7 @@
 ---
 date: 2025-10-12
-created: 2025-10-12 18:49
-modified: 2026-03-12T12:40:35-04:00
+created: 2025-10-12, 18:49
+modified: 2026-04-04, 18:06
 tags:
   - course/ART101
 state: "[[Drafting]]"
@@ -12,7 +12,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/3fec811dda9698
 
 ![[The Rose Window of Chartres Cathedral - West Transept.webp|282x188]]
 
-The [[Rose Window]] of Chartres Cathedral refers to three major rose windows located in the west, north, and south transepts, each a masterpiece of [[20251012184431|Gothic]] stained glass art with distinct themes and historical significance. The west rose window, the largest of the three at 15.42 meters in diameter, dates to around 1215 CE and depicts the Last Judgment, with Christ as the Judge at the center, surrounded by angels, the Elders of the Apocalypse, and scenes of resurrection and judgment. Positioned on the west-facing wall, it captures the light of the setting sun, symbolizing the end of time.
+The [[Rose Window]] of Chartres Cathedral refers to three major rose windows located in the west, north, and south transepts, each a masterpiece of [[20251012184431]] stained glass art with distinct themes and historical significance. The west rose window, the largest of the three at 15.42 meters in diameter, dates to around 1215 CE and depicts the Last Judgment, with Christ as the Judge at the center, surrounded by angels, the Elders of the Apocalypse, and scenes of resurrection and judgment. Positioned on the west-facing wall, it captures the light of the setting sun, symbolizing the end of time.
 
 ![[The Rose Window of Chartres Cathedral - North Transept.webp|112x188]]
 
@@ -22,7 +22,7 @@ The north transept rose window, dating to around 1235 CE, dedicated to the Virgi
 
 The south transept rose window, created between 1221 and 1230 CE, dedicated to Christ's triumph, shows him in benediction, surrounded by the 24 Elders of the Apocalypse, who are holding medieval musical instruments. The central lancet beneath it portrays the Virgin and Child, flanked by the evangelists seated on the shoulders of Old Testament prophets, symbolizing the New Testament building upon the Old. This window’s design reflects the theme of Christ’s second coming and the Kingdom of God.
 
-All three rose windows are integral to the cathedral’s architectural and liturgical design, reinforcing the cruciform shape of the building and serving as visual narratives of [[20260311100618|Christian]] theology. The windows were crafted through the collaborative efforts of masons, glaziers, and metalsmiths, with their design carefully integrated into the overall structure, including buttresses and [[20251012084339|Clerestory]] rosettes. The north rose window, in particular, is noted for its intricate tracery and radial symmetry, which some interpret as a visual representation of cosmic harmony and vibrational frequencies, such as the 528 Hz "Love Frequency". The windows, along with the cathedral’s other stained glass, were intended to be educational, conveying biblical stories and theological concepts to a largely illiterate population.
+All three rose windows are integral to the cathedral’s architectural and liturgical design, reinforcing the cruciform shape of the building and serving as visual narratives of [[20260311100618|Christian]] theology. The windows were crafted through the collaborative efforts of masons, glaziers, and metalsmiths, with their design carefully integrated into the overall structure, including buttresses and [[🌰 Clerestory]] rosettes. The north rose window, in particular, is noted for its intricate tracery and radial symmetry, which some interpret as a visual representation of cosmic harmony and vibrational frequencies, such as the 528 Hz "Love Frequency". The windows, along with the cathedral’s other stained glass, were intended to be educational, conveying biblical stories and theological concepts to a largely illiterate population.
 
 ---
 

@@ -2,11 +2,10 @@
   "pinned": [
     "switcher:open",
     "obsidian-git:push",
-    "quickadd:choice:2c53beb0-ad39-4609-9895-8b170f83a449",
     "insert-template",
     "insert-unsplash-image:insert-in-frontmatter",
     "pretty-properties:select-banner-image",
     "pretty-properties:select-cover-image",
-    "quickadd:runQuickAdd"
+    "file-title-updater:sync-titles-default"
   ]
 }

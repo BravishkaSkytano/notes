@@ -1,5 +1,5 @@
 {
-  "defaultTitleSource": "frontmatter",
+  "defaultTitleSource": "filename",
   "illegalCharHandling": "remove",
   "customReplacement": "",
   "updateOtherTitlesWithSanitizedVersion": false,

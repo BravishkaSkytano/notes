@@ -1,15 +1,15 @@
 ---
-date: 2025-10-12
-created: 2025-10-12 21:18
-modified: 2026-03-12T12:40:08-04:00
+created: 2025-10-12, 21:18
+modified: 2026-04-04, 18:05
 tags:
   - course/ART101
   - type/mosaic
   - building/museum
   - religion/islam
   - religion/christianity
-feature: z - Attachments/Hagia Sophia-1761596077883.webp
 image: 00-09 System Management/05 Covers & Thumbnails/Hagia Sophia-1761596077883.webp
+date: 2025-10-12
+feature: z - Attachments/Hagia Sophia-1761596077883.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/0639f7aebf8311970493f9e2fb60b268_86cf658e.webp
 ---
 
@@ -19,7 +19,7 @@ Hagia Sophia in Istanbul features a rich and layered collection of artwork refle
 
 ![[Hagia Sophia-1760318744531.webp|700x467]]
 
-The mosaics are crafted from thousands of small glass and stone pieces (tesserae) set into a gold background, creating a luminous effect that enhances their spiritual significance. The artists carefully considered lighting, with the gold tesserae arranged in patterns that reflect light, and the placement of mosaics often aligns with actual light sources from [[20251012084339|Clerestory]] windows, creating a naturalistic interplay between the artwork and its environment. Some mosaics, particularly those in the dome's pendentives, were plastered over during the Ottoman period and later uncovered during 19th-century restorations.
+The mosaics are crafted from thousands of small glass and stone pieces (tesserae) set into a gold background, creating a luminous effect that enhances their spiritual significance. The artists carefully considered lighting, with the gold tesserae arranged in patterns that reflect light, and the placement of mosaics often aligns with actual light sources from [[🌰 Clerestory]] windows, creating a naturalistic interplay between the artwork and its environment. Some mosaics, particularly those in the dome's pendentives, were plastered over during the Ottoman period and later uncovered during 19th-century restorations.
 
 ![[Hagia Sophia-1760318842257.webp|700x438]]
 

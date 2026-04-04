@@ -2,9 +2,9 @@
 title: 🌲 Forest
 created: 2026-04-01, 11:19
 modified: 2026-04-02, 1:11
+order: 5
 ---
 
-# Index
 
 > [!Info]
 > Collections of ideas working together.

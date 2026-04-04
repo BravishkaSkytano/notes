@@ -462,16 +462,6 @@
       "tag": false,
       "property": false
     },
-    "1 Seeds/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "2 Sprouts/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "5 Forest/index.md": {
       "folder": true,
       "tag": false,
@@ -508,6 +498,21 @@
       "property": false
     },
     "Courses/ART101/20260218113537.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "🌰 Seeds/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "🌱 Sprouts/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "🌳 Trees/index.md": {
       "folder": true,
       "tag": false,
       "property": false

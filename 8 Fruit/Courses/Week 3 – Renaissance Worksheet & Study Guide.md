@@ -34,7 +34,7 @@ description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 ## 🖼️ Specific Artworks to Identify by Sight
 
 - ![[Cathedral of Florence#^0993c3]]
-- ![[20251103005355#^7e0309]]
+- ![[🌰 Seeds/20251103005355#^7e0309]]
 - ![[Mona Lisa#^741fea]]
 - ![[Pietà#^17cbe7]]
 - ![[20251105095751#^7a2cc0]]

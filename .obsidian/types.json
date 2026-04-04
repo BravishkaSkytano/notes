@@ -32,6 +32,7 @@
     "child": "multitext",
     "needsUpdate": "checkbox",
     "completed": "checkbox",
-    "index?": "checkbox"
+    "index?": "checkbox",
+    "order": "number"
   }
 }

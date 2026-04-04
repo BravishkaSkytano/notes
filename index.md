@@ -2,12 +2,12 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-04-02, 14:17
+modified: 2026-04-04, 17:28
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---
 
-![[logo.jpg]]
+# Home
 
 This is not a library of conclusions.
 It’s an index of things I’m still working out.
@@ -28,41 +28,41 @@ In progress, on purpose.
 
 ---
 
-# 🌱 Growth Stages (My Notes)
+## 🌱 Garden Directory
 
-## [[1 Seeds/index|🌰 Seeds]] — Fleeting Ideas
+## 🌰 Seeds — Fleeting Ideas
 
-![[1 Seeds/index#^6e75e1|🌰 Seeds]]
+![[🌰 Seeds/index#^6e75e1|🌰 Seeds]]
 
-## [[2 Sprouts/index|🌱 Sprouts]] — Early Development
+## 🌱 Sprouts — Early Development
 
-![[2 Sprouts/index#^a47e8f|🌱 Sprouts]]
+![[🌱 Sprouts/index#^a47e8f|🌱 Sprouts]]
 
-## [[3 Saplings/index|🪴 Saplings]] — Structured Notes
+## 🪴 Saplings — Structured Notes
 
-![[3 Saplings/index#^a0e3a5|🪴 Sapplings]]
+![[🪴 Saplings/index#^a0e3a5|🪴 Sapplings]]
 
-## [[4 Trees/index|🌳 Trees]] — Mature Knowledge
+## 🌳 Trees — Mature Knowledge
 
-![[4 Trees/index#^f41bb6|🌳 Trees]]
+![[🌳 Trees/index#^f41bb6|🌳 Trees]]
 
-## [[5 Forest/index|🌲 Forest]] — Big Picture
+## 🌲 Forest — Big Picture
 
 ![[5 Forest/index#^f4a309|🌲 Forest]]
 
-## [[6 Compost/index|🍂 Compost]] — Archived
+## 🍂 Compost — Archived
 
 ![[6 Compost/index#^ee438d|🍂 Compost]]
 
-## [[7 Flowers/index|🌺 Flowers]] — Inspiration
+## 🌺 Flowers — Inspiration
 
 ![[7 Flowers/index#^e6d1dc|🌺 Flowers]]
 
-## [[8 Fruit/index|🍎 Fruit]] — Nourishment
+## 🍎 Fruit — Nourishment
 
 ![[8 Fruit/index#^262e68|🍎 Fruit]]
 
-# 🌿 How to Read This Garden
+## 🌿 How to Read This Garden
 
 - Follow links to see how ideas connect  
 - Start anywhere, not everything is linear  
@@ -70,7 +70,7 @@ In progress, on purpose.
 
 This is a living system. It evolves over time.
 
-# 🌳 Philosophy
+## 🌳 Philosophy
 
 This garden is not about collecting information.  
 It’s about cultivating understanding.

@@ -16,6 +16,6 @@ modified: 2026-04-03, 12:33
 > - 🌻 Big or attention-grabbing ideas
 > - 🪷 Poems written by me
 > 
-> These often grow into [[1 Seeds/index|🌰 Seeds]]
+> These often grow into [[🌰 Seeds/index|🌰 Seeds]]
 
 ^e6d1dc

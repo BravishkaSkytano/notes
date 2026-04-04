@@ -23,5 +23,6 @@
   "auto-mover",
   "file-explorer-note-count",
   "notebook-navigator",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "vault-file-renamer"
 ]

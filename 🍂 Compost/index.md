@@ -1,10 +1,9 @@
 ---
 title: 🍂 Compost
 created: 2026-04-01, 11:21
-modified: 2026-04-02, 1:11
+modified: 2026-04-04, 17:45
+order: 6
 ---
-
-# Index
 
 > [!Info]
 > Old or unused notes.

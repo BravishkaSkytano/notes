@@ -1,6 +1,31 @@
 {
   "moveOnOpen": true,
-  "movingRules": [],
+  "movingRules": [
+    {
+      "regex": "🌰",
+      "folder": "🌰 Seeds"
+    },
+    {
+      "regex": "🌱",
+      "folder": "🌱 Sprouts"
+    },
+    {
+      "regex": "🪴",
+      "folder": "🪴 Saplings"
+    },
+    {
+      "regex": "🌳",
+      "folder": "🌳 Trees"
+    },
+    {
+      "regex": "🌲",
+      "folder": "🌲 Forest"
+    },
+    {
+      "regex": "🍂",
+      "folder": "🍂 Compost"
+    }
+  ],
   "exclusionRules": [
     {
       "regex": "index"
@@ -9,64 +34,15 @@
       "regex": "z-templates/"
     }
   ],
-  "tagRules": [
-    {
-      "regex": "seed",
-      "folder": "1 Seeds"
-    },
-    {
-      "regex": "sprout",
-      "folder": "2 Sprouts"
-    },
-    {
-      "regex": "sappling",
-      "folder": "3 Sapplings"
-    },
-    {
-      "regex": "tree",
-      "folder": "4 Trees"
-    },
-    {
-      "regex": "forest",
-      "folder": "5 Forest"
-    },
-    {
-      "regex": "compost",
-      "folder": "6 Compost"
-    },
-    {
-      "regex": "flower",
-      "folder": "7 Flowers"
-    },
-    {
-      "regex": "book",
-      "folder": "8 Fruit/Books"
-    },
-    {
-      "regex": "article",
-      "folder": "8 Fruit/Articles"
-    },
-    {
-      "regex": "podcast",
-      "folder": "8 Fruit/Podcasts"
-    },
-    {
-      "regex": "video",
-      "folder": "8 Fruit/Videos"
-    },
-    {
-      "regex": "course",
-      "folder": "8 Fruit/Courses"
-    }
-  ],
+  "tagRules": [],
   "projectRules": [],
   "automaticMoving": true,
   "timer": 300000,
   "collapseSections": {
-    "tutorial": true,
+    "tutorial": false,
     "movingRules": false,
     "exclusionRules": false,
-    "tagRules": false,
+    "tagRules": true,
     "projectRules": false
   }
 }

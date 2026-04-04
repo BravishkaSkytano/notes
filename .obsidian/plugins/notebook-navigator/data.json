@@ -462,17 +462,32 @@
       "tag": false,
       "property": false
     },
-    "5 Forest/index.md": {
+    "🌰 Seeds/index.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "6 Compost/index.md": {
+    "🌱 Sprouts/index.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "7 Flowers/index.md": {
+    "🌳 Trees/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "🌲 Forest/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "🍂 Compost/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "🌸 Flowers/index.md": {
       "folder": true,
       "tag": false,
       "property": false
@@ -487,32 +502,17 @@
       "tag": false,
       "property": false
     },
-    "8 Fruit/Courses/20251012184431.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "8 Fruit/Courses/20251012193616.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "Courses/ART101/20260218113537.md": {
+    "8 Fruit/Courses/20251012184431.md": {
       "folder": true,
       "tag": false,
       "property": false
     },
-    "🌰 Seeds/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🌱 Sprouts/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🌳 Trees/index.md": {
+    "5 Forest/20260218113537.md": {
       "folder": true,
       "tag": false,
       "property": false

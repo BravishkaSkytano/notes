@@ -48,19 +48,19 @@ In progress, on purpose.
 
 ## 🌲 Forest — Big Picture
 
-![[5 Forest/index#^f4a309|🌲 Forest]]
+![[🌲 Forest/index#^f4a309|🌲 Forest]]
 
 ## 🍂 Compost — Archived
 
-![[6 Compost/index#^ee438d|🍂 Compost]]
+![[🍂 Compost/index#^ee438d|🍂 Compost]]
 
 ## 🌺 Flowers — Inspiration
 
-![[7 Flowers/index#^e6d1dc|🌺 Flowers]]
+![[🌸 Flowers/index#^e6d1dc|🌺 Flowers]]
 
 ## 🍎 Fruit — Nourishment
 
-![[8 Fruit/index#^262e68|🍎 Fruit]]
+![[🍎 Fruit/index#^262e68|🍎 Fruit]]
 
 ## 🌿 How to Read This Garden
 

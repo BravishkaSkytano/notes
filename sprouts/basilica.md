@@ -1,11 +1,12 @@
 ---
-title: 🌱 Basilica
+title: Basilica
 created: 2025-10-12, 19:52
 modified: 2026-04-04, 18:02
 tags:
   - style/basilica
   - culture/Roman
   - course/ART101/W2
+  - 🌱
 ---
 
 > [!summary]

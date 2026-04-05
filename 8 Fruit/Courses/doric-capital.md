@@ -1,23 +1,22 @@
 ---
 title: Doric capital
-date: 2025-10-06
-created: 2025-10-06 00:33
-modified: 2026-03-23T19:55:55-04:00
+created: 2025-10-06, 00:33
+modified: 2026-04-04, 21:14
 tags:
   - course/ART101/W1
   - style/classical
   - architecture/column
   - culture/Greek
   - culture/Roman
+  - 🌰
 aliases:
   - Doric
-needsUpdate: true
 ---
 
 > [!summary]
 > *Noun*.
 >
-> 1. The simplest and oldest [[20251005234738|Classical]] column capital, originating from ancient Greek architecture.
+> 1. The simplest and oldest [[Classical]] column capital, originating from ancient Greek architecture.
 > 2. A plain column with an unadorned design, typically featuring a circular abacus resting on a echinus (a convex, rounded molding) and a circular collar or necking.
 
 Commonly used in the construction of temples and public buildings in ancient Greece and later influenced Roman architecture.

@@ -1,17 +1,17 @@
 ---
-date: 2025-11-03
-created: 2025-11-03 00:48
-modified: 2026-03-18T13:05:04-04:00
-aliases:
-  - Il Duomo
-  - Duomo di Firenze
-needsUpdate: true
+title: Cathedral of Florence
+created: 2025-11-03, 00:48
+modified: 2026-04-04, 21:16
 tags:
   - building/cathedral
   - style/gothic
   - period/renaissance
   - country/Italy
   - course/ART101/W3
+  - 🌰
+aliases:
+  - Il Duomo
+  - Duomo di Firenze
 ---
 
 > [!tldr] Cathedral of Florence

@@ -2,6 +2,7 @@
   "enabled": true,
   "targetExtensions": [
     "md",
+    "base",
     "webp"
   ],
   "excludedExtensions": [],

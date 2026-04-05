@@ -1,23 +1,22 @@
 ---
 title: Ionic capital
-date: 2025-10-06
-created: 2025-10-06 00:36
-modified: 2026-03-23T20:02:56-04:00
+created: 2025-10-06, 00:36
+modified: 2026-04-04, 21:19
 tags:
   - course/ART101/W1
   - architecture/column
   - culture/Greek
   - culture/Roman
   - style/classical
+  - 🌱
 aliases:
   - Ionic
-needsUpdate: true
 ---
 
 > [!summary]
 > *Noun*.
 >
-> 1. A [[20251005234738|Classical]] column capital known for its elaborate and decorative design, distinguishing it from the simpler [[20251006003341|Doric capital]].
+> 1. A [[Classical]] column capital known for its elaborate and decorative design, distinguishing it from the simpler [[doric-capital|Doric capital]].
 > 2. A column with scroll-like ornamental spirals (volutes) on either side, often resting on a bull's head or a torus (a convex molding).
 
 The Ionic capital is often associated with elegance and refinement and was widely used in ancient Greek and Roman architecture, particularly in structures that emphasized aesthetic detail and complexity.

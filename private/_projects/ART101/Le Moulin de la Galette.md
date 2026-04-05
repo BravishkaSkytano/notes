@@ -10,7 +10,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6ebf262de0dcf2
 > [!summary] Le Moulin de la Galette
 > ![[Le Moulin de la Galette-500x619.webp|250x310]]
 > **Type:** [[Painting]]
-> **Medium:** [[20251103000654|Oil on canvas]]
+> **Medium:** [[Oil on canvas|Oil on canvas]]
 > **Genre:** [[daily life]]
 > **Themes:** [[daily life]], [[Emotion]]
 > **Artist:** [[Pierre-Auguste Renoir]]

@@ -13,7 +13,7 @@ title:
 > [!summary] The Starry Night
 > ![[The Starry Night-960x760.webp|Van Gogh’s swirling night sky over a quiet town|480x380]]
 > **Type:** [[Painting]]
-> **Medium:** [[20251103000654|Oil on canvas]]
+> **Medium:** [[Oil on canvas|Oil on canvas]]
 > **Genre:** [[Landscape]], [[night scene]]
 > **Themes:** [[night]], [[nature]], [[Emotion]]
 > **Artist:** [[🌱 Vincent Van Gogh|Vincent van Gogh]]

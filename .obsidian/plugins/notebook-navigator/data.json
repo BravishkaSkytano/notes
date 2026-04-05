@@ -452,36 +452,6 @@
       "tag": false,
       "property": false
     },
-    "Theology/Hermeneutics/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "Worlds/Ilmaria/Geography/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251103000654.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251012200052.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251012193616.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "8 Fruit/Courses/20251012184431.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "seeds/index.md": {
       "folder": true,
       "tag": false,
@@ -508,6 +478,36 @@
       "property": false
     },
     "compost/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "seeds/oil-on-canvas.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "private/8-fruit/courses/20251012200052.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "private/8-fruit/courses/20251012193616.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "private/8-fruit/courses/20251012184431.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "private/theology/hermeneutics/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "private/worlds/ilmaria/geography/index.md": {
       "folder": true,
       "tag": false,
       "property": false

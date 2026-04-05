@@ -13,7 +13,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/05b41ec6f92d34
 > [!summary] Interior of My Studio
 > ![[Interior of My Studio-960x566.webp|The Painter's Studio: A real allegory summing up seven years of my artistic and moral life|480x283]]
 > **Type:** [[Painting]]
-> **Medium:** [[20251103000654|Oil on canvas]]
+> **Medium:** [[Oil on canvas|Oil on canvas]]
 > **Genre:** [[daily life]]
 > **Themes:** [[daily life]], [[politics]]
 > **Artist:** [[Gustave Courbet]]

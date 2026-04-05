@@ -24,8 +24,8 @@
     "editor:unindent-list",
     "editor:configure-toolbar"
   ],
-  "attachmentFolderPath": "Assets",
-  "newFileLocation": "folder",
-  "openBehavior": "",
+  "attachmentFolderPath": "img",
+  "newFileLocation": "root",
+  "openBehavior": "file:index",
   "newFileFolderPath": "1 Fleeting"
 }

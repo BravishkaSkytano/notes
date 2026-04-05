@@ -10,7 +10,7 @@ thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/882bccfff7d8a6
 > [!summary] The Raft of the Medusa
 > ![[The Raft of the Medusa-960x655.webp|Géricault’s dramatic scene of shipwreck survivors.|480x328]]
 > **Type:** [[Painting]]
-> **Medium:**  [[20251103000654|Oil on canvas]]
+> **Medium:**  [[Oil on canvas|Oil on canvas]]
 > **Genre:**  [[History painting]]
 > **Themes:**  [[struggle]], [[Emotion]], [[politics]]
 > **Artist:** [[Théodore Géricault]]

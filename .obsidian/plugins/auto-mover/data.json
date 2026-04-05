@@ -3,27 +3,39 @@
   "movingRules": [
     {
       "regex": "🌰",
-      "folder": "🌰 Seeds"
+      "folder": "seeds"
     },
     {
       "regex": "🌱",
-      "folder": "🌱 Sprouts"
+      "folder": "sprouts"
     },
     {
       "regex": "🪴",
-      "folder": "🪴 Saplings"
+      "folder": "saplings"
     },
     {
       "regex": "🌳",
-      "folder": "🌳 Trees"
+      "folder": "trees"
     },
     {
       "regex": "🌲",
-      "folder": "🌲 Forest"
+      "folder": "forest"
     },
     {
       "regex": "🍂",
-      "folder": "🍂 Compost"
+      "folder": "compost"
+    },
+    {
+      "regex": "🌸",
+      "folder": "flowers"
+    },
+    {
+      "regex": "🌹",
+      "folder": "flowers/quotes"
+    },
+    {
+      "regex": "",
+      "folder": ""
     }
   ],
   "exclusionRules": [

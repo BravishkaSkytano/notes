@@ -15,6 +15,6 @@ order: 7
 > - 🌻 Big or attention-grabbing ideas
 > - 🪷 Poems written by me
 > 
-> These often grow into [[🌰 Seeds/index|🌰 Seeds]]
+> These often grow into [[seeds/index|🌰 Seeds]]
 
 ^e6d1dc

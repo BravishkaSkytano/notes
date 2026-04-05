@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-04-04, 18:32
+modified: 2026-04-04, 20:00
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---
@@ -30,35 +30,35 @@ In progress, on purpose.
 
 ### 🌰 Seeds — Fleeting Ideas
 
-![[🌰 Seeds/index#^6e75e1|🌰 Seeds]]
+![[seeds/index#^6e75e1|🌰 Seeds]]
 
 ### 🌱 Sprouts — Early Development
 
-![[🌱 Sprouts/index#^a47e8f|🌱 Sprouts]]
+![[sprouts/index#^a47e8f|🌱 Sprouts]]
 
 ### 🪴 Saplings — Structured Notes
 
-![[🪴 Saplings/index#^a0e3a5|🪴 Sapplings]]
+![[saplings/index#^a0e3a5|🪴 Sapplings]]
 
 ### 🌳 Trees — Mature Knowledge
 
-![[🌳 Trees/index#^f41bb6|🌳 Trees]]
+![[trees/index#^f41bb6|🌳 Trees]]
 
 ### 🌲 Forest — Big Picture
 
-![[🌲 Forest/index#^f4a309|🌲 Forest]]
+![[forest/index#^f4a309|🌲 Forest]]
 
 ### 🍂 Compost — Archived
 
-![[🍂 Compost/index#^ee438d|🍂 Compost]]
+![[compost/index#^ee438d|🍂 Compost]]
 
 ### 🌺 Flowers — Inspiration
 
-![[🌸 Flowers/index#^e6d1dc|🌺 Flowers]]
+![[flowers/index#^e6d1dc|🌺 Flowers]]
 
 ### 🍎 Fruit — Nourishment
 
-![[🍎 Fruit/index#^262e68|🍎 Fruit]]
+![[fruit/index#^262e68|🍎 Fruit]]
 
 ## 🌿 How to Read This Garden
 

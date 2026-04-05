@@ -462,36 +462,6 @@
       "tag": false,
       "property": false
     },
-    "🌰 Seeds/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🌱 Sprouts/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🌳 Trees/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🌲 Forest/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🍂 Compost/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
-    "🌸 Flowers/index.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    },
     "8 Fruit/Courses/20251103000654.md": {
       "folder": true,
       "tag": false,
@@ -508,6 +478,36 @@
       "property": false
     },
     "8 Fruit/Courses/20251012184431.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "seeds/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "sprouts/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "forest/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "trees/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "flowers/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "compost/index.md": {
       "folder": true,
       "tag": false,
       "property": false

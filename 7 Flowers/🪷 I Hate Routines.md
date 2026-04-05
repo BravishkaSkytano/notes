@@ -1,12 +1,11 @@
 ---
 title: 🪷 I Hate Routines
 created: 2021-12-04, 10:12
-modified: 2026-04-04, 19:01
+modified: 2026-04-04, 19:55
 tags:
   - theme/depression
   - poetry
 ---
-
 
 I hate routines,
 I hate the never-ending routines that plague my life.

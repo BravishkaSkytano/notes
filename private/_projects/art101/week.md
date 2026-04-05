@@ -1,10 +1,10 @@
 ---
-date: 2025-10-06
-created: 2025-10-06 12:05
-modified: 2026-03-22T21:18:30-04:00
+description: "Archaic, Ancient and Classical period: Painting, Sculpture and Architecture and the Medieval period: Painting, Sculpture and Architecture"
+created: 2025-10-06, 12:05
+modified: 2026-04-05, 13:16
 tags:
   - type/worksheet
-description: "Archaic, Ancient and Classical period: Painting, Sculpture and Architecture and the Medieval period: Painting, Sculpture and Architecture"
+date: 2025-10-06
 ---
 
 1. ![[20251012200052#^6c0583]]
@@ -29,5 +29,3 @@ cathedral)
 Cathedral of Reims
 Sainte Chapelle
 God as Architect
-
-

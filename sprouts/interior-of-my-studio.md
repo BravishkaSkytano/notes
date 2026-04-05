@@ -2,13 +2,14 @@
 title: Interior of My Studio
 description: Courbet’s large Realist painting showing his studio filled with people
 created: 2025-11-17, 14:48
-modified: 2026-04-05, 13:11
+modified: 2026-04-05, 13:12
 tags:
-  - 🪴
+  - type/painting
+  - 🌱
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Courbet_LAtelier_du_peintre.jpg/500px-Courbet_LAtelier_du_peintre.jpg
 aliases:
   - The Artist's Studio
   - The Painter's Studio
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Courbet_LAtelier_du_peintre.jpg/500px-Courbet_LAtelier_du_peintre.jpg
 ---
 
 > [!summary]

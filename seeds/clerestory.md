@@ -1,10 +1,11 @@
 ---
-title: 🌰 Clerestory
+title: Clerestory
 created: 2025-10-12, 08:43
-modified: 2026-04-04, 18:00
+modified: 2026-04-04, 20:25
 tags:
   - style/gothic
   - architecture
+  - 🌰
 ---
 
 > [!summary]

@@ -1,6 +1,31 @@
 {
   "moveOnOpen": true,
-  "movingRules": [
+  "movingRules": [],
+  "exclusionRules": [
+    {
+      "regex": "index"
+    },
+    {
+      "regex": "z-templates/"
+    }
+  ],
+  "tagRules": [
+    {
+      "regex": "🌰",
+      "folder": "seeds"
+    },
+    {
+      "regex": "🌱",
+      "folder": "sprouts"
+    },
+    {
+      "regex": "🪴",
+      "folder": "saplings"
+    },
+    {
+      "regex": "🌳",
+      "folder": "trees"
+    },
     {
       "regex": "🌲",
       "folder": "forest"
@@ -19,11 +44,11 @@
     },
     {
       "regex": "🌼",
-      "folder": "flowers/highlights"
+      "folder": "flowers/excerpts"
     },
     {
       "regex": "🌺",
-      "folder": "flowers/passages"
+      "folder": "flowers/emotional"
     },
     {
       "regex": "🌻",
@@ -54,38 +79,12 @@
       "folder": "fruit/courses"
     }
   ],
-  "exclusionRules": [
-    {
-      "regex": "index"
-    },
-    {
-      "regex": "z-templates/"
-    }
-  ],
-  "tagRules": [
-    {
-      "regex": "🌰",
-      "folder": "seeds"
-    },
-    {
-      "regex": "🌱",
-      "folder": "sprouts"
-    },
-    {
-      "regex": "🪴",
-      "folder": "saplings"
-    },
-    {
-      "regex": "🌳",
-      "folder": "trees"
-    }
-  ],
   "projectRules": [],
   "automaticMoving": true,
   "timer": 300000,
   "collapseSections": {
-    "tutorial": false,
-    "movingRules": false,
+    "tutorial": true,
+    "movingRules": true,
     "exclusionRules": false,
     "tagRules": false,
     "projectRules": false

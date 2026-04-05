@@ -1,9 +1,9 @@
 ---
-title: 🌰 Maccabean Revolt
+title: Maccabean Revolt
 created: 2026-03-02, 08:46
-modified: 2026-04-04, 18:29
+modified: 2026-04-04, 20:32
 tags:
-  - seed
+  - 🌰
 ---
 
 > [!summary]

@@ -1,13 +1,14 @@
 ---
-title: 🌱 Édouard Manet
+title: Édouard Manet
 created: 2025-11-16, 09:49
-modified: 2026-04-04, 18:26
+modified: 2026-04-04, 20:32
 tags:
   - person/painter
   - style/realism
   - style/impressionism
   - century/19th
   - country/france
+  - 🌱
 aliases:
   - Manet
 ---

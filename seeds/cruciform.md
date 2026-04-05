@@ -1,8 +1,9 @@
 ---
-title: 🌰 Cruciform
+title: Cruciform
 created: 2025-11-03, 12:00
-modified: 2026-04-04, 18:21
+modified: 2026-04-04, 20:31
 tags:
+  - 🌰
 ---
 
 > [!summary]

@@ -1,12 +1,12 @@
 ---
-title: 🌰 Magical Systems Within Ilmaria
+title: Magical Systems Within Ilmaria
 description: Magic in Ilmaria is a fundamental part of life, with different regions having their own unique forms of magic.
 created: 2024-10-18, 13:18
-modified: 2026-04-04, 17:59
+modified: 2026-04-04, 20:32
 tags:
   - magic-systems
   - world/ilmaria
-date: 2024-10-18T21:05:28
+  - 🌰
 ---
 
 - **Earth Magic** in the [[Crystalline Peaks]] allows for the manipulation of minerals and gemstones.

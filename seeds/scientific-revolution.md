@@ -1,10 +1,11 @@
 ---
-title: 🌰 Scientific Revolution
+title: Scientific Revolution
 created: 2026-02-11, 06:42
-modified: 2026-04-04, 18:29
+modified: 2026-04-04, 20:33
 tags:
   - movement
   - subject/science
+  - 🌰
 ---
 
 > [!summary]

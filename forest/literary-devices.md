@@ -1,9 +1,10 @@
 ---
-title: 🌲 Literary Devices
+title: Literary Devices
 description: A collection of writing tips and tutorials.
 created: 2024-10-23, 02:12
 modified: 2026-04-04, 18:34
 tags:
+  - 🌲
 ---
 
 ## Playlists

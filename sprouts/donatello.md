@@ -1,12 +1,13 @@
 ---
-title: 🌱 Donatello
+title: Donatello
 description: Italian Renaissance sculptor famous for creating lifelike statues, including David, one of the first free-standing nude figures since ancient times.
 created: 2025-11-03, 12:13
-modified: 2026-04-04, 18:18
+modified: 2026-04-04, 20:33
 tags:
   - person/sculptor
   - culture/Italian
   - period/renaissance
+  - 🌱
 cover: img/covers/Donatello-500x529.webp
 ---
 

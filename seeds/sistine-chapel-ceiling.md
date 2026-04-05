@@ -7,4 +7,4 @@ tags:
 ---
 
 > [!tldr] Sistine Chapel ceiling
-> [[Michelangelo]]; scenes from Genesis including _The Creation of Adam_.
+> [[Michelangelo]]; scenes from Genesis including _[[the-creation-of-adam-painting|The Creation of Adam]]_.

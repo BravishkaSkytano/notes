@@ -1,7 +1,7 @@
 ---
 title: My Testimony
 created: 2024-03-08, 11:28
-modified: 2026-04-05, 12:52
+modified: 2026-04-05, 16:01
 tags:
   - 🪷
 ---
@@ -18,6 +18,6 @@ It took me about eight miserable years to ride that coaster, and it wasn’t clo
 
 On a Saturday morning in 2023, we were participating in a karate promotion like we had done since we had moved to NYC. My sixteen-year-old brother never finished it because as he was sparing, he had a heart attack and fell into a coma. The following Tuesday, the youngest and happiest member of our family was declared brain-dead. I remember feeling almost nothing at the time, I was so used to blocking my emotions that I really had to put in an effort to know if I was feeling anything at all. Yet, during those four days, I remember feeling at peace. I was never worried or angry, I was content with whatever happened. That Monday, I think I knew he wasn’t going to wake up, because I had the urge to tell him that it was okay for him to go and that I would take care of our mom and sister. I don’t know if he heard me, but he was gone that night.
 
-That loss was perhaps the biggest thing that shook our family, and yet it also brought some peace and comfort. My father wanted full custody of my brother, and that meant my innocent little brother would be introduced to my father’s newfound world of polyamory. However, my brother was safe with Jesus now and his innocence was never taken advantage of. One of my biggest desires was that I could protect my brother from all the pain I had suffered, and God gave me that wish in an unexpected way.
+That loss was perhaps the biggest thing that shook our family, and yet it also brought some peace and comfort. My father wanted full custody of my brother, and that meant my innocent little brother would be introduced to my father’s newfound world of polyamory. However, my brother was safe with Jesus now and his innocence was never taken advantage of. One of my biggest desires was that I could protect my brother from all the pain I had suffered, and God granted that wish in an unexpected way.
 
 During that decade, I learned that the only person I could rely on was Christ Jesus, for He never held my stupid mistakes against me. During that time of pain and loneliness, God was teaching me how to depend on Him and trust Him entirely. The only Friend I had when I really needed someone was Jesus.

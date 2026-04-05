@@ -1,11 +1,13 @@
 ---
-created: 2025-10-12 21:00
-modified: 2025-10-12 21:04
+title: Rose Window
+created: 2025-10-12, 21:00
+modified: 2026-04-05, 15:52
 tags:
   - course/ART101
+  - 🌰
 ---
 
-> [!summa]
+> [!summary]
 > A large, **circular stained glass window** with **intricate designs** that resemble the petals of a rose. Common in **[[20251012184431|Gothic]] cathedrals**, rose windows often depict **biblical scenes or saints** and fill the interior with **colorful light**.
 
 ^06cc7c

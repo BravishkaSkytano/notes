@@ -1,11 +1,12 @@
 ---
-date: 2025-11-16
-created: 2025-11-16 21:18
-modified: 2026-03-07T19:23:00-05:00
+title: Realism
+description: An art style that depicts everyday life and ordinary people as they truly are, without idealizing.
+created: 2025-11-16, 21:18
+modified: 2026-04-05, 15:42
 tags:
   - course/ART101
   - movement
-description: An art style that depicts everyday life and ordinary people as they truly are, without idealizing.
+  - 🌰
 ---
 
 > [!summary] Realism

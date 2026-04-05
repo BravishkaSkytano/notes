@@ -1,12 +1,12 @@
 ---
 title: Roman triumphal arch
-date: 2025-10-06
-created: 2025-10-06 00:42
-modified: 2026-03-21T10:50:26-04:00
+created: 2025-10-06, 00:42
+modified: 2026-04-05, 15:50
 tags:
   - course/ART101/W1
   - architecture/monument
   - culture/Roman
+  - 🌱
 ---
 
 > [!summary]

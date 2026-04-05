@@ -1,23 +1,19 @@
 ---
-date: 2025-10-12
-created: 2025-10-12 20:37
-modified: 2025-10-12 21:00
+title: Ribbed Vault
+created: 2025-10-12, 20:37
+modified: 2026-04-05, 15:46
 tags:
   - course/ART101
-state: "[[Final]]"
-image: 00-09 System Management/05 Covers & Thumbnails/Ribbed Vault-1760316107980.webp
-feature: "[[Ribbed Vault-1760316107980.webp]]"
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/c8ef403cc619e65b380f296e8931cfc4_86cf658e.webp
+  - 🌱
+image: img/banners/ribbed-vault-1760316107980.webp
 ---
 
-> [!tldr] Ribbed Vault
+> [!summary]
 > A type of [[Vault]] where the ceiling’s **arches (ribs)** form a framework that supports the stone panels in between. This design made roofs **stronger and lighter**, allowing for **taller, more open interiors** and **larger windows**—a key feature of [[20251012184431|Gothic]] architecture.
-> 
-> ![[Ribbed Vault-1760316107980.webp|250x393]]
 
 ^bd2569
 
 **Example:** The **ribbed vaults** of **Salisbury Cathedral** in **England**.
 
-![[Ribbed Vault-1760316053936.webp|150x200]]
-![[Ribbed Vault-1760316083287.webp|430x266]]
+![[ribbed-vault-1760316053936.webp|150x200]]
+![[ribbed-vault-1760316083287.webp|430x266]]

@@ -1,52 +1,48 @@
 ---
-title: "Archangel's Kiss (Guild Hunter #2)"
-created: 2026-03-27, 11:28
-modified: 2026-04-04, 17:50
+title: "Throne of Glass (Throne of Glass #1)"
+created: 2026-04-04, 17:21
+modified: 2026-04-04, 21:04
 tags:
   - book
-cover: https://covers.openlibrary.org/b/OLID/OL24280932M-L.jpg
+  - 🍎
+cover: https://covers.openlibrary.org/b/OLID/OL35606216M-L.jpg
 aliases:
-  - Archangel’s Kiss
-  - "Guild Hunter #2"
 author:
-  - Nalini Singh
+  - Sarah J. Maas
 pages: unknown
 isbn: unknown
 isbn13: unknown
 published: "true"
-url: https://openlibrary.org/works/OL15168472W
-status: finished
+url: https://openlibrary.org/works/OL16607146W
+status: tbr
 read:
 lastRead:
 rating:
 dataSource: OpenLibraryAPI
 ---
 
-## Archangel's Kiss (Guild Hunter 2)
-
 > [!summary]
 unknown
 
-### Table of Contents
+## Table of Contents
 
 <!--Link to table of contents (TOC) -->
 - 
 
-### Notes
+## Notes
 
 <!-- The main content of my thoughts really -->
 - 
 
-### Quotes
+## Quotes
 
-- [[Reason without emotions is often a mask for cruelty]]
-- 
+<!-- Notable quotes with reference to their page or location -->
 
-### Bibliography
+## Bibliography
 
 ---
 
-### Back Matter
+## Back Matter
 
 **Source**
 <!-- Always keep a link to the source- -->

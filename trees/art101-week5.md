@@ -68,4 +68,4 @@ tags:
 
 11. [[🪴 A Sunday on La Grande Jatte]]
 
-12. [[20251117171649|American Gothic]]
+12. [[american gothic|American Gothic]]

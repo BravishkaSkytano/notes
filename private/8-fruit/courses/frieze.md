@@ -1,14 +1,13 @@
 ---
 title: Frieze
-date: 2025-10-06
-created: 2025-10-06 00:40
-modified: 2026-03-23T19:57:06-04:00
+created: 2025-10-06, 00:40
+modified: 2026-04-05, 15:38
 tags:
   - course/ART101/W1
   - architecture/panel
   - culture/Greek
   - culture/Roman
-needsUpdate: true
+  - 🌱
 ---
 
 > [!summary]

@@ -1,7 +1,9 @@
 ---
-date: 2025-10-12
-created: 2025-10-12 20:19
-modified: 2025-10-12 20:20
+title: Vault
+created: 2025-10-12, 20:19
+modified: 2026-04-05, 15:34
+tags:
+  - 🌰
 ---
 
 > [!tldr] Vault

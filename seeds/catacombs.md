@@ -1,5 +1,5 @@
 ---
-title: 🌰 Catacombs
+title: Catacombs
 created: 2025-10-12, 07:35
 modified: 2026-04-04, 17:59
 tags:

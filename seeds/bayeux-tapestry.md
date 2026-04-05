@@ -1,11 +1,12 @@
 ---
-title: 🌱 Bayeux Tapestry
+title: Bayeux Tapestry
 created: 2025-10-12, 09:10
-modified: 2026-04-04, 18:14
+modified: 2026-04-04, 20:25
 tags:
   - type/embroidery
   - culture/British
   - century/11
+  - 🌱
 image: img/banners/Bayeux Tapestry-1760317947129.webp
 ---
 

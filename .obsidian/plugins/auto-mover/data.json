@@ -2,22 +2,6 @@
   "moveOnOpen": true,
   "movingRules": [
     {
-      "regex": "🌰",
-      "folder": "seeds"
-    },
-    {
-      "regex": "🌱",
-      "folder": "sprouts"
-    },
-    {
-      "regex": "🪴",
-      "folder": "saplings"
-    },
-    {
-      "regex": "🌳",
-      "folder": "trees"
-    },
-    {
       "regex": "🌲",
       "folder": "forest"
     },
@@ -78,7 +62,24 @@
       "regex": "z-templates/"
     }
   ],
-  "tagRules": [],
+  "tagRules": [
+    {
+      "regex": "🌰",
+      "folder": "seeds"
+    },
+    {
+      "regex": "🌱",
+      "folder": "sprouts"
+    },
+    {
+      "regex": "🪴",
+      "folder": "saplings"
+    },
+    {
+      "regex": "🌳",
+      "folder": "trees"
+    }
+  ],
   "projectRules": [],
   "automaticMoving": true,
   "timer": 300000,
@@ -86,7 +87,7 @@
     "tutorial": false,
     "movingRules": false,
     "exclusionRules": false,
-    "tagRules": true,
+    "tagRules": false,
     "projectRules": false
   }
 }

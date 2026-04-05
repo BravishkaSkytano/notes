@@ -34,8 +34,40 @@
       "folder": "flowers/quotes"
     },
     {
-      "regex": "",
-      "folder": ""
+      "regex": "🌼",
+      "folder": "flowers/highlights"
+    },
+    {
+      "regex": "🌺",
+      "folder": "flowers/passages"
+    },
+    {
+      "regex": "🌻",
+      "folder": "flowers/ideas"
+    },
+    {
+      "regex": "🪷",
+      "folder": "flowers/prose"
+    },
+    {
+      "regex": "🍎",
+      "folder": "fruit/books"
+    },
+    {
+      "regex": "🍊",
+      "folder": "fruit/articles"
+    },
+    {
+      "regex": "🍇",
+      "folder": "fruit/podcasts"
+    },
+    {
+      "regex": "🍓",
+      "folder": "fruit/videos"
+    },
+    {
+      "regex": "🍌",
+      "folder": "fruit/courses"
     }
   ],
   "exclusionRules": [

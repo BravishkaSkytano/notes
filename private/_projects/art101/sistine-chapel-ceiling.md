@@ -1,8 +1,9 @@
 ---
-date: 2025-11-05
-created: 2025-11-05 10:09
-modified: 2025-11-05 22:19
+title: Sistine Chapel Ceiling
+created: 2025-11-05, 10:09
+modified: 2026-04-05, 13:04
 tags:
+  - 🌰
 ---
 
 > [!tldr] Sistine Chapel ceiling

@@ -1,14 +1,14 @@
 ---
-date: 2025-11-17
-created: 2025-11-17 15:03
-modified: 2025-11-17 15:13
+title: Le Moulin de la Galette
 description:
-image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/Le Moulin de la Galette-500x619.webp
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/6ebf262de0dcf209a348080e3f9ca092_86cf658e.webp
+created: 2025-11-17, 15:03
+modified: 2026-04-05, 13:10
+tags:
+  - 🌰
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg/330px-Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg
 ---
 
-> [!summary] Le Moulin de la Galette
-> ![[Le Moulin de la Galette-500x619.webp|250x310]]
+> [!summary]
 > **Type:** [[Painting]]
 > **Medium:** [[Oil on canvas|Oil on canvas]]
 > **Genre:** [[daily life]]

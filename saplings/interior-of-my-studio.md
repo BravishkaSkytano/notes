@@ -1,17 +1,17 @@
 ---
-date: 2025-11-17
-created: 2025-11-17 14:48
-modified: 2025-11-17 14:56
+title: Interior of My Studio
 description: Courbet’s large Realist painting showing his studio filled with people
+created: 2025-11-17, 14:48
+modified: 2026-04-05, 13:11
+tags:
+  - 🪴
 aliases:
   - The Artist's Studio
   - The Painter's Studio
-image: 20-29 Education & Career/21 Learning & Research/21.11 Active Studies/ART101/Interior of My Studio-960x566.webp
-thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/05b41ec6f92d3479f107673d4e05eccb_86cf658e.webp
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Courbet_LAtelier_du_peintre.jpg/500px-Courbet_LAtelier_du_peintre.jpg
 ---
 
-> [!summary] Interior of My Studio
-> ![[Interior of My Studio-960x566.webp|The Painter's Studio: A real allegory summing up seven years of my artistic and moral life|480x283]]
+> [!summary]
 > **Type:** [[Painting]]
 > **Medium:** [[Oil on canvas|Oil on canvas]]
 > **Genre:** [[daily life]]

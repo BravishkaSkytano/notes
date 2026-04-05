@@ -1,8 +1,9 @@
 ---
 title: Tapestry
-date: 2025-10-12
-created: 2025-10-12 21:06
-modified: 2026-03-11T02:51:24-04:00
+created: 2025-10-12, 21:06
+modified: 2026-04-05, 13:03
+tags:
+  - 🌱
 ---
 
 > [!tldr] Tapestry

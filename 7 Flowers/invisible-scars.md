@@ -1,17 +1,14 @@
 ---
 title: Invisible Scars
-created: 2024-10-15, 9:05
-modified: 2026-04-02, 2:14
+created: 2024-10-15, 09:05
+modified: 2026-04-04, 20:53
 tags:
   - theme/trauma
   - theme/mental-health
   - theme/abuse
   - reflection
-  - flower
-  - lotus
+  - 🪷
 ---
-
-# Invisible Scars
 
 “Do you know what the worst type of abuse is?”
 

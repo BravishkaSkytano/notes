@@ -1,16 +1,13 @@
 ---
 title: Fear and Envy, What A Pair
-created: 2024-10-08, 9:05
-modified: 2026-04-02, 2:12
+created: 2024-10-08, 09:05
+modified: 2026-04-04, 20:52
 tags:
   - reflection
   - theme/mental-health
-  - flower
-  - lotus
   - short-story
+  - 🪷
 ---
-
-# Fear and Envy, What A Pair
 
 “Mom is going out with a friend tonight, I think I’m gonna play Wakfu while she’s gone. Or, maybe I should start SWTOR instead. What do you think?”
 

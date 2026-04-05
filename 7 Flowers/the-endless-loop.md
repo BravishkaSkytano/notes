@@ -1,17 +1,14 @@
 ---
 title: The Endless Loop
 description:
-created: 2023-01-01, 5:49
-modified: 2026-04-02, 2:06
+created: 2023-01-01, 05:49
+modified: 2026-04-04, 20:50
 tags:
   - theme/depression
   - poetry
-  - lotus
-  - flower
+  - 🪷
 image: https://images.unsplash.com/photo-1692611912406-143abc53d2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw1NHx8ZW5kbGVzcyUyMGxvb3B8ZW58MHwwfHx8MTcyOTYxOTc1N3ww&ixlib=rb-4.0.3&q=80&w=1080
 ---
-
-# The Endless Loop
 
 I winced as another rock hit my skin.
 I feel like it left a mark

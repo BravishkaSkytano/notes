@@ -1,8 +1,8 @@
 ---
-title: 🌰 Nicolaus Copernicus
+title: Nicolaus Copernicus
 description: A Prussian polyglot, mathematician, astronomer, physician, classics scholar, translator, governor, diplomat, and economist
 created: 2026-02-27, 16:32
-modified: 2026-04-04, 18:46
+modified: 2026-04-04, 20:48
 tags:
   - person/astronomer
   - person/polyglot
@@ -17,6 +17,7 @@ tags:
   - period/renaissance
   - movement/copernican-revolution
   - movement/scientific-revolution
+  - 🌰
 aliases:
   - Copernicus
 ---

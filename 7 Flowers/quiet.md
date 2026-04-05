@@ -1,17 +1,13 @@
 ---
 title: Quiet
-created: 2024-08-24, 9:05
-modified: 2026-04-02, 2:06
+created: 2024-08-24, 09:05
+modified: 2026-04-04, 20:51
 tags:
   - theme/depression
   - poetry
-  - lotus
-  - flower
-date: 2024-08-24
+  - 🪷
 automatic-linker-exclude: true
 ---
-
-# Quiet
 
 Hey,
 Let me begin by saying,

@@ -1,16 +1,13 @@
 ---
 title: Thinking, Thinking, Thinking...
-created: 2022-05-06, 5:57
-modified: 2026-04-02, 2:06
+created: 2022-05-06, 05:57
+modified: 2026-04-04, 20:49
 tags:
   - theme/depression
   - poetry
-  - lotus
-  - flower
+  - 🪷
 image: https://images.unsplash.com/photo-1527137342181-19aab11a8ee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw4fHxkZXByZXNzaW9ufGVufDB8MHx8fDE3Mjk2MTQxNTJ8MA&ixlib=rb-4.0.3&q=80&w=1080
 ---
-
-# Thinking, Thinking, Thinking…
 
 Thoughts run around in my head.
 Thinking, thinking, thinking…

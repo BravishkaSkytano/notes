@@ -22,7 +22,7 @@
     },
     {
       "name": "Remove Special Chars",
-      "pattern": "[^a-z\\-_.]",
+      "pattern": "[^a-z0-9\\\\-_.]",
       "replace": "",
       "active": true,
       "description": "Removes anything that isn't a letter, number, dash, underscore, or dot."

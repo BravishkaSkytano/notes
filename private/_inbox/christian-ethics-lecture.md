@@ -1,7 +1,9 @@
 ---
-created: 2025-07-30 15:56
-modified: 2025-08-10 20:26
-view-count: 2
+title: Christian Ethics Lecture
+created: 2025-07-30, 15:56
+modified: 2026-04-05, 12:44
+tags:
+  - 🌱
 ---
 
 - Processionism

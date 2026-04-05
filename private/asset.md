@@ -1,4 +1,6 @@
 ---
+created: 2022-10-30, 18:57
+modified: 2026-04-05, 12:42
 tags:
   - type/term
   - theme/finance
@@ -6,8 +8,6 @@ tags:
   - target/starterkit
 aliases:
 lead: A useful or valuable thing, person, or quality.
-created: 2022-10-30, 18:57
-modified: 2026-03-25, 12:38
 ---
 
 <!-- Main content of my thoughts really -->

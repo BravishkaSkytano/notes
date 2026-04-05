@@ -1,14 +1,12 @@
 ---
 title: Outline for Light in the Shadows
 description: A young girl gets gang-rapped, ends up pregnant, and finds healing through the help of a Savior.
-created: 2024-10-14, 9:10
-modified: 2026-04-02, 12:59
+created: 2024-10-14, 09:10
+modified: 2026-04-05, 12:42
 tags:
   - outline
   - method/27-chapter
 ---
-
-# Outline for Light in the Shadows
 
 ## Act 1 - Setup
 

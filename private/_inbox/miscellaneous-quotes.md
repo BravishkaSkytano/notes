@@ -1,12 +1,10 @@
 ---
-up: 
-same: 
-date: 2024-01-16
+title: Miscellaneous Quotes
+created: 2025-08-07, 15:46
+modified: 2026-04-05, 12:49
 tags:
   - quotes
-modified: 2025-08-10 20:23
-created: 2025-08-07 15:46
-view-count: 1
+  - 🪴
 ---
 
 > [!QUOTE] Benjamin Franklin

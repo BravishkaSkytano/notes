@@ -1,15 +1,12 @@
 ---
 title: Aristotle
 created: 2026-02-13, 15:08
-modified: 2026-04-02, 14:22
+modified: 2026-04-05, 12:40
 tags:
   - person/philosopher
   - culture/Greek
-  - seed
-date: 2026-02-13
+  - 🌰
 ---
-
-# Aristotle
 
 > **Aristotle** ( ARR-iss-tot-əl; Greek: Ἀριστοτέλης Aristotélēs, pronounced [aristotélɛːs]; 384–322 BC) was an Ancient Greek philosopher and polymath. His writings cover a broad range of subjects spanning the natural sciences, Philosophy, linguistics, economics, politics, psychology, and the arts. As the founder of the Peripatetic school of philosophy in the Lyceum in Athens, he began the wider Aristotelian tradition that followed, which set the groundwork for the development of modern science.
 >

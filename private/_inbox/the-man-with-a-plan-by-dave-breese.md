@@ -1,7 +1,9 @@
 ---
-created: 2024-05-16 15:56
-modified: 2025-08-10 20:56
-view-count: 1
+title: The Man With A Plan by Dave Breese
+created: 2024-05-16, 15:56
+modified: 2026-04-05, 12:55
+tags:
+  - 🌺
 ---
 
 > The pavilion of the nations was an awesome place that day

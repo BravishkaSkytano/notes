@@ -1,8 +1,9 @@
 ---
-date: 2024-03-08
-draft: true
-tags: 
-modified: 2024-03-08T19:36:31-05:00
+title: My Testimony
+created: 2024-03-08, 11:28
+modified: 2026-04-05, 12:52
+tags:
+  - 🪷
 ---
 
 If I had to summarize my life in one sentence, it would probably be something like “during nearly ten years of rejection, abuse, fear, and loss, the only comfort I had was through the Man on the Cross.” Yes, I know, very poetic of me, but it’s true. For the first twelve years of my life, I had a typical [[20260311100618|Christian]] childhood. I went to church, memorized Bible verses, and sung all the songs. I also got to travel a bit because my father was in the military, and we would go back and forth between our houses in Georgia and Florida. We were not a perfect family, we were just an average, middle class family of five—two adults, two girls, and one little boy.

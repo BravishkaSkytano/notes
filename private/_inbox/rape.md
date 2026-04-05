@@ -1,12 +1,14 @@
 ---
-date: 2024-03-02
-draft: true
-tags: 
-modified: 2024-03-03T19:37:50-05:00
+title: Rape
+created: 2024-03-02, 00:00
+modified: 2026-04-05, 12:54
+tags:
+  - 🌰
 aliases:
   - rapped
   - molested
 ---
+
 ## Articles
 
 - [Rape Disguised as Romance: Why I Stop Reading Most Romance Novels  — Breaking Normal](https://talynnkel.com/blog/2016/1/20/rape-disguised-as-romance-why-i-stop-reading-most-romance-novels)

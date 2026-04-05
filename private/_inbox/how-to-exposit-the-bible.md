@@ -1,8 +1,9 @@
 ---
-created: 2023-11-29T14:29:00
 title: How to Exposit the Bible
+created: 2023-11-29, 14:29
+modified: 2026-04-05, 12:50
 tags:
   - 🌰
-modified:
 ---
+
 - How does it fit in the [[metanarrative]]?

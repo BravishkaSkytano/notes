@@ -316,9 +316,9 @@
         "type": "month"
       },
       "confirmCreation": false,
-      "nameTemplate": "{{date}}",
+      "nameTemplate": "index",
       "dateFormat": "YYYY-MM",
-      "folder": "journal/{{date:YYYY}}",
+      "folder": "journal/{{date:YYYY}}/{{date:MM}} - {{date:MMM}}",
       "templates": [
         "z-templates/monthly.md"
       ],

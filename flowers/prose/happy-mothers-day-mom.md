@@ -1,10 +1,11 @@
 ---
-title: 🪷 Happy Mother's Day, Mom
+title: Happy Mother's Day, Mom
 description: A poem I wrote for Mother’s Day.
 created: 2020-05-05, 06:28
 modified: 2026-04-04, 19:01
 tags:
   - poetry
+  - 🪷
 ---
 
 You know that feeling you get when you've became one year older?

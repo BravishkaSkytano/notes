@@ -1,7 +1,7 @@
 ---
-title: 🪴 Arrangement in Gray and Black No 1
+title: Arrangement in Gray and Black No 1
 created: 2025-11-16, 10:18
-modified: 2026-04-04, 18:37
+modified: 2026-04-04, 20:45
 tags:
   - type/painting
   - medium/oil
@@ -10,6 +10,7 @@ tags:
   - theme/daily-life
   - style/realism
   - culture/american
+  - 🪴
 image: img/banners/Arrangement in Gray and Black No 1-960x854.webp
 aliases:
   - Whistler's Mother

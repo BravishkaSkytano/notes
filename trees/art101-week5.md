@@ -1,11 +1,11 @@
 ---
 title: "ART101: Week 5 - Enlightenment and Modern Period"
 created: 2025-11-16, 19:25
-modified: 2026-04-04, 18:55
+modified: 2026-04-04, 20:37
 tags:
   - type/worksheet
   - course/ART101
-  - 🌳
+  - 🌴
 ---
 
 ## Terms to Define

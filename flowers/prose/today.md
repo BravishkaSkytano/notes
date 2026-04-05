@@ -1,9 +1,10 @@
 ---
-title: 🪷 Today
+title: Today
 created: 2020-05-02, 09:05
-modified: 2026-04-04, 18:59
+modified: 2026-04-04, 20:42
 tags:
   - poetry
+  - 🪷
 ---
 
 Sometimes I wonder what's different 'bout today

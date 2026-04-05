@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-04-04, 20:00
+modified: 2026-04-04, 20:38
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---
@@ -40,7 +40,7 @@ In progress, on purpose.
 
 ![[saplings/index#^a0e3a5|🪴 Sapplings]]
 
-### 🌳 Trees — Mature Knowledge
+### 🌴 Trees — Mature Knowledge
 
 ![[trees/index#^f41bb6|🌳 Trees]]
 

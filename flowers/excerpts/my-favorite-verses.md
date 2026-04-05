@@ -1,9 +1,10 @@
 ---
-title: 🌼 My Favorite Verses
+title: My Favorite Verses
 created: 2024-03-18, 10:29
 modified: 2026-04-04, 18:31
 tags:
   - Bible
+  - 🌼
 ---
 
 > [!quote] [[Galatians 3#3|Galatians 3:3]]

@@ -1,8 +1,8 @@
 ---
-title: 🪴 A Sunday on La Grande Jatte
+title: A Sunday on La Grande Jatte
 description: Seurat’s pointillist park scene with figures in profile.
 created: 2025-11-17, 03:35
-modified: 2026-04-04, 18:39
+modified: 2026-04-04, 20:44
 tags:
   - type/painting
   - medium/oil
@@ -12,6 +12,7 @@ tags:
   - movement/post-impressionism
   - style/post-impressionism
   - style/pointillism
+  - 🪴
 image: img/banners/A Sunday on La Grande Jatte-960x639.webp
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte

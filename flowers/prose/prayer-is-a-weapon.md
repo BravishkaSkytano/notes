@@ -1,10 +1,11 @@
 ---
-title: 🪷 Prayer is a Weapon
+title: Prayer is a Weapon
 created: 2020-05-03, 10:35
-modified: 2026-04-04, 18:59
+modified: 2026-04-04, 20:41
 tags:
   - theme/prayer
   - poetry
+  - 🪷
 ---
 
 Prayer is a weapon.

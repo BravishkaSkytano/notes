@@ -1,12 +1,12 @@
----🗓️ {{title}}
+---
+title: 🗓️ {{title}}
 tags:
   - journal/yearly
 created: {{current_date}}
 ---
-# 
 
 ## 🎯 Yearly Themes & Goals
-- <% tp.file.cursor() %>
+- 
 
 ## 🚫 Anti-Goals (what I won’t do)
 - 

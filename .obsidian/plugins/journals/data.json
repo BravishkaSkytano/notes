@@ -20,7 +20,7 @@
       "confirmCreation": false,
       "nameTemplate": "{{date}}",
       "dateFormat": "YYYY-MM-DD",
-      "folder": "journal/{{date:YYYY}}/{{date:MM}} - {{date:MMM}}",
+      "folder": "journal/{{date:YYYY}}/{{date:MM}}  {{date:MMMM}}",
       "templates": [
         "z-templates/daily.md"
       ],
@@ -318,7 +318,7 @@
       "confirmCreation": false,
       "nameTemplate": "index",
       "dateFormat": "YYYY-MM",
-      "folder": "journal/{{date:YYYY}}/{{date:MM}} - {{date:MMM}}",
+      "folder": "journal/{{date:YYYY}}/{{date:MM}} {{date:MMMM}}",
       "templates": [
         "z-templates/monthly.md"
       ],

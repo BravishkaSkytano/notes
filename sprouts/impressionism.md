@@ -27,7 +27,7 @@ aliases:
 
 ## Historical Context
 
-Reaction against academic, polished [[realism|Realism]].
+Reaction against academic, polished realism.
 
 ## Resources
 

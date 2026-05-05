@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-05-04, 21:57
+modified: 2026-05-05, 11:52
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---
@@ -54,9 +54,10 @@ Ideas are planted, revisited, and grown all at their own pace.
 	- 🌺 Beautiful or emotionally striking passages  
 	- 🌻 Big or attention-grabbing ideas
 	- 🪷 Poems written by me
-- [[fruit/index|🍎 Fruit]] -> Nourishment; processed sources that I have engaged with and learned from.
+- [[fruit/index|🍎 Fruit]] -> Usable resources; processed sources that I have engaged with and learned from.
 	- 🍎 Books
 	- 🍊 Articles / essays
 	- 🍇 Podcasts
 	- 🍓 Videos / talks
 	- 🍌 Courses / lectures
+	- 🍑🍍🍉

@@ -77,6 +77,14 @@
     {
       "regex": "🍌",
       "folder": "fruit/courses"
+    },
+    {
+      "regex": "🍑",
+      "folder": "fruit/crochet"
+    },
+    {
+      "regex": "🍉",
+      "folder": "fruit/knitting"
     }
   ],
   "projectRules": [],

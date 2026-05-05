@@ -1,7 +1,7 @@
 ---
 title: 🍎 Fruit
 created: 2026-04-01, 11:37
-modified: 2026-05-04, 21:56
+modified: 2026-05-05, 12:03
 order: 8
 ---
 
@@ -13,6 +13,8 @@ order: 8
 > - 🍇 Podcasts
 > - 🍓 Videos / talks
 > - 🍌 Courses / lectures
+> - [[fruit/crochet/index|🍑 Crochet]]
+> - 🍉 Knitting
 > 
 > These feed and strengthen my ideas 🌱🌳
 

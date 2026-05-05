@@ -464,6 +464,11 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "fruit/crochet/index.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {},

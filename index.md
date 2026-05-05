@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-04-04, 20:38
+modified: 2026-05-04, 21:54
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 ---
@@ -24,42 +24,6 @@ Nothing here is final. Everything is alive.
 
 In progress, on purpose.
 
----
-
-## 🌱 Garden Directory
-
-### 🌰 Seeds — Fleeting Ideas
-
-![[seeds/index#^6e75e1|🌰 Seeds]]
-
-### 🌱 Sprouts — Early Development
-
-![[sprouts/index#^a47e8f|🌱 Sprouts]]
-
-### 🪴 Saplings — Structured Notes
-
-![[saplings/index#^a0e3a5|🪴 Sapplings]]
-
-### 🌴 Trees — Mature Knowledge
-
-![[trees/index#^f41bb6|🌳 Trees]]
-
-### 🌲 Forest — Big Picture
-
-![[forest/index#^f4a309|🌲 Forest]]
-
-### 🍂 Compost — Archived
-
-![[compost/index#^ee438d|🍂 Compost]]
-
-### 🌺 Flowers — Inspiration
-
-![[flowers/index#^e6d1dc|🌺 Flowers]]
-
-### 🍎 Fruit — Nourishment
-
-![[fruit/index#^262e68|🍎 Fruit]]
-
 ## 🌿 How to Read This Garden
 
 - Follow links to see how ideas connect  
@@ -73,5 +37,15 @@ This is a living system. It evolves over time.
 This garden is not about collecting information.  
 It’s about cultivating understanding.
 
-Ideas are planted, revisited, and grown  
-at their own pace.
+Ideas are planted, revisited, and grown all at their own pace.
+
+## 🌱 Garden Directory
+
+- [[seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
+- [[sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
+- [[saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
+- [[trees/index|🌴 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
+- [[forest/index|🌲 Forest]] -> Big picture; collections of ideas working together.
+- [[compost/index|🍂 Compost]] -> Archived; old or unused notes.
+- [[flowers/index|🌸 Flowers]] -> Inspiration; unprocessed or lightly processed sources.
+- [[fruit/index|🍎 Fruit]] -> Nourishment; processed sources that I have engaged with and learned from.

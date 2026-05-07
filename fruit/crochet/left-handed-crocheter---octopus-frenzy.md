@@ -18,7 +18,7 @@ tags:
 - **Status:** 🌱 Planned / 🪡 In Progress / 🌸 Finished
 
 ## 🔗 Source
-- Original Pattern: [Link]
+- Original Pattern: [Octopus Frenzy \|](https://lefthandedcrocheter.com/2016/08/16/octopus-frenzy)
 - Designer: Left-Handed Crocheter
 
 

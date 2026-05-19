@@ -10,6 +10,13 @@ created: 2026-05-19
 tags:
   - "🍓"
   - "new"
+  - "palia-tricks"
+  - "palia-gameplay"
+  - "palia-tips"
+  - "palia-alt-placement"
+  - "palia-decorating"
+  - "palia-decor-tricks"
+  - "palia-new-player-help"
 ---
 ![](https://www.youtube.com/watch?v=RwDk2QhAovg)
 

@@ -2,6 +2,7 @@ filters:
   and:
     - file.name != "index"
     - '!file.folder.startsWith("z-templates")'
+    - file.ext == "md"
 views:
   - type: table
     name: Missing metadata
@@ -137,15 +138,18 @@ views:
       file.name: 132
       note.title: 215
       note.tags: 208
-  - type: list
+  - type: cards
     name: Fruit
     filters:
       and:
-        - file.tags.contains("fruit")
+        - file.folder.startsWith("fruit")
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
-      - file.name
-      - tags
+      - title
       - description
+      - file.tags
     sort: []
     indentProperties: true
     markers: bullet
@@ -153,6 +157,8 @@ views:
       file.name: 132
       note.title: 215
       note.tags: 208
+    image: note.cover
+    imageAspectRatio: 0.8
   - type: list
     name: Status Unknown
     filters:

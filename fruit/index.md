@@ -1,7 +1,7 @@
 ---
 title: 🍎 Fruit
 created: 2026-04-01, 11:37
-modified: 2026-05-10, 12:12
+modified: 2026-05-19, 22:58
 order: 8
 ---
 
@@ -21,3 +21,7 @@ order: 8
 > These feed and strengthen my ideas 🌱🌳
 
 ^262e68
+
+%%
+![[dashboard.base#Fruit]]
+%%

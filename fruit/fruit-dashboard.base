@@ -1,0 +1,51 @@
+filters:
+  and:
+    - file.name != "index"
+    - file.ext == "md"
+    - file.folder.startsWith("fruit")
+views:
+  - type: cards
+    name: All
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - title
+      - description
+      - file.tags
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
+    image: note.cover
+    imageAspectRatio: 0.8
+  - type: cards
+    name: Crochet
+    filters:
+      and:
+        - file.inFolder("fruit/crochet")
+    order:
+      - title
+      - file.tags
+    image: note.cover
+    imageAspectRatio: 1
+    imageFit: contain
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.inFolder("fruit/books")
+    groupBy:
+      property: status
+      direction: DESC
+    order:
+      - title
+      - author
+      - rating
+      - file.tags
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.55

@@ -1,12 +1,8 @@
 ---
 title: "Palia- Ten (More) Tricks That Players Should Know! #palia"
-author:
-  - "[[Ravynia Gaming]]"
-published: 2025-11-27
 description: "The amount of \"omg, how did I not know this?\" comments I've been getting lately has been crazy! So here is a mix of tricks you may know or may not for early ..."
-source: "https://www.youtube.com/watch?v=RwDk2QhAovg"
-cover: "https://i.ytimg.com/vi/RwDk2QhAovg/maxresdefault.jpg"
-created: 2026-05-19
+created: 2026-05-19, 00:00
+modified: 2026-05-19, 22:51
 tags:
   - "🍓"
   - "new"
@@ -17,7 +13,13 @@ tags:
   - "palia-decorating"
   - "palia-decor-tricks"
   - "palia-new-player-help"
+cover: "https://i.ytimg.com/vi/RwDk2QhAovg/maxresdefault.jpg"
+author:
+  - "[[Ravynia Gaming]]"
+published: 2025-11-27
+source: "https://www.youtube.com/watch?v=RwDk2QhAovg"
 ---
+
 ![](https://www.youtube.com/watch?v=RwDk2QhAovg)
 
 ## Transcript

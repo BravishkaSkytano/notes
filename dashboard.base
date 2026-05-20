@@ -1,8 +1,8 @@
 filters:
   and:
-    - file.name != "index"
     - '!file.folder.startsWith("z-templates")'
     - file.ext == "md"
+    - file.name != "index"
 views:
   - type: table
     name: Missing metadata

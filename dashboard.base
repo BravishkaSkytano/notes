@@ -138,27 +138,6 @@ views:
       file.name: 132
       note.title: 215
       note.tags: 208
-  - type: cards
-    name: Fruit
-    filters:
-      and:
-        - file.folder.startsWith("fruit")
-    groupBy:
-      property: file.folder
-      direction: ASC
-    order:
-      - title
-      - description
-      - file.tags
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-    image: note.cover
-    imageAspectRatio: 0.8
   - type: list
     name: Status Unknown
     filters:

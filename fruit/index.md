@@ -1,7 +1,7 @@
 ---
 title: 🍎 Fruit
 created: 2026-04-01, 11:37
-modified: 2026-05-19, 23:06
+modified: 2026-05-19, 23:27
 order: 8
 ---
 
@@ -11,7 +11,7 @@ order: 8
 > - [[fruit/books/index|🍎 Books]]
 > - 🍊 Articles / essays
 > - 🍇 Podcasts
-> - 🍓 Videos / talks
+> - [[fruit/videos/index|🍓 Videos]]
 > - 🍌 Courses / lectures
 > - [[fruit/crochet/index|🍑 Crochet]]
 > - 🍉 Knitting
@@ -23,5 +23,5 @@ order: 8
 ^262e68
 
 %%
-![[dashboard.base#Fruit]]
+![[fruit-dashboard.base]]
 %%

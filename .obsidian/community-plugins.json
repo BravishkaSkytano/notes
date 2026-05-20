@@ -17,14 +17,11 @@
   "obisidian-note-linker",
   "obligator",
   "obsidian-contextual-typography",
-  "file-title-updater",
   "dataview",
   "obsidian-media-db-plugin",
   "auto-mover",
   "file-explorer-note-count",
   "obsidian-front-matter-title-plugin",
   "vault-file-renamer",
-  "journals",
-  "notes-explorer",
-  "project-browser"
+  "journals"
 ]

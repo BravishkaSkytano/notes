@@ -90,6 +90,7 @@
   "projectRules": [],
   "automaticMoving": true,
   "timer": 300000,
+  "debugLogging": false,
   "collapseSections": {
     "tutorial": true,
     "movingRules": true,

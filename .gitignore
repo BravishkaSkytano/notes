@@ -18,6 +18,7 @@
 # 🧹 Ignore system or backup files
 .DS_Store
 Thumbs.db
+**/*.lock
 
 # 💻 Ignore Obsidian workspace and appearance files
 # These track open tabs, layout, theme, and other local UI details.

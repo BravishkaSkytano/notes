@@ -8,6 +8,8 @@ tags:
 aliases:
   - Notre-Dame
   - Notre-Dame Cathedral
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 A famous **[[20251012184431|Gothic]] cathedral** in Paris, France, begun in 1163 and mostly completed by 1345. It is known for its **pointed arches**, **[[Flying Buttress|flying buttress]]es**, **soaring towers**, **stained glass windows** (like the [[Rose Window]]), and **sculptural decoration** depicting biblical scenes.

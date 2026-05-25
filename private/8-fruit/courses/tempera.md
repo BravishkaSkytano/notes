@@ -6,6 +6,8 @@ feature:
 tags:
   - course/ART101
   - type/painting
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Tempera

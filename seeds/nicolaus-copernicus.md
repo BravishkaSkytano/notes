@@ -20,6 +20,8 @@ tags:
   - 🌰
 aliases:
   - Copernicus
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

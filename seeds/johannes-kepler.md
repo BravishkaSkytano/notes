@@ -12,6 +12,8 @@ tags:
   - culture/german
   - movement/scientific-revolution
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

@@ -6,6 +6,8 @@ tags:
   - course/ART101/W1
   - person/sculptor
 needsUpdate: true
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

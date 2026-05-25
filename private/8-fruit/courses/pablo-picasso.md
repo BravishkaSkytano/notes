@@ -9,6 +9,8 @@ tags:
   - movement/surrealism
   - country/spain
   - century/20th
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Pablo Picasso

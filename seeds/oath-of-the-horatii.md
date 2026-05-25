@@ -7,6 +7,8 @@ tags:
   - course/ART101
   - 🌰
 image: img/banners/Oath of the Horatii-960x744.webp
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

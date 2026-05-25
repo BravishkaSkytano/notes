@@ -3,6 +3,8 @@ title: 🍎 Fruit
 created: 2026-04-01, 11:37
 modified: 2026-05-24, 21:29
 order: 8
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!Info]

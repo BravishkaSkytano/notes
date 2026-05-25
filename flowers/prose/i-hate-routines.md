@@ -6,6 +6,8 @@ tags:
   - theme/depression
   - poetry
   - 🪷
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 I hate routines,

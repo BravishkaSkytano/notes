@@ -2,7 +2,10 @@
 title: 🗓️ {{title}}
 tags:
   - journal/yearly
-created: {{current_date}}
+created:
+  "{ current_date }":
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ## 🎯 Yearly Themes & Goals

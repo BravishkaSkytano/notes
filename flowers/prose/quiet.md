@@ -7,6 +7,8 @@ tags:
   - poetry
   - 🪷
 automatic-linker-exclude: true
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 Hey,

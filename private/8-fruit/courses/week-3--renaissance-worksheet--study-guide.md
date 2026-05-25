@@ -6,6 +6,8 @@ tags:
   - course/ART101
   - type/worksheet
 description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ## 📘 Terms to Define

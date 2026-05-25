@@ -5,6 +5,8 @@ modified: 2026-04-04, 20:24
 tags:
   - architecture
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

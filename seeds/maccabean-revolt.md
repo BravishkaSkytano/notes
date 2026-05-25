@@ -4,6 +4,8 @@ created: 2026-03-02, 08:46
 modified: 2026-04-04, 20:32
 tags:
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

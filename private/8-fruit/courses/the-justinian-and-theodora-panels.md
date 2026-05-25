@@ -8,6 +8,8 @@ state: "[[Drafting]]"
 image: 00-09 System Management/05 Covers & Thumbnails/The Justinian Panels.webp
 feature: "[[The Justinian Panels.webp]]"
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/c216be044cfea9257493b86b800a382c_86cf658e.webp
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 The Justinian and Theodora panels in the Church of San Vitale in Ravenna, Italy, are two of the most renowned [[20251012200052|mosaic]]s from the early Byzantine period, created around 547 CE. These mosaics are located on opposite sides of the [[🌰 Apse|Apse]], facing each other, and depict Emperor Justinian I and Empress Theodora with their respective retinues in a liturgical procession. The panels serve as powerful symbols of imperial authority and divine right, asserting the political and religious power of the [[🌰 Byzantine Empire|Byzantine Empire]] following its conquest of Ravenna from the Ostrogoths in 540 CE.

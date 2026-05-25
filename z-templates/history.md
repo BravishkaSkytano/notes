@@ -1,9 +1,12 @@
 ---
 title:
 description:
-date: {{date}}
+date:
+  "{ date }":
 created:
 modified:
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 > [!summary]
 > **Time Frame:**  

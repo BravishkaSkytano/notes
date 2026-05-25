@@ -16,6 +16,8 @@ tags:
 image: img/banners/A Sunday on La Grande Jatte-960x639.webp
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

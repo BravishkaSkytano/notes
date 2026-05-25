@@ -2,7 +2,10 @@
 title: 📆 {{title}}
 tags:
   - journal/daily
-created: {{current_date}}
+created:
+  "{ current_date }":
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ## 🎯 One Big Thing (Outcome)

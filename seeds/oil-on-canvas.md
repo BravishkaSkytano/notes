@@ -5,6 +5,8 @@ modified: 2026-04-04, 21:23
 tags:
   - course/ART101/W3
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

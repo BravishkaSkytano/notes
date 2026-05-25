@@ -6,6 +6,8 @@ tags:
   - type/worksheet
   - course/ART101
   - 🌴
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ## Terms to Define

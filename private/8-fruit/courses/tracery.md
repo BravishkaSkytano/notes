@@ -5,6 +5,8 @@ modified: 2025-10-12 21:07
 tags:
   - course/ART101
 state: "[[Final]]"
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Tracery

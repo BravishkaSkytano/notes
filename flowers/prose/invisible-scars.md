@@ -8,6 +8,8 @@ tags:
   - theme/abuse
   - reflection
   - 🪷
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 “Do you know what the worst type of abuse is?”

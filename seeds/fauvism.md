@@ -8,6 +8,8 @@ tags:
   - century/20th
   - country/france
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Fauvism

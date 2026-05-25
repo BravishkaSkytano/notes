@@ -7,6 +7,8 @@ tags:
   - medium/marble
   - medium/bronze
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

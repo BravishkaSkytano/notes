@@ -3,6 +3,8 @@ description: A quick look at the callouts available.
 created: 2023-12-12, 6:42
 modified: 2026-04-01, 6:55
 automatic-linker-exclude: true
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!note]- Note

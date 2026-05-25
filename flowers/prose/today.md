@@ -5,6 +5,8 @@ modified: 2026-04-04, 20:42
 tags:
   - poetry
   - 🪷
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 Sometimes I wonder what's different 'bout today

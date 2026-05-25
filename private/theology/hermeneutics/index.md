@@ -7,6 +7,8 @@ modified: 2026-03-16T10:48:21-04:00
 tags:
   - type/theory
   - type/literary-theory
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

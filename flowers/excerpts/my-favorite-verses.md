@@ -5,6 +5,8 @@ modified: 2026-04-04, 18:31
 tags:
   - Bible
   - 🌼
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!quote] [[Galatians 3#3|Galatians 3:3]]

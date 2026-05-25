@@ -6,6 +6,8 @@ tags:
   - movement
   - subject/science
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

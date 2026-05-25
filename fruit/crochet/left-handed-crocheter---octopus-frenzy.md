@@ -5,6 +5,8 @@ modified: 2026-05-06, 20:07
 cover: https://lefthandedcrocheter.com/wp-content/uploads/2016/08/img_5715.jpg
 tags:
   - 🍑
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 

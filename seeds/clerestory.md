@@ -6,6 +6,8 @@ tags:
   - style/gothic
   - architecture
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

@@ -6,6 +6,8 @@ tags:
   - course/ART101
   - medium/marble
 feature:
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Moses (sculpture)

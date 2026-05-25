@@ -5,6 +5,8 @@ modified: 2025-10-12 20:32
 tags:
   - course/ART101
 state: "[[Final]]"
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Nave

@@ -19,6 +19,8 @@ read:
 lastRead:
 rating:
 dataSource: OpenLibraryAPI
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

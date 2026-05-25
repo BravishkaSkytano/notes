@@ -8,6 +8,8 @@ tags:
   - culture/Greek
   - culture/Roman
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Classical

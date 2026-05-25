@@ -9,6 +9,8 @@ tags:
   - person/architect
 image: 20–29 Education & Career/20 Management for Education & Career/20.01 Inbox/ART101/Raphael-500x682.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/0613a1ceaea6231b8b91d1353b230d8b_86cf658e.webp
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Raphael

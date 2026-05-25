@@ -8,6 +8,8 @@ tags:
   - movement/surrealism
   - century/20th
   - country/europe
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Surrealism

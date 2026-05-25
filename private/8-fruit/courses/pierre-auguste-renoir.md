@@ -9,6 +9,8 @@ tags:
   - country/france
   - century/19th
   - century/20th
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Pierre-Auguste Renoir

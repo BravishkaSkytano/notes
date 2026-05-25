@@ -6,6 +6,8 @@ tags:
   - course/ART101
   - movement
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Humanism

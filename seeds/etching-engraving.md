@@ -5,6 +5,8 @@ modified: 2026-04-04, 21:26
 tags:
   - course/ART101
   - 🌰
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Etching/Engraving

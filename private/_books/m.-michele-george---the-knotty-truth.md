@@ -16,6 +16,8 @@ aliases:
   - The Knotty Truth (Book)
 feature: "[[http://books.google.com/books/content?id=h3uSXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api]]"
 draft: true
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ![cover|150|150x150](http://books.google.com/books/content?id=h3uSXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)

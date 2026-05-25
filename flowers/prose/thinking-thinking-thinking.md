@@ -7,6 +7,8 @@ tags:
   - poetry
   - 🪷
 image: https://images.unsplash.com/photo-1527137342181-19aab11a8ee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw4fHxkZXByZXNzaW9ufGVufDB8MHx8fDE3Mjk2MTQxNTJ8MA&ixlib=rb-4.0.3&q=80&w=1080
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 Thoughts run around in my head.

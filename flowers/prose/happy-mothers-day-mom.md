@@ -6,6 +6,8 @@ modified: 2026-04-04, 19:01
 tags:
   - poetry
   - 🪷
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 You know that feeling you get when you've became one year older?

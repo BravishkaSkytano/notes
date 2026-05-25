@@ -9,6 +9,8 @@ tags:
   - century/18th
   - century/19th
   - person/painter
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Jacques-Louis David

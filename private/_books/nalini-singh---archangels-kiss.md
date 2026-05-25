@@ -4,6 +4,8 @@ date: 2024-02-27
 created: 2024-02-27 15:27
 modified: 2026-03-27, 23:30
 draft: true
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ## Quotes

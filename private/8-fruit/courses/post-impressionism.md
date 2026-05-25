@@ -10,6 +10,8 @@ tags:
   - country/europe
 aliases:
   - Post-Impressionist
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Post-Impressionism

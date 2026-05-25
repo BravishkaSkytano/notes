@@ -11,6 +11,8 @@ tags:
   - 🌰
 aliases:
   - Doric
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

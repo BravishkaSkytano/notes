@@ -14,6 +14,8 @@ author:
   - "[[Productivity Game]]"
 published: 2022-07-24
 source: https://www.youtube.com/watch?v=JnS3g68zCXw
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ![](https://www.youtube.com/watch?v=JnS3g68zCXw)

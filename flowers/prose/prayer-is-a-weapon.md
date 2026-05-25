@@ -6,6 +6,8 @@ tags:
   - theme/prayer
   - poetry
   - 🪷
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 Prayer is a weapon.

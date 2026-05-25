@@ -21,6 +21,8 @@ read:
 lastRead:
 rating:
 dataSource: OpenLibraryAPI
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ## Archangel's Kiss (Guild Hunter 2)

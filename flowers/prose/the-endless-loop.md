@@ -8,6 +8,8 @@ tags:
   - poetry
   - 🪷
 image: https://images.unsplash.com/photo-1692611912406-143abc53d2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw1NHx8ZW5kbGVzcyUyMGxvb3B8ZW58MHwwfHx8MTcyOTYxOTc1N3ww&ixlib=rb-4.0.3&q=80&w=1080
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 I winced as another rock hit my skin.

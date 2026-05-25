@@ -6,6 +6,8 @@ tags:
   - course/ART101
   - type/sculpture
 feature:
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Pietà

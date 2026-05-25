@@ -12,6 +12,8 @@ tags:
 aliases:
   - Il Duomo
   - Duomo di Firenze
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Cathedral of Florence

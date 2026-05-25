@@ -1,23 +1,25 @@
 ---
 title: "Palia- Ten (More) Tricks That Players Should Know! #palia"
-description: "The amount of \"omg, how did I not know this?\" comments I've been getting lately has been crazy! So here is a mix of tricks you may know or may not for early ..."
+description: The amount of "omg, how did I not know this?" comments I've been getting lately has been crazy! So here is a mix of tricks you may know or may not for early ...
 created: 2026-05-19, 00:00
 modified: 2026-05-19, 22:51
 tags:
-  - "🍓"
-  - "new"
-  - "palia-tricks"
-  - "palia-gameplay"
-  - "palia-tips"
-  - "palia-alt-placement"
-  - "palia-decorating"
-  - "palia-decor-tricks"
-  - "palia-new-player-help"
-cover: "https://i.ytimg.com/vi/RwDk2QhAovg/maxresdefault.jpg"
+  - 🍓
+  - new
+  - palia-tricks
+  - palia-gameplay
+  - palia-tips
+  - palia-alt-placement
+  - palia-decorating
+  - palia-decor-tricks
+  - palia-new-player-help
+cover: https://i.ytimg.com/vi/RwDk2QhAovg/maxresdefault.jpg
 author:
   - "[[Ravynia Gaming]]"
 published: 2025-11-27
-source: "https://www.youtube.com/watch?v=RwDk2QhAovg"
+source: https://www.youtube.com/watch?v=RwDk2QhAovg
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 ![](https://www.youtube.com/watch?v=RwDk2QhAovg)

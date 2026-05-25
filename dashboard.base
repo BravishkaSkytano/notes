@@ -2,19 +2,18 @@ filters:
   and:
     - '!file.folder.startsWith("z-templates")'
     - file.ext == "md"
-    - file.name != "index"
 views:
   - type: table
     name: Missing metadata
     filters:
       and:
-        - file.ext == "md"
         - or:
             - description.isEmpty()
             - created.isEmpty()
             - file.tags.isEmpty()
+            - note["obsidian-note-status"].isEmpty()
     groupBy:
-      property: file.folder
+      property: obsidian-note-status
       direction: ASC
     order:
       - file.name
@@ -23,9 +22,26 @@ views:
       - description
       - file.tags
       - created
+      - obsidian-note-status
     summaries:
-      file.name: Empty
+      file.name: Filled
     indentProperties: true
+  - type: list
+    name: Status Unknown
+    filters:
+      and:
+        - note["obsidian-note-status"].isEmpty()
+    order:
+      - file.name
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
   - type: list
     name: Seeds
     filters:
@@ -47,9 +63,10 @@ views:
     name: Sprouts
     filters:
       and:
-        - file.tags.contains("sprout")
+        - note["obsidian-note-status"].contains("digital-garden-workflow:sprout")
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
@@ -63,25 +80,10 @@ views:
     name: Saplings
     filters:
       and:
-        - file.tags.contains("sapling")
+        - note["obsidian-note-status"].contains("digital-garden-workflow:sapling")
     order:
       - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Trees
-    filters:
-      and:
-        - file.tags.contains("tree")
-    order:
-      - file.name
+      - title
       - tags
       - description
     sort: []
@@ -98,55 +100,7 @@ views:
         - note["obsidian-note-status"].contains("digital-garden-workflow:map")
     order:
       - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Compost
-    filters:
-      and:
-        - file.tags.contains("compost")
-    order:
-      - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Flowers
-    filters:
-      and:
-        - file.tags.contains("flower")
-    order:
-      - file.name
-      - tags
-      - description
-    sort: []
-    indentProperties: true
-    markers: bullet
-    columnSize:
-      file.name: 132
-      note.title: 215
-      note.tags: 208
-  - type: list
-    name: Status Unknown
-    filters:
-      and:
-        - '!file.tags.containsAny("seed", "sprout", "sappling", "tree", "forest", "compost", "fruit", "flower")'
-        - file.ext == "md"
-    order:
-      - file.name
+      - title
       - tags
       - description
     sort: []

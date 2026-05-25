@@ -20,3 +20,4 @@ obsidian-note-status:
 ^6e75e1
 
 ![[dashboard.base#Seeds]]
+![[index#🌱 Garden Directory|Home]]

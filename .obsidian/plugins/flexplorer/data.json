@@ -5,7 +5,7 @@
       "isHidden": false,
       "sortOrder": "byName",
       "customOrder": [
-        "20240116143156.md",
+        "career-goals-essay.md",
         "dashboard.base",
         "compost",
         "flowers",
@@ -22,10 +22,6 @@
         "trees",
         "z-templates"
       ]
-    },
-    "20240116143156.md": {
-      "isPinned": false,
-      "isHidden": false
     },
     "dashboard.base": {
       "isPinned": false,
@@ -1583,6 +1579,10 @@
       "isHidden": false
     },
     "z-templates/yearly.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "career-goals-essay.md": {
       "isPinned": false,
       "isHidden": false
     }

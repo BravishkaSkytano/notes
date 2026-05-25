@@ -154,7 +154,7 @@
   "devMode": false,
   "templateFolderPath": "z-templates",
   "announceUpdates": "major",
-  "version": "2.12.1",
+  "version": "2.12.2",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,

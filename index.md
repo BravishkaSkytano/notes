@@ -5,6 +5,8 @@ created: 2026-02-13, 03:08
 modified: 2026-05-05, 12:03
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
+obsidian-note-status:
+  - digital-garden-workflow:map
 ---
 
 This is not a library of conclusions.
@@ -40,6 +42,8 @@ It’s about cultivating understanding.
 Ideas are planted, revisited, and grown all at their own pace.
 
 ## 🌱 Garden Directory
+
+^d4e535
 
 - [[seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
 - [[sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.

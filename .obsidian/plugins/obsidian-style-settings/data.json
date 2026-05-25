@@ -52,7 +52,7 @@
   "V1-Willemstad-Editor@@ssopt-highlight-no-box-shadow": false,
   "V1-Willemstad-Editor@@ssopt-typ-highlight-col-original": false,
   "V1-Willemstad-Editor@@checkbox-radius": "50rem",
-  "V1-Willemstad-Editor@@ssopt-block-width-tables": true,
-  "V1-Willemstad-Editor@@ssopt-block-width-bases": true,
+  "V1-Willemstad-Editor@@ssopt-block-width-tables": false,
+  "V1-Willemstad-Editor@@ssopt-block-width-bases": false,
   "V1-Willemstad-Ancillaries@@ssopt-callout-style": "0"
 }

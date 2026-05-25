@@ -5,6 +5,8 @@ created: 2024-10-23, 02:12
 modified: 2026-04-04, 18:34
 tags:
   - 🌲
+obsidian-note-status:
+  - digital-garden-workflow:map
 ---
 
 ## Playlists

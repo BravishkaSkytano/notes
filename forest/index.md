@@ -3,6 +3,8 @@ title: 🗺️ Maps
 created: 2026-04-01, 11:19
 modified: 2026-05-24, 21:25
 order: 5
+obsidian-note-status:
+  - digital-garden-workflow:map
 ---
 
 > [!Info]

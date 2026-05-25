@@ -8,6 +8,8 @@ tags:
   - century/11
   - 🌱
 image: img/banners/Bayeux Tapestry-1760317947129.webp
+obsidian-note-status:
+  - digital-garden-workflow:sprout
 ---
 
 The Bayeux Tapestry is a nearly 70-meter-long (230 feet) embroidered linen cloth created around 1070, depicting the events leading up to the Norman Conquest of England in 1066, culminating in the Battle of Hastings. Despite its name, it is not a true tapestry but an embroidery, made with wool thread on linen using stem and couching stitches in up to ten natural dyes.

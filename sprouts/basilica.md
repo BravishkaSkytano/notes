@@ -7,6 +7,8 @@ tags:
   - culture/Roman
   - course/ART101/W2
   - 🌱
+obsidian-note-status:
+  - digital-garden-workflow:sprout
 ---
 
 > [!summary]

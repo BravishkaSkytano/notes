@@ -1,13 +1,15 @@
 ---
 title: Édouard Manet
 created: 2025-11-16, 09:49
-modified: 2026-05-24, 21:53
+modified: 2026-05-24, 21:54
 tags:
   - person/painter
   - style/realism
   - style/impressionism
   - century/19th
   - country/france
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Édouard Manet

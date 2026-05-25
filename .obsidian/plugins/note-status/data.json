@@ -9,7 +9,7 @@
     "dropped": "var(--text-error)",
     "unknown": "var(--text-muted)"
   },
-  "showStatusBar": true,
+  "showStatusBar": false,
   "autoHideStatusBar": false,
   "enableStatusOverviewPopup": true,
   "templates": [

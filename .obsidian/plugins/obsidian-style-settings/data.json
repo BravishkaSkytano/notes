@@ -22,5 +22,12 @@
   "supercharged-links@@2cde-3544-before": "🌲",
   "supercharged-links@@2e9d-8098-before": "🍂",
   "supercharged-links@@3f03-0f8b-before": "🪷",
-  "supercharged-links@@3f03-0f8b-color": "#D26868"
+  "supercharged-links@@3f03-0f8b-color": "#D26868",
+  "V1-Willemstad-Root@@ssopt-hidden-scrollbars": false,
+  "V1-Willemstad-Typography@@bold-color-light": "var(--color-accent-1)",
+  "V1-Willemstad-Typography@@bold-color-dark": "var(--color-accent-1)",
+  "V1-Willemstad-Typography@@italic-color-light": "var(--color-accent-2)",
+  "V1-Willemstad-Typography@@italic-color-dark": "var(--color-accent-2)",
+  "V1-Willemstad-Typography@@undl-text-norm": "default",
+  "V1-Willemstad-Colours@@color-base-d-ch-presets": "ssopt-col-base-tone-d-catppuccin-frappe"
 }

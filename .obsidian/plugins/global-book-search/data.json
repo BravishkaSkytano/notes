@@ -1,8 +1,8 @@
 {
   "folder": "fruit/books",
   "fileNameFormat": "{{title}}-{{author}}",
-  "frontmatter": "---\ntitle: {{title}}\nauthor: {{author}}\ntranslator: {{translator}}\npages: \"{{totalPage}}\"\npublisher: {{publisher}}\ncategories: {{categories}}\nisbn10: \"{{isbn10}}\"\nisbn13: \"{{isbn13}}\"\npublished: {{publishDate}}\ncover: \"{{localCoverImage}}\"\nlink: {{link}}\ntags: {{tags}}\nread:\n---\n{{description}}",
-  "content": "\n## Table of Contents\n\n## Notes\n",
+  "frontmatter": "---\ntitle: {{title}}\nauthor: {{author}}\ntranslator: {{translator}}\npages: \"{{totalPage}}\"\npublisher: {{publisher}}\ncategories: {{categories}}\nisbn10: \"{{isbn10}}\"\nisbn13: \"{{isbn13}}\"\npublished: {{publishDate}}\ncover: \"{{localCoverImage}}\"\nlink: {{link}}\ntags: {{tags}}\nread:\n---\n",
+  "content": "{{description}}\n\n## Table of Contents\n\n## Notes\n",
   "useDefaultFrontmatter": false,
   "defaultFrontmatterKeyType": "Camel Case",
   "templateFile": "",

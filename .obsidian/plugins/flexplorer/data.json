@@ -172,6 +172,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-sonke-ahrens.md",
         "guild-hunter-2-archangels-kiss.md",
         "index.md",
         "throne-of-glass.md"
@@ -427,6 +428,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking — Sönke Ahrens.jpg",
         "aric-shadowbane.webp",
         "elara-drakenwood.webp",
         "arion-thorne.webp",
@@ -1588,6 +1590,14 @@
       "isHidden": false
     },
     "z-templates/book.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "img/covers/How to Take Smart Notes One Simple Technique to Boost Writing, Learning and Thinking — Sönke Ahrens.jpg": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "fruit/books/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-sonke-ahrens.md": {
       "isPinned": false,
       "isHidden": false
     }

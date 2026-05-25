@@ -1,4 +1,7 @@
 {
   "cssTheme": "Willemstad",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "note-card-view"
+  ]
 }

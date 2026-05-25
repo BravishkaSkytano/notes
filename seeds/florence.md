@@ -1,7 +1,7 @@
 ---
 title: Florence
 created: 2025-11-03, 00:04
-modified: 2026-05-24, 20:52
+modified: 2026-05-24, 21:08
 tags:
   - course/ART101
   - place/city-state
@@ -12,7 +12,7 @@ aliases:
   - Florentine
   - Florence, Italy
 obsidian-note-status:
-  - digital-garden-workflow:Seed
+  - digital-garden-workflow:seed
 ---
 
 > [!tldr] Florence

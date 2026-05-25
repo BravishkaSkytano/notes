@@ -30,9 +30,10 @@ views:
     name: Seeds
     filters:
       and:
-        - file.tags.contains("seed")
+        - note["obsidian-note-status"].contains("digital-garden-workflow:seed")
     order:
       - file.name
+      - title
       - tags
       - description
     sort: []
@@ -91,10 +92,10 @@ views:
       note.title: 215
       note.tags: 208
   - type: list
-    name: Forest
+    name: Maps
     filters:
       and:
-        - file.tags.contains("forest")
+        - note["obsidian-note-status"].contains("digital-garden-workflow:map")
     order:
       - file.name
       - tags

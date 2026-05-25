@@ -17,7 +17,9 @@
   "calibreServerUrl": "http://localhost:8080",
   "calibreLibraryId": "calibre",
   "warnOnDuplicate": true,
-  "searchHistory": [],
+  "searchHistory": [
+    "how to take smart notes"
+  ],
   "maxSearchHistory": 10,
   "enableSeriesLinking": true,
   "showTemplatePreview": true,

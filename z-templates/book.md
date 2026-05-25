@@ -1,8 +1,8 @@
 ---
 title: "{{title}}"
 subtitle: "{{subtitle}}"
-author: {{wikilist:authors}}
-category: [{{category}}]
+author:{{wikilist:authors}}
+categories:{{list:authors}}
 publisher: {{publisher}}
 publish: {{publishDate}}
 total: {{totalPage}}
@@ -20,3 +20,8 @@ obsidian-note-status:
 
 ## Description
 
+{{description}}
+
+## Table of Contents
+
+## Notes

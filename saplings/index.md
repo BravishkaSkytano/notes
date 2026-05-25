@@ -1,7 +1,7 @@
 ---
 title: 🪴 Saplings
 created: 2026-03-31, 16:04
-modified: 2026-04-04, 18:32
+modified: 2026-05-24, 21:22
 order: 3
 ---
 
@@ -15,3 +15,7 @@ order: 3
 > These form the foundation of my knowledge.
 
 ^a0e3a5
+
+![[dashboard.base#Saplings]]
+
+![[index#🌱 Garden Directory|Home]]

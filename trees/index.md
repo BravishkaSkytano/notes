@@ -1,7 +1,7 @@
 ---
-title: 🌴 Trees
+title: 🌲 Trees
 created: 2026-03-31, 16:09
-modified: 2026-04-04, 20:38
+modified: 2026-05-24, 21:24
 order: 4
 ---
 
@@ -15,3 +15,7 @@ order: 4
 > These are the strongest parts of the garden.
 
 ^f41bb6
+
+![[dashboard.base#Trees]]
+
+![[index#🌱 Garden Directory|Home]]

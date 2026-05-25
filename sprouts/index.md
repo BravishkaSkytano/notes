@@ -1,7 +1,7 @@
 ---
 title: 🌱 Sprouts
 created: 2026-03-31, 15:59
-modified: 2026-05-24, 21:19
+modified: 2026-05-24, 21:22
 order: 2
 obsidian-note-status:
   - digital-garden-workflow:map
@@ -19,3 +19,5 @@ obsidian-note-status:
 ^a47e8f
 
 ![[dashboard.base#Sprouts]]
+
+![[index#🌱 Garden Directory|Home]]

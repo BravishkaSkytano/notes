@@ -94,10 +94,78 @@ views:
       note.title: 215
       note.tags: 208
   - type: list
+    name: Trees
+    filters:
+      and:
+        - note["obsidian-note-status"].contains("digital-garden-workflow:tree")
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
+  - type: list
     name: Maps
     filters:
       and:
         - note["obsidian-note-status"].contains("digital-garden-workflow:map")
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
+  - type: list
+    name: Compost
+    filters:
+      and:
+        - note["obsidian-note-status"].contains("digital-garden-workflow:compost")
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
+  - type: list
+    name: Flowers
+    filters:
+      and:
+        - note["obsidian-note-status"].contains("digital-garden-workflow:flower")
+    order:
+      - file.name
+      - title
+      - tags
+      - description
+    sort: []
+    indentProperties: true
+    markers: bullet
+    columnSize:
+      file.name: 132
+      note.title: 215
+      note.tags: 208
+  - type: list
+    name: Fruits
+    filters:
+      and:
+        - note["obsidian-note-status"].contains("digital-garden-workflow:fruit")
     order:
       - file.name
       - title

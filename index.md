@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 created: 2026-02-13, 03:08
-modified: 2026-05-05, 12:03
+modified: 2026-05-24, 21:25
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 obsidian-note-status:
@@ -48,8 +48,8 @@ Ideas are planted, revisited, and grown all at their own pace.
 - [[seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
 - [[sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
 - [[saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
-- [[trees/index|🌴 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
-- [[forest/index|🌲 Forest]] -> Big picture; collections of ideas working together.
+- [[trees/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
+- [[forest/index|🗺️ Maps]] -> Big picture; collections of ideas working together.
 - [[compost/index|🍂 Compost]] -> Archived; old or unused notes.
 - [[flowers/index|🌸 Flowers]] -> Inspiration; unprocessed or lightly processed sources.
 - [[fruit/index|🍎 Fruit]] -> Usable resources; processed sources that I have engaged with and learned from.

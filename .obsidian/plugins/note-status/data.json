@@ -185,7 +185,7 @@
   "customStatuses": [],
   "showStatusIconsInExplorer": true,
   "hideUnknownStatusInExplorer": true,
-  "fileExplorerColorFileName": false,
+  "fileExplorerColorFileName": true,
   "fileExplorerColorBlock": false,
   "fileExplorerLeftBorder": true,
   "fileExplorerStatusDot": false,

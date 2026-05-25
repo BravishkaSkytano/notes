@@ -1,8 +1,10 @@
 ---
 title: 🍂 Compost
 created: 2026-04-01, 11:21
-modified: 2026-04-04, 17:45
+modified: 2026-05-24, 21:26
 order: 6
+obsidian-note-status:
+  - digital-garden-workflow:map
 ---
 
 > [!Info]
@@ -15,3 +17,7 @@ order: 6
 > Nothing is wasted. Everything contributes to growth.
 
 ^ee438d
+
+![[dashboard.base#Compost]]
+
+![[index#🌱 Garden Directory|Home]]

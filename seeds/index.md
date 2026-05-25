@@ -1,7 +1,7 @@
 ---
 title: 🌰 Seeds
 created: 2026-03-31, 15:53
-modified: 2026-05-24, 21:09
+modified: 2026-05-24, 21:22
 order: 1
 obsidian-note-status:
   - digital-garden-workflow:map
@@ -20,4 +20,5 @@ obsidian-note-status:
 ^6e75e1
 
 ![[dashboard.base#Seeds]]
+
 ![[index#🌱 Garden Directory|Home]]

@@ -1,7 +1,7 @@
 ---
-title: 🌲 Forest
+title: 🗺️ Maps
 created: 2026-04-01, 11:19
-modified: 2026-04-04, 17:45
+modified: 2026-05-24, 21:25
 order: 5
 ---
 
@@ -15,3 +15,7 @@ order: 5
 > This is where patterns emerge.
 
 ^f4a309
+
+![[dashboard.base#Maps]]
+
+![[index#🌱 Garden Directory|Home]]

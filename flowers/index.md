@@ -1,8 +1,10 @@
 ---
 title: 🌸 Flowers
 created: 2026-04-01, 11:32
-modified: 2026-04-03, 12:33
+modified: 2026-05-24, 21:26
 order: 7
+obsidian-note-status:
+  - digital-garden-workflow:map
 ---
 
 > [!Info]
@@ -18,3 +20,7 @@ order: 7
 > These often grow into [[seeds/index|🌰 Seeds]]
 
 ^e6d1dc
+
+![[dashboard.base#Flowers]]
+
+![[index#🌱 Garden Directory|Home]]

@@ -1,7 +1,7 @@
 ---
 title: 🍎 Fruit
 created: 2026-04-01, 11:37
-modified: 2026-05-19, 23:27
+modified: 2026-05-24, 21:29
 order: 8
 ---
 
@@ -22,6 +22,6 @@ order: 8
 
 ^262e68
 
-%%
-![[fruit-dashboard.base]]
-%%
+![[dashboard.base#Fruits]]
+
+![[index#🌱 Garden Directory|Home]]

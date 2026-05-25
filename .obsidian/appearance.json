@@ -1,8 +1,8 @@
 {
   "cssTheme": "Willemstad",
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "Ink Free",
   "enabledCssSnippets": [
     "note-card-view"
   ],
-  "textFontFamily": "Comic Sans MS"
+  "textFontFamily": "Ink Free"
 }

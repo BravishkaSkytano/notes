@@ -1,7 +1,7 @@
 ---
 title: "How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking"
 created: 2026-05-25, 14:00
-modified: 2026-05-25, 14:04
+modified: 2026-05-25, 14:19
 tags:
   - nonfiction
   - productivity
@@ -29,6 +29,16 @@ The key to good and efficient writing lies in the intelligent organization of id
 
 ## Table of Contents
 
-
+A. Introduction (pg. 1)
+	1. Everything You Need to Know (pg. 5)
+	2. Everything You Need to Do (pg. 20)
+	3. Everything You Need to Have (pg. 27)
+	4. A Few Things to Keep in Mind (pg. 31)
+B. The Four Underlying Principles (pg. 33)
+	5. Writing Is the Only Thing That Matters (pg. 33)
+	6. Simplicity Is Paramount (pg. 36)
+	7. Nobody Ever Starts From Scratch (pg. 45)
+	8. Let the Work Carry You Forward (pg. 49)
+1. 
 
 ## Notes

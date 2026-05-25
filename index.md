@@ -1,8 +1,8 @@
 ---
+created: 2026-02-13, 03:08
+modified: 2026-05-25, 14:27
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
-created: 2026-02-13, 03:08
-modified: 2026-05-24, 21:25
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 obsidian-note-status:

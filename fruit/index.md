@@ -1,7 +1,7 @@
 ---
-title: 🍎 Fruit
 created: 2026-04-01, 11:37
-modified: 2026-05-24, 21:29
+modified: 2026-05-25, 14:28
+title: 🍎 Fruit
 order: 8
 obsidian-note-status:
   - digital-garden-workflow:seed

@@ -206,7 +206,10 @@
   "strictStatuses": true,
   "quickStatusCommands": [
     "active",
-    "completed"
+    "completed",
+    "digital-garden-workflow:seed",
+    "creative-writing:idea",
+    "academic:research"
   ],
   "unknownStatusIcon": "❓",
   "unknownStatusLucideIcon": "question-mark-glyph",
@@ -236,5 +239,5 @@
   ],
   "enableNonMarkdownSync": false,
   "nonMarkdownSyncPath": "_note-status-data.json",
-  "defaultStatusForNewNotes": "digital-garden-workflow:Seed"
+  "defaultStatusForNewNotes": "digital-garden-workflow:seed"
 }

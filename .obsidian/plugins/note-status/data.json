@@ -397,7 +397,7 @@
   "useMultipleStatuses": true,
   "singleStatusStorageMode": "list",
   "statusBarShowTemplateName": "auto",
-  "tagPrefix": "status",
+  "tagPrefix": "obsidian-note-status",
   "strictStatuses": true,
   "quickStatusCommands": [
     "active",
@@ -417,7 +417,7 @@
   "editorToolbarButtonDisplay": "all-notes",
   "applyStatusRecursivelyToSubfolders": false,
   "statusFrontmatterMappings": [],
-  "writeMappedTagsToDefault": false,
+  "writeMappedTagsToDefault": true,
   "enableExternalStatusSync": false,
   "externalStatusSyncPath": "_note-status-sync.json",
   "syncGroups": [

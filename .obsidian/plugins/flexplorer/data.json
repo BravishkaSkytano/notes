@@ -3,7 +3,7 @@
     "/": {
       "isPinned": false,
       "isHidden": false,
-      "sortOrder": "custom",
+      "sortOrder": "byName",
       "customOrder": [
         "20240116143156.md",
         "dashboard.base",

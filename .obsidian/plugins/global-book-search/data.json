@@ -1,8 +1,8 @@
 {
-  "folder": "",
-  "fileNameFormat": "{{title}} - {{author}}",
-  "frontmatter": "---\nTitle: {{title}}\nOriginal title: {{originalTitle}}\nAuthor: {{author}}\nTranslator: {{translator}}\nPrologue: \"\"\nDescription: \"{{description}}\"\nTotal Pages: \"{{totalPage}}\"\nPublisher: {{publisher}}\nCategories: {{categories}}\nisbn 10: \"{{isbn10}}\"\nisbn 13: \"{{isbn13}}\"\nAsin: {{asin}}\nPublished: {{publishDate}}\nDate read:\nCover: \"{{localCoverImage}}\"\nLink: {{link}}\nTags: {{tags}}\nRead: false\n---",
-  "content": "",
+  "folder": "fruit/books",
+  "fileNameFormat": "{{title}}-{{author}}",
+  "frontmatter": "---\ntitle: {{title}}\nauthor: {{author}}\ntranslator: {{translator}}\npages: \"{{totalPage}}\"\npublisher: {{publisher}}\ncategories: {{categories}}\nisbn10: \"{{isbn10}}\"\nisbn13: \"{{isbn13}}\"\npublished: {{publishDate}}\ncover: \"{{localCoverImage}}\"\nlink: {{link}}\ntags: {{tags}}\nread:\n---\n{{description}}",
+  "content": "\n## Table of Contents\n\n## Notes\n",
   "useDefaultFrontmatter": false,
   "defaultFrontmatterKeyType": "Camel Case",
   "templateFile": "",
@@ -11,19 +11,20 @@
   "apiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
-  "enableCoverImageEdgeCurl": true,
-  "coverImagePath": "",
-  "askForLocale": true,
+  "enableCoverImageEdgeCurl": false,
+  "coverImagePath": "img/covers",
+  "askForLocale": false,
   "calibreServerUrl": "http://localhost:8080",
   "calibreLibraryId": "calibre",
   "warnOnDuplicate": true,
   "searchHistory": [
+    "9788197022272",
     "how to take smart notes"
   ],
   "maxSearchHistory": 10,
   "enableSeriesLinking": true,
   "showTemplatePreview": true,
-  "showIndividualServiceButtons": false,
+  "showIndividualServiceButtons": true,
   "authorTagPrefix": "",
   "titleTagPrefix": "",
   "diagnosticsEnabled": false,
@@ -48,45 +49,45 @@
       "openlibrary"
     ],
     "publisher": [
+      "storygraph",
+      "primary",
       "goodreads",
       "openlibrary",
-      "google",
-      "storygraph",
-      "primary"
+      "google"
     ],
     "publishDate": [
+      "storygraph",
       "goodreads",
       "openlibrary",
       "google",
-      "storygraph",
       "primary"
     ],
     "totalPage": [
-      "goodreads",
       "storygraph",
+      "goodreads",
       "google",
       "openlibrary",
       "primary"
     ],
     "categories": [
+      "storygraph",
       "goodreads",
       "openlibrary",
       "google",
-      "storygraph",
       "primary"
     ],
     "description": [
+      "storygraph",
       "goodreads",
       "google",
       "openlibrary",
-      "storygraph",
       "primary"
     ],
     "coverUrl": [
+      "storygraph",
       "goodreads",
       "google",
       "openlibrary",
-      "storygraph",
       "primary"
     ],
     "isbn13": [
@@ -104,9 +105,9 @@
       "storygraph"
     ],
     "originalTitle": [
+      "storygraph",
       "goodreads",
-      "primary",
-      "storygraph"
+      "primary"
     ],
     "translator": [
       "storygraph",

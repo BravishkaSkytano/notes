@@ -5,8 +5,6 @@
       "isHidden": false,
       "sortOrder": "byName",
       "customOrder": [
-        "how-to-take-smart-notes---sonke-ahrens.md",
-        "How to Take Smart Notes — Sönke Ahrens.jpg",
         "career-goals-essay.md",
         "dashboard.base",
         "compost",
@@ -1590,14 +1588,6 @@
       "isHidden": false
     },
     "z-templates/book.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "How to Take Smart Notes — Sönke Ahrens.jpg": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "how-to-take-smart-notes---sonke-ahrens.md": {
       "isPinned": false,
       "isHidden": false
     }

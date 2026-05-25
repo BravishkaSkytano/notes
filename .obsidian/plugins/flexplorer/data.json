@@ -1377,6 +1377,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "book.md",
         "architecture.md",
         "assignments.md",
         "concept.md",
@@ -1583,6 +1584,10 @@
       "isHidden": false
     },
     "career-goals-essay.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-templates/book.md": {
       "isPinned": false,
       "isHidden": false
     }

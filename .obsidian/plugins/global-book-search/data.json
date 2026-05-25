@@ -1,0 +1,121 @@
+{
+  "folder": "",
+  "fileNameFormat": "{{title}} - {{author}}",
+  "frontmatter": "---\nTitle: {{title}}\nOriginal title: {{originalTitle}}\nAuthor: {{author}}\nTranslator: {{translator}}\nPrologue: \"\"\nDescription: \"{{description}}\"\nTotal Pages: \"{{totalPage}}\"\nPublisher: {{publisher}}\nCategories: {{categories}}\nisbn 10: \"{{isbn10}}\"\nisbn 13: \"{{isbn13}}\"\nAsin: {{asin}}\nPublished: {{publishDate}}\nDate read:\nCover: \"{{localCoverImage}}\"\nLink: {{link}}\nTags: {{tags}}\nRead: false\n---",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "",
+  "serviceProvider": "storygraph",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": true,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "",
+  "askForLocale": true,
+  "calibreServerUrl": "http://localhost:8080",
+  "calibreLibraryId": "calibre",
+  "warnOnDuplicate": true,
+  "searchHistory": [],
+  "maxSearchHistory": 10,
+  "enableSeriesLinking": true,
+  "showTemplatePreview": true,
+  "showIndividualServiceButtons": false,
+  "authorTagPrefix": "",
+  "titleTagPrefix": "",
+  "diagnosticsEnabled": false,
+  "httpCacheEnabled": true,
+  "httpCacheTtlMinutes": 10,
+  "httpRateLimitMs": 400,
+  "httpMaxRetries": 2,
+  "httpRetryBaseDelayMs": 650,
+  "fieldSourcePreferences": {
+    "title": [
+      "primary",
+      "goodreads",
+      "storygraph",
+      "google",
+      "openlibrary"
+    ],
+    "author": [
+      "primary",
+      "goodreads",
+      "storygraph",
+      "google",
+      "openlibrary"
+    ],
+    "publisher": [
+      "goodreads",
+      "openlibrary",
+      "google",
+      "storygraph",
+      "primary"
+    ],
+    "publishDate": [
+      "goodreads",
+      "openlibrary",
+      "google",
+      "storygraph",
+      "primary"
+    ],
+    "totalPage": [
+      "goodreads",
+      "storygraph",
+      "google",
+      "openlibrary",
+      "primary"
+    ],
+    "categories": [
+      "goodreads",
+      "openlibrary",
+      "google",
+      "storygraph",
+      "primary"
+    ],
+    "description": [
+      "goodreads",
+      "google",
+      "openlibrary",
+      "storygraph",
+      "primary"
+    ],
+    "coverUrl": [
+      "goodreads",
+      "google",
+      "openlibrary",
+      "storygraph",
+      "primary"
+    ],
+    "isbn13": [
+      "primary",
+      "goodreads",
+      "google",
+      "openlibrary",
+      "storygraph"
+    ],
+    "isbn10": [
+      "primary",
+      "goodreads",
+      "google",
+      "openlibrary",
+      "storygraph"
+    ],
+    "originalTitle": [
+      "goodreads",
+      "primary",
+      "storygraph"
+    ],
+    "translator": [
+      "storygraph",
+      "goodreads",
+      "primary"
+    ],
+    "asin": [
+      "goodreads",
+      "primary"
+    ]
+  },
+  "coverImageMode": "local",
+  "coverImageFileExtension": "webp"
+}

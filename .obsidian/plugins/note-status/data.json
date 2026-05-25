@@ -300,6 +300,80 @@
         }
       ],
       "isPredefined": true
+    },
+    {
+      "id": "digital-garden-workflow",
+      "name": "Digital Garden Workflow",
+      "description": "Status workflow for a digital garden setup.",
+      "language": "English",
+      "type": "General",
+      "authorGithub": "bravishkaskytano",
+      "statuses": [
+        {
+          "name": "Seed",
+          "icon": "🌰",
+          "lucideIcon": "lucide-nut",
+          "color": "#f3ad61",
+          "templateId": "digital-garden-workflow",
+          "description": "Fleeting ideas; raw, unprocessed thoughts"
+        },
+        {
+          "name": "Sprout",
+          "icon": "🌱",
+          "lucideIcon": "lucide-sprout",
+          "color": "#86d72f",
+          "templateId": "digital-garden-workflow",
+          "description": "Early development; ideas that have begun to take shape"
+        },
+        {
+          "name": "Sapling",
+          "icon": "🌿",
+          "lucideIcon": "lucide-wheat",
+          "color": "#507e1f",
+          "templateId": "digital-garden-workflow",
+          "description": "Structured notes; clear, standalone ideas in my own words"
+        },
+        {
+          "name": "Tree",
+          "icon": "🌲",
+          "lucideIcon": "lucide-tree-pine",
+          "color": "#6d4534",
+          "templateId": "digital-garden-workflow",
+          "description": "Mature knowledge; deep, developed, and connected ideas"
+        },
+        {
+          "name": "Map",
+          "icon": "🗺️",
+          "lucideIcon": "lucide-map",
+          "color": "#00a6ed",
+          "templateId": "digital-garden-workflow",
+          "description": "Big picture; collections of ideas working together"
+        },
+        {
+          "name": "Compost",
+          "icon": "🍂",
+          "lucideIcon": "lucide-archive",
+          "color": "#f8312f",
+          "templateId": "digital-garden-workflow",
+          "description": "Archived; old or unused notes"
+        },
+        {
+          "name": "Flower",
+          "icon": "🌸",
+          "lucideIcon": "lucide-flower",
+          "color": "#ff6dc6",
+          "templateId": "digital-garden-workflow",
+          "description": "Inspiration; unprocessed or lightly processed sources"
+        },
+        {
+          "name": "Fruit",
+          "icon": "🍎",
+          "lucideIcon": "lucide-apple",
+          "color": "#8c42b2",
+          "templateId": "digital-garden-workflow",
+          "description": "Usable resources; processed sources that I have engaged with and learned from"
+        }
+      ]
     }
   ],
   "customStatuses": [],
@@ -307,7 +381,7 @@
   "hideUnknownStatusInExplorer": true,
   "fileExplorerColorFileName": false,
   "fileExplorerColorBlock": false,
-  "fileExplorerLeftBorder": false,
+  "fileExplorerLeftBorder": true,
   "fileExplorerStatusDot": false,
   "fileExplorerUnderlineFileName": false,
   "enableExperimentalFeatures": true,
@@ -316,20 +390,21 @@
   "enabledTemplates": [
     "academic",
     "colorful",
-    "creative-writing"
+    "creative-writing",
+    "digital-garden-workflow"
   ],
   "useCustomStatusesOnly": false,
   "useMultipleStatuses": true,
   "singleStatusStorageMode": "list",
   "statusBarShowTemplateName": "auto",
-  "tagPrefix": "obsidian-note-status",
-  "strictStatuses": false,
+  "tagPrefix": "status",
+  "strictStatuses": true,
   "quickStatusCommands": [
     "active",
     "completed"
   ],
   "unknownStatusIcon": "❓",
-  "unknownStatusLucideIcon": "",
+  "unknownStatusLucideIcon": "question-mark-glyph",
   "unknownStatusColor": "#8b949e",
   "statusBarNoStatusText": "No status",
   "statusBarShowNoStatusIcon": false,
@@ -356,5 +431,5 @@
   ],
   "enableNonMarkdownSync": false,
   "nonMarkdownSyncPath": "_note-status-data.json",
-  "defaultStatusForNewNotes": null
+  "defaultStatusForNewNotes": "digital-garden-workflow:Seed"
 }

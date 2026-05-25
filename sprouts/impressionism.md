@@ -1,20 +1,21 @@
 ---
 title: Impressionism
 created: 2025-11-16, 21:22
-modified: 2026-04-04, 21:22
+modified: 2026-05-24, 21:54
 tags:
   - course/ART101
   - movement
-  - 🌱
 aliases:
   - Impressionist
+obsidian-note-status:
+  - digital-garden-workflow:sprout
 ---
 
 > [!summary]
 > **Overview:** focused on capturing light, color, atmosphere, and fleeting moments, often painted outdoors.
 > **Period:** [[19th Century]]  
 > **Region:** [[France]]
-> **Key Artists:** [[20251116215811|Claude Monet]], [[Pierre-Auguste Renoir]], [[🌱 Édouard Manet]]
+> **Key Artists:** [[20251116215811|Claude Monet]], [[Pierre-Auguste Renoir]], [[edouard-manet|Édouard Manet]]
 
 ^tldr
 

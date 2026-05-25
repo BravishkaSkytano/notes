@@ -1,16 +1,17 @@
 ---
 title: Neoclassicism
 created: 2025-11-03, 00:32
-modified: 2026-04-04, 21:23
+modified: 2026-05-24, 21:51
 tags:
   - course/ART101/W5
   - movement/neoclassicism
   - century/18th
   - century/19th
   - country/europe
-  - 🌱
 aliases:
   - Neoclassical
+obsidian-note-status:
+  - digital-garden-workflow:sprout
 ---
 
 > [!tldr] Neoclassicism

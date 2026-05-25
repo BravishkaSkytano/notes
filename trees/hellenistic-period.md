@@ -1,7 +1,7 @@
 ---
 title: Hellenistic Period
 created: 2025-10-05, 23:56
-modified: 2026-04-04, 21:13
+modified: 2026-05-24, 21:45
 tags:
   - course/ART101/W1
   - period/Hellenistic
@@ -9,9 +9,10 @@ tags:
   - culture/African
   - culture/Asian
   - culture/Near-East
-  - 🌴
 aliases:
   - Hellenistic
+obsidian-note-status:
+  - digital-garden-workflow:tree
 ---
 
 > [!summary]

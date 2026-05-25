@@ -1,7 +1,7 @@
 ---
 title: Ionic capital
 created: 2025-10-06, 00:36
-modified: 2026-04-04, 21:19
+modified: 2026-05-24, 21:51
 tags:
   - course/ART101/W1
   - architecture/column
@@ -11,6 +11,8 @@ tags:
   - 🌱
 aliases:
   - Ionic
+obsidian-note-status:
+  - digital-garden-workflow:sprout
 ---
 
 > [!summary]

@@ -2,15 +2,16 @@
 title: The Last Supper
 description: Mural painting by Leonardo da Vinci; depicts Jesus with his disciples at the final meal.
 created: 2025-11-03, 12:53
-modified: 2026-04-04, 18:20
+modified: 2026-05-24, 21:49
 tags:
   - type/painting
   - type/mural
   - period/high-renaissance
   - century/15th
   - culture/Italian
-  - 🌱
 image: img/banners/The Last Supper-500x250.webp
+obsidian-note-status:
+  - digital-garden-workflow:sprout
 ---
 
 > [!summary]

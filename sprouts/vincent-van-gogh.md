@@ -2,14 +2,15 @@
 title: Vincent Van Gogh
 description: A Post-Impressionist painter known for expressive brushwork, vivid colors, and emotional intensity.
 created: 2025-11-16, 10:04
-modified: 2026-04-04, 20:33
+modified: 2026-05-24, 21:51
 tags:
   - person/painter
   - movement/post-impressionism
   - culture/dutch
-  - 🌱
 aliases:
   - Van Gogh
+obsidian-note-status:
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

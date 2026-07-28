@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Antique Flowers",
-  "interfaceFontFamily": "Ink Free",
+  "cssTheme": "",
+  "interfaceFontFamily": "",
   "enabledCssSnippets": [
     "note-card-view"
   ],
-  "textFontFamily": "Ink Free"
+  "textFontFamily": "",
+  "baseFontSize": 16
 }

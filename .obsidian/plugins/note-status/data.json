@@ -265,7 +265,7 @@
     "colorful"
   ],
   "useCustomStatusesOnly": false,
-  "useMultipleStatuses": true,
+  "useMultipleStatuses": false,
   "singleStatusStorageMode": "list",
   "statusBarShowTemplateName": "auto",
   "tagPrefix": "obsidian-note-status",
@@ -305,5 +305,5 @@
   ],
   "enableNonMarkdownSync": false,
   "nonMarkdownSyncPath": "_note-status-data.json",
-  "defaultStatusForNewNotes": "digital-garden-workflow:seed"
+  "defaultStatusForNewNotes": "colorful:idea"
 }

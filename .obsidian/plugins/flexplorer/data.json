@@ -5,6 +5,7 @@
       "isHidden": false,
       "sortOrder": "byName",
       "customOrder": [
+        "Callouts.md",
         "trees",
         "sprouts",
         "seeds",
@@ -1734,6 +1735,10 @@
       "isHidden": false
     },
     "trees/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Callouts.md": {
       "isPinned": false,
       "isHidden": false
     }

@@ -2,7 +2,6 @@
   "obsidian-style-settings",
   "note_uid_generator",
   "obsidian-git",
-  "pretty-properties",
   "image-converter",
   "insert-unsplash-image",
   "various-complements",
@@ -18,12 +17,11 @@
   "dataview",
   "auto-mover",
   "file-explorer-note-count",
-  "obsidian-front-matter-title-plugin",
-  "vault-file-renamer",
   "journals",
   "flexplorer",
   "note-status",
   "global-book-search",
   "obsidian-smart-typography",
-  "iconic"
+  "iconic",
+  "obsidian-plugin-update-tracker"
 ]

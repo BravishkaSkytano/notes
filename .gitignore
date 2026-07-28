@@ -36,4 +36,5 @@ Thumbs.db
 
 # Content files
 _trash/
-
+*.sync-conflict-*
+.stversions/

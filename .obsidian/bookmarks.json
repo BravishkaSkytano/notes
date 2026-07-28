@@ -9,25 +9,25 @@
     {
       "type": "file",
       "ctime": 1779677150983,
-      "path": "seeds/index.md",
+      "path": "z-archive/seeds/index.md",
       "title": "Seeds"
     },
     {
       "type": "file",
       "ctime": 1779677166911,
-      "path": "sprouts/index.md",
+      "path": "z-archive/sprouts/index.md",
       "title": "Sprouts"
     },
     {
       "type": "file",
       "ctime": 1779677180879,
-      "path": "saplings/index.md",
+      "path": "z-archive/saplings/index.md",
       "title": "Saplings"
     },
     {
       "type": "file",
       "ctime": 1779677193559,
-      "path": "trees/index.md",
+      "path": "z-archive/trees/index.md",
       "title": "Trees"
     },
     {
@@ -57,7 +57,7 @@
     {
       "type": "file",
       "ctime": 1779734344389,
-      "path": "fruit/books/how-to-take-smart-notes-sonke-ahrens.md"
+      "path": "Books/How to Take Smart Notes by Sonke Ahrens.md"
     }
   ]
 }

@@ -2,7 +2,8 @@
   "cssTheme": "Fancy-a-Story",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
-    "note-card-view"
+    "note-card-view",
+    "art_deco_fonts"
   ],
   "textFontFamily": "",
   "baseFontSize": 16

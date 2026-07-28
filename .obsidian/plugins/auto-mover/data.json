@@ -9,84 +9,7 @@
       "regex": "z-templates/"
     }
   ],
-  "tagRules": [
-    {
-      "regex": "🌰",
-      "folder": "seeds"
-    },
-    {
-      "regex": "🌱",
-      "folder": "sprouts"
-    },
-    {
-      "regex": "🪴",
-      "folder": "saplings"
-    },
-    {
-      "regex": "🌴",
-      "folder": "trees"
-    },
-    {
-      "regex": "🌲",
-      "folder": "forest"
-    },
-    {
-      "regex": "🍂",
-      "folder": "compost"
-    },
-    {
-      "regex": "🌸",
-      "folder": "flowers"
-    },
-    {
-      "regex": "🌹",
-      "folder": "flowers/quotes"
-    },
-    {
-      "regex": "🌼",
-      "folder": "flowers/excerpts"
-    },
-    {
-      "regex": "🌺",
-      "folder": "flowers/emotional"
-    },
-    {
-      "regex": "🌻",
-      "folder": "flowers/ideas"
-    },
-    {
-      "regex": "🪷",
-      "folder": "flowers/prose"
-    },
-    {
-      "regex": "🍎",
-      "folder": "fruit/books"
-    },
-    {
-      "regex": "🍊",
-      "folder": "fruit/articles"
-    },
-    {
-      "regex": "🍇",
-      "folder": "fruit/podcasts"
-    },
-    {
-      "regex": "🍓",
-      "folder": "fruit/videos"
-    },
-    {
-      "regex": "🍌",
-      "folder": "fruit/courses"
-    },
-    {
-      "regex": "🍑",
-      "folder": "fruit/crochet"
-    },
-    {
-      "regex": "🍉",
-      "folder": "fruit/knitting"
-    }
-  ],
+  "tagRules": [],
   "projectRules": [],
   "automaticMoving": true,
   "timer": 300000,
@@ -94,8 +17,8 @@
   "collapseSections": {
     "tutorial": true,
     "movingRules": true,
-    "exclusionRules": false,
-    "tagRules": false,
-    "projectRules": false
+    "exclusionRules": true,
+    "tagRules": true,
+    "projectRules": true
   }
 }

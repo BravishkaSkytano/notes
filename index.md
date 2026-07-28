@@ -1,6 +1,6 @@
 ---
 created: 2026-02-13, 03:08
-modified: 2026-05-25, 14:32
+modified: 2026-07-28, 16:58
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 cover: img/covers/logo.jpg
@@ -43,10 +43,10 @@ Ideas are planted, revisited, and grown all at their own pace.
 
 ## 🌱 Garden Directory
 
-- [[seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
-- [[sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
-- [[saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
-- [[trees/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
+- [[z-archive/seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
+- [[z-archive/sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
+- [[z-archive/saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
+- [[z-archive/trees/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
 - [[forest/index|🗺️ Maps]] -> Big picture; collections of ideas working together.
 - [[compost/index|🍂 Compost]] -> Archived; old or unused notes.
 - [[flowers/index|🌸 Flowers]] -> Inspiration; unprocessed or lightly processed sources.

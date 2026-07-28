@@ -1,7 +1,7 @@
 {
   "fileExplorerIconPosition": "absolute-right",
   "fileExplorerIconFrame": "never",
-  "fileExplorerIconColorMode": "status",
+  "fileExplorerIconColorMode": "theme",
   "statusColors": {
     "active": "var(--text-success)",
     "onHold": "var(--text-warning)",
@@ -180,12 +180,77 @@
           "description": "Usable resources; processed sources that I have engaged with and learned from"
         }
       ]
+    },
+    {
+      "id": "colorful",
+      "name": "Colorful workflow",
+      "description": "A colorful set of workflow statuses with descriptive icons",
+      "language": "English",
+      "type": "General",
+      "authorGithub": "soler1212",
+      "statuses": [
+        {
+          "name": "idea",
+          "icon": "💡",
+          "color": "#FFEB3B",
+          "templateId": "colorful"
+        },
+        {
+          "name": "draft",
+          "icon": "📝",
+          "color": "#E0E0E0",
+          "templateId": "colorful"
+        },
+        {
+          "name": "inProgress",
+          "icon": "🔧",
+          "color": "#FFC107",
+          "templateId": "colorful"
+        },
+        {
+          "name": "editing",
+          "icon": "🖊️",
+          "color": "#2196F3",
+          "templateId": "colorful"
+        },
+        {
+          "name": "pending",
+          "icon": "⏳",
+          "color": "#9C27B0",
+          "templateId": "colorful"
+        },
+        {
+          "name": "onHold",
+          "icon": "⏸",
+          "color": "#9E9E9E",
+          "templateId": "colorful"
+        },
+        {
+          "name": "needsUpdate",
+          "icon": "🔄",
+          "color": "#FF5722",
+          "templateId": "colorful"
+        },
+        {
+          "name": "completed",
+          "icon": "✅",
+          "color": "#4CAF50",
+          "templateId": "colorful"
+        },
+        {
+          "name": "archived",
+          "icon": "📦",
+          "color": "#795548",
+          "templateId": "colorful"
+        }
+      ],
+      "isPredefined": true
     }
   ],
   "customStatuses": [],
   "showStatusIconsInExplorer": true,
   "hideUnknownStatusInExplorer": true,
-  "fileExplorerColorFileName": true,
+  "fileExplorerColorFileName": false,
   "fileExplorerColorBlock": false,
   "fileExplorerLeftBorder": true,
   "fileExplorerStatusDot": false,
@@ -196,7 +261,8 @@
   "enabledTemplates": [
     "academic",
     "creative-writing",
-    "digital-garden-workflow"
+    "digital-garden-workflow",
+    "colorful"
   ],
   "useCustomStatusesOnly": false,
   "useMultipleStatuses": true,

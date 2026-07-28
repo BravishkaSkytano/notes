@@ -6,6 +6,7 @@ description: Welcome to my digital garden. A space for second brain notes, proje
 cover: img/covers/logo.jpg
 automatic-linker-exclude: true
 obsidian-note-status:
+  - colorful:idea
 cssclasses:
   - banner
 ---

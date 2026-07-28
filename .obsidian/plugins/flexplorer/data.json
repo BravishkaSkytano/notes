@@ -1032,6 +1032,7 @@
     "z-archive": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "writing",
         "weblinks",
@@ -1044,116 +1045,116 @@
         "journal",
         "classes",
         "books"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "z-archive/books": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/classes": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/journal": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "2024"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "z-archive/poetry": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/prose": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/seeds": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/saplings": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/sprouts": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/trees": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/weblinks": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "youtube-2",
         "crochet-2"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "z-archive/writing": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/journal/2024": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "03-march",
         "01-january"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "z-archive/weblinks/crochet-2": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/weblinks/youtube-2": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/journal/2024/01-january": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "z-archive/journal/2024/03-march": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [],
-      "sortOrder": "custom"
+      "sortOrder": "custom",
+      "customOrder": []
     },
     "seeds": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "johannes-kepler.md",
         "clerestory.md",
@@ -1183,8 +1184,7 @@
         "fauvism.md",
         "domus-church.md",
         "iconoclasm.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "seeds/iconoclasm.md": {
       "isPinned": false,
@@ -1245,45 +1245,45 @@
     "fruit": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "index.md",
         "fruit-dashboard.base",
         "videos",
         "books",
         "crochet"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "fruit/crochet": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "left-handed-crocheter---octopus-frenzy.md",
         "index.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "fruit/books": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "guild-hunter-2-archangels-kiss.md",
         "index.md",
         "throne-of-glass.md",
         "how-to-take-smart-notes-sonke-ahrens.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "fruit/videos": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "palia--ten-more-tricks-that-players-should-know-palia.md",
         "palia-2025-beginner-guide-better-ways-of-playing--tips-and-tricks.md",
         "index.md",
         "how-to-take-smart-notes-by-sonke-ahrens-core-message.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "fruit/fruit-dashboard.base": {
       "isPinned": false,
@@ -1316,25 +1316,26 @@
     "flowers": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "index.md",
         "quoteboard.base",
         "prose",
         "excerpts"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "flowers/excerpts": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "my-favorite-verses.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "flowers/prose": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "today.md",
         "happy-mothers-day-mom.md",
@@ -1346,8 +1347,7 @@
         "why-did-god-take-my-daddy-from-me.md",
         "quiet.md",
         "invisible-scars.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "flowers/prose/invisible-scars.md": {
       "isPinned": false,
@@ -1384,14 +1384,14 @@
     "saplings": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "a-sunday-on-la-grande-jatte.md",
         "arrangement-in-gray-and-black-no1.md",
         "the-rose-window-of-chartres-cathedral.md",
         "index.md",
         "new-zealand.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "saplings/new-zealand.md": {
       "isPinned": false,
@@ -1404,14 +1404,14 @@
     "trees": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "index.md",
         "hellenistic-period.md",
         "asia-minor.md",
         "art101-week1.md",
         "art101-week5.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "trees/art101-week5.md": {
       "isPinned": false,
@@ -1424,32 +1424,33 @@
     "journal": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "2024"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "journal/2024": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "01-january",
         "03-march"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "journal/2024/03-march": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "2026-03-06.md",
         "2026-03-24.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "journal/2024/01-january": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "2024-01-05.md",
         "2024-01-15.md",
@@ -1461,8 +1462,7 @@
         "2024-01-10.md",
         "2024-01-04.md",
         "2024-01-11.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "journal/2024/03-march/2026-03-24.md": {
       "isPinned": false,
@@ -1499,13 +1499,13 @@
     "forest": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "index.md",
         "apo391.md",
         "literary-devices.md",
         "art101.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "forest/art101.md": {
       "isPinned": false,
@@ -1514,6 +1514,7 @@
     "sprouts": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "basilica.md",
         "bayeux-tapestry.md",
@@ -1527,8 +1528,7 @@
         "impressionism.md",
         "index.md",
         "donatello.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "sprouts/donatello.md": {
       "isPinned": false,
@@ -1557,10 +1557,10 @@
     "compost": {
       "isPinned": false,
       "isHidden": false,
+      "sortOrder": "custom",
       "customOrder": [
         "index.md"
-      ],
-      "sortOrder": "custom"
+      ]
     },
     "saplings/the-rose-window-of-chartres-cathedral.md": {
       "isPinned": false,

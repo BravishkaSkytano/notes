@@ -55,5 +55,18 @@
   "V1-Willemstad-Editor@@ssopt-block-width-tables": false,
   "V1-Willemstad-Editor@@ssopt-block-width-bases": false,
   "V1-Willemstad-Ancillaries@@ssopt-callout-style": "0",
-  "fancy-a-story@@fas-adaptive-accent": true
+  "fancy-a-story@@fas-adaptive-accent": true,
+  "fancy-a-story@@theme-variant-dark": "fas-mystic",
+  "fancy-a-story@@fas-opposite-bg": true,
+  "fancy-a-story@@fas-sans-serif": false,
+  "fancy-a-story@@fas-bg-textures": true,
+  "fancy-a-story@@fas-background-image": false,
+  "fancy-a-story@@fas-bookmark-tabs": "flat",
+  "fancy-a-story@@fas-sidebar-texture-custom": false,
+  "fancy-a-story@@fas-note-background-image": false,
+  "fancy-a-story@@fas-callout-cite-alt": true,
+  "fancy-a-story@@fas-callout-infobox": true,
+  "fancy-a-story@@callout-default": "var(--color-purple-rgb)",
+  "fancy-a-story@@header-color": "fas-headings-accent",
+  "fancy-a-story@@fas-skin-select": "none"
 }

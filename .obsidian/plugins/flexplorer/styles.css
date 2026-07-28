@@ -5,12 +5,12 @@
     &[data-insert-pos="before"]:before, &[data-insert-pos="after"]:after {
       content: "";
       background: var(--color-accent);
-      width: 80%;
+      width: 90%;
       height: 1px;
       display: block;
       position: absolute;
-      left: 50%;
-      translate: -52% -1px;
+      left: 0;
+      translate: 12px -1px;
     }
 
     &.nav-folder[data-insert-pos="after"]:not(.is-collapsed):after {
@@ -31,9 +31,11 @@
       }
     }
 
-    body:not(:has([data-drop-sibling])) &[data-drop-folder] {
-      background-color: hsla(var(--interactive-accent-hsl), .1);
-      border-radius: var(--nav-item-radius);
+    &[data-drop-folder] {
+      body:not(:has([data-drop-sibling])) & {
+        background-color: hsla(var(--interactive-accent-hsl), .1);
+        border-radius: var(--radius-s);
+      }
 
       & > .nav-folder-title {
         color: var(--nav-item-color-highlighted);

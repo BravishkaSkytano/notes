@@ -9,6 +9,8 @@
   "serviceProvider": "storygraph",
   "localePreference": "default",
   "apiKey": "",
+  "hardcoverApiToken": "",
+  "librarythingApiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
   "enableCoverImageEdgeCurl": false,
@@ -120,5 +122,6 @@
     ]
   },
   "coverImageMode": "local",
-  "coverImageFileExtension": "webp"
+  "coverImageFileExtension": "webp",
+  "providerHistory": {}
 }

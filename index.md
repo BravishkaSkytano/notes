@@ -1,6 +1,6 @@
 ---
 created: 2026-02-13, 03:08
-modified: 2026-07-28, 16:58
+modified: 2026-07-28, 17:33
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 cover: img/covers/logo.jpg
@@ -8,6 +8,25 @@ automatic-linker-exclude: true
 obsidian-note-status:
   - digital-garden-workflow:map
 ---
+
+> [!fas-infobox]+
+> # Header 1
+>
+> ![[obsidian.png|cover]]
+>
+> ![[aurora.png|icon]]
+>
+> ## Header 2
+>
+> | Table Header | Table Header |
+> | ---- | --- |
+> | Text | Text |
+> | Text | Text |
+>
+> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et
+>
+> > [!footer]
+> > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
 
 This is not a library of conclusions.
 It’s an index of things I’m still working out.
@@ -43,10 +62,10 @@ Ideas are planted, revisited, and grown all at their own pace.
 
 ## 🌱 Garden Directory
 
-- [[z-archive/seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
-- [[z-archive/sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
-- [[z-archive/saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
-- [[z-archive/trees/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
+- [[seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
+- [[sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
+- [[saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
+- [[trees/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
 - [[forest/index|🗺️ Maps]] -> Big picture; collections of ideas working together.
 - [[compost/index|🍂 Compost]] -> Archived; old or unused notes.
 - [[flowers/index|🌸 Flowers]] -> Inspiration; unprocessed or lightly processed sources.

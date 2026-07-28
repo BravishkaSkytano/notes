@@ -25,6 +25,7 @@ link: https://www.goodreads.com/book/show/208647145
 status: reading
 obsidian-note-status:
   - digital-garden-workflow:sprout
+  - digital-garden-workflow:seed
 ---
 
 The key to good and efficient writing lies in the intelligent organization of ideas and notes. This book helps students, academics and nonfiction writers to get more done, write intelligent texts and learn for the long run. It teaches you how to take smart notes and ensure they bring you and your projects forward. The Take Smart Notes principle is based on established psychological insight and draws from a tried and tested note-taking-technique. This is the first comprehensive guide and description of this system in English, and not only does it explain how it works, but also why. It suits students and academics in the social sciences and humanities, nonfiction writers and others who are in the business of reading, thinking and writing.

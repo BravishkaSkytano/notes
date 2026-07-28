@@ -5,6 +5,7 @@ modified: 2026-05-24, 21:25
 order: 5
 obsidian-note-status:
   - digital-garden-workflow:map
+  - digital-garden-workflow:seed
 ---
 
 > [!Info]

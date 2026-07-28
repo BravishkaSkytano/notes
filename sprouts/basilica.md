@@ -8,6 +8,7 @@ tags:
   - course/ART101/W2
 obsidian-note-status:
   - digital-garden-workflow:sprout
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

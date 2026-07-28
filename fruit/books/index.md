@@ -5,6 +5,7 @@ title: 🍎 Books
 description:
 obsidian-note-status:
   - digital-garden-workflow:map
+  - digital-garden-workflow:seed
 ---
 
 %%

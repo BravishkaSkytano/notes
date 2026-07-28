@@ -11,6 +11,7 @@ tags:
 cover: img/covers/Donatello-500x529.webp
 obsidian-note-status:
   - digital-garden-workflow:sprout
+  - digital-garden-workflow:seed
 ---
 
 Donatello (c. 1386–1466) was an influential Italian [[Renaissance]] sculptor known for his innovative techniques and expressive works, including the first freestanding nude male sculpture since antiquity, his bronze *David*. He worked with various materials like stone, bronze, wood, and wax, and developed a distinctive "stiacciato" relief style.

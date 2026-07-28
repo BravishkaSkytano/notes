@@ -9,8 +9,6 @@ Thumbs.db
 !.obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-//.obsidian/appearance.json
-//.obsidian/app.json
 
 // 🧩 Optional: ignore plugin caches or transient data
 // Some plugins store device-specific cache or usage data in `data.json`.

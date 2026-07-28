@@ -13,6 +13,7 @@ aliases:
   - Ionic
 obsidian-note-status:
   - digital-garden-workflow:sprout
+  - digital-garden-workflow:seed
 ---
 
 > [!summary]

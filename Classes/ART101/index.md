@@ -21,6 +21,6 @@ obsidian-note-status:
 
 - [[Week 1 - Introduction]]
 - [[Week 2 - Ancient, Classic & Medieval Periods]]
-- [[ART101 W3]]
-- [[ART101 W4]]
+- [[Week 3 - Renaissance Period]]
+- [[Week 4 - Baroque Period]]
 - [[Week 5 - Enlightenment and Modern Period]]

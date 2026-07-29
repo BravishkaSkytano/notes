@@ -108,7 +108,7 @@
       "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false,
+      "enabled": true,
       "include-blank-line-between-footnotes": false
     },
     "re-index-footnotes": {
@@ -164,19 +164,19 @@
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false,
-      "line-break-indicator": "  "
+      "enabled": true,
+      "line-break-indicator": "\\"
     },
     "unordered-list-style": {
-      "enabled": false,
-      "list-style": "consistent"
+      "enabled": true,
+      "list-style": "-"
     },
     "compact-yaml": {
       "enabled": false,
@@ -219,7 +219,7 @@
       "enabled": false
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": false
+      "enabled": true
     },
     "remove-link-spacing": {
       "enabled": false
@@ -270,7 +270,7 @@
       "enabled": false
     },
     "remove-multiple-blank-lines-on-paste": {
-      "enabled": false
+      "enabled": true
     }
   },
   "lintOnSave": false,

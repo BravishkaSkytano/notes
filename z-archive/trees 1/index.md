@@ -1,7 +1,7 @@
 ---
-title: 🌲 Trees
 created: 2026-03-31, 16:09
-modified: 2026-05-24, 21:24
+modified: 2026-07-29, 00:39
+title: 🌲 Trees
 order: 4
 obsidian-note-status:
   - colorful:idea

@@ -1,13 +1,13 @@
 ---
 created: 2026-07-29, 00:26
-modified: 2026-07-29, 00:27
+modified: 2026-07-29, 00:29
 tags:
   - type/worksheet
 obsidian-note-status:
   - colorful:archived
 ---
 
-## Terms to define
+## Terms to Define
 
 - [[Byzantine]]
 - [[Romanesque]]
@@ -28,7 +28,7 @@ obsidian-note-status:
 - [[Tapestry]]
 - [[Apse]]
 
-## Specific arts to identify by sight
+## Specific Arts to Identify by Sight
 
 - [[Hagia Sophia]]
 - [[Pisa buildings]] (bell tower, baptistery, cathedral)

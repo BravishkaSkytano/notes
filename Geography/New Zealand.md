@@ -1,12 +1,10 @@
 ---
-title: New Zealand
 description: A short guide on travel ideas for New Zealand
 created: 2026-02-04, 11:36
 modified: 2026-04-04, 20:32
 tags:
   - movie-set
   - theme/scenic
-  - 🪴
 obsidian-note-status:
   - colorful:idea
 ---

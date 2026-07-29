@@ -1,6 +1,6 @@
 ---
 created: 2025-11-16, 10:18
-modified: 2026-07-29, 11:53
+modified: 2026-07-29, 12:04
 tags:
   - type/painting
   - medium/oil
@@ -9,21 +9,24 @@ tags:
   - theme/daily-life
   - style/realism
   - culture/american
-image: img/banners/Arrangement in Gray and Black No 1-960x854.webp
 aliases:
   - Whistler's Mother
   - Portrait of the Painter's Mother
 obsidian-note-status:
-  - colorful:idea
+  - colorful:draft
 ---
 
-> [!summary]
-> **Artist:** [[James McNeill Whistler]]
-> **Year:** [[1871]]
-> **Medium:** [[Oil on canvas]]
-> **Movement:** [[Realism]]
-> **Dimensions:** 144.3 cm × 162.4 cm (56.81 in × 63.94 in)
-> **Location:** Musée d'Orsay, Paris
+> [!fas-infobox|corners no-title]\
+> ![cover](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/960px-Whistlers_Mother_high_res.jpg)
+>
+> |  |  |
+> | ---- | --- |
+> | Artist | James McNeill Whistler |
+> | Year | [[1871]] |
+> | Medium | [[oil-on-canvas]] |
+> | Movement | Realism |
+> | Dimensions | 144.3 cm × 162.4 cm (56.81 in × 63.94 in) |
+> | Location | Musée d'Orsay, Paris |
 
 *Whistler's Mother (Arrangement in Grey and Black No. 1)* is a famous painting by James McNeill Whistler, created in 1871. It depicts Anna McNeill Whistler, the artist's mother, and is known for its muted palette and formal composition. The painting was originally titled *Arrangement in Grey and Black* but later acquired the nickname *Whistler's Mother* after the subject became more prominent in public perception.
 

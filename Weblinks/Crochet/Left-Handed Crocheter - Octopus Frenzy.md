@@ -1,6 +1,6 @@
 ---
 created: 2026-05-05, 12:06
-modified: 2026-07-28, 23:09
+modified: 2026-07-28, 23:12
 tags:
   - amigurumi
 cover: https://lefthandedcrocheter.com/wp-content/uploads/2016/08/img_5715.jpg
@@ -12,7 +12,7 @@ obsidian-note-status:
 > # Octopus Frenzy
 >
 > ![cover](https://lefthandedcrocheter.com/wp-content/uploads/2016/08/img_5715.jpg)
-> 
+>
 > - **Type:** #amigurumi
 > - **Skill Level:** #intermediate
 > - **Yarn Weight:** (DK, Worsted, etc.)

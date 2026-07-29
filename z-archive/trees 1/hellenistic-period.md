@@ -1,7 +1,7 @@
 ---
-title: Hellenistic Period
 created: 2025-10-05, 23:56
-modified: 2026-05-24, 21:45
+modified: 2026-07-28, 23:13
+title: Hellenistic Period
 tags:
   - course/ART101/W1
   - period/Hellenistic

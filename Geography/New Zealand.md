@@ -1,7 +1,7 @@
 ---
-description: A short guide on travel ideas for New Zealand
 created: 2026-02-04, 11:36
-modified: 2026-04-04, 20:32
+modified: 2026-07-29, 12:06
+description: A short guide on travel ideas for New Zealand
 tags:
   - movie-set
   - theme/scenic

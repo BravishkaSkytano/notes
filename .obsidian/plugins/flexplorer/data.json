@@ -5,6 +5,10 @@
       "isHidden": false,
       "sortOrder": "byName",
       "customOrder": [
+        "Books",
+        "Writings",
+        "Classes",
+        "Weblinks",
         "compost",
         "sprouts",
         "forest",
@@ -1034,6 +1038,12 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "saplings 1",
+        "fruit",
+        "sprouts 1",
+        "journal 1",
+        "seeds 1",
+        "trees 1",
         "writing",
         "weblinks",
         "trees",
@@ -1739,6 +1749,430 @@
       "isHidden": false
     },
     "trees/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/trees 1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "art101-week1.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/trees 1/art101-week1.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "index.md",
+        "iconoclasm.md",
+        "fauvism.md",
+        "expressionism.md",
+        "domus-church.md",
+        "doric-capital.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/seeds 1/doric-capital.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/domus-church.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/expressionism.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/fauvism.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/iconoclasm.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Weblinks": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Youtube"
+      ],
+      "sortOrder": "custom"
+    },
+    "Weblinks/Youtube": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Ravynia Gaming - Palia- Ten (More) Tricks That Players Should Know.md",
+        "Productivity Game - HOW TO TAKE SMART NOTES by Sönke Ahrens.md",
+        "Colie - Palia 2025 Beginner Guide.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Weblinks/Youtube/Colie - Palia 2025 Beginner Guide.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Weblinks/Youtube/Productivity Game - HOW TO TAKE SMART NOTES by Sönke Ahrens.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Weblinks/Youtube/Ravynia Gaming - Palia- Ten (More) Tricks That Players Should Know.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Classes": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "ART101 Visual and Performing Arts.md",
+        "APO391 Introduction to Islam.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Classes/APO391 Introduction to Islam.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Classes/ART101 Visual and Performing Arts.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2024"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/journal 1/2024": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "03-march",
+        "01-january"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/journal 1/2024/01-january": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2024-01-15.md",
+        "2024-01-11.md",
+        "2024-01-10.md",
+        "2024-01-09.md",
+        "2024-01-07.md",
+        "2024-01-08.md",
+        "2024-01-06.md",
+        "2024-01-05.md",
+        "2024-01-04.md",
+        "2024-01-02.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/journal 1/2024/03-march": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2026-03-24.md",
+        "2026-03-06.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-02.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-04.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-05.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-06.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-08.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-07.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-09.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-10.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-11.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/01-january/2024-01-15.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/03-march/2026-03-06.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/journal 1/2024/03-march/2026-03-24.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Why Did God Take My Daddy From Me.md",
+        "Poetry",
+        "Invisible Scars.md",
+        "Fear and Envy, What A Pair.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Writings/Fear and Envy, What A Pair.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Invisible Scars.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Today.md",
+        "Thinking, Thinking, Thinking.md",
+        "Quiet.md",
+        "The Endless Loop.md",
+        "I Hate Routines.md",
+        "Prayer is a Weapon.md",
+        "Happy Mother's Day, Mom.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Writings/Why Did God Take My Daddy From Me.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/Happy Mother's Day, Mom.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/Prayer is a Weapon.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/I Hate Routines.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/The Endless Loop.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/Quiet.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/Thinking, Thinking, Thinking.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Writings/Poetry/Today.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "vincent-van-gogh.md",
+        "the-last-supper.md",
+        "neoclassicism.md",
+        "ionic-capital.md",
+        "index.md",
+        "impressionism.md",
+        "cathedral-chartres.md",
+        "high-renaissance.md",
+        "edouard-manet.md",
+        "donatello.md",
+        "bayeux-tapestry.md",
+        "basilica.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/sprouts 1/basilica.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/bayeux-tapestry.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/donatello.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/edouard-manet.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/high-renaissance.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/cathedral-chartres.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/impressionism.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/ionic-capital.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/neoclassicism.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/the-last-supper.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/sprouts 1/vincent-van-gogh.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Books": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "How to Take Smart Notes by Sönke Ahrens.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Books/How to Take Smart Notes by Sönke Ahrens.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/fruit": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "index.md",
+        "videos",
+        "fruit-dashboard.base",
+        "crochet",
+        "books"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/fruit/books": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/fruit/crochet": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "left-handed-crocheter---octopus-frenzy.md",
+        "index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/fruit/fruit-dashboard.base": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/fruit/videos": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/fruit/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/fruit/crochet/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/fruit/books/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/fruit/crochet/left-handed-crocheter---octopus-frenzy.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/fruit/videos/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/saplings 1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "the-rose-window-of-chartres-cathedral.md",
+        "new-zealand.md",
+        "arrangement-in-gray-and-black-no1.md",
+        "index.md",
+        "a-sunday-on-la-grande-jatte.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "z-archive/saplings 1/a-sunday-on-la-grande-jatte.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/saplings 1/index.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/saplings 1/arrangement-in-gray-and-black-no1.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/saplings 1/new-zealand.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/saplings 1/the-rose-window-of-chartres-cathedral.md": {
       "isPinned": false,
       "isHidden": false
     }

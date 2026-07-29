@@ -4,7 +4,7 @@ modified: 2026-07-28, 16:11
 description: A collection of writing tips and tutorials.
 tags:
 obsidian-note-status:
-  - digital-garden-workflow:map
+  - colorful:editing
 ---
 
 ## Playlists

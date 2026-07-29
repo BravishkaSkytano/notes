@@ -1,9 +1,8 @@
 ---
 created: 2026-07-28, 17:41
-modified: 2026-07-28, 17:51
+modified: 2026-07-28, 19:12
 obsidian-note-status:
   - colorful:idea
-  - digital-garden-workflow:seed
 ---
 
 > [!fas-infobox]+

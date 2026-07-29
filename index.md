@@ -1,6 +1,6 @@
 ---
 created: 2026-02-13, 03:08
-modified: 2026-07-28, 17:54
+modified: 2026-07-28, 18:15
 title: Home
 description: Welcome to my digital garden. A space for second brain notes, projects, and ideas.
 cover: img/covers/logo.jpg
@@ -47,11 +47,11 @@ Ideas are planted, revisited, and grown all at their own pace.
 
 ## 🌱 Garden Directory
 
-- [[seeds/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
-- [[sprouts/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
-- [[saplings/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
-- [[trees/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
-- [[forest/index|🗺️ Maps]] -> Big picture; collections of ideas working together.
-- [[compost/index|🍂 Compost]] -> Archived; old or unused notes.
-- [[flowers/index|🌸 Flowers]] -> Inspiration; unprocessed or lightly processed sources.
-- [[fruit/index|🍎 Fruit]] -> Usable resources; processed sources that I have engaged with and learned from.
+- [[z-archive/seeds 1/index|🌰 Seeds]] -> Fleeting ideas; raw, unprocessed thoughts.
+- [[z-archive/sprouts 1/index|🌱 Sprouts]] -> Early development; ideas that have begun to take shape.
+- [[z-archive/saplings 1/index|🪴 Saplings]] -> Structured notes; clear, standalone ideas in my own words.
+- [[z-archive/trees 1/index|🌲 Trees]] -> Mature knowledge; deep, developed, and connected ideas.
+- [[z-archive/forest/index|🗺️ Maps]] -> Big picture; collections of ideas working together.
+- [[z-archive/compost/index|🍂 Compost]] -> Archived; old or unused notes.
+- [[z-archive/flowers/index|🌸 Flowers]] -> Inspiration; unprocessed or lightly processed sources.
+- [[z-archive/fruit/index|🍎 Fruit]] -> Usable resources; processed sources that I have engaged with and learned from.

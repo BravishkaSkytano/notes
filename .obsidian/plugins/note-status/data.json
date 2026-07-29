@@ -1,7 +1,7 @@
 {
   "fileExplorerIconPosition": "absolute-right",
   "fileExplorerIconFrame": "never",
-  "fileExplorerIconColorMode": "theme",
+  "fileExplorerIconColorMode": "status",
   "statusColors": {
     "active": "var(--text-success)",
     "onHold": "var(--text-warning)",
@@ -261,7 +261,6 @@
   "enabledTemplates": [
     "academic",
     "creative-writing",
-    "digital-garden-workflow",
     "colorful"
   ],
   "useCustomStatusesOnly": false,

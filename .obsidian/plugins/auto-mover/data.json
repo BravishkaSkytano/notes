@@ -15,8 +15,8 @@
   "timer": 300000,
   "debugLogging": false,
   "collapseSections": {
-    "tutorial": true,
-    "movingRules": true,
+    "tutorial": false,
+    "movingRules": false,
     "exclusionRules": true,
     "tagRules": true,
     "projectRules": true

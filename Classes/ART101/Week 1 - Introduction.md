@@ -1,11 +1,10 @@
 ---
 created: 2025-10-05, 23:35
-modified: 2026-07-29, 00:16
-title: "ART101: Week 1"
+modified: 2026-07-29, 00:20
 tags:
   - type/worksheet
 obsidian-note-status:
-  - colorful:idea
+  - colorful:archived
 ---
 
 ## Terms to Define
@@ -24,17 +23,15 @@ obsidian-note-status:
 - [[Kouros]]
 - [[Hieroglyphs]]
 - [[Obelisk]]
-@@
 
-! People to know
+## People to Know
 
 - [[Phidias]]
 - [[Polykleitos]]
 - [[Praxiteles]]
 
-! Specific arts to identify by sight
+## Specific Arts to Identify by Sight
 
-@@columns:2;
 - [[Winged Victory (Nike of Samothrace)]]
 - [[Parthenon]]
 - [[Pantheon]]
@@ -47,4 +44,3 @@ obsidian-note-status:
 - [[Arch of Constantine]]
 - [[Code of Hammurabi]]
 - [[Sennacharib Cylinder]]
-@@

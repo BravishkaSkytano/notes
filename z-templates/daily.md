@@ -5,7 +5,7 @@ tags:
 created:
   "{ current_date }":
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 ## 🎯 One Big Thing (Outcome)

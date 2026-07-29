@@ -21,7 +21,7 @@ tags:
 aliases:
   - Copernicus
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

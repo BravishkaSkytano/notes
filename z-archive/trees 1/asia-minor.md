@@ -8,8 +8,7 @@ tags:
 aliases:
   - Anatolia
 obsidian-note-status:
-  - digital-garden-workflow:tree
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

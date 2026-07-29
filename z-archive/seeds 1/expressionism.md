@@ -9,7 +9,7 @@ tags:
   - country/germany
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Expressionism

@@ -11,8 +11,7 @@ tags:
 aliases:
   - Neoclassical
 obsidian-note-status:
-  - digital-garden-workflow:sprout
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Neoclassicism

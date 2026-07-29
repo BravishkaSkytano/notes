@@ -11,8 +11,7 @@ tags:
   - culture/Italian
 image: img/banners/The Last Supper-500x250.webp
 obsidian-note-status:
-  - digital-garden-workflow:sprout
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

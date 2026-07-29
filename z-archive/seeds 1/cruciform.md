@@ -5,7 +5,7 @@ modified: 2026-04-04, 20:31
 tags:
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

@@ -7,7 +7,7 @@ tags:
   - movement
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Humanism

@@ -8,7 +8,7 @@ image: 00-09 System Management/05 Covers & Thumbnails/The Last Judgment relief s
 feature: "[[The Last Judgment relief sculpture by Gislebertus-1760308783744.webp]]"
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/5b58ec762a7605ea5abc56a7c603ec42_86cf658e.webp
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 ![[The Last Judgment relief sculpture by Gislebertus-1760308783744.webp|240x166]]

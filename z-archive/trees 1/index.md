@@ -4,8 +4,7 @@ created: 2026-03-31, 16:09
 modified: 2026-05-24, 21:24
 order: 4
 obsidian-note-status:
-  - digital-garden-workflow:map
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!Info]

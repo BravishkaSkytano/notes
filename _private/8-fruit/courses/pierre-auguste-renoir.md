@@ -10,7 +10,7 @@ tags:
   - century/19th
   - century/20th
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Pierre-Auguste Renoir

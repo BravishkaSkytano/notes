@@ -5,7 +5,7 @@ modified: 2025-11-05 10:07
 tags:
   - course/ART101
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Transfiguration of Christ

@@ -20,7 +20,7 @@ aliases:
   - Poison Study
   - Poison Study by Maria V Snyder
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 ![cover|150](http://books.google.com/books/content?id=2dpW0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)

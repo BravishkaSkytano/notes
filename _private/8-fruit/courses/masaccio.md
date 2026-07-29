@@ -9,7 +9,7 @@ feature: Projects/University/ART101/Projects/University/ART101/Masaccio-290x470/
 image: 00-09 System Management/05 Covers & Thumbnails/Masaccio-290x470.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/cfdc0e86f42cb8e0800868ae28e8baa8_86cf658e.webp
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Masaccio

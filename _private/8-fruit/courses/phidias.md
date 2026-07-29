@@ -7,7 +7,7 @@ tags:
   - person/sculptor
 needsUpdate: true
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

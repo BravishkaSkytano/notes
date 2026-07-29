@@ -12,7 +12,7 @@ date: 2025-10-12
 feature: z - Attachments/Hagia Sophia-1761596077883.webp
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/0639f7aebf8311970493f9e2fb60b268_86cf658e.webp
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 ![[Hagia Sophia-1761596077883.webp]]

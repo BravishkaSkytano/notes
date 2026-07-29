@@ -7,7 +7,7 @@ tags:
   - type/worksheet
 description: "Covers: Renaissance period: Painting, Sculpture and Architecture"
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 ## 📘 Terms to Define

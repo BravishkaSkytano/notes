@@ -18,7 +18,7 @@ aliases:
   - Just Listen
   - Just Listen by Sarah Dessen
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 *To find the truth you’ve got to be willing to hear it.*

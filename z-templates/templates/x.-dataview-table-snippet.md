@@ -1,6 +1,6 @@
 ---
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 <!-- Dataview table. Use as example and modify. -->

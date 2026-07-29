@@ -13,7 +13,7 @@ modified:
 template_type: Frontmatter
 template_version: "1.12"
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 <!--  See "Template Help" below for using properties -->

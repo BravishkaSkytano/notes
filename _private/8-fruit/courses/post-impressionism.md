@@ -11,7 +11,7 @@ tags:
 aliases:
   - Post-Impressionist
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Post-Impressionism

@@ -7,7 +7,7 @@ tags:
   - subject/science
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

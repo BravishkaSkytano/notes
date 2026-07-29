@@ -10,7 +10,7 @@ tags:
 aliases:
   - Van Gogh
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

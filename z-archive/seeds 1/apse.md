@@ -6,7 +6,7 @@ tags:
   - architecture
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

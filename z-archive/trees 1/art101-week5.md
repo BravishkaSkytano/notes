@@ -7,7 +7,7 @@ tags:
   - course/ART101
   - 🌴
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 ## Terms to Define

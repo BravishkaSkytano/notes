@@ -7,7 +7,7 @@ tags:
   - type/sculpture
 feature:
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Pietà

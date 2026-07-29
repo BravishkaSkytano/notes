@@ -5,6 +5,7 @@
       "isHidden": false,
       "sortOrder": "byName",
       "customOrder": [
+        "My Favorite Verses.md",
         "Books",
         "Writings",
         "Classes",
@@ -14,7 +15,6 @@
         "forest",
         "journal",
         "trees",
-        "saplings",
         "Callouts.md",
         "flowers",
         "fruit",
@@ -46,6 +46,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "logo.png",
         "banners",
         "covers"
       ]
@@ -1391,26 +1392,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "saplings": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "a-sunday-on-la-grande-jatte.md",
-        "arrangement-in-gray-and-black-no1.md",
-        "the-rose-window-of-chartres-cathedral.md",
-        "index.md",
-        "new-zealand.md"
-      ]
-    },
-    "saplings/new-zealand.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "saplings/index.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "trees": {
       "isPinned": false,
       "isHidden": false,
@@ -1444,17 +1425,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "01-january",
-        "03-march"
-      ]
-    },
-    "journal/2024/03-march": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "2026-03-06.md",
-        "2026-03-24.md"
+        "01-january"
       ]
     },
     "journal/2024/01-january": {
@@ -1473,10 +1444,6 @@
         "2024-01-04.md",
         "2024-01-11.md"
       ]
-    },
-    "journal/2024/03-march/2026-03-24.md": {
-      "isPinned": false,
-      "isHidden": false
     },
     "journal/2024/01-january/2024-01-11.md": {
       "isPinned": false,
@@ -1572,10 +1539,6 @@
         "index.md"
       ]
     },
-    "saplings/the-rose-window-of-chartres-cathedral.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "flowers/prose/i-hate-routines.md": {
       "isPinned": false,
       "isHidden": false
@@ -1617,10 +1580,6 @@
       "isHidden": false
     },
     "flowers/prose/today.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "saplings/arrangement-in-gray-and-black-no1.md": {
       "isPinned": false,
       "isHidden": false
     },
@@ -1680,10 +1639,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "saplings/a-sunday-on-la-grande-jatte.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "seeds/magical-systems-within-ilmaria.md": {
       "isPinned": false,
       "isHidden": false
@@ -1709,10 +1664,6 @@
       "isHidden": false
     },
     "fruit/books/guild-hunter-2-archangels-kiss.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "journal/2024/03-march/2026-03-06.md": {
       "isPinned": false,
       "isHidden": false
     },
@@ -1768,6 +1719,28 @@
       "isPinned": false,
       "isHidden": false,
       "customOrder": [
+        "scientific-revolution.md",
+        "oil-on-canvas.md",
+        "oath-of-the-horatii.md",
+        "notre-dame-de-paris.md",
+        "nicolaus-copernicus.md",
+        "magical-systems-within-ilmaria.md",
+        "maccabean-revolt.md",
+        "johannes-kepler.md",
+        "humanism.md",
+        "galileo-galilei.md",
+        "florence.md",
+        "etching-engraving.md",
+        "david-sculpture.md",
+        "cruciform.md",
+        "clerestory.md",
+        "classical.md",
+        "cathedral-of-florence.md",
+        "catacombs.md",
+        "byzantine-empire.md",
+        "battle-of-alexander-and-darius-on-the-issus.md",
+        "apse.md",
+        "adoration-of-the-trinity.md",
         "index.md",
         "iconoclasm.md",
         "fauvism.md",
@@ -2173,6 +2146,102 @@
       "isHidden": false
     },
     "z-archive/saplings 1/the-rose-window-of-chartres-cathedral.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "My Favorite Verses.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "img/logo.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/adoration-of-the-trinity.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/apse.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/battle-of-alexander-and-darius-on-the-issus.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/byzantine-empire.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/catacombs.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/cathedral-of-florence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/classical.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/clerestory.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/cruciform.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/david-sculpture.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/etching-engraving.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/florence.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/galileo-galilei.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/humanism.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/johannes-kepler.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/maccabean-revolt.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/magical-systems-within-ilmaria.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/nicolaus-copernicus.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/notre-dame-de-paris.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/oath-of-the-horatii.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/oil-on-canvas.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "z-archive/seeds 1/scientific-revolution.md": {
       "isPinned": false,
       "isHidden": false
     }

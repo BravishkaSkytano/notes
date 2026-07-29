@@ -9,7 +9,7 @@ image: 00-09 System Management/05 Covers & Thumbnails/Flying Buttress-1760315669
 feature: "[[Flying Buttress-1760315669597.webp]]"
 thumbnail: 00-09 System Management/05 Covers & Thumbnails/resized/dd1ec490e03f0953cdf04f4d770786a4_86cf658e.webp
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Flying Buttress

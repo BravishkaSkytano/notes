@@ -4,7 +4,7 @@ modified: 2026-05-25, 14:28
 title: 🍎 Fruit
 order: 8
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!Info]

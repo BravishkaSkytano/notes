@@ -6,7 +6,7 @@ tags:
   - course/ART101
 state: "[[Final]]"
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Nave

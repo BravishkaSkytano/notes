@@ -8,7 +8,7 @@ tags:
   - type/theory
   - type/literary-theory
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

@@ -7,7 +7,7 @@ tags:
   - style/classical
   - course/ART101/W1
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary] Archaic

@@ -8,7 +8,7 @@ tags:
   - world/ilmaria
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 - **Earth Magic** in the [[Crystalline Peaks]] allows for the manipulation of minerals and gemstones.

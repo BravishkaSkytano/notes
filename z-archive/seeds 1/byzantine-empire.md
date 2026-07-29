@@ -7,5 +7,5 @@ tags:
 aliases:
   - Eastern Roman Empire
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---

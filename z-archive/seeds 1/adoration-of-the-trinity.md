@@ -6,7 +6,7 @@ tags:
   - type/painting
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

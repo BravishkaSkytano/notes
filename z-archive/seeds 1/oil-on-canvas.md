@@ -6,7 +6,7 @@ tags:
   - course/ART101/W3
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

@@ -8,7 +8,7 @@ tags:
   - medium/bronze
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

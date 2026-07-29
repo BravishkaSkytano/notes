@@ -13,7 +13,7 @@ tags:
   - movement/scientific-revolution
   - 🌰
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

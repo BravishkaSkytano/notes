@@ -10,7 +10,7 @@ tags:
   - century/19th
   - person/painter
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Jacques-Louis David

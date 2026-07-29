@@ -14,7 +14,7 @@ aliases:
   - Galileo
   - Galileo di Vincenzo Bonaiuti de' Galilei
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

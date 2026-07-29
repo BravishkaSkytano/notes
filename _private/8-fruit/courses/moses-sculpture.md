@@ -7,7 +7,7 @@ tags:
   - medium/marble
 feature:
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Moses (sculpture)

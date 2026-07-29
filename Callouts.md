@@ -1,6 +1,6 @@
 ---
 created: 2026-07-28, 17:41
-modified: 2026-07-28, 19:12
+modified: 2026-07-28, 23:07
 obsidian-note-status:
   - colorful:idea
 ---
@@ -8,9 +8,9 @@ obsidian-note-status:
 > [!fas-infobox]+
 > # Header 1
 >
-> ![[obsidian.png|cover]]
+> ![[logo.png]]
 >
-> ![[aurora.png|icon]]
+> ![[logo.png|icon]]
 >
 > ## Header 2
 >

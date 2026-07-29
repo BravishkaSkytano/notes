@@ -6,5 +6,5 @@ date:
 created:
 modified:
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---

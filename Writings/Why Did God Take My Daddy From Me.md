@@ -6,7 +6,7 @@ tags:
   - loss
   - death
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"

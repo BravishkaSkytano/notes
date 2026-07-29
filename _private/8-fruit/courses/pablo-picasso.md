@@ -10,7 +10,7 @@ tags:
   - country/spain
   - century/20th
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Pablo Picasso

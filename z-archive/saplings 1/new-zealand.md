@@ -8,7 +8,7 @@ tags:
   - theme/scenic
   - 🪴
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 Hidden in one corner of the earth, lies a group of islands with skies so crisp and clear, air refreshingly clean and sweet, and horizons that are blissfully undisturbed. In the morning, the beautiful orange and pink waves of the sunset can be seen from anywhere. At night, the stars light up the sky in breathtaking shades of silver and blue. Here is where beauty, imagination, and adventure have all gracefully danced together for hundreds of years. Are you ready to be transported into another world? Welcome to Aotearoa New Zealand.

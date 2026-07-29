@@ -4,7 +4,7 @@ modified: 2026-05-24, 21:17
 tags:
   - type/essay
 obsidian-note-status:
-  - academic:published
+  - colorful:idea
 ---
 
 ## Introduction

@@ -9,7 +9,7 @@ tags:
   - century/20th
   - country/europe
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!tldr] Surrealism

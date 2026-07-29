@@ -9,7 +9,7 @@ tags:
 aliases:
 lead: A useful or valuable thing, person, or quality.
 obsidian-note-status:
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 <!-- Main content of my thoughts really -->

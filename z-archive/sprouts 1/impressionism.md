@@ -8,8 +8,7 @@ tags:
 aliases:
   - Impressionist
 obsidian-note-status:
-  - digital-garden-workflow:sprout
-  - digital-garden-workflow:seed
+  - colorful:idea
 ---
 
 > [!summary]

@@ -1,28 +1,26 @@
 ---
 created: 2025-11-17, 03:35
-modified: 2026-07-29, 11:50
+modified: 2026-07-29, 12:25
 description: Seurat’s pointillist park scene with figures in profile.
 tags:
   - type/painting
-  - medium/oil
-  - theme/nature
-image: img/banners/A Sunday on La Grande Jatte-960x639.webp
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
 obsidian-note-status:
-  - colorful:inProgress
+  - colorful:draft
 ---
 
-![[a-sunday-on-la-grande-jatte-960x639.webp]]
-
-> [!summary] Metadata
-> **Creator(s):** Georges Seurat\
-> **Year:** 1884–1886\
-> **Medium:** Oil on canvas\
-> **Genre:** Daily life\
-> **Themes:** Daily life, nature, emotion\
-> **Styles:** Post-Impressionism, Pointillism, Neo-Impressionism\
-> **Context:** Parisians at a park on the banks of the River Seine.
+> [!fas-infobox|corners no-title]
+> ![cover](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/960px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg)
+>
+> |  |  |
+> | ---- | --- |
+> | Artist | Georges Seurat |
+> | Year | [[1884]]–[[1886]] |
+> | Medium | [[oil-on-canvas]] |
+> | Styles | Post-Impressionism, Pointillism, Neo-Impressionism |
+>
+> Parisians at a park on the banks of the River Seine.
 
 ## Summary
 
@@ -31,13 +29,6 @@ A Sunday Afternoon on the Island of La Grande Jatte is Georges Seurat’s most f
 ## Key Ideas / Elements
 
 ## Personal Reflection
-
-## Related Concepts
-
-- [[post-impressionism]]
-- Pointillism
-- Neo-Impressionism
-- Oil on canvas
 
 ## Resources
 

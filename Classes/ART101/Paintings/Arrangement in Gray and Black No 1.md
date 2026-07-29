@@ -1,6 +1,6 @@
 ---
 created: 2025-11-16, 10:18
-modified: 2026-07-29, 12:04
+modified: 2026-07-29, 12:19
 tags:
   - type/painting
   - medium/oil
@@ -16,7 +16,7 @@ obsidian-note-status:
   - colorful:draft
 ---
 
-> [!fas-infobox|corners no-title]\
+> [!fas-infobox|corners no-title]
 > ![cover](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/960px-Whistlers_Mother_high_res.jpg)
 >
 > |  |  |

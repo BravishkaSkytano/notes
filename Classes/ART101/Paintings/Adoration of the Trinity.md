@@ -1,6 +1,6 @@
 ---
 created: 2025-11-05, 10:04
-modified: 2026-07-29, 12:27
+modified: 2026-07-29, 12:28
 tags:
   - type/painting
 obsidian-note-status:
@@ -8,7 +8,7 @@ obsidian-note-status:
 ---
 
 > [!fas-infobox|corners no-title]
-> ![cover]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/960px-Whistlers_Mother_high_res.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Albrecht_D%C3%BCrer_-_Adoration_of_the_Trinity_%28Landauer_Altar%29_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Adoration_of_the_Trinity_%28Landauer_Altar%29_-_Google_Art_Project.jpg))
+> ![cover](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Albrecht_D%C3%BCrer_-_Adoration_of_the_Trinity_%28Landauer_Altar%29_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Adoration_of_the_Trinity_%28Landauer_Altar%29_-_Google_Art_Project.jpg)
 >
 > |  |  |
 > | ---- | --- |

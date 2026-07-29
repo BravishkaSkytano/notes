@@ -1,9 +1,7 @@
 ---
 created: 2025-10-05, 23:56
-modified: 2026-07-28, 23:13
-title: Hellenistic Period
+modified: 2026-07-29, 00:46
 tags:
-  - course/ART101/W1
   - period/Hellenistic
   - culture/Mediterranean
   - culture/African
@@ -12,13 +10,13 @@ tags:
 aliases:
   - Hellenistic
 obsidian-note-status:
-  - colorful:idea
+  - colorful:editing
 ---
 
 > [!summary]
-> **Time Frame:** 323 BCE – 31 BCE
-> **Geographic Scope:** Eastern Mediterranean, North Africa, Near East, parts of Central and South Asia
-> **Preceded By:** [[classical]] Greek Period
+> **Time Frame:** 323 BCE – 31 BCE\
+> **Geographic Scope:** Eastern Mediterranean, North Africa, Near East, parts of Central and South Asia\
+> **Preceded By:** Classical Greek Period\
 > **Followed By:** Roman Imperial Period
 
 ## Overview

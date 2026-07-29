@@ -1,20 +1,18 @@
 ---
-title: Asia Minor
-description: A peninsula in West Asia that makes up the majority of Turkey.
 created: 2025-08-07, 03:17
-modified: 2026-05-24, 21:47
+modified: 2026-07-29, 00:44
+description: A peninsula in West Asia that makes up the majority of Turkey.
 tags:
   - geography/peninsula
 aliases:
   - Anatolia
 obsidian-note-status:
-  - colorful:idea
+  - colorful:completed
 ---
 
 > [!summary]
-> **Location Type:** Peninsula / Historical Region
-> **Region / Country:** Primarily modern-day Turkey
-> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[20260311100618|Christianity]]
+> **Region / Country:'** Primarily modern-day Turkey\
+> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[Christianity]]\
 > **Cultural Notes:** Blend of Anatolian, Greek, Persian, Roman, Byzantine, Seljuk, and Ottoman influences
 
 ## Overview
@@ -27,9 +25,9 @@ Geographically, it acts like a continental hinge, fastening Europe and Asia toge
 
 Anatolia has been inhabited since prehistoric times, with early civilizations such as the Hittite Empire establishing powerful states in the second millennium BCE.
 
-Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[hellenistic-period|Hellenistic]] world following the campaigns of Alexander the Great.
+Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic|Hellenistic Period]] world following the campaigns of Alexander the Great.
 
-Under the Roman Empire, Asia Minor flourished with cities such as [[20231019155644|Ephesus]] and [[Pergamon]] becoming major centers of trade, learning, and early [[20260311100618|Christianity]].
+Under the Roman Empire, Asia Minor flourished with cities such as [[Ephesus]] and [[Pergamon]] becoming major centers of trade, learning, and early [[Christianity]].
 
 After the division of Rome, Anatolia became the heartland of the [[Byzantine Empire]], with [[Constantinople]] serving as its capital.
 
@@ -46,7 +44,7 @@ Culturally, it preserves layers of history: Roman ruins stand near Ottoman mosqu
 ## Related Events / Periods
 
 - Bronze Age
-- [[hellenistic-period|Hellenistic Period]]
+- [[Hellenistic Period]]
 - Roman–Persian Wars
 - Byzantine–Seljuk Wars
 - Fall of Constantinople

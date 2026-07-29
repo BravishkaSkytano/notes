@@ -1,5 +1,4 @@
 ---
-title:
 description:
 date:
   "{ date }":

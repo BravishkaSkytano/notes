@@ -17,12 +17,10 @@ views:
       direction: ASC
     order:
       - file.name
-      - title
       - date
       - description
       - file.tags
       - created
-      - obsidian-note-status
     summaries:
       file.name: Filled
     indentProperties: true

@@ -1,10 +1,8 @@
 ---
-title: Apse
 created: 2025-10-12, 09:13
-modified: 2026-04-04, 20:24
+modified: 2026-07-31, 15:10
 tags:
   - architecture
-  - 🌰
 obsidian-note-status:
   - colorful:idea
 ---

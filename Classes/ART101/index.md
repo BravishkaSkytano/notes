@@ -8,7 +8,7 @@ tags:
 aliases:
   - ART101
 obsidian-note-status:
-  - colorful:archived
+  - colorful:idea
 ---
 
 ## Sources

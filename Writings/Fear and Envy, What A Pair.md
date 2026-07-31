@@ -6,7 +6,7 @@ tags:
   - theme/mental-health
   - short-story
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 “Mom is going out with a friend tonight, I think I’m gonna play Wakfu while she’s gone. Or, maybe I should start SWTOR instead. What do you think?”

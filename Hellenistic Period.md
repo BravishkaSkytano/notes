@@ -10,7 +10,7 @@ tags:
 aliases:
   - Hellenistic
 obsidian-note-status:
-  - colorful:editing
+  - colorful:idea
 ---
 
 > [!summary]

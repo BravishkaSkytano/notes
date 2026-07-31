@@ -8,7 +8,7 @@ tags:
   - reflection
   - 🪷
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 “Do you know what the worst type of abuse is?”

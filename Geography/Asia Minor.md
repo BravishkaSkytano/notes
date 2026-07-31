@@ -7,7 +7,7 @@ tags:
 aliases:
   - Anatolia
 obsidian-note-status:
-  - colorful:completed
+  - colorful:idea
 ---
 
 > [!summary]

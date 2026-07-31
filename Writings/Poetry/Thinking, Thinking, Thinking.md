@@ -4,7 +4,7 @@ modified: 2026-07-28, 18:50
 tags:
   - theme/depression
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 > [!poem|frame] Thinking, Thinking, Thinking…

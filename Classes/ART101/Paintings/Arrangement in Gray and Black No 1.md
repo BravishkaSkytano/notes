@@ -13,7 +13,7 @@ aliases:
   - Whistler's Mother
   - Portrait of the Painter's Mother
 obsidian-note-status:
-  - colorful:draft
+  - colorful:idea
 ---
 
 > [!fas-infobox|corners no-title]

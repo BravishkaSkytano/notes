@@ -4,7 +4,7 @@ modified: 2026-07-28, 18:44
 tags:
   - theme/prayer
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 > [!poem|frame] Prayer is a Weapon

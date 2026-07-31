@@ -4,7 +4,7 @@ modified: 2026-07-29, 00:26
 tags:
   - type/worksheet
 obsidian-note-status:
-  - colorful:archived
+  - colorful:idea
 ---
 
 ## Terms to Define

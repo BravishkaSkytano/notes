@@ -7,7 +7,7 @@ tags:
 aliases:
   - APO391
 obsidian-note-status:
-  - colorful:archived
+  - colorful:idea
 ---
 
 > [!summary]

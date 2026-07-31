@@ -3,7 +3,7 @@ created: 2020-05-05, 06:28
 modified: 2026-07-28, 18:27
 description: A poem I wrote for Mother’s Day.
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 > [!poem|frame] Happy Mother’s Day, Mom

@@ -7,7 +7,7 @@ tags:
   - poetry
   - 🪷
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 > [!poem|frame] The Endless Loop

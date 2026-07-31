@@ -15,7 +15,7 @@ cover: https://i.ytimg.com/vi/RwDk2QhAovg/maxresdefault.jpg
 published: 2025-11-27
 source: https://www.youtube.com/watch?v=RwDk2QhAovg
 obsidian-note-status:
-  - colorful:onHold
+  - colorful:idea
 ---
 
 ![](https://www.youtube.com/watch?v=RwDk2QhAovg)

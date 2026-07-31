@@ -23,7 +23,7 @@ published: 2022
 link: https://www.goodreads.com/book/show/208647145
 status: reading
 obsidian-note-status:
-  - colorful:inProgress
+  - colorful:idea
 ---
 
 > [!profile]+ Metadata

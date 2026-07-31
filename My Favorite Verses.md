@@ -4,7 +4,7 @@ modified: 2026-07-28, 18:17
 tags:
   - Bible
 obsidian-note-status:
-  - colorful:inProgress
+  - colorful:idea
 ---
 
 > [!quote] [[Galatians 3#3|Galatians 3:3]]

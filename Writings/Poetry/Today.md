@@ -3,7 +3,7 @@ created: 2020-05-02, 09:05
 modified: 2026-07-28, 18:24
 tags:
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 > [!poem|frame] Today

@@ -5,7 +5,7 @@ tags:
   - theme/depression
 automatic-linker-exclude: true
 obsidian-note-status:
-  - creative-writing:final-polish
+  - colorful:idea
 ---
 
 > [!poem|frame] Quiet

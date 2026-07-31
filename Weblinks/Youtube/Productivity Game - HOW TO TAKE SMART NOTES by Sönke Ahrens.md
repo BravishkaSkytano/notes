@@ -11,7 +11,7 @@ cover: https://i.ytimg.com/vi/JnS3g68zCXw/maxresdefault.jpg
 published: 2022-07-24
 source: https://www.youtube.com/watch?v=JnS3g68zCXw
 obsidian-note-status:
-  - colorful:needsUpdate
+  - colorful:idea
 ---
 
 ![](https://www.youtube.com/watch?v=JnS3g68zCXw)

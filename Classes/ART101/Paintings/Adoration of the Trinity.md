@@ -4,7 +4,7 @@ modified: 2026-07-29, 12:28
 tags:
   - type/painting
 obsidian-note-status:
-  - colorful:editing
+  - colorful:idea
 ---
 
 > [!fas-infobox|corners no-title]

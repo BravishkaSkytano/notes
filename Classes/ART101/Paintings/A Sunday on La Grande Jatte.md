@@ -7,7 +7,7 @@ tags:
 aliases:
   - A Sunday Afternoon on the Island of La Grande Jatte
 obsidian-note-status:
-  - colorful:draft
+  - colorful:idea
 ---
 
 > [!fas-infobox|corners no-title]

@@ -1,12 +1,9 @@
 ---
-title: Catacombs
 created: 2025-10-12, 07:35
-modified: 2026-04-04, 20:25
+modified: 2026-07-31, 15:32
 tags:
-  - architecture
-  - 🌰
 obsidian-note-status:
-  - colorful:idea
+  - colorful:draft
 ---
 
 > [!summary]

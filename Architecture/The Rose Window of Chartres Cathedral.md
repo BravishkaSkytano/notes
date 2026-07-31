@@ -1,6 +1,6 @@
 ---
 created: 2025-10-12, 18:49
-modified: 2026-07-29, 12:14
+modified: 2026-07-31, 15:40
 tags:
   - building/cathedral
   - subject/art
@@ -26,6 +26,7 @@ All three rose windows are integral to the cathedral’s architectural and litur
 ---
 
 Sources:
+- [[Classes/ART101/index|ART101]]
 - [North Rose Window by GOTHIC GLASS PAINTER, French](https://www.wga.hu/html_m/zgothic/stained/13c/04f_1200.html)
 - [Stained glass windows of Chartres Cathedral - Wikipedia](https://en.wikipedia.org/wiki/Stained_glass_windows_of_Chartres_Cathedral)
 - [STAINED GLASS – American Friends of Chartres](https://friendsofchartres.org/the-cathedral/art-architecture-history/art/stained-glass/)

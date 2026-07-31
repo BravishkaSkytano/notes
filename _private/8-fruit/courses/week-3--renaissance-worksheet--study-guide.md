@@ -16,7 +16,7 @@ obsidian-note-status:
 2. ![[Renaissance man#^fdd91a]]
 3. ![[iconoclasm#^9957df]]
 4. ![[humanism#^dca863]]
-5. ![[classical#^c1c548]]
+5. ![[Classical#^c1c548]]
 6. ![[🌰 Cruciform#^453e0d]]
 7. ![[Etching Engraving#^622f7a]]
 8. ![[tempera#^3aa4f0]]

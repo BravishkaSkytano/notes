@@ -18,7 +18,7 @@ obsidian-note-status:
 - [[Post-impressionism]]
 - [[Expressionism]]
 - [[Symbolism]]
-- [[Fauvism]]
+- [[fauvism]]
 - [[Art Deco]]
 - [[Surrealism]]
 

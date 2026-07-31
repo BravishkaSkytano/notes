@@ -1,16 +1,15 @@
 ---
 created: 2025-10-06, 00:33
-modified: 2026-04-04, 21:14
+modified: 2026-07-31, 15:51
 tags:
   - style/classical
   - architecture/column
   - culture/Greek
   - culture/Roman
-  - 🌰
 aliases:
   - Doric
 obsidian-note-status:
-  - colorful:idea
+  - colorful:draft
 ---
 
 > [!summary]

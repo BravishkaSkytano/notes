@@ -20,7 +20,7 @@ obsidian-note-status:
 6. ![[🌰 Cruciform#^453e0d]]
 7. ![[Etching Engraving#^622f7a]]
 8. ![[tempera#^3aa4f0]]
-9. ![[florence#^76a45a]]
+9. ![[Florence#^76a45a]]
 10. ![[Oil on canvas#^e500f6]]
 
 ## 🎨 People to Know

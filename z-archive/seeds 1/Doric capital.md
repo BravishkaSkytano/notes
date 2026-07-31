@@ -1,9 +1,7 @@
 ---
-title: Doric capital
 created: 2025-10-06, 00:33
 modified: 2026-04-04, 21:14
 tags:
-  - course/ART101/W1
   - style/classical
   - architecture/column
   - culture/Greek

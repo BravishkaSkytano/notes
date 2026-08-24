@@ -3,7 +3,7 @@ created: 2025-10-12, 07:35
 modified: 2026-07-31, 15:32
 tags:
 obsidian-note-status:
-  - colorful:draft
+  - colorful:idea
 ---
 
 > [!summary]

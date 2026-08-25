@@ -19,4 +19,5 @@ The block below is maintained by the ${widgets.commandButton("Configuration Mana
 -- managed-by: configuration-manager
 config.set("github.name", "BravishkaSkytano")
 config.set("github.email", "65601594+BravishkaSkytano@users.noreply.github.com")
+config.set("git.autoSync", 5)
 ```

@@ -1,0 +1,53 @@
+---
+title: Asia Minor
+description: A peninsula in West Asia that makes up the majority of Turkey.
+created: 2025-08-07, 03:17
+modified: 2026-05-24, 21:47
+tags:
+  - geography/peninsula
+aliases:
+  - Anatolia
+obsidian-note-status:
+  - digital-garden-workflow:tree
+  - digital-garden-workflow:seed
+---
+
+> [!summary]
+> **Location Type:** Peninsula / Historical Region
+> **Region / Country:** Primarily modern-day Turkey
+> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[20260311100618|Christianity]]
+> **Cultural Notes:** Blend of Anatolian, Greek, Persian, Roman, Byzantine, Seljuk, and Ottoman influences
+
+## Overview
+
+Asia Minor, also known as Anatolia, is a large peninsula in western Asia that forms the bulk of modern-day Turkey. It is bordered by the Black Sea to the north, the Aegean Sea to the west, and the Mediterranean Sea to the south.
+
+Geographically, it acts like a continental hinge, fastening Europe and Asia together. Mountain ranges, fertile river valleys, and long coastlines made it both defensible and desirable. For thousands of years, civilizations did not simply pass through Anatolia; they rooted themselves in it.
+
+## Historical Context
+
+Anatolia has been inhabited since prehistoric times, with early civilizations such as the Hittite Empire establishing powerful states in the second millennium BCE.
+
+Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[hellenistic-period|Hellenistic]] world following the campaigns of Alexander the Great.
+
+Under the Roman Empire, Asia Minor flourished with cities such as [[20231019155644|Ephesus]] and [[Pergamon]] becoming major centers of trade, learning, and early [[20260311100618|Christianity]].
+
+After the division of Rome, Anatolia became the heartland of the [[Byzantine Empire]], with [[Constantinople]] serving as its capital.
+
+In the medieval period, Turkish migrations reshaped the region, eventually leading to the rise of the Ottoman Empire, which would rule much of southeastern Europe and the Middle East for centuries.
+
+Asia Minor also plays a prominent role in the New Testament, as many of the early churches addressed in Revelation were located there.
+
+## Modern Relevance
+
+Today, Anatolia constitutes most of the territory of modern Turkey. It remains geopolitically significant due to its strategic position between Europe, the Middle East, and Central Asia.
+
+Culturally, it preserves layers of history: Roman ruins stand near Ottoman mosques; ancient trade routes inform modern infrastructure. Cities like Istanbul continue to embody the region’s long-standing role as a bridge between worlds.
+
+## Related Events / Periods
+
+- Bronze Age
+- [[hellenistic-period|Hellenistic Period]]
+- Roman–Persian Wars
+- Byzantine–Seljuk Wars
+- Fall of Constantinople

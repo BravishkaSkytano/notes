@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "060c19980e63270a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eceaf5bd44f9236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa85d4493bc15798",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Callouts.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Callouts"
+            }
+          },
+          {
+            "id": "4ab7a35f223e2c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5ce129761e07aec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f980ac48844b1e0a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "cf3f0bd145ffd3ff",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:theme/depression",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f484921a80a0b4db",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d601e462bab30f01",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "90c54fa1d3e3604d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9475ed47c8297411",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d2af37f4ce88ab9e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Books/How to Take Smart Notes by Sönke Ahrens.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c79cb6c77ea78665",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2cc7b7b24762fa0c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "index.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "bf2a5aec80c9a55e",
+        "type": "leaf",
+        "state": {
+          "type": "journal-calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "journal-calendar"
+        }
+      },
+      {
+        "id": "d9652c032c170b84",
+        "type": "leaf",
+        "state": {
+          "type": "journal-calendar",
+          "state": {},
+          "icon": "calendar-days",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
+      "wikipedia-search:Open Article": false,
+      "quickadd:QuickAdd": false,
+      "note-status:Open grouped status view": false,
+      "note-status:Open status dashboard": false,
+      "global-book-search:Create new book note": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false
+    }
+  },
+  "active": "4ab7a35f223e2c12",
+  "lastOpenFiles": [
+    "index.md",
+    "Books/How to Take Smart Notes by Sönke Ahrens.md",
+    "Books",
+    "Callouts.md",
+    "Weblinks/Youtube/Productivity Game - HOW TO TAKE SMART NOTES by Sönke Ahrens.md",
+    "z-archive/fruit/books/throne-of-glass.md",
+    "z-archive/fruit/books/guild-hunter-2-archangels-kiss.md",
+    "Weblinks/Youtube/Colie - Palia 2025 Beginner Guide.md",
+    "Weblinks/Youtube/Ravynia Gaming - Palia- Ten (More) Tricks That Players Should Know.md",
+    "Weblinks/Youtube",
+    "Weblinks",
+    "z-archive/fruit/fruit-dashboard.base",
+    "Classes/ART101 Visual and Performing Arts.md",
+    "Classes/APO391 Introduction to Islam.md",
+    "Classes",
+    "Writings/Invisible Scars.md",
+    "z-archive/forest/literary-devices.md",
+    "Writings/Poetry/Quiet.md",
+    "Writings/Why Did God Take My Daddy From Me.md",
+    "Writings/Poetry/Thinking, Thinking, Thinking.md",
+    "Writings/Fear and Envy, What A Pair.md",
+    "Writings/Poetry/Prayer is a Weapon.md",
+    "Writings/Poetry/The Endless Loop.md",
+    "Writings/Poetry/I Hate Routines.md",
+    "Writings/Poetry/Happy Mother's Day, Mom.md",
+    "Writings/Poetry/Today.md",
+    "Writings/Poetry",
+    "Writings",
+    "z-archive/flowers/excerpts/my-favorite-verses.md",
+    "z-archive/compost/index.md",
+    "Literary Devices.md",
+    "Career Goals Essay.md",
+    "img/logo.png",
+    "My Favorite Verses.md",
+    "z-archive/flowers/quoteboard.base",
+    "z-archive/compost",
+    "z-archive/sprouts 1"
+  ]
+}

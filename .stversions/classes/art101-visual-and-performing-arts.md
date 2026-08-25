@@ -1,0 +1,37 @@
+---
+created: 2026-02-18, 11:35
+modified: 2026-05-24, 22:50
+tags:
+  - subject/art
+aliases:
+  - ART101
+obsidian-note-status:
+  - digital-garden-workflow:tree
+  - digital-garden-workflow:seed
+---
+
+## Sources
+
+- The Annotated Mona Lisa
+
+## Homework
+
+### Week 1
+
+1. [[archaic]]
+2. [[classical|Classical]]
+3. [[hellenistic-period|Hellenistic Period]]
+4. [[Doric capital|Doric capital]]
+5. Ionic capital
+6. [[20251006003844|Corinthian Capital]]
+7. [[20251006004046|Frieze]]
+8. Roman triumphal arch
+9. Pediment
+10. Pyramid
+11. [[20251006005258|Ziggurat]]
+12. Kouros
+13. Hieroglyphs
+14. Obelisk
+15. Phidias
+16. Polykleitos
+17. Praxiteles

@@ -1,0 +1,24 @@
+---
+title: 🌲 Trees
+created: 2026-03-31, 16:09
+modified: 2026-05-24, 21:24
+order: 4
+obsidian-note-status:
+  - digital-garden-workflow:map
+  - digital-garden-workflow:seed
+---
+
+> [!Info]
+> Deep, developed, and connected ideas.
+>
+> - Synthesized insights  
+> - Personal frameworks  
+> - Heavily linked notes  
+> 
+> These are the strongest parts of the garden.
+
+^f41bb6
+
+![[dashboard.base#Trees]]
+
+![[index#🌱 Garden Directory|Home]]

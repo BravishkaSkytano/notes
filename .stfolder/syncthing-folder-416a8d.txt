@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: uthdy-nvton
-created: 2026-07-28T11:04:03-04:00

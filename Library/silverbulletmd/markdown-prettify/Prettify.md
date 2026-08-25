@@ -2,10 +2,12 @@
 name: Library/silverbulletmd/markdown-prettify/Prettify
 tags: meta/library
 files:
-- markdown-prettify.plug.js
-share.uri: "ghr:silverbulletmd/silverbullet-markdown-prettify/Prettify.md"
+  - markdown-prettify.plug.js
+share.uri: ghr:silverbulletmd/silverbullet-markdown-prettify/Prettify.md
 share.hash: 1e4d7096
 share.mode: pull
+obsidian-note-status:
+  - colorful:idea
 ---
 Adds a `Markdown: Prettify` command (default binding `Ctrl-Alt-p` / `Cmd-Alt-p`) that cleans up the current page (or selection) using an ordered pipeline of opinionated, ParseTree-based rules:
 

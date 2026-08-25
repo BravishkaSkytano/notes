@@ -1,9 +1,11 @@
 ---
-name: "Library/Mr-xRed/AdvancedPanelControl"
+name: Library/Mr-xRed/AdvancedPanelControl
 tags: meta/library
 files:
-- UnifiedAdvancedPanelControl.js
+  - UnifiedAdvancedPanelControl.js
 pageDecoration.prefix: "🛠️ "
+obsidian-note-status:
+  - colorful:idea
 ---
 
 # Advanced Panel Controls (LHS, RHS, BHS) 

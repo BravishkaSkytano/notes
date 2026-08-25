@@ -2,10 +2,12 @@
 name: Library/mrmugame/Silversearch
 tags: meta/library
 files:
-- silversearch.plug.js
-share.uri: "ghr:MrMugame/silversearch/PLUG.md"
+  - silversearch.plug.js
+share.uri: ghr:MrMugame/silversearch/PLUG.md
 share.hash: 70be48a7
 share.mode: pull
+obsidian-note-status:
+  - colorful:idea
 ---
 # Silversearch
 Silversearch is a plug for [Silverbullet](https://silverbullet.md/) implementing full-text search across your space, with the goal of maximum usability out of the box. It's *heavily* based on code from [Omnisearch](https://github.com/scambier/obsidian-omnisearch) (so give this guy a star not me) and as a consequence also uses [Minisearch](https://github.com/lucaong/minisearch) under the hood. When combined with other plugs it can not only search through your markdown files, but also search inside any document, like pdfs or images.

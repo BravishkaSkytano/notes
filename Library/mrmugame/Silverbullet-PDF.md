@@ -2,10 +2,12 @@
 name: Library/mrmugame/Silverbullet-PDF
 tags: meta/library
 files:
-- silverbullet-pdf.plug.js
-share.uri: "ghr:MrMugame/silverbullet-pdf/PLUG.md"
+  - silverbullet-pdf.plug.js
+share.uri: ghr:MrMugame/silverbullet-pdf/PLUG.md
 share.hash: 3498d9f9
 share.mode: pull
+obsidian-note-status:
+  - colorful:idea
 ---
 # Silverbullet PDF
 This plug adds the ability to [Silverbullet](https://github.com/silverbulletmd/silverbullet) to view and annotate pdfs using a slightly modified version of the [pdfjs](https://github.com/mozilla/pdf.js) viewer. If used with [Silversearch](https://github.com/MrMugame/silversearch), Silverbullet PDF can extract text content from PDFs to help you search through them.

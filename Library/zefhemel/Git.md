@@ -1,9 +1,11 @@
 ---
 name: Library/zefhemel/Git
 tags: meta/library
-share.uri: "https://github.com/zefhemel/silverbullet-libraries/blob/main/Git.md"
+share.uri: https://github.com/zefhemel/silverbullet-libraries/blob/main/Git.md
 share.hash: 8b51f35b
 share.mode: pull
+obsidian-note-status:
+  - colorful:idea
 ---
 This library adds a basic git synchronization functionality to SilverBullet. It should be considered a successor to [silverbullet-git](https://github.com/silverbulletmd/silverbullet-git) implemented in Space Lua.
 

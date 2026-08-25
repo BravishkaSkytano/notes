@@ -1,3 +1,7 @@
+---
+obsidian-note-status:
+  - colorful:idea
+---
 #meta
 
 This page holds configuration for your SilverBullet space. See [[^Library/Std/Config]] for all options and defaults.

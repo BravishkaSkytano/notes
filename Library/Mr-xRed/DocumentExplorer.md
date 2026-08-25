@@ -1,16 +1,18 @@
 ---
-name: "Library/Mr-xRed/DocumentExplorer"
+name: Library/Mr-xRed/DocumentExplorer
 tags: meta/library
 files:
-- AdvancedPanelControl.md
-- UnifiedAdvancedPanelControl.js
-- docex_styles.css
-- lucide-icons.svg
-- hybrid-cursor.svg
+  - AdvancedPanelControl.md
+  - UnifiedAdvancedPanelControl.js
+  - docex_styles.css
+  - lucide-icons.svg
+  - hybrid-cursor.svg
 pageDecoration.prefix: "🗂️ "
-share.uri: "https://github.com/Mr-xRed/silverbullet-libraries/blob/main/DocumentExplorer.md"
+share.uri: https://github.com/Mr-xRed/silverbullet-libraries/blob/main/DocumentExplorer.md
 share.hash: 62fa7b47
 share.mode: pull
+obsidian-note-status:
+  - colorful:idea
 ---
 
 # 🗂️ Document Explorer (Ver. 1.2.0)

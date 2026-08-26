@@ -1,11 +1,4 @@
----
-created: 2024-01-16, 02:31
-modified: 2026-05-24, 21:17
-tags:
-  - type/essay
-obsidian-note-status:
-  - colorful:idea
----
+#type/essay
 
 ## Introduction
 

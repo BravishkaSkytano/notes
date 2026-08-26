@@ -1,22 +1,30 @@
-This is not a library of conclusions.It’s an index of things I’m still working out.
+This is not a library of conclusions.
+It’s an index of things I’m still working out.
 
-Ideas live here in draft form.  
-Some are half-formed, some overgrown, some waiting patiently for their season.
+Ideas live here in draft form.
+Some are half-formed,
+Some overgrown,
+Some waiting patiently for their season.
 
-I collect them, link them, revisit them, and let them change me over time.
+I collect them,
+Link them,
+Revisit them,
+And let them change me over time.
 
-I don’t believe clarity arrives all at once.  
-It accumulates.  
+I don’t believe clarity arrives all at once.
+It accumulates.
 Slowly.
 
-Through attention, curiosity,  
+Through attention,
+Curiosity,
 And returning to the same thoughts with new eyes.
 
-This garden favors process over polish,  
-Learning over certainty,  
+This garden favors process over polish,
+Learning over certainty,
 And growth over completion.
 
-Nothing here is final. Everything is alive.
+Nothing here is final.
+Everything is alive.
 
 In progress, on purpose.
 

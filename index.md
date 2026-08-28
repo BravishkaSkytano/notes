@@ -1,4 +1,4 @@
-![[img/logo.png]]
+![](img/logo.png)
 
 This is not a library of conclusions.
 It’s an index of things I’m still working out.

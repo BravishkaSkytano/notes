@@ -1,18 +1,8 @@
----
-created: 2025-08-07, 03:17
-modified: 2026-07-29, 00:44
-description: A peninsula in West Asia that makes up the majority of Turkey.
-tags:
-  - geography/peninsula
-aliases:
-  - Anatolia
-obsidian-note-status:
-  - colorful:idea
----
+#geography/peninsula
 
-> [!summary]
-> **Region / Country:'** Primarily modern-day Turkey\
-> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[Christianity]]\
+> [!note]
+> **Region / Country:'** Primarily modern-day Turkey
+> **Historical Significance:** Crossroads of empires connecting Europe and Asia; central to Greek, Roman, Byzantine, and Ottoman history; major setting for early [[Christianity]]
 > **Cultural Notes:** Blend of Anatolian, Greek, Persian, Roman, Byzantine, Seljuk, and Ottoman influences
 
 ## Overview
@@ -25,7 +15,7 @@ Geographically, it acts like a continental hinge, fastening Europe and Asia toge
 
 Anatolia has been inhabited since prehistoric times, with early civilizations such as the Hittite Empire establishing powerful states in the second millennium BCE.
 
-Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic|Hellenistic Period]] world following the campaigns of Alexander the Great.
+Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic Period|Hellenistic]] world following the campaigns of Alexander the Great.
 
 Under the Roman Empire, Asia Minor flourished with cities such as [[Ephesus]] and [[Pergamon]] becoming major centers of trade, learning, and early [[Christianity]].
 

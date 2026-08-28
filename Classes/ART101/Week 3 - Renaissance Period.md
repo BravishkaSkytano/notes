@@ -14,7 +14,7 @@ obsidian-note-status:
 - [[Iconoclasm]]
 - [[Humanism]]
 - [[Classical]]
-- [[Cruciform]]
+- [[Classes/ART101/Cruciform]]
 - [[Etching/Engraving]]
 - [[Tempera]]
 - [[Florence]]
@@ -32,14 +32,14 @@ obsidian-note-status:
 
 ## Specific Arts to Identify by Sight
 
-- [[Florence Cathedral]]
+- [[Classes/ART101/Florence Cathedral]]
 - [[Last Supper]]
 - [[Mona Lisa]]
 - [[Pieta]]
 - [[David (Donatello and Michelangelo)]]
-- [[The Battle of Alexander at Issus]]
+- [[Classes/ART101/Battle of Alexander at Issus]]
 - [[Moses (artwork)]]
-- [[Adoration of the Trinity]]
+- [[Classes/ART101/Adoration of the Trinity]]
 - [[Transfiguration]]
 - [[St. Peter’s Cathedral]]
 - [[Sistine Chapel ceiling]]

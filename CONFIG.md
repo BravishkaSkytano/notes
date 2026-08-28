@@ -1,7 +1,3 @@
----
-obsidian-note-status:
-  - colorful:idea
----
 #meta
 
 This page holds configuration for your SilverBullet space. See [[^Library/Std/Config]] for all options and defaults.
@@ -21,6 +17,7 @@ The block below is maintained by the ${widgets.commandButton("Configuration Mana
 
 ```space-lua
 -- managed-by: configuration-manager
+config.set("git.autoSync", 5)
 config.set("github.name", "BravishkaSkytano")
 config.set("github.email", "65601594+BravishkaSkytano@users.noreply.github.com")
 config.set("std.widgets.toc.enabled", false)

@@ -1,13 +1,4 @@
----
-created: 2026-02-04, 11:36
-modified: 2026-07-29, 12:06
-description: A short guide on travel ideas for New Zealand
-tags:
-  - movie-set
-  - theme/scenic
-obsidian-note-status:
-  - colorful:idea
----
+#geography #movie-set #theme/scenic
 
 Hidden in one corner of the earth, lies a group of islands with skies so crisp and clear, air refreshingly clean and sweet, and horizons that are blissfully undisturbed. In the morning, the beautiful orange and pink waves of the sunset can be seen from anywhere. At night, the stars light up the sky in breathtaking shades of silver and blue. Here is where beauty, imagination, and adventure have all gracefully danced together for hundreds of years. Are you ready to be transported into another world? Welcome to Aotearoa New Zealand.
 

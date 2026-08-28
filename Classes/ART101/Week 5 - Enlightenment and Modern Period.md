@@ -16,7 +16,7 @@ obsidian-note-status:
 - [[Art Nouveau]]
 - [[Impressionism]]
 - [[Post-impressionism]]
-- [[Expressionism]]
+- [[Classes/ART101/Expressionism]]
 - [[Symbolism]]
 - [[fauvism]]
 - [[Art Deco]]

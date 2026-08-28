@@ -1,11 +1,4 @@
----
-created: 2024-03-18, 10:29
-modified: 2026-07-28, 18:17
-tags:
-  - Bible
-obsidian-note-status:
-  - colorful:idea
----
+#Bible
 
 > [!quote] [[Galatians 3#3|Galatians 3:3]]
 > <sup>**3** </sup>Are you so foolish? After starting in the Spirit, are you now finishing in the flesh?

@@ -1,18 +1,11 @@
----
-created: 2025-10-05, 23:35
-modified: 2026-07-29, 00:20
-tags:
-  - type/worksheet
-obsidian-note-status:
-  - colorful:idea
----
+#type/worksheet
 
 ## Terms to Define
 
 - [[Archaic]]
 - [[Classical]]
 - [[Hellenistic Period]]
-- [[Doric capital]]
+- [[Classes/ART101/Doric capital]]
 - [[Ionic capital]]
 - [[Corinthian Capital]]
 - [[Frieze]]

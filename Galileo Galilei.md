@@ -1,28 +1,13 @@
----
-created: 2026-02-04, 23:36
-modified: 2026-07-31, 16:01
-description: The father of observational astronomy, modern-era classical physics, the scientific method, and modern science
-tags:
-  - person/astronomer
-  - person/physicist
-  - person/engineer
-  - culture/Italian
-  - period/renaissance
-aliases:
-  - Galileo
-  - Galileo di Vincenzo Bonaiuti de' Galilei
-obsidian-note-status:
-  - colorful:idea
----
+#person/astronomer #person/physicist #person/engineer #culture/Italian #period/renaissance
 
-> [!profile]
-> ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-500px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg)
->
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-500px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg)
+
+> [!note]
 > **Born–Died:** 15 February 1564 – 8 January 1642
 > **Role / Profession:** astronomer, physicist, engineer; the father of observational astronomy, modern-era classical physics, the scientific method, and modern science.
 > **Nationality:** Italian
 > **Associated Movements:** [[Renaissance]]
-> **Key Works:** heliocentrism
+> **Key Works:** [[_private/science/-heliocentrism]]
 
 ## Overview
 

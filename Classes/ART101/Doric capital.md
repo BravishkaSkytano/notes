@@ -1,18 +1,6 @@
----
-created: 2025-10-06, 00:33
-modified: 2026-07-31, 15:51
-tags:
-  - style/classical
-  - architecture/column
-  - culture/Greek
-  - culture/Roman
-aliases:
-  - Doric
-obsidian-note-status:
-  - colorful:draft
----
+#style/classical #architecture/column #culture/Greek #culture/Roman
 
-> [!summary]
+> [!note]
 > *Noun*.
 >
 > 1. The simplest and oldest [[Classical]] column capital, originating from ancient Greek architecture.

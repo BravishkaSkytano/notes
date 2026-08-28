@@ -1,6 +1,6 @@
 #period/Hellenistic #culture/Mediterranean #culture/African #culture/Asian #culture/Near-East
 
-> [!NOTE]
+> [!NOTE] **Summary**
 > **Time Frame:** 323 BCE – 31 BCE\
 > **Geographic Scope:** Eastern Mediterranean, North Africa, Near East, parts of Central and South Asia\
 > **Preceded By:** Classical Greek Period\

@@ -14,7 +14,7 @@ obsidian-note-status:
 - [[Gothic]]
 - [[Domus Church]]
 - [[Martyrium]]
-- [[Catacombs]]
+- [[Classes/ART101/Catacombs]]
 - [[Fresco]]
 - [[Basilica]]
 - [[Mosaic]]
@@ -22,11 +22,11 @@ obsidian-note-status:
 - [[Nave]]
 - [[Flying Buttress]]
 - [[Ribbed Vault]]
-- [[Clerestory]]
+- [[Classes/ART101/Clerestory]]
 - [[Rose Window]]
 - [[Tracery]]
 - [[Tapestry]]
-- [[Apse]]
+- [[Classes/ART101/Apse]]
 
 ## Specific Arts to Identify by Sight
 

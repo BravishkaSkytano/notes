@@ -1,0 +1,5 @@
+#person/sculptor #culture/Italian
+
+Donatello (c. 1386–1466) was an influential Italian [[Renaissance]] sculptor known for his innovative techniques and expressive works, including the first freestanding nude male sculpture since antiquity, his bronze *David*. He worked with various materials like stone, bronze, wood, and wax, and developed a distinctive "stiacciato" relief style.
+
+Donatello's career spanned multiple cities, and he was closely associated with the Medici family, though he often struggled with managing his workshop and completing commissions on time. His legacy influenced later artists, including [[michelangelo|Michelangelo]], and his works remain significant in both art history and museum collections.

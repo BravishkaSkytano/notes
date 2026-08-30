@@ -6,7 +6,7 @@
 | ---- | --- |
 | Artist | Georges Seurat |
 | Year | [[1800s|1884]]–[[1800s|1886]] |
-| Medium | [[Oil on canvas]] |
+| Medium | [[Classes/ART101/Oil on canvas]] |
 | Styles | Post-Impressionism, Pointillism, Neo-Impressionism |
 
 ## Summary

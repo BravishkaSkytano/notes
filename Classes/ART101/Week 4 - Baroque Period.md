@@ -1,11 +1,4 @@
----
-created: 2026-07-29, 00:35
-modified: 2026-07-29, 00:36
-tags:
-  - type/worksheet
-obsidian-note-status:
-  - colorful:idea
----
+#type/worksheet
 
 ## Terms to Define
 

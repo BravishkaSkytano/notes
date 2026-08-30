@@ -1,13 +1,3 @@
----
-title: 📆 {{title}}
-tags:
-  - journal/daily
-created:
-  "{ current_date }":
-obsidian-note-status:
-  - colorful:idea
----
-
 ## 🎯 One Big Thing (Outcome)
 - 
 
@@ -34,20 +24,3 @@ obsidian-note-status:
 
 **🙏 Gratitude:**
 - 
-
----
-
-```journals-home
-show:
- - day
- - week
- - month
- - quarter
- - year
- - custom
-scale: 2
-separator: " | "
-```
-
-```journal-nav
-```

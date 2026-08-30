@@ -1,22 +1,15 @@
----
-created: 2026-07-29, 00:26
-modified: 2026-07-29, 00:29
-tags:
-  - type/worksheet
-obsidian-note-status:
-  - colorful:idea
----
+#type/worksheet
 
 ## Terms to Define
 
 - [[Byzantine]]
-- [[Romanesque]]
+- [[Classes/ART101/Romanesque]]
 - [[Gothic]]
 - [[Domus Church]]
 - [[Martyrium]]
 - [[Classes/ART101/Catacombs]]
 - [[Fresco]]
-- [[Basilica]]
+- [[Classes/ART101/Basilica]]
 - [[Mosaic]]
 - [[Vault]]
 - [[Nave]]
@@ -33,7 +26,7 @@ obsidian-note-status:
 - [[Hagia Sophia]]
 - [[Pisa buildings]] (bell tower, baptistery, cathedral)
 - [[Notre Dame]]
-- [[Chartres Cathedral]]
+- [[Classes/ART101/Chartres Cathedral]]
 - [[Cathedral of Reims]]
 - [[Sainte Chapelle]]
 - [[God as Architect]]

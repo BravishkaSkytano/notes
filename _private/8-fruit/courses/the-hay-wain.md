@@ -15,7 +15,7 @@ obsidian-note-status:
 > [!summary] The Hay Wain
 > ![[The Hay Wain-960x662.webp|Constable’s landscape with a wagon crossing a rural river|480x331]]
 > **Type:** [[Painting]]
-> **Medium:** [[Oil on canvas|Oil on canvas]]
+> **Medium:** [[Classes/ART101/Oil on canvas|Oil on canvas]]
 > **Genre:** [[Landscape]]
 > **Themes:** [[nature]], [[daily life]] 
 > **Artist:** [[John Constable]]  

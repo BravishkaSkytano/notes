@@ -3,18 +3,18 @@
 ## Terms to Define
 
 - [[Archaic]]
-- [[Classical]]
-- [[Hellenistic Period]]
+- [[Classes/ART101/Classical]]
+- [[Classes/ART101/Hellenistic Period]]
 - [[Classes/ART101/Doric capital]]
-- [[Ionic capital]]
-- [[Corinthian Capital]]
-- [[Frieze]]
+- [[Classes/ART101/Ionic capital]]
+- [[Classes/ART101/Corinthian capital]]
+- [[Classes/ART101/Frieze]]
 - [[Roman triumphal arch]]
 - [[Pediment]]
-- [[Pyramid]]
-- [[Ziggurat]]
-- [[Kouros]]
-- [[Hieroglyphs]]
+- [[Classes/ART101/Pyramid]]
+- [[Classes/ART101/Ziggurat]]
+- [[Classes/ART101/Kouros]]
+- [[Classes/ART101/Hieroglyphs]]
 - [[Obelisk]]
 
 ## People to Know

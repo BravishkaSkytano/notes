@@ -15,7 +15,7 @@ Geographically, it acts like a continental hinge, fastening Europe and Asia toge
 
 Anatolia has been inhabited since prehistoric times, with early civilizations such as the Hittite Empire establishing powerful states in the second millennium BCE.
 
-Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Hellenistic Period|Hellenistic]] world following the campaigns of Alexander the Great.
+Later, the region came under Persian control through the Achaemenid Empire, before being swept into the [[Classes/ART101/Hellenistic Period|Hellenistic]] world following the campaigns of Alexander the Great.
 
 Under the Roman Empire, Asia Minor flourished with cities such as [[Ephesus]] and [[Pergamon]] becoming major centers of trade, learning, and early [[Christianity]].
 
@@ -34,7 +34,7 @@ Culturally, it preserves layers of history: Roman ruins stand near Ottoman mosqu
 ## Related Events / Periods
 
 - Bronze Age
-- [[Hellenistic Period]]
+- [[Classes/ART101/Hellenistic Period]]
 - Roman–Persian Wars
 - Byzantine–Seljuk Wars
 - Fall of Constantinople

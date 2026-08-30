@@ -6,7 +6,7 @@
 | ---- | --- |
 | Artist | Albrecht Altdorfer |
 | Year | [[1500s|1529]] |
-| Medium | [[Oil on canvas]] |
+| Medium | [[Classes/ART101/Oil on canvas]] |
 | Style(s) | Realism |
 | Dimensions | 144.3 cm × 162.4 cm (56.81 in × 63.94 in) |
 | Location | Alte Pinakothek, Munich |

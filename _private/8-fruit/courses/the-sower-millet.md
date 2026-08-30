@@ -24,7 +24,7 @@ obsidian-note-status:
 > [!tldr] The Sower
 > ![[The Sower (Millet)-500x616.webp|Millet’s painting of a farmer striding across a field scattering seeds]]
 > **Type:** [[Painting]]  
-> **Medium:** [[Oil on canvas|Oil on canvas]]  
+> **Medium:** [[Classes/ART101/Oil on canvas|Oil on canvas]]  
 > **Genre:** [[daily life]], [[Landscape]]  
 > **Themes:** [[struggle]], [[daily life]], [[Nature]]
 > **Artist:** [[Jean-François Millet]]  

@@ -1,29 +1,22 @@
----
-created: 2026-07-29, 00:29
-modified: 2026-07-29, 00:35
-tags:
-  - type/worksheet
-obsidian-note-status:
-  - colorful:idea
----
+#type/worksheet
 
 ## Terms to Define
 
 - [[Renaissance]]
 - [[Renaissance man]]
-- [[Iconoclasm]]
-- [[Humanism]]
-- [[Classical]]
+- [[Classes/ART101/Iconoclasm]]
+- [[Classes/ART101/Humanism]]
+- [[Classes/ART101/Classical]]
 - [[Classes/ART101/Cruciform]]
-- [[Etching/Engraving]]
+- [[Classes/ART101/Etching or Engraving]]
 - [[Tempera]]
-- [[Florence]]
-- [[Oil on canvas]]
+- [[Classes/ART101/Florence]]
+- [[Classes/ART101/Oil on canvas]]
 
 ## People to Know
 
 - [[Masaccio]]
-- [[Donatello]]
+- [[Classes/ART101/Donatello]]
 - [[Botticelli]]
 - [[Michelangelo]]
 - [[Raphael]]
@@ -33,10 +26,10 @@ obsidian-note-status:
 ## Specific Arts to Identify by Sight
 
 - [[Classes/ART101/Florence Cathedral]]
-- [[Last Supper]]
+- [[Classes/ART101/The Last Supper]]
 - [[Mona Lisa]]
 - [[Pieta]]
-- [[David (Donatello and Michelangelo)]]
+- [[Classes/ART101/David (sculpture)]]
 - [[Classes/ART101/Battle of Alexander at Issus]]
 - [[Moses (artwork)]]
 - [[Classes/ART101/Adoration of the Trinity]]

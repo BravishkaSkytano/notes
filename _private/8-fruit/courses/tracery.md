@@ -14,4 +14,4 @@ obsidian-note-status:
 
 ^920185
 
-**Example:** The **tracery** in the **[[Rose Window|rose window]]s of [[Notre-Dame de Paris]]** in **Paris**.
+**Example:** The **tracery** in the **[[Rose Window|rose window]]s of [[Classes/ART101/Notre-Dame de Paris]]** in **Paris**.

@@ -1,13 +1,4 @@
----
-created: 2024-10-08, 09:05
-modified: 2026-04-04, 20:52
-tags:
-  - reflection
-  - theme/mental-health
-  - short-story
-obsidian-note-status:
-  - colorful:idea
----
+#reflection #theme/mental-health #short-story
 
 “Mom is going out with a friend tonight, I think I’m gonna play Wakfu while she’s gone. Or, maybe I should start SWTOR instead. What do you think?”
 

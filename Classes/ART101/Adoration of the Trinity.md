@@ -6,7 +6,7 @@
 | ---- | --- |
 | Artist | [[Albrecht Dürer]] |
 | Year | [[1500s|1509]]–[[1500s|1511]] |
-| Medium | [[Oil on canvas]] |
+| Medium | [[Classes/ART101/Oil on canvas]] |
 | Styles |  |
 | Location | Kunsthistorisches Museum, Vienna, Austria |
 

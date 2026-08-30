@@ -6,7 +6,7 @@
 | ---- | --- |
 | Artist | James McNeill Whistler |
 | Year | [[1800s|1871]] |
-| Medium | [[Oil on canvas]] |
+| Medium | [[Classes/ART101/Oil on canvas]] |
 | Movement | Realism |
 | Dimensions | 144.3 cm × 162.4 cm (56.81 in × 63.94 in) |
 | Location | Musée d'Orsay, Paris |

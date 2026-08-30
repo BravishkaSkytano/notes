@@ -1,13 +1,4 @@
----
-created: 2020-05-04, 11:12
-modified: 2026-07-28, 18:51
-description: A poem I wrote for a friend who lost her father.
-tags:
-  - loss
-  - death
-obsidian-note-status:
-  - colorful:idea
----
+#loss #death
 
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"
 

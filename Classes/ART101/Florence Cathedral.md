@@ -1,5 +1,0 @@
-#architecture #building/cathedral #style/gothic #period/renaissance
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/500px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg)
-
-The Florence Cathedral, also known as the Duomo di Firenze or Il Duomo, is a significant religious and architectural landmark in [[Classes/ART101/Florence|Florence, Italy]]. It was started in [[1200s|1296]] in the [[Gothic]] style and completed in [[1400s|1436]] with a groundbreaking dome designed by Filippo Brunelleschi, which remains the largest masonry dome in the world. The cathedral complex includes the Florence Baptistery and Giotto's Campanile, and together they form part of the UNESCO World Heritage Site covering [[Classes/ART101/Florence]]'s historic center. The cathedral's exterior features intricate polychrome marble panels, and its interior includes notable artworks and historical elements, making it a major tourist attraction and a symbol of [[Renaissance]] engineering and art.

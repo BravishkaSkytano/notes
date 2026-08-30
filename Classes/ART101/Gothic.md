@@ -1,20 +1,4 @@
----
-created: 2025-10-12, 18:44
-modified: 2026-07-31, 15:37
-title: Gothic
-tags:
-  - course/ART101/W2
-  - country/france
-  - century/12
-  - century/13th
-  - century/14th
-  - century/15th
-  - century/16th
-date: 2025-10-12
-needsUpdate: true
-obsidian-note-status:
-  - colorful:idea
----
+#century/12 #century/13th #century/14th #century/15th #century/16th
 
 An art and architectural style that developed in **Europe from the 12th to the 16th centuries**, following the [[Classes/ART101/Romanesque]] period. It’s known for **pointed arches**, **tall spires**, **flying buttresses**, and **large stained glass windows** that fill churches with colorful light. Gothic art focused on **religious stories**, **graceful figures**, and a sense of **height and lightness**.
 

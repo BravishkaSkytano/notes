@@ -8,7 +8,7 @@
 - [[Domus Church]]
 - [[Classes/ART101/Martyrium]]
 - [[Classes/ART101/Catacombs]]
-- [[Fresco]]
+- [[Classes/ART101/Fresco]]
 - [[Classes/ART101/Basilica]]
 - [[Mosaic]]
 - [[Vault]]

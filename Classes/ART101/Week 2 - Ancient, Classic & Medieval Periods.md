@@ -6,7 +6,7 @@
 - [[Classes/ART101/Romanesque]]
 - [[Classes/ART101/Gothic]]
 - [[Domus Church]]
-- [[Martyrium]]
+- [[Classes/ART101/Martyrium]]
 - [[Classes/ART101/Catacombs]]
 - [[Fresco]]
 - [[Classes/ART101/Basilica]]

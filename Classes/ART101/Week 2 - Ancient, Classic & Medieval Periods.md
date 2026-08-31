@@ -4,7 +4,7 @@
 
 - [[Byzantine]]
 - [[Classes/ART101/Romanesque]]
-- [[Gothic]]
+- [[Classes/ART101/Gothic]]
 - [[Domus Church]]
 - [[Martyrium]]
 - [[Classes/ART101/Catacombs]]
